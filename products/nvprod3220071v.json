@@ -1,0 +1,774 @@
+{
+  "model": [
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/MP3246/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod3220071v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/MP3246"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/MP3246/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod3220071v/MP3246/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ブラック",
+      "@type": "ProductModel",
+      "height": {
+        "@type": "QuantitativeValue",
+        "value": 23.5,
+        "unitText": "cm"
+      },
+      "name": "ボネ・LVアヘッド 1.1",
+      "mainMaterial2": "CASHMERE",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 64900
+        },
+        "@type": "Offer",
+        "price": "¥64,900"
+      },
+      "disambiguatingDescription": "パンチの効いた鮮やかな色調で再解釈された「ボネ･LVアヘッド 1.1」。カシミヤ100%の素材を使用し、全体をリブ編みで仕上げた冬の定番アイテムです。折り返しには、エナメルで描いたトーン･オン･トーンのLV イニシャルをエレガントにあしらいました。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ボネ・lvアヘッド-1-1-s00-メンズ-帽子＆手袋--MP3246_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ボネ・lvアヘッド-1-1-s00-メンズ-帽子＆手袋--MP3246_PM1_Worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Worn view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ボネ・lvアヘッド-1-1-s00-メンズ-帽子＆手袋--MP3246_PM1_Closeup view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Closeup view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ボネ・lvアヘッド-1-1-s00-メンズ-帽子＆手袋--MP3246_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/lv-ahead-beanie-s00-nvprod3220071v",
+      "material": "CASHMERE",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 25,
+        "unitText": "cm"
+      },
+      "highEndTemplate": false,
+      "productId": "nvprod3220071v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-ACC-93L_black_.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>ワンサイズ</li><li>素材：カシミヤ 100%</li><li>金具（色：ブラック）</li><li>リブ編みのニット</li><li>カフにエナメル仕上げのLVイニシャル</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories;Sunglasses"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-1cyoz77",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/accessories/_/N-1d0iakb",
+          "alternateName": "accessories",
+          "name": "アクセサリー",
+          "identifier": "m-category-cat10052"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/accessories/hats-and-gloves/_/N-16oxck6",
+          "alternateName": "hats-and-gloves",
+          "name": "メンズ 帽子＆手袋",
+          "identifier": "nvcat1690008v"
+        }
+      ],
+      "disclaimers": {
+        "value": "shipping_warning_bo",
+        "popInContent": "global_backorder_info_popin_content",
+        "popInTitle": "global_backorder_info_popin_title"
+      },
+      "color": "ノワール",
+      "@context": "http://schema.org",
+      "identifier": "MP3246"
+    },
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/MP3248/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod3220071v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/MP3248"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/MP3248/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod3220071v/MP3248/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "グレー",
+      "@type": "ProductModel",
+      "height": {
+        "@type": "QuantitativeValue",
+        "value": 23.5,
+        "unitText": "cm"
+      },
+      "name": "ボネ・LVアヘッド 1.1",
+      "mainMaterial2": "CASHMERE",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 64900
+        },
+        "@type": "Offer",
+        "price": "¥64,900"
+      },
+      "disambiguatingDescription": "パンチの効いた鮮やかな色調で再解釈された「ボネ･LVアヘッド 1.1」。カシミヤ100%の素材を使用し、全体をリブ編みで仕上げた冬の定番アイテムです。折り返しには、エナメルで描いたトーン･オン･トーンのLV イニシャルをエレガントにあしらいました。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ボネ・lvアヘッド-1-1-s00-メンズ-帽子＆手袋--MP3248_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ボネ・lvアヘッド-1-1-s00-メンズ-帽子＆手袋--MP3248_PM1_Worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Worn view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ボネ・lvアヘッド-1-1-s00-メンズ-帽子＆手袋--MP3248_PM1_Closeup view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Closeup view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ボネ・lvアヘッド-1-1-s00-メンズ-帽子＆手袋--MP3248_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/lv-ahead-beanie-s00-nvprod3220071v",
+      "material": "CASHMERE",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 25,
+        "unitText": "cm"
+      },
+      "highEndTemplate": false,
+      "productId": "nvprod3220071v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-LG-951_zzzgris.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>ワンサイズ</li><li>素材：カシミヤ 100%</li><li>金具（色：グレー）</li><li>リブ編みのニット</li><li>カフにエナメル仕上げのLVイニシャル</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories;Sunglasses"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-1cyoz77",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/accessories/_/N-1d0iakb",
+          "alternateName": "accessories",
+          "name": "アクセサリー",
+          "identifier": "m-category-cat10052"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/accessories/hats-and-gloves/_/N-16oxck6",
+          "alternateName": "hats-and-gloves",
+          "name": "メンズ 帽子＆手袋",
+          "identifier": "nvcat1690008v"
+        }
+      ],
+      "disclaimers": {
+        "value": "shipping_warning_bo",
+        "popInContent": "global_backorder_info_popin_content",
+        "popInTitle": "global_backorder_info_popin_title"
+      },
+      "color": "グリ",
+      "@context": "http://schema.org",
+      "identifier": "MP3248"
+    },
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/MP3251/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod3220071v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/MP3251"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/MP3251/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod3220071v/MP3251/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "イエロー",
+      "@type": "ProductModel",
+      "height": {
+        "@type": "QuantitativeValue",
+        "value": 23.5,
+        "unitText": "cm"
+      },
+      "name": "ボネ・LVアヘッド 1.1",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 64900
+        },
+        "@type": "Offer",
+        "price": "¥64,900"
+      },
+      "disambiguatingDescription": "パンチの効いた鮮やかな色調で再解釈された「ボネ･LVアヘッド 1.1」。カシミヤ100%の素材を使用し、全体をリブ編みで仕上げた冬の定番アイテムです。折り返しには、エナメルで描いたトーン･オン･トーンのLV イニシャルをエレガントにあしらいました。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ボネ・lvアヘッド-1-1-s00-メンズ-帽子＆手袋--MP3251_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ボネ・lvアヘッド-1-1-s00-メンズ-帽子＆手袋--MP3251_PM1_Worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Worn view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ボネ・lvアヘッド-1-1-s00-メンズ-帽子＆手袋--MP3251_PM1_Closeup view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Closeup view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ボネ・lvアヘッド-1-1-s00-メンズ-帽子＆手袋--MP3251_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/lv-ahead-beanie-s00-nvprod3220071v",
+      "material": "CASHMERE",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 25,
+        "unitText": "cm"
+      },
+      "highEndTemplate": false,
+      "productId": "nvprod3220071v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-ACC-9AP_yellow_.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>ワンサイズ</li><li>素材：カシミヤ 100%</li><li>金具（色：イエロー）</li><li>リブ編みのニット</li><li>カフにエナメル仕上げのLVイニシャル</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories;Sunglasses"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-1cyoz77",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/accessories/_/N-1d0iakb",
+          "alternateName": "accessories",
+          "name": "アクセサリー",
+          "identifier": "m-category-cat10052"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/accessories/hats-and-gloves/_/N-16oxck6",
+          "alternateName": "hats-and-gloves",
+          "name": "メンズ 帽子＆手袋",
+          "identifier": "nvcat1690008v"
+        }
+      ],
+      "disclaimers": {
+        "value": "pre_order_disclaimer",
+        "popInContent": "pre_order_disclaimer_info_popin_content",
+        "popInTitle": "pre_order_disclaimer_info_popin_title"
+      },
+      "color": "ジョーヌ",
+      "@context": "http://schema.org",
+      "identifier": "MP3251"
+    },
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/MP3249/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod3220071v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/MP3249"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/MP3249/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod3220071v/MP3249/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "レッド",
+      "@type": "ProductModel",
+      "height": {
+        "@type": "QuantitativeValue",
+        "value": 23.5,
+        "unitText": "cm"
+      },
+      "name": "ボネ・LVアヘッド 1.1",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 64900
+        },
+        "@type": "Offer",
+        "price": "¥64,900"
+      },
+      "disambiguatingDescription": "パンチの効いた鮮やかな色調で再解釈された「ボネ･LVアヘッド 1.1」。カシミヤ100%の素材を使用し、全体をリブ編みで仕上げた冬の定番アイテムです。折り返しには、エナメルで描いたトーン･オン･トーンのLV イニシャルをエレガントにあしらいました。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ボネ・lvアヘッド-1-1-s00-メンズ-帽子＆手袋--MP3249_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ボネ・lvアヘッド-1-1-s00-メンズ-帽子＆手袋--MP3249_PM1_Worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Worn view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ボネ・lvアヘッド-1-1-s00-メンズ-帽子＆手袋--MP3249_PM1_Closeup view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Closeup view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ボネ・lvアヘッド-1-1-s00-メンズ-帽子＆手袋--MP3249_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/lv-ahead-beanie-s00-nvprod3220071v",
+      "material": "CASHMERE",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 25,
+        "unitText": "cm"
+      },
+      "highEndTemplate": false,
+      "productId": "nvprod3220071v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-ACC-90A_red_nm.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>ワンサイズ</li><li>素材：カシミヤ 100%</li><li>金具（色：レッド）</li><li>リブ編みのニット</li><li>カフにエナメル仕上げのLVイニシャル</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories;Sunglasses"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-1cyoz77",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/accessories/_/N-1d0iakb",
+          "alternateName": "accessories",
+          "name": "アクセサリー",
+          "identifier": "m-category-cat10052"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/accessories/hats-and-gloves/_/N-16oxck6",
+          "alternateName": "hats-and-gloves",
+          "name": "メンズ 帽子＆手袋",
+          "identifier": "nvcat1690008v"
+        }
+      ],
+      "disclaimers": {
+        "value": "pre_order_disclaimer",
+        "popInContent": "pre_order_disclaimer_info_popin_content",
+        "popInTitle": "pre_order_disclaimer_info_popin_title"
+      },
+      "color": "ルージュ",
+      "@context": "http://schema.org",
+      "identifier": "MP3249"
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "/api/catalog/jpn-jp/product/nvprod3220071v"
+    },
+    "push": {
+      "href": "/api/catalog/jpn-jp/product-push/nvprod3220071v"
+    },
+    "care-link": {
+      "href": "/api/catalog/jpn-jp/care-link/nvprod3220071v"
+    },
+    "availability": {
+      "href": "/api/catalog/jpn-jp/availability/nvprod3220071v"
+    }
+  },
+  "@type": "Product",
+  "sku": "MP3246",
+  "isSimilarTo": [],
+  "productTips": [],
+  "url": "/jpn-jp/products/lv-ahead-beanie-s00-nvprod3220071v",
+  "material": "NOT APPLICABLE ACC",
+  "category": [
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/_/N-1cyoz77",
+      "alternateName": "men",
+      "name": "メンズ",
+      "identifier": "homme"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/accessories/_/N-1d0iakb",
+      "alternateName": "accessories",
+      "name": "アクセサリー",
+      "identifier": "m-category-cat10052"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/accessories/hats-and-gloves/_/N-16oxck6",
+      "alternateName": "hats-and-gloves",
+      "name": "メンズ 帽子＆手袋",
+      "identifier": "nvcat1690008v"
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "hidePrice",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "subType",
+      "value": "product"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "sizeGuide",
+      "value": false
+    }
+  ],
+  "name": "ボネ・LVアヘッド 1.1",
+  "isRelatedTo": [],
+  "@context": "http://schema.org",
+  "identifier": "nvprod3220071v"
+}

@@ -1,0 +1,558 @@
+{
+  "model": [
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/1A9N85/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod3350011v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/1A9N85"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/1A9N85/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod3350011v/1A9N85/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ブラック",
+      "@type": "ProductModel",
+      "name": "LVナイトデニムスリーブレスシークインドレス",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 649000
+        },
+        "@type": "Offer",
+        "price": "¥649,000"
+      },
+      "disambiguatingDescription": "大胆な煌めきが個性を放つ、洗練された印象のミニマルなストレートカットのドレス。プレーンなウール & シルクのクレープで仕立てたサイドのインサートが、フロントと背面の贅沢なスパンコールの刺繍とコントラストを描きます。モノグラム･モチーフをあしらったラムレザーのパッチと、メゾンのアイコニックなチェーンのディテールで、「LV ナイト」カプセル･コレクションならではのグラフィカルな雰囲気をエレガントに表現しました。<p>ご不明な点がございましたら、クライアントサービスまでお気軽にお問合せください。専任のクライアントアドバイザーが、素材やサイズなどの製品詳細、モデル着用イメージや関連アイテムのご案内など、お客様のご要望に合わせたスタイリング・アドバイスをご提供いたします。</p><p>また、サイズ違いなどによる返品・交換のご相談も承ります。詳細は<a href=\"https://jp.louisvuitton.com/jpn-jp/legal-privacy\"><b>こちら。</b></a></p>",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lvナイトデニムスリーブレスシークインドレス-プレタポルテ（洋服）--FMDB03KN4900_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lvナイトデニムスリーブレスシークインドレス-プレタポルテ（洋服）--FMDB03KN4900_PM1_Worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Worn view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lvナイトデニムスリーブレスシークインドレス-プレタポルテ（洋服）--FMDB03KN4900_PM1_Closeup view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Closeup view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/lv-night-sleeveless-sequin-dress-nvprod3350011v",
+      "highEndTemplate": false,
+      "sizeDisplayName": "34",
+      "productId": "nvprod3350011v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-RTW-900_noir.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>長さ：85cm</li><li>表地：シルク 100%</li><li>その他：シルク 47%、ウール 40%、ナイロン 13%</li><li>裏地：シルク 100%</li><li>レギュラーフィット</li><li>イタリア製</li><li>家庭での洗濯禁止</li><li>塩素系および酸素系漂白剤の使用禁止</li><li>タンブル乾燥禁止</li><li>底面温度110℃を限度としてスチームなしでアイロン仕上げ可</li><li>石油系溶剤による弱いドライクリーニング可</li><li>REF：FMDB03KN4</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z05"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Ready_To_Wear_Women"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/_/N-1q5sgib",
+          "alternateName": "women",
+          "name": "ウィメンズ",
+          "identifier": "femme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/ready-to-wear/_/N-1nzqmbe",
+          "alternateName": "ready-to-wear",
+          "name": "プレタポルテ（洋服）",
+          "identifier": "w-readytowear"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/ready-to-wear/dresses/_/N-17itnk1",
+          "alternateName": "dresses",
+          "name": "ウィメンズ ドレス",
+          "identifier": "w-dresses"
+        }
+      ],
+      "disclaimers": {
+        "value": "shipping_warning_bo",
+        "popInContent": "global_backorder_info_popin_content",
+        "popInTitle": "global_backorder_info_popin_title"
+      },
+      "color": "ノワール",
+      "@context": "http://schema.org",
+      "identifier": "1A9N85"
+    },
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/1A9N86/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod3350011v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/1A9N86"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/1A9N86/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod3350011v/1A9N86/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ブラック",
+      "@type": "ProductModel",
+      "name": "LVナイトデニムスリーブレスシークインドレス",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 649000
+        },
+        "@type": "Offer",
+        "price": "¥649,000"
+      },
+      "disambiguatingDescription": "大胆な煌めきが個性を放つ、洗練された印象のミニマルなストレートカットのドレス。プレーンなウール & シルクのクレープで仕立てたサイドのインサートが、フロントと背面の贅沢なスパンコールの刺繍とコントラストを描きます。モノグラム･モチーフをあしらったラムレザーのパッチと、メゾンのアイコニックなチェーンのディテールで、「LV ナイト」カプセル･コレクションならではのグラフィカルな雰囲気をエレガントに表現しました。<p>ご不明な点がございましたら、クライアントサービスまでお気軽にお問合せください。専任のクライアントアドバイザーが、素材やサイズなどの製品詳細、モデル着用イメージや関連アイテムのご案内など、お客様のご要望に合わせたスタイリング・アドバイスをご提供いたします。</p><p>また、サイズ違いなどによる返品・交換のご相談も承ります。詳細は<a href=\"https://jp.louisvuitton.com/jpn-jp/legal-privacy\"><b>こちら。</b></a></p>",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lvナイトデニムスリーブレスシークインドレス-プレタポルテ（洋服）--FMDB03KN4900_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lvナイトデニムスリーブレスシークインドレス-プレタポルテ（洋服）--FMDB03KN4900_PM1_Worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Worn view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lvナイトデニムスリーブレスシークインドレス-プレタポルテ（洋服）--FMDB03KN4900_PM1_Closeup view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Closeup view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/lv-night-sleeveless-sequin-dress-nvprod3350011v",
+      "highEndTemplate": false,
+      "sizeDisplayName": "36",
+      "productId": "nvprod3350011v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-RTW-900_noir.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>長さ：85cm</li><li>表地：シルク 100%</li><li>その他：シルク 47%、ウール 40%、ナイロン 13%</li><li>裏地：シルク 100%</li><li>レギュラーフィット</li><li>イタリア製</li><li>家庭での洗濯禁止</li><li>塩素系および酸素系漂白剤の使用禁止</li><li>タンブル乾燥禁止</li><li>底面温度110℃を限度としてスチームなしでアイロン仕上げ可</li><li>石油系溶剤による弱いドライクリーニング可</li><li>REF：FMDB03KN4</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z05"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Ready_To_Wear_Women"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/_/N-1q5sgib",
+          "alternateName": "women",
+          "name": "ウィメンズ",
+          "identifier": "femme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/ready-to-wear/_/N-1nzqmbe",
+          "alternateName": "ready-to-wear",
+          "name": "プレタポルテ（洋服）",
+          "identifier": "w-readytowear"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/ready-to-wear/dresses/_/N-17itnk1",
+          "alternateName": "dresses",
+          "name": "ウィメンズ ドレス",
+          "identifier": "w-dresses"
+        }
+      ],
+      "disclaimers": {
+        "value": "shipping_warning_bo",
+        "popInContent": "global_backorder_info_popin_content",
+        "popInTitle": "global_backorder_info_popin_title"
+      },
+      "color": "ノワール",
+      "@context": "http://schema.org",
+      "identifier": "1A9N86"
+    },
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/1A9N87/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod3350011v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/1A9N87"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/1A9N87/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod3350011v/1A9N87/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ブラック",
+      "@type": "ProductModel",
+      "name": "LVナイトデニムスリーブレスシークインドレス",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 649000
+        },
+        "@type": "Offer",
+        "price": "¥649,000"
+      },
+      "disambiguatingDescription": "大胆な煌めきが個性を放つ、洗練された印象のミニマルなストレートカットのドレス。プレーンなウール & シルクのクレープで仕立てたサイドのインサートが、フロントと背面の贅沢なスパンコールの刺繍とコントラストを描きます。モノグラム･モチーフをあしらったラムレザーのパッチと、メゾンのアイコニックなチェーンのディテールで、「LV ナイト」カプセル･コレクションならではのグラフィカルな雰囲気をエレガントに表現しました。<p>ご不明な点がございましたら、クライアントサービスまでお気軽にお問合せください。専任のクライアントアドバイザーが、素材やサイズなどの製品詳細、モデル着用イメージや関連アイテムのご案内など、お客様のご要望に合わせたスタイリング・アドバイスをご提供いたします。</p><p>また、サイズ違いなどによる返品・交換のご相談も承ります。詳細は<a href=\"https://jp.louisvuitton.com/jpn-jp/legal-privacy\"><b>こちら。</b></a></p>",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lvナイトデニムスリーブレスシークインドレス-プレタポルテ（洋服）--FMDB03KN4900_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lvナイトデニムスリーブレスシークインドレス-プレタポルテ（洋服）--FMDB03KN4900_PM1_Worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Worn view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lvナイトデニムスリーブレスシークインドレス-プレタポルテ（洋服）--FMDB03KN4900_PM1_Closeup view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Closeup view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/lv-night-sleeveless-sequin-dress-nvprod3350011v",
+      "highEndTemplate": false,
+      "sizeDisplayName": "38",
+      "productId": "nvprod3350011v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-RTW-900_noir.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>長さ：85cm</li><li>表地：シルク 100%</li><li>その他：シルク 47%、ウール 40%、ナイロン 13%</li><li>裏地：シルク 100%</li><li>レギュラーフィット</li><li>イタリア製</li><li>家庭での洗濯禁止</li><li>塩素系および酸素系漂白剤の使用禁止</li><li>タンブル乾燥禁止</li><li>底面温度110℃を限度としてスチームなしでアイロン仕上げ可</li><li>石油系溶剤による弱いドライクリーニング可</li><li>REF：FMDB03KN4</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z05"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Ready_To_Wear_Women"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/_/N-1q5sgib",
+          "alternateName": "women",
+          "name": "ウィメンズ",
+          "identifier": "femme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/ready-to-wear/_/N-1nzqmbe",
+          "alternateName": "ready-to-wear",
+          "name": "プレタポルテ（洋服）",
+          "identifier": "w-readytowear"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/ready-to-wear/dresses/_/N-17itnk1",
+          "alternateName": "dresses",
+          "name": "ウィメンズ ドレス",
+          "identifier": "w-dresses"
+        }
+      ],
+      "disclaimers": {
+        "value": "shipping_warning_bo",
+        "popInContent": "global_backorder_info_popin_content",
+        "popInTitle": "global_backorder_info_popin_title"
+      },
+      "color": "ノワール",
+      "@context": "http://schema.org",
+      "identifier": "1A9N87"
+    }
+  ],
+  "panelInformations": [
+    {
+      "@type": "ProductCare",
+      "title": "素材とお手入れ方法、修理",
+      "description": "<p>本製品には手作業で装飾が施されています。装飾部分は大変デリケートです。お手入れの際は信頼のおけるクリーニング専門店へご相談下さい。</p>",
+      "introduction": "<div class=\"popinHeader uppercase\">本製品のお手入れに際しては、次の取扱い表示をご確認いただき、末永くご愛用くださいますようお願い申しあげます。</div>"
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "/api/catalog/jpn-jp/product/nvprod3350011v"
+    },
+    "push": {
+      "href": "/api/catalog/jpn-jp/product-push/nvprod3350011v"
+    },
+    "care-link": {
+      "href": "/api/catalog/jpn-jp/care-link/nvprod3350011v"
+    },
+    "size-guide": {
+      "href": "/api/catalog/jpn-jp/size-guide/nvprod3350011v"
+    },
+    "availability": {
+      "href": "/api/catalog/jpn-jp/availability/nvprod3350011v"
+    }
+  },
+  "@type": "Product",
+  "sku": "1A9N85",
+  "isSimilarTo": [],
+  "productTips": [],
+  "url": "/jpn-jp/products/lv-night-sleeveless-sequin-dress-nvprod3350011v",
+  "category": [
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/women/_/N-1q5sgib",
+      "alternateName": "women",
+      "name": "ウィメンズ",
+      "identifier": "femme"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/women/ready-to-wear/_/N-1nzqmbe",
+      "alternateName": "ready-to-wear",
+      "name": "プレタポルテ（洋服）",
+      "identifier": "w-readytowear"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/women/ready-to-wear/dresses/_/N-17itnk1",
+      "alternateName": "dresses",
+      "name": "ウィメンズ ドレス",
+      "identifier": "w-dresses"
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "hidePrice",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "subType",
+      "value": "product"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "sizeGuide",
+      "value": true
+    }
+  ],
+  "name": "LVナイトデニムスリーブレスシークインドレス",
+  "isRelatedTo": [],
+  "@context": "http://schema.org",
+  "identifier": "nvprod3350011v"
+}

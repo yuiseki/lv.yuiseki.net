@@ -1,0 +1,224 @@
+{
+  "model": [
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/QBBB76/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod1250335v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/QBBB76"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/QBBB76/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-perso": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ブラック",
+      "@type": "ProductModel",
+      "name": "タンブール オールブラック GM",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 650100
+        },
+        "@type": "Offer",
+        "price": "¥650,100"
+      },
+      "disambiguatingDescription": "<BR>",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-タンブール-オールブラック-gm-ウォッチ（時計）--QBBB76_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/tambour-all-black-395-nvprod1250335v",
+      "highEndTemplate": false,
+      "productId": "nvprod1250335v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-WAT-Z17_black.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>ケース品番：QA049Z</li><li>スイス製</li><li>光沢感のあるブラックカラーのPDVコーティングを施したステンレススティールのケース（直径 39.5 mm）</li><li>光沢感のあるブラックのダイアルにピンクゴールドのモノグラム･フラワー</li><li>12個のダイヤモンドインデックス</li><li>艶のあるブラックカラーの時針と分針</li><li>スーパールミノーバーをセットした針</li><li>クオーツムーブメント</li><li>機能：デイト表示、時、分、秒</li><li>自身で交換可能なストラップ</li><li>100M防水</li><li>2年間の品質保証付き（国によって保障内容が異なる場合がございます。詳しくは<a href=\"https://www.louisvuitton.com/documents/warranty/louis-vuitton-watch-warranty\">「安全＆法律情報」</a>をご参照ください。）</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "recipeId",
+          "value": "46038961"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "fluidProductId",
+          "value": "21533"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z03"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Watches"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/_/N-1q5sgib",
+          "alternateName": "women",
+          "name": "ウィメンズ",
+          "identifier": "femme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/watches/_/N-1ryvzki",
+          "alternateName": "watches",
+          "name": "ウォッチ（時計）",
+          "identifier": "nvcat1920016v"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/timepieces/_/N-esfzt6",
+          "alternateName": "all-watches-and-accessories",
+          "name": "すべてのウォッチ＆ウォッチアクセサリー",
+          "identifier": "w-category-cat10139"
+        }
+      ],
+      "disclaimers": {
+        "value": "shipping_warning_bo",
+        "popInContent": "global_backorder_info_popin_content",
+        "popInTitle": "global_backorder_info_popin_title"
+      },
+      "color": "ブラック",
+      "@context": "http://schema.org",
+      "identifier": "QBBB76"
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "/api/catalog/jpn-jp/product/nvprod1250335v"
+    },
+    "push": {
+      "href": "/api/catalog/jpn-jp/product-push/nvprod1250335v"
+    },
+    "care-link": {
+      "href": "/api/catalog/jpn-jp/care-link/nvprod1250335v"
+    },
+    "availability": {
+      "href": "/api/catalog/jpn-jp/availability/nvprod1250335v"
+    }
+  },
+  "@type": "Product",
+  "sku": "QBBB76",
+  "isSimilarTo": [],
+  "productTips": [],
+  "url": "/jpn-jp/products/tambour-all-black-395-nvprod1250335v",
+  "category": [
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/women/_/N-1q5sgib",
+      "alternateName": "women",
+      "name": "ウィメンズ",
+      "identifier": "femme"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/women/watches/_/N-1ryvzki",
+      "alternateName": "watches",
+      "name": "ウォッチ（時計）",
+      "identifier": "nvcat1920016v"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/women/timepieces/_/N-esfzt6",
+      "alternateName": "all-watches-and-accessories",
+      "name": "すべてのウォッチ＆ウォッチアクセサリー",
+      "identifier": "w-category-cat10139"
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "hidePrice",
+      "value": true
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "subType",
+      "value": "product"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "sizeGuide",
+      "value": false
+    }
+  ],
+  "name": "タンブール オールブラック GM",
+  "isRelatedTo": [],
+  "@context": "http://schema.org",
+  "identifier": "nvprod1250335v"
+}

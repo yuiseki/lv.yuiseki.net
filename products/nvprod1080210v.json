@@ -1,0 +1,407 @@
+{
+  "model": [
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/R99871/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod1080210v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/R99871"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/R99871/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod1080210v/R99871/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ベージュ",
+      "@type": "ProductModel",
+      "height": {
+        "@type": "QuantitativeValue",
+        "value": 32,
+        "unitText": "cm"
+      },
+      "name": "Diamond Modules by Marcel Wanders Studio",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 869000
+        },
+        "@type": "Offer",
+        "price": "¥869,000"
+      },
+      "disambiguatingDescription": "マルセル･ワンダース スタジオが「ルイ･ヴィトン オブジェ･ノマド コレクション」のために手掛けた壮麗な「Diamond Screen by Marcel Wanders Studio」のモジュールが天井を彩る「Diamond Modules by Marcel Wanders Studio」。ルイ･ヴィトンのモノグラム･パターンや、かつてトランクに施された籐細工を想わせるモジュールは、1つ1つが8枚のノマド･レザーの組み合わせで出来ています。メゾンのハンドバッグのクラスプを想起させる真鍮製のクリップもポイント。サイズ調節できるスタイリッシュな仕切りとして、あらゆるスペースに対応できます。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-diamond-modules-by-marcel-wanders-studio-ホーム--R99871_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/diamond-modules-by-marcel-wanders-studio-nvprod1080210v",
+      "material": "COWHIDE",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 32,
+        "unitText": "cm"
+      },
+      "highEndTemplate": false,
+      "productId": "nvprod1080210v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-SHO-31_beige.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>各モジュール：32 x 32 cm、重さ：180 g</li><li>13個のモジュール：重さ：2.4 kg</li><li>オブジェ･ノマド コレクション</li><li>素材：レザー（皮革の種類：牛革）、マイクロファイバー、金具</li><li>取付け可能なストラップx3</li><li> 3 x 2 メートルのワイヤーを備えたメタルのサスペンションシリンダーx3</li><li>寸法を変更することが可能</li><li>スペイン製</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z01"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/art-of-living/_/N-kmf9ty",
+          "alternateName": "art-of-living",
+          "name": "ライフスタイル",
+          "identifier": "nvcat1840004v"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/art-of-living/home/_/N-1181e7i",
+          "alternateName": "home",
+          "name": "ホーム",
+          "identifier": "nvcat1840008v"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/art-of-living/home/objects-of-decoration/_/N-jsv3lk",
+          "alternateName": "objects-of-decoration",
+          "name": "ホーム デコレーション",
+          "identifier": "nvcat1840021v"
+        }
+      ],
+      "disclaimers": {
+        "value": "shipping_warning_bo",
+        "popInContent": "global_backorder_info_popin_content",
+        "popInTitle": "global_backorder_info_popin_title"
+      },
+      "color": "Beige",
+      "@context": "http://schema.org",
+      "identifier": "R99871"
+    },
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/R99484/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod1080210v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/R99484"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/R99484/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod1080210v/R99484/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ナチュラル",
+      "@type": "ProductModel",
+      "height": {
+        "@type": "QuantitativeValue",
+        "value": 32,
+        "unitText": "cm"
+      },
+      "name": "Diamond Modules by Marcel Wanders Studio",
+      "width": {
+        "@type": "QuantitativeValue",
+        "value": 32,
+        "unitText": "cm"
+      },
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 869000
+        },
+        "@type": "Offer",
+        "price": "¥869,000"
+      },
+      "disambiguatingDescription": "マルセル･ワンダース スタジオが「ルイ･ヴィトン オブジェ･ノマド コレクション」のために手掛けた壮麗な「Diamond Screen by Marcel Wanders Studio」のモジュールが天井を彩る「Diamond Modules by Marcel Wanders Studio」。ルイ･ヴィトンのモノグラム･パターンや、かつてトランクに施された籐細工を想わせるモジュールは、1つ1つが8枚のノマド･レザーの組み合わせで出来ています。メゾンのハンドバッグのクラスプを想起させる真鍮製のクリップもポイント。サイズ調節できるスタイリッシュな仕切りとして、あらゆるスペースに対応できます。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-diamond-modules-by-marcel-wanders-studio-ホーム--R99484_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-diamond-modules-by-marcel-wanders-studio-ホーム--R99484_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-diamond-modules-by-marcel-wanders-studio-ホーム--R99484_PM1_Detail view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Detail view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-diamond-modules-by-marcel-wanders-studio-ホーム--R99484_PM1_Ambiance view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Ambiance view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/diamond-modules-by-marcel-wanders-studio-nvprod1080210v",
+      "material": "COWHIDE",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 32,
+        "unitText": "cm"
+      },
+      "highEndTemplate": false,
+      "productId": "nvprod1080210v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-LG-925_caramel.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>各モジュール：32 x 32 cm、重さ：180 g</li><li>13個のモジュール：重さ：2.4 kg</li><li>オブジェ･ノマド コレクション</li><li>素材：レザー（皮革の種類：牛革）、マイクロファイバー、金具</li><li>取付け可能なストラップx3</li><li> 3 x 2 メートルのワイヤーを備えたメタルのサスペンションシリンダーx3</li><li>寸法を変更することが可能</li><li>スペイン製</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z01"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/art-of-living/_/N-kmf9ty",
+          "alternateName": "art-of-living",
+          "name": "ライフスタイル",
+          "identifier": "nvcat1840004v"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/art-of-living/home/_/N-1181e7i",
+          "alternateName": "home",
+          "name": "ホーム",
+          "identifier": "nvcat1840008v"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/art-of-living/home/objects-of-decoration/_/N-jsv3lk",
+          "alternateName": "objects-of-decoration",
+          "name": "ホーム デコレーション",
+          "identifier": "nvcat1840021v"
+        }
+      ],
+      "disclaimers": {
+        "value": "shipping_warning_bo",
+        "popInContent": "global_backorder_info_popin_content",
+        "popInTitle": "global_backorder_info_popin_title"
+      },
+      "color": "キャラメル",
+      "@context": "http://schema.org",
+      "identifier": "R99484"
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "/api/catalog/jpn-jp/product/nvprod1080210v"
+    },
+    "push": {
+      "href": "/api/catalog/jpn-jp/product-push/nvprod1080210v"
+    },
+    "care-link": {
+      "href": "/api/catalog/jpn-jp/care-link/nvprod1080210v"
+    },
+    "availability": {
+      "href": "/api/catalog/jpn-jp/availability/nvprod1080210v"
+    }
+  },
+  "@type": "Product",
+  "sku": "R99484",
+  "isSimilarTo": [],
+  "productTips": [],
+  "url": "/jpn-jp/products/diamond-modules-by-marcel-wanders-studio-nvprod1080210v",
+  "material": "ファッション小物",
+  "category": [
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/art-of-living/_/N-kmf9ty",
+      "alternateName": "art-of-living",
+      "name": "ライフスタイル",
+      "identifier": "nvcat1840004v"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/art-of-living/home/_/N-1181e7i",
+      "alternateName": "home",
+      "name": "ホーム",
+      "identifier": "nvcat1840008v"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/art-of-living/home/objects-of-decoration/_/N-jsv3lk",
+      "alternateName": "objects-of-decoration",
+      "name": "ホーム デコレーション",
+      "identifier": "nvcat1840021v"
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "hidePrice",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "subType",
+      "value": "product"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "materialIconURL",
+      "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--AEL-LG-N00_sans_ligne_esthetique.jpg"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "sizeGuide",
+      "value": false
+    }
+  ],
+  "name": "Diamond Modules by Marcel Wanders Studio",
+  "isRelatedTo": [],
+  "@context": "http://schema.org",
+  "identifier": "nvprod1080210v"
+}

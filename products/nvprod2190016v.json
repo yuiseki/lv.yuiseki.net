@@ -1,0 +1,238 @@
+{
+  "model": [
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/GI0199/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod2190016v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/GI0199"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/GI0199/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod2190016v/GI0199/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ブラック",
+      "@type": "ProductModel",
+      "height": {
+        "@type": "QuantitativeValue",
+        "value": 6,
+        "unitText": "cm"
+      },
+      "name": "トゥルース・エリザベット",
+      "mainMaterial2": "COWHIDE",
+      "width": {
+        "@type": "QuantitativeValue",
+        "value": 5,
+        "unitText": "cm"
+      },
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 55000
+        },
+        "@type": "Offer",
+        "price": "¥55,000"
+      },
+      "disambiguatingDescription": "レザーとモノグラム･エクリプス キャンバスで繊細に仕上げたペンケース「トゥルース･エリザベット」。アイコニックなパターンをあしらったダークでマスキュリンなデザインに、「Louis Vuitton Paris」のホットスタンピング(刻印)を施しました。筆記具をすっきり収納できます。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-トゥルース・エリザベット-モノグラム・エクリプス-トランク-トラベル--GI0199_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-トゥルース・エリザベット-モノグラム・エクリプス-トランク-トラベル--GI0199_PM1_Other view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Other view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/pencil-pouch-elisabeth-monogram-eclipse-nvprod2190016v",
+      "material": "MONOGRAM + COWHIDE",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 21,
+        "unitText": "cm"
+      },
+      "highEndTemplate": false,
+      "productId": "nvprod2190016v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-ACC-93L_black_.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>サイズ： 21.8 x 5.7 x 6.0 cm</li><li>素材：レザー（皮革の種類：牛革）、モノグラム･キャンバス</li><li>Louis Vuittonの刻印とLVサークルモチーフのファスナー引き手</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Books;Writing"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/art-of-living/_/N-kmf9ty",
+          "alternateName": "art-of-living",
+          "name": "ライフスタイル",
+          "identifier": "nvcat1840004v"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/art-of-living/trunks-and-travel/_/N-1ooeusx",
+          "alternateName": "trunks-and-travel",
+          "name": "トランク & トラベル",
+          "identifier": "nvcat1840005v"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/art-of-living/trunks-and-travel/travel-accessories/_/N-1emq07i",
+          "alternateName": "travel-accessories",
+          "name": "トラベルアクセサリー",
+          "identifier": "nvcat1840013v"
+        }
+      ],
+      "disclaimers": {
+        "value": "pre_order_disclaimer",
+        "popInContent": "pre_order_disclaimer_info_popin_content",
+        "popInTitle": "pre_order_disclaimer_info_popin_title"
+      },
+      "color": "ノワール",
+      "@context": "http://schema.org",
+      "identifier": "GI0199"
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "/api/catalog/jpn-jp/product/nvprod2190016v"
+    },
+    "push": {
+      "href": "/api/catalog/jpn-jp/product-push/nvprod2190016v"
+    },
+    "care-link": {
+      "href": "/api/catalog/jpn-jp/care-link/nvprod2190016v"
+    },
+    "availability": {
+      "href": "/api/catalog/jpn-jp/availability/nvprod2190016v"
+    }
+  },
+  "@type": "Product",
+  "sku": "GI0199",
+  "isSimilarTo": [],
+  "productTips": [],
+  "url": "/jpn-jp/products/pencil-pouch-elisabeth-monogram-eclipse-nvprod2190016v",
+  "material": "モノグラム・エクリプス",
+  "category": [
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/art-of-living/_/N-kmf9ty",
+      "alternateName": "art-of-living",
+      "name": "ライフスタイル",
+      "identifier": "nvcat1840004v"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/art-of-living/trunks-and-travel/_/N-1ooeusx",
+      "alternateName": "trunks-and-travel",
+      "name": "トランク & トラベル",
+      "identifier": "nvcat1840005v"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/art-of-living/trunks-and-travel/travel-accessories/_/N-1emq07i",
+      "alternateName": "travel-accessories",
+      "name": "トラベルアクセサリー",
+      "identifier": "nvcat1840013v"
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "hidePrice",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "subType",
+      "value": "product"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "materialIconURL",
+      "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--AEL-LG-G54_monogram_eclipse.jpg"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "sizeGuide",
+      "value": false
+    }
+  ],
+  "name": "ペンケース トゥルース・エリザベット",
+  "isRelatedTo": [],
+  "@context": "http://schema.org",
+  "identifier": "nvprod2190016v"
+}

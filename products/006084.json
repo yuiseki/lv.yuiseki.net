@@ -1,0 +1,228 @@
+{
+  "model": [
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/R07756/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/006084"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/R07756"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/R07756/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/006084/R07756/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "@type": "ProductModel",
+      "name": "Louis Vuitton, the birth of modern luxury",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 22000
+        },
+        "@type": "Offer",
+        "price": "¥22,000"
+      },
+      "disambiguatingDescription": "ルイ・ヴィトンの150年の歴史と伝統、革新、クラフツマンシップを社会的、文化的、産業的な変化を背景に、さまざまなイラストや写真で紹介する「Louis Vuitton, the birth of modern luxury」のフランス語版。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-louis-vuitton-the-birth-of-modern-luxury-書籍-ステーショナリー--R07756_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-louis-vuitton-the-birth-of-modern-luxury-書籍-ステーショナリー--R07756_PM1_Interior view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-louis-vuitton-the-birth-of-modern-luxury-書籍-ステーショナリー--R07756_PM1_Other view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/louis-vuitton-the-birth-of-modern-luxury-french-version-006084",
+      "highEndTemplate": false,
+      "productId": "006084",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>560ページ</li><li>660枚のアーカイブ写真やイラスト</li><li>2012年10月刊行</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "hotstampable",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Books;Writing"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/art-of-living/_/N-kmf9ty",
+          "alternateName": "art-of-living",
+          "name": "ライフスタイル",
+          "identifier": "nvcat1840004v"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/art-of-living/books-and-writing/_/N-1vh9yje",
+          "alternateName": "books-and-writing",
+          "name": "書籍 & ステーショナリー",
+          "identifier": "nvcat1840009v"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/art-of-living/books-and-writing/hard-cover-books/_/N-4yn55u",
+          "alternateName": "hard-cover-books",
+          "name": "ハードカバー",
+          "identifier": "nvcat1840024v"
+        }
+      ],
+      "disclaimers": {
+        "value": "shipping_warning_bo",
+        "popInContent": "global_backorder_info_popin_content",
+        "popInTitle": "global_backorder_info_popin_title"
+      },
+      "@context": "http://schema.org",
+      "identifier": "R07756"
+    }
+  ],
+  "disambiguatingDescription": "ルイ・ヴィトンの150年の歴史と伝統、革新、クラフツマンシップを社会的、文化的、産業的な変化を背景に、さまざまなイラストや写真で紹介する「Louis Vuitton, the birth of modern luxury」のフランス語版。",
+  "_links": {
+    "self": {
+      "href": "/api/catalog/jpn-jp/product/006084"
+    },
+    "push": {
+      "href": "/api/catalog/jpn-jp/product-push/006084"
+    },
+    "care-link": {
+      "href": "/api/catalog/jpn-jp/care-link/006084"
+    },
+    "availability": {
+      "href": "/api/catalog/jpn-jp/availability/006084"
+    }
+  },
+  "@type": "Product",
+  "sku": "R07756",
+  "isSimilarTo": [],
+  "productTips": [],
+  "url": "/jpn-jp/products/louis-vuitton-the-birth-of-modern-luxury-french-version-006084",
+  "material": "ファッション小物",
+  "category": [
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/art-of-living/_/N-kmf9ty",
+      "alternateName": "art-of-living",
+      "name": "ライフスタイル",
+      "identifier": "nvcat1840004v"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/art-of-living/books-and-writing/_/N-1vh9yje",
+      "alternateName": "books-and-writing",
+      "name": "書籍 & ステーショナリー",
+      "identifier": "nvcat1840009v"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/art-of-living/books-and-writing/hard-cover-books/_/N-4yn55u",
+      "alternateName": "hard-cover-books",
+      "name": "ハードカバー",
+      "identifier": "nvcat1840024v"
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "hidePrice",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "subType",
+      "value": "product"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "materialIconURL",
+      "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--AEL-LG-N00_sans_ligne_esthetique.jpg"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "hotStampable",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "sizeGuide",
+      "value": false
+    }
+  ],
+  "name": "Louis Vuitton, the birth of modern luxury",
+  "isRelatedTo": [],
+  "@context": "http://schema.org",
+  "identifier": "006084"
+}

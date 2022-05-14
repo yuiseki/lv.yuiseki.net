@@ -1,0 +1,409 @@
+{
+  "model": [
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/M70953/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod990261v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/M70953"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/M70953/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod990261v/M70953/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ブルー",
+      "@type": "ProductModel",
+      "height": {
+        "@type": "QuantitativeValue",
+        "value": 8,
+        "unitText": "cm"
+      },
+      "name": "クラヴァット・モノグラム クラシック 8CM",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 26400
+        },
+        "@type": "Offer",
+        "price": "¥26,400"
+      },
+      "disambiguatingDescription": "繊細なクラフツマンシップとルイ・ヴィトンならではのタイムレスなスタイルを融合した「クラヴァット･モノグラム クラシック8CM」。ドット柄のジャカード織りの生地が、モノグラム･プリントをさりげなく引き立てます。ビジネスシーンの装いにラグジュアリーな印象をプラスする、上質なシルクのアイテムです。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-クラヴァット・モノグラム-クラシック-8cm-s00-ネクタイ、ポケットチーフ--M70953_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-クラヴァット・モノグラム-クラシック-8cm-s00-ネクタイ、ポケットチーフ--M70953_PM1_Other view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Other view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-クラヴァット・モノグラム-クラシック-8cm-s00-ネクタイ、ポケットチーフ--M70953_PM1_Other view2.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Other view2",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/monogram-classic-tie-s00-nvprod990261v",
+      "material": "SILK",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 148,
+        "unitText": "cm"
+      },
+      "highEndTemplate": false,
+      "productId": "nvprod990261v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-ACC-971_marine.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>幅：8 cm</li><li>素材：シルク 100%</li><li>モノグラム・パターン</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories;Sunglasses"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-1cyoz77",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/accessories/_/N-1d0iakb",
+          "alternateName": "accessories",
+          "name": "アクセサリー",
+          "identifier": "m-category-cat10052"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/accessories/ties-and-pocket-squares/_/N-cg9lew",
+          "alternateName": "ties-and-pocket-squares",
+          "name": "ネクタイ、ポケットチーフ",
+          "identifier": "nvcat1170023v"
+        }
+      ],
+      "disclaimers": {
+        "value": "pre_order_disclaimer",
+        "popInContent": "pre_order_disclaimer_info_popin_content",
+        "popInTitle": "pre_order_disclaimer_info_popin_title"
+      },
+      "color": "マリーヌ",
+      "@context": "http://schema.org",
+      "identifier": "M70953"
+    },
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/M70952/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod990261v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/M70952"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/M70952/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod990261v/M70952/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "グレー",
+      "@type": "ProductModel",
+      "height": {
+        "@type": "QuantitativeValue",
+        "value": 8,
+        "unitText": "cm"
+      },
+      "name": "クラヴァット・モノグラム クラシック8CM",
+      "mainMaterial2": "SILK",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 26400
+        },
+        "@type": "Offer",
+        "price": "¥26,400"
+      },
+      "disambiguatingDescription": "繊細なクラフツマンシップとルイ・ヴィトンならではのタイムレスなスタイルを融合した「クラヴァット･モノグラム クラシック8CM」。ドット柄のジャカード織りの生地が、モノグラム･プリントをさりげなく引き立てます。ビジネスシーンの装いにラグジュアリーな印象をプラスする、上質なシルクのアイテムです。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-クラヴァット・モノグラム-クラシック8cm-s00-ネクタイ、ポケットチーフ--M70952_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-クラヴァット・モノグラム-クラシック8cm-s00-ネクタイ、ポケットチーフ--M70952_PM1_Other view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Other view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-クラヴァット・モノグラム-クラシック8cm-s00-ネクタイ、ポケットチーフ--M70952_PM1_Other view2.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Other view2",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/monogram-classic-tie-s00-nvprod990261v",
+      "material": "SILK",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 148,
+        "unitText": "cm"
+      },
+      "highEndTemplate": false,
+      "productId": "nvprod990261v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-ACC-9C5_grey.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>幅：8 cm</li><li> 素材：シルク 100%</li><li>モノグラム・パターン</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories;Sunglasses"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-1cyoz77",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/accessories/_/N-1d0iakb",
+          "alternateName": "accessories",
+          "name": "アクセサリー",
+          "identifier": "m-category-cat10052"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/accessories/ties-and-pocket-squares/_/N-cg9lew",
+          "alternateName": "ties-and-pocket-squares",
+          "name": "ネクタイ、ポケットチーフ",
+          "identifier": "nvcat1170023v"
+        }
+      ],
+      "disclaimers": {
+        "value": "pre_order_disclaimer",
+        "popInContent": "pre_order_disclaimer_info_popin_content",
+        "popInTitle": "pre_order_disclaimer_info_popin_title"
+      },
+      "color": "グレー",
+      "@context": "http://schema.org",
+      "identifier": "M70952"
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "/api/catalog/jpn-jp/product/nvprod990261v"
+    },
+    "push": {
+      "href": "/api/catalog/jpn-jp/product-push/nvprod990261v"
+    },
+    "care-link": {
+      "href": "/api/catalog/jpn-jp/care-link/nvprod990261v"
+    },
+    "availability": {
+      "href": "/api/catalog/jpn-jp/availability/nvprod990261v"
+    }
+  },
+  "@type": "Product",
+  "sku": "M70953",
+  "isSimilarTo": [],
+  "productTips": [],
+  "url": "/jpn-jp/products/monogram-classic-tie-s00-nvprod990261v",
+  "material": "NOT APPLICABLE ACC",
+  "category": [
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/_/N-1cyoz77",
+      "alternateName": "men",
+      "name": "メンズ",
+      "identifier": "homme"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/accessories/_/N-1d0iakb",
+      "alternateName": "accessories",
+      "name": "アクセサリー",
+      "identifier": "m-category-cat10052"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/accessories/ties-and-pocket-squares/_/N-cg9lew",
+      "alternateName": "ties-and-pocket-squares",
+      "name": "ネクタイ、ポケットチーフ",
+      "identifier": "nvcat1170023v"
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "hidePrice",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "subType",
+      "value": "product"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "sizeGuide",
+      "value": false
+    }
+  ],
+  "name": "クラヴァット・モノグラム クラシック 8CM",
+  "isRelatedTo": [],
+  "@context": "http://schema.org",
+  "identifier": "nvprod990261v"
+}

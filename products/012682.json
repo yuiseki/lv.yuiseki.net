@@ -1,0 +1,228 @@
+{
+  "model": [
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/M6616E/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/012682"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/M6616E"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/M6616E/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/012682/M6616E/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "グレー",
+      "@type": "ProductModel",
+      "name": "ブラスレ・サイン イット",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 44000
+        },
+        "@type": "Offer",
+        "price": "¥44,000"
+      },
+      "disambiguatingDescription": "男性用のスタイリッシュなブレスレット「ブラスレ・サイン イット」。ダミエ・パターンにLVロゴを切り抜いたバックルがワンポイントに。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ブラスレ・サイン-イット-ダミエ・グラフィット-メンズ-ファッションジュエリー--M6616E_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ブラスレ・サイン-イット-ダミエ・グラフィット-メンズ-ファッションジュエリー--M6616E_PM1_Worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Worn view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/sign-it-bracelet-damier-graphite-012682",
+      "material": "DAMIER CANVAS",
+      "highEndTemplate": false,
+      "sizeDisplayName": "19",
+      "productId": "012682",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-ACC-9GA_graphite.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>ブレスレット</li><li>素材：ダミエ・キャンバスまたはダミエ・グラフィット キャンバス</li><li>ライニング（素材：カーフレザー）<BR>金具（色：シルバー）</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "hotstampable",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-1cyoz77",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/accessories/_/N-1d0iakb",
+          "alternateName": "accessories",
+          "name": "アクセサリー",
+          "identifier": "m-category-cat10052"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/accessories/fashion-jewellery/_/N-qv1g01",
+          "alternateName": "fashion-jewellery",
+          "name": "メンズ ファッションジュエリー",
+          "identifier": "m-fashionjewelry"
+        }
+      ],
+      "disclaimers": {
+        "value": "pre_order_disclaimer",
+        "popInContent": "pre_order_disclaimer_info_popin_content",
+        "popInTitle": "pre_order_disclaimer_info_popin_title"
+      },
+      "color": "Graphite",
+      "@context": "http://schema.org",
+      "identifier": "M6616E"
+    }
+  ],
+  "disambiguatingDescription": "男性用のスタイリッシュなブレスレット「ブラスレ・サイン イット」。ダミエ・パターンにLVロゴを切り抜いたバックルがワンポイントに。",
+  "_links": {
+    "self": {
+      "href": "/api/catalog/jpn-jp/product/012682"
+    },
+    "push": {
+      "href": "/api/catalog/jpn-jp/product-push/012682"
+    },
+    "care-link": {
+      "href": "/api/catalog/jpn-jp/care-link/012682"
+    },
+    "availability": {
+      "href": "/api/catalog/jpn-jp/availability/012682"
+    }
+  },
+  "@type": "Product",
+  "sku": "M6616E",
+  "isSimilarTo": [],
+  "productTips": [],
+  "url": "/jpn-jp/products/sign-it-bracelet-damier-graphite-012682",
+  "material": "ダミエ・グラフィット",
+  "category": [
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/_/N-1cyoz77",
+      "alternateName": "men",
+      "name": "メンズ",
+      "identifier": "homme"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/accessories/_/N-1d0iakb",
+      "alternateName": "accessories",
+      "name": "アクセサリー",
+      "identifier": "m-category-cat10052"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/accessories/fashion-jewellery/_/N-qv1g01",
+      "alternateName": "fashion-jewellery",
+      "name": "メンズ ファッションジュエリー",
+      "identifier": "m-fashionjewelry"
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "hidePrice",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "subType",
+      "value": "product"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "materialIconURL",
+      "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--AEL-LG-D05_damier_graphite.jpg"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "hotStampable",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "sizeGuide",
+      "value": false
+    }
+  ],
+  "name": "ブラスレ・サイン イット",
+  "isRelatedTo": [],
+  "@context": "http://schema.org",
+  "identifier": "012682"
+}

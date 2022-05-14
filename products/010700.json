@@ -1,0 +1,396 @@
+{
+  "model": [
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/M6138F/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/010700"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/M6138F"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/M6138F/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/010700/M6138F/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ブルー",
+      "@type": "ProductModel",
+      "name": "ブラスレ・キープ イット",
+      "mainMaterial2": "COATED CANVAS",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 30800
+        },
+        "@type": "Offer",
+        "price": "¥30,800"
+      },
+      "disambiguatingDescription": "さりげないアクセントとしておすすめのブレスレット「ブラスレ・キープ イット」。カジュアルスタイルに合わせやすいシンプルさが魅力。色違いで、重ね付けで、さまざまな楽しみ方ができるアクセサリーです。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ブラスレ・キープ-イット-ダミエ・アズール-レザーブレスレット--M6138F_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ブラスレ・キープ-イット-ダミエ・アズール-レザーブレスレット--M6138F_PM1_Worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Worn view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ブラスレ・キープ-イット-ダミエ・アズール-レザーブレスレット--M6138F_PM1_Other view4.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Other view4",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/keep-it-bracelet-damier-azur-canvas-010700",
+      "material": "DAMIER AZUR",
+      "highEndTemplate": false,
+      "sizeDisplayName": "17",
+      "productId": "010700",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-ACC-9AZ_azur.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>素材：ダミエ･アズール キャンバス</li><li>金具（色：ゴールド）</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "hotstampable",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/_/N-1q5sgib",
+          "alternateName": "women",
+          "name": "ウィメンズ",
+          "identifier": "femme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/accessories/_/N-1oyzg8c",
+          "alternateName": "accessories",
+          "name": "アクセサリー",
+          "identifier": "w-category-cat10155"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/accessories/leather-bracelets/_/N-8vnwsu",
+          "alternateName": "leather-bracelets",
+          "name": "レザーブレスレット",
+          "identifier": "w-leather-bracelets"
+        }
+      ],
+      "disclaimers": {
+        "value": "shipping_warning_bo",
+        "popInContent": "global_backorder_info_popin_content",
+        "popInTitle": "global_backorder_info_popin_title"
+      },
+      "color": "Azur",
+      "@context": "http://schema.org",
+      "identifier": "M6138F"
+    },
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/M6138E/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/010700"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/M6138E"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/M6138E/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/010700/M6138E/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ブルー",
+      "@type": "ProductModel",
+      "name": "ブラスレ・キープ イット",
+      "mainMaterial2": "COATED CANVAS",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 30800
+        },
+        "@type": "Offer",
+        "price": "¥30,800"
+      },
+      "disambiguatingDescription": "さりげないアクセントとしておすすめのブレスレット「ブラスレ・キープ イット」。カジュアルスタイルに合わせやすいシンプルさが魅力。色違いで、重ね付けで、さまざまな楽しみ方ができるアクセサリーです。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ブラスレ・キープ-イット-ダミエ・アズール-レザーブレスレット--M6138E_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ブラスレ・キープ-イット-ダミエ・アズール-レザーブレスレット--M6138E_PM1_Worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Worn view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ブラスレ・キープ-イット-ダミエ・アズール-レザーブレスレット--M6138E_PM1_Other view4.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Other view4",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/keep-it-bracelet-damier-azur-canvas-010700",
+      "material": "DAMIER AZUR",
+      "highEndTemplate": false,
+      "sizeDisplayName": "19",
+      "productId": "010700",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-ACC-9AZ_azur.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>ブレスレット</li><li>素材：ダミエ･アズール キャンバス</li><li>金具（色：ゴールド）</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "hotstampable",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories;Sunglasses"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/_/N-1q5sgib",
+          "alternateName": "women",
+          "name": "ウィメンズ",
+          "identifier": "femme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/accessories/_/N-1oyzg8c",
+          "alternateName": "accessories",
+          "name": "アクセサリー",
+          "identifier": "w-category-cat10155"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/accessories/leather-bracelets/_/N-8vnwsu",
+          "alternateName": "leather-bracelets",
+          "name": "レザーブレスレット",
+          "identifier": "w-leather-bracelets"
+        }
+      ],
+      "disclaimers": {
+        "value": "shipping_warning_bo",
+        "popInContent": "global_backorder_info_popin_content",
+        "popInTitle": "global_backorder_info_popin_title"
+      },
+      "color": "Azur",
+      "@context": "http://schema.org",
+      "identifier": "M6138E"
+    }
+  ],
+  "disambiguatingDescription": "さりげないアクセントとしておすすめのブレスレット「ブラスレ・キープ イット」。カジュアルスタイルに合わせやすいシンプルさが魅力。色違いで、重ね付けで、さまざまな楽しみ方ができるアクセサリーです。",
+  "_links": {
+    "self": {
+      "href": "/api/catalog/jpn-jp/product/010700"
+    },
+    "push": {
+      "href": "/api/catalog/jpn-jp/product-push/010700"
+    },
+    "care-link": {
+      "href": "/api/catalog/jpn-jp/care-link/010700"
+    },
+    "availability": {
+      "href": "/api/catalog/jpn-jp/availability/010700"
+    }
+  },
+  "@type": "Product",
+  "sku": "M6138E",
+  "isSimilarTo": [],
+  "productTips": [],
+  "url": "/jpn-jp/products/keep-it-bracelet-damier-azur-canvas-010700",
+  "material": "ダミエ・アズール",
+  "category": [
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/women/_/N-1q5sgib",
+      "alternateName": "women",
+      "name": "ウィメンズ",
+      "identifier": "femme"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/women/accessories/_/N-1oyzg8c",
+      "alternateName": "accessories",
+      "name": "アクセサリー",
+      "identifier": "w-category-cat10155"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/women/accessories/leather-bracelets/_/N-8vnwsu",
+      "alternateName": "leather-bracelets",
+      "name": "レザーブレスレット",
+      "identifier": "w-leather-bracelets"
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "hidePrice",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "subType",
+      "value": "product"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "materialIconURL",
+      "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--AEL-LG-D03_damier_azur.jpg"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "hotStampable",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "sizeGuide",
+      "value": false
+    }
+  ],
+  "name": "ブラスレ・キープ イット",
+  "isRelatedTo": [],
+  "@context": "http://schema.org",
+  "identifier": "010700"
+}

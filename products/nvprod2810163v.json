@@ -1,0 +1,839 @@
+{
+  "model": [
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/R97253/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod2810163v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/R97253"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/R97253/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod2810163v/R97253/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "レッド",
+      "@type": "ProductModel",
+      "name": "Lanterne GM By Zanellato and Bortotto",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 1061500
+        },
+        "@type": "Offer",
+        "price": "¥1,061,500"
+      },
+      "disambiguatingDescription": "The LANTERNE By Zanellato / Bortotto GM is the result of a collaboration between Louis Vuitton and designers Giorgia Zanellato and Daniele Bortotto. This addition to the House's Objets Nomades collection celebrates artisanal craftsmanship with a meticulously woven honeycomb cage made of colorful leather, wood, and hardware. The portable item features a removable, rechargeable LED light with a frosted glass bulb.",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lanterne-gm-by-zanellato-and-bortotto-home--R97253_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lanterne-gm-by-zanellato-and-bortotto-home--R97253_PM1_Closeup view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Closeup view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lanterne-gm-by-zanellato-and-bortotto-home--R97253_PM1_Detail view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Detail view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lanterne-gm-by-zanellato-and-bortotto-home--R97253_PM1_Ambiance view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Ambiance view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/lanterne-gm-by-zanellato-and-bortotto-nvprod2810163v",
+      "material": "COWHIDE",
+      "highEndTemplate": false,
+      "productId": "nvprod2810163v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-WAT-Z05_red.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul>\n  <li>W 11.8 x H 27.6 inches/W 30 x H 70 cm</li>\n  <li>Red</li>\n  <li>70% cowhide leather, 10% stainless steel, 15% wood, 5% hardware</li>\n  <li>Light exterior: blown glass, aluminum</li>\n  <li>Light interior: LED rechargeable lithium-ion battery</li>\n  <li>Removable light</li>\n  <li>Lifetime: 500 recharge cycles</li>\n</ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z01"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/art-of-living/_/N-kmf9ty",
+          "alternateName": "art-of-living",
+          "name": "Art Of Living",
+          "identifier": "nvcat1840004v"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/art-of-living/home/_/N-1181e7i",
+          "alternateName": "home",
+          "name": "Home",
+          "identifier": "nvcat1840008v"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/art-of-living/home/objects-of-decoration/_/N-jsv3lk",
+          "alternateName": "objects-of-decoration",
+          "name": "Objects of Decoration",
+          "identifier": "nvcat1840021v"
+        }
+      ],
+      "disclaimers": {
+        "value": "shipping_warning_bo",
+        "popInContent": "global_backorder_info_popin_content",
+        "popInTitle": "global_backorder_info_popin_title"
+      },
+      "color": "レッド",
+      "@context": "http://schema.org",
+      "identifier": "R97253"
+    },
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/R97252/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod2810163v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/R97252"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/R97252/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod2810163v/R97252/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "グリーン",
+      "@type": "ProductModel",
+      "height": {
+        "@type": "QuantitativeValue",
+        "value": 55,
+        "unitText": "cm"
+      },
+      "name": "Lanterne GM By Zanellato and Bortotto",
+      "width": {
+        "@type": "QuantitativeValue",
+        "value": 26.5,
+        "unitText": "cm"
+      },
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 1061500
+        },
+        "@type": "Offer",
+        "price": "¥1,061,500"
+      },
+      "disambiguatingDescription": "The LANTERNE By Zanellato / Bortotto GM is the result of a collaboration between Louis Vuitton and designers Giorgia Zanellato and Daniele Bortotto. This addition to the House's Objets Nomades collection celebrates artisanal craftsmanship with a meticulously woven honeycomb cage made of colorful leather, wood, and hardware. The portable item features a removable, rechargeable LED light with a frosted glass bulb.",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lanterne-gm-by-zanellato-and-bortotto-home--R97252_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lanterne-gm-by-zanellato-and-bortotto-home--R97252_PM1_Closeup view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Closeup view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lanterne-gm-by-zanellato-and-bortotto-home--R97252_PM1_Detail view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Detail view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lanterne-gm-by-zanellato-and-bortotto-home--R97252_PM1_Ambiance view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Ambiance view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/lanterne-gm-by-zanellato-and-bortotto-nvprod2810163v",
+      "material": "COWHIDE",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 26.5,
+        "unitText": "cm"
+      },
+      "highEndTemplate": false,
+      "productId": "nvprod2810163v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-LG-96Y_pistache.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul>\n  <li>W 11.8 x H 27.6 inches/W 30 x H 70 cm</li>\n  <li>Pistachio Green</li>\n  <li>70% cowhide leather, 10% stainless steel, 15% wood, 5% hardware</li>\n  <li>Light exterior: blown glass, aluminum</li>\n  <li>Light interior: LED rechargeable lithium-ion battery</li>\n  <li>Removable light</li>\n  <li>Lifetime: 500 recharge cycles</li>\n</ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z01"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/art-of-living/_/N-kmf9ty",
+          "alternateName": "art-of-living",
+          "name": "Art Of Living",
+          "identifier": "nvcat1840004v"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/art-of-living/home/_/N-1181e7i",
+          "alternateName": "home",
+          "name": "Home",
+          "identifier": "nvcat1840008v"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/art-of-living/home/objects-of-decoration/_/N-jsv3lk",
+          "alternateName": "objects-of-decoration",
+          "name": "Objects of Decoration",
+          "identifier": "nvcat1840021v"
+        }
+      ],
+      "disclaimers": {
+        "value": "shipping_warning_bo",
+        "popInContent": "global_backorder_info_popin_content",
+        "popInTitle": "global_backorder_info_popin_title"
+      },
+      "color": "Pistache",
+      "@context": "http://schema.org",
+      "identifier": "R97252"
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "/api/catalog/jpn-jp/product/nvprod2810163v"
+    },
+    "push": {
+      "href": "/api/catalog/jpn-jp/product-push/nvprod2810163v"
+    },
+    "care-link": {
+      "href": "/api/catalog/jpn-jp/care-link/nvprod2810163v"
+    },
+    "availability": {
+      "href": "/api/catalog/jpn-jp/availability/nvprod2810163v"
+    }
+  },
+  "@type": "Product",
+  "sku": "R97252",
+  "isSimilarTo": [
+    {
+      "model": [
+        {
+          "productVisible": true,
+          "_links": {
+            "look": {
+              "href": "/api/catalog/jpn-jp/skus/R97255/look"
+            },
+            "parent": {
+              "href": "/api/catalog/jpn-jp/product/nvprod2880069v"
+            },
+            "self": {
+              "href": "/api/catalog/jpn-jp/product/R97255"
+            },
+            "perso-details": {
+              "href": "/api/catalog/jpn-jp/skus/R97255/perso-detail"
+            },
+            "/api/rels/jpn-jp/add-to-cart-base/nvprod2880069v/R97255/1": {
+              "name": "add-to-cart",
+              "href": "/api/cart/jpn-jp"
+            }
+          },
+          "macroColor": "レッド",
+          "@type": "ProductModel",
+          "name": "Lanterne PM By Zanellato and Bortotto",
+          "offers": {
+            "priceSpecification": {
+              "priceCurrency": "JPY",
+              "price": 803000
+            },
+            "@type": "Offer",
+            "price": "¥803,000"
+          },
+          "disambiguatingDescription": "Part of the House's Objets Nomades collection, the LANTERNE By Zanellato / Bortotto PM is a celebration of travel, inspired by summer nights dancing under string lights. The design from Giorgia Zanellato and Daniele Bortotto consists of a woven leather honeycomb cage finished with wood and hardware. The portable lantern contains a removable, rechargeable LED light with a frosted glass bulb.",
+          "image": [
+            {
+              "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lanterne-pm-by-zanellato-and-bortotto-home--R97255_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+              "@type": "ImageObject",
+              "name": "Front view",
+              "@context": "http://schema.org"
+            },
+            {
+              "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lanterne-pm-by-zanellato-and-bortotto-home--R97255_PM1_Closeup view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+              "@type": "ImageObject",
+              "name": "Closeup view",
+              "@context": "http://schema.org"
+            },
+            {
+              "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lanterne-pm-by-zanellato-and-bortotto-home--R97255_PM1_Detail view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+              "@type": "ImageObject",
+              "name": "Detail view",
+              "@context": "http://schema.org"
+            },
+            {
+              "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lanterne-pm-by-zanellato-and-bortotto-home--R97255_PM1_Ambiance view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+              "@type": "ImageObject",
+              "name": "Ambiance view",
+              "@context": "http://schema.org"
+            }
+          ],
+          "url": "/jpn-jp/products/lanterne-pm-by-zanellato-and-bortotto-nvprod2880069v",
+          "material": "COWHIDE",
+          "highEndTemplate": false,
+          "productId": "nvprod2880069v",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "colorIconURL",
+              "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-WAT-Z05_red.jpg"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "detailedDescription",
+              "value": "<ul>\n  <li>W 10 x H 19.7 inches/W 25 x H 50 cm</li>\n  <li>Red</li>\n  <li>70% cowhide leather, 10% stainless steel, 15% wood, 5% hardware</li>\n  <li>Light exterior: blown glass, aluminum</li>\n  <li>Light interior: LED rechargeable lithium-ion battery</li>\n  <li>Removable light</li>\n  <li>Lifetime: 500 recharge cycles</li>\n</ul>"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "activateEngraving",
+              "value": false
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "sellable",
+              "value": false
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "cscSellable",
+              "value": true
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "mom",
+              "value": false
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "locateInStore",
+              "value": true
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "materialGroupCode",
+              "value": "Z01"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "filterCategories",
+              "value": "Leather_Goods_and_Accessories"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "backOrderDisclaimer",
+              "value": true
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "backOrderFullDeposit",
+              "value": false
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "tryOnEnabled",
+              "value": false
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "isBundle",
+              "value": false
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "360ViewEnabled",
+              "value": false
+            }
+          ],
+          "category": [
+            {
+              "@type": "Thing",
+              "url": "/jpn-jp/art-of-living/_/N-kmf9ty",
+              "alternateName": "art-of-living",
+              "name": "Art Of Living",
+              "identifier": "nvcat1840004v"
+            },
+            {
+              "@type": "Thing",
+              "url": "/jpn-jp/art-of-living/home/_/N-1181e7i",
+              "alternateName": "home",
+              "name": "Home",
+              "identifier": "nvcat1840008v"
+            },
+            {
+              "@type": "Thing",
+              "url": "/jpn-jp/art-of-living/home/objects-of-decoration/_/N-jsv3lk",
+              "alternateName": "objects-of-decoration",
+              "name": "Objects of Decoration",
+              "identifier": "nvcat1840021v"
+            }
+          ],
+          "disclaimers": {
+            "value": "shipping_warning_bo",
+            "popInContent": "global_backorder_info_popin_content",
+            "popInTitle": "global_backorder_info_popin_title"
+          },
+          "color": "レッド",
+          "@context": "http://schema.org",
+          "identifier": "R97255"
+        },
+        {
+          "productVisible": true,
+          "_links": {
+            "look": {
+              "href": "/api/catalog/jpn-jp/skus/R97254/look"
+            },
+            "parent": {
+              "href": "/api/catalog/jpn-jp/product/nvprod2880069v"
+            },
+            "self": {
+              "href": "/api/catalog/jpn-jp/product/R97254"
+            },
+            "perso-details": {
+              "href": "/api/catalog/jpn-jp/skus/R97254/perso-detail"
+            },
+            "/api/rels/jpn-jp/add-to-cart-base/nvprod2880069v/R97254/1": {
+              "name": "add-to-cart",
+              "href": "/api/cart/jpn-jp"
+            }
+          },
+          "macroColor": "グリーン",
+          "@type": "ProductModel",
+          "height": {
+            "@type": "QuantitativeValue",
+            "value": 30,
+            "unitText": "cm"
+          },
+          "name": "Lanterne PM By Zanellato and Bortotto",
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": 26.5,
+            "unitText": "cm"
+          },
+          "offers": {
+            "priceSpecification": {
+              "priceCurrency": "JPY",
+              "price": 803000
+            },
+            "@type": "Offer",
+            "price": "¥803,000"
+          },
+          "disambiguatingDescription": "Part of the House's Objets Nomades collection, the LANTERNE By Zanellato / Bortotto PM is a celebration of travel, inspired by summer nights dancing under string lights. The design from Giorgia Zanellato and Daniele Bortotto consists of a woven leather honeycomb cage finished with wood and hardware. The portable lantern contains a removable, rechargeable LED light with a frosted glass bulb.",
+          "image": [
+            {
+              "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lanterne-pm-by-zanellato-and-bortotto-home--R97254_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+              "@type": "ImageObject",
+              "name": "Front view",
+              "@context": "http://schema.org"
+            },
+            {
+              "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lanterne-pm-by-zanellato-and-bortotto-home--R97254_PM1_Closeup view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+              "@type": "ImageObject",
+              "name": "Closeup view",
+              "@context": "http://schema.org"
+            },
+            {
+              "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lanterne-pm-by-zanellato-and-bortotto-home--R97254_PM1_Detail view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+              "@type": "ImageObject",
+              "name": "Detail view",
+              "@context": "http://schema.org"
+            },
+            {
+              "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lanterne-pm-by-zanellato-and-bortotto-home--R97254_PM1_Ambiance view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+              "@type": "ImageObject",
+              "name": "Ambiance view",
+              "@context": "http://schema.org"
+            }
+          ],
+          "url": "/jpn-jp/products/lanterne-pm-by-zanellato-and-bortotto-nvprod2880069v",
+          "material": "COWHIDE",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": 26.5,
+            "unitText": "cm"
+          },
+          "highEndTemplate": false,
+          "productId": "nvprod2880069v",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "colorIconURL",
+              "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-LG-96Y_pistache.jpg"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "detailedDescription",
+              "value": "<ul>\n  <li>W 10 x H 19.7 inches/W 25 x H 50 cm</li>\n  <li>Pistachio Green</li>\n  <li>70% cowhide leather, 10% stainless steel, 15% wood, 5% hardware</li>\n  <li>Light exterior: blown glass, aluminum</li>\n  <li>Light interior: LED rechargeable lithium-ion battery</li>\n  <li>Removable light</li>\n  <li>Lifetime: 500 recharge cycles</li>\n</ul>"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "activateEngraving",
+              "value": false
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "sellable",
+              "value": false
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "cscSellable",
+              "value": true
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "mom",
+              "value": false
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "locateInStore",
+              "value": true
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "materialGroupCode",
+              "value": "Z01"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "filterCategories",
+              "value": "Leather_Goods_and_Accessories"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "backOrderDisclaimer",
+              "value": true
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "backOrderFullDeposit",
+              "value": false
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "tryOnEnabled",
+              "value": false
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "isBundle",
+              "value": false
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "360ViewEnabled",
+              "value": false
+            }
+          ],
+          "category": [
+            {
+              "@type": "Thing",
+              "url": "/jpn-jp/art-of-living/_/N-kmf9ty",
+              "alternateName": "art-of-living",
+              "name": "Art Of Living",
+              "identifier": "nvcat1840004v"
+            },
+            {
+              "@type": "Thing",
+              "url": "/jpn-jp/art-of-living/home/_/N-1181e7i",
+              "alternateName": "home",
+              "name": "Home",
+              "identifier": "nvcat1840008v"
+            },
+            {
+              "@type": "Thing",
+              "url": "/jpn-jp/art-of-living/home/objects-of-decoration/_/N-jsv3lk",
+              "alternateName": "objects-of-decoration",
+              "name": "Objects of Decoration",
+              "identifier": "nvcat1840021v"
+            }
+          ],
+          "disclaimers": {
+            "value": "shipping_warning_bo",
+            "popInContent": "global_backorder_info_popin_content",
+            "popInTitle": "global_backorder_info_popin_title"
+          },
+          "color": "Pistache",
+          "@context": "http://schema.org",
+          "identifier": "R97254"
+        }
+      ],
+      "_links": {
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/nvprod2880069v"
+        },
+        "push": {
+          "href": "/api/catalog/jpn-jp/product-push/nvprod2880069v"
+        },
+        "care-link": {
+          "href": "/api/catalog/jpn-jp/care-link/nvprod2880069v"
+        },
+        "availability": {
+          "href": "/api/catalog/jpn-jp/availability/nvprod2880069v"
+        }
+      },
+      "@type": "Product",
+      "sku": "R97255",
+      "productTips": [],
+      "url": "/jpn-jp/products/lanterne-pm-by-zanellato-and-bortotto-nvprod2880069v",
+      "material": "ファッション小物",
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/art-of-living/_/N-kmf9ty",
+          "alternateName": "art-of-living",
+          "name": "Art Of Living",
+          "identifier": "nvcat1840004v"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/art-of-living/home/_/N-1181e7i",
+          "alternateName": "home",
+          "name": "Home",
+          "identifier": "nvcat1840008v"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/art-of-living/home/objects-of-decoration/_/N-jsv3lk",
+          "alternateName": "objects-of-decoration",
+          "name": "Objects of Decoration",
+          "identifier": "nvcat1840021v"
+        }
+      ],
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "hidePrice",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "subType",
+          "value": "product"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--AEL-LG-N00_sans_ligne_esthetique.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sizeGuide",
+          "value": false
+        }
+      ],
+      "name": "Lanterne PM By Zanellato and Bortotto",
+      "@context": "http://schema.org",
+      "identifier": "nvprod2880069v"
+    }
+  ],
+  "productTips": [],
+  "url": "/jpn-jp/products/lanterne-gm-by-zanellato-and-bortotto-nvprod2810163v",
+  "material": "ファッション小物",
+  "category": [
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/art-of-living/_/N-kmf9ty",
+      "alternateName": "art-of-living",
+      "name": "Art Of Living",
+      "identifier": "nvcat1840004v"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/art-of-living/home/_/N-1181e7i",
+      "alternateName": "home",
+      "name": "Home",
+      "identifier": "nvcat1840008v"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/art-of-living/home/objects-of-decoration/_/N-jsv3lk",
+      "alternateName": "objects-of-decoration",
+      "name": "Objects of Decoration",
+      "identifier": "nvcat1840021v"
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "hidePrice",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "subType",
+      "value": "product"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "materialIconURL",
+      "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--AEL-LG-N00_sans_ligne_esthetique.jpg"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "sizeGuide",
+      "value": false
+    }
+  ],
+  "name": "Lanterne GM By Zanellato and Bortotto",
+  "isRelatedTo": [],
+  "@context": "http://schema.org",
+  "identifier": "nvprod2810163v"
+}

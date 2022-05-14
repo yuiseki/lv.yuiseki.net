@@ -1,0 +1,776 @@
+{
+  "model": [
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/M77605/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod3570127v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/M77605"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/M77605/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod3570127v/M77605/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ブルー",
+      "@type": "ProductModel",
+      "height": {
+        "@type": "QuantitativeValue",
+        "value": 7,
+        "unitText": "cm"
+      },
+      "name": "クラヴァット・LVスィン ストライプス 7CM",
+      "mainMaterial2": "SILK",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 26400
+        },
+        "@type": "Offer",
+        "price": "¥26,400"
+      },
+      "disambiguatingDescription": "洗練と美しさを兼ね備えた多彩なスタイリングをお楽しみいただける「クラヴァット･LVスィン ストライプス 7CM」。コントラストの効いた斜めストライプを織り込み、モノグラム･パターンをさりげなく施しました。シルク100%でエレガントに仕上げた、タイムレスなカラーバリエーションが揃う控えめなアクセサリーです。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-クラヴァット・lvスィン-ストライプス-7cm-s00-ネクタイ、ポケットチーフ--M77605_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-クラヴァット・lvスィン-ストライプス-7cm-s00-ネクタイ、ポケットチーフ--M77605_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-クラヴァット・lvスィン-ストライプス-7cm-s00-ネクタイ、ポケットチーフ--M77605_PM1_Detail view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Detail view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-クラヴァット・lvスィン-ストライプス-7cm-s00-ネクタイ、ポケットチーフ--M77605_PM1_Back view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Back view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/lv-thin-stripes-tie-s00-nvprod3570127v",
+      "material": "SILK",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 148,
+        "unitText": "cm"
+      },
+      "highEndTemplate": false,
+      "productId": "nvprod3570127v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-ACC-914_bleu_pale_v948.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>幅：7 cm</li><li>素材：シルク 100%</li><li>モノグラム･パターン</li><li>ストライプ</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories;Sunglasses"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-1cyoz77",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/accessories/_/N-1d0iakb",
+          "alternateName": "accessories",
+          "name": "アクセサリー",
+          "identifier": "m-category-cat10052"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/accessories/ties-and-pocket-squares/_/N-cg9lew",
+          "alternateName": "ties-and-pocket-squares",
+          "name": "ネクタイ、ポケットチーフ",
+          "identifier": "nvcat1170023v"
+        }
+      ],
+      "disclaimers": {
+        "value": "shipping_warning_bo",
+        "popInContent": "global_backorder_info_popin_content",
+        "popInTitle": "global_backorder_info_popin_title"
+      },
+      "color": "ホワイトブルー",
+      "@context": "http://schema.org",
+      "identifier": "M77605"
+    },
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/M77606/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod3570127v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/M77606"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/M77606/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod3570127v/M77606/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ブルー",
+      "@type": "ProductModel",
+      "height": {
+        "@type": "QuantitativeValue",
+        "value": 7,
+        "unitText": "cm"
+      },
+      "name": "クラヴァット・LVスィン ストライプス 7CM",
+      "mainMaterial2": "SILK",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 26400
+        },
+        "@type": "Offer",
+        "price": "¥26,400"
+      },
+      "disambiguatingDescription": "洗練と美しさを兼ね備えた多彩なスタイリングをお楽しみいただける「クラヴァット･LVスィン ストライプス 7CM」。コントラストの効いた斜めストライプを織り込み、モノグラム･パターンをさりげなく施しました。シルク100%でエレガントに仕上げた、タイムレスなカラーバリエーションが揃う控えめなアクセサリーです。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-クラヴァット・lvスィン-ストライプス-7cm-s00-ネクタイ、ポケットチーフ--M77606_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-クラヴァット・lvスィン-ストライプス-7cm-s00-ネクタイ、ポケットチーフ--M77606_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-クラヴァット・lvスィン-ストライプス-7cm-s00-ネクタイ、ポケットチーフ--M77606_PM1_Detail view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Detail view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-クラヴァット・lvスィン-ストライプス-7cm-s00-ネクタイ、ポケットチーフ--M77606_PM1_Back view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Back view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/lv-thin-stripes-tie-s00-nvprod3570127v",
+      "material": "SILK",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 148,
+        "unitText": "cm"
+      },
+      "highEndTemplate": false,
+      "productId": "nvprod3570127v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-ACC-92N_navy_.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>幅：7 cm</li><li>素材：シルク 100%</li><li>モノグラム･パターン</li><li>ストライプ</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories;Sunglasses"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-1cyoz77",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/accessories/_/N-1d0iakb",
+          "alternateName": "accessories",
+          "name": "アクセサリー",
+          "identifier": "m-category-cat10052"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/accessories/ties-and-pocket-squares/_/N-cg9lew",
+          "alternateName": "ties-and-pocket-squares",
+          "name": "ネクタイ、ポケットチーフ",
+          "identifier": "nvcat1170023v"
+        }
+      ],
+      "disclaimers": {
+        "value": "pre_order_disclaimer",
+        "popInContent": "pre_order_disclaimer_info_popin_content",
+        "popInTitle": "pre_order_disclaimer_info_popin_title"
+      },
+      "color": "ネイビー",
+      "@context": "http://schema.org",
+      "identifier": "M77606"
+    },
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/M77607/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod3570127v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/M77607"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/M77607/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod3570127v/M77607/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "グレー",
+      "@type": "ProductModel",
+      "height": {
+        "@type": "QuantitativeValue",
+        "value": 7,
+        "unitText": "cm"
+      },
+      "name": "クラヴァット・LVスィン ストライプス 7CM",
+      "mainMaterial2": "SILK",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 26400
+        },
+        "@type": "Offer",
+        "price": "¥26,400"
+      },
+      "disambiguatingDescription": "洗練と美しさを兼ね備えた多彩なスタイリングをお楽しみいただける「クラヴァット･LVスィン ストライプス 7CM」。コントラストの効いた斜めストライプを織り込み、モノグラム･パターンをさりげなく施しました。シルク100%でエレガントに仕上げた、タイムレスなカラーバリエーションが揃う控えめなアクセサリーです。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-クラヴァット・lvスィン-ストライプス-7cm-s00-ネクタイ、ポケットチーフ--M77607_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-クラヴァット・lvスィン-ストライプス-7cm-s00-ネクタイ、ポケットチーフ--M77607_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-クラヴァット・lvスィン-ストライプス-7cm-s00-ネクタイ、ポケットチーフ--M77607_PM1_Detail view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Detail view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-クラヴァット・lvスィン-ストライプス-7cm-s00-ネクタイ、ポケットチーフ--M77607_PM1_Back view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Back view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/lv-thin-stripes-tie-s00-nvprod3570127v",
+      "material": "SILK",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 148,
+        "unitText": "cm"
+      },
+      "highEndTemplate": false,
+      "productId": "nvprod3570127v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-ACC-952_gris_clair.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>幅：7 cm</li><li>素材：シルク 100%</li><li>モノグラム･パターン</li><li>ストライプ</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories;Sunglasses"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-1cyoz77",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/accessories/_/N-1d0iakb",
+          "alternateName": "accessories",
+          "name": "アクセサリー",
+          "identifier": "m-category-cat10052"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/accessories/ties-and-pocket-squares/_/N-cg9lew",
+          "alternateName": "ties-and-pocket-squares",
+          "name": "ネクタイ、ポケットチーフ",
+          "identifier": "nvcat1170023v"
+        }
+      ],
+      "disclaimers": {
+        "value": "pre_order_disclaimer",
+        "popInContent": "pre_order_disclaimer_info_popin_content",
+        "popInTitle": "pre_order_disclaimer_info_popin_title"
+      },
+      "color": "グリクレール",
+      "@context": "http://schema.org",
+      "identifier": "M77607"
+    },
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/M77720/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod3570127v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/M77720"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/M77720/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod3570127v/M77720/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ピンク",
+      "@type": "ProductModel",
+      "height": {
+        "@type": "QuantitativeValue",
+        "value": 7,
+        "unitText": "cm"
+      },
+      "name": "クラヴァット・LVスィン ストライプス 7CM",
+      "mainMaterial2": "SILK",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 26400
+        },
+        "@type": "Offer",
+        "price": "¥26,400"
+      },
+      "disambiguatingDescription": "伝統的なデザインにモダンなアクセントを加えた「クラヴァット･LVスィン ストライプス 7CM」。光沢感のあるシルクを使用し、細身の斜めストライプをあしらい精緻に仕立てました。アイコニックなモノグラム･モチーフが美しく配され、洗練されたアイテムにメゾンならではの雰囲気を添えます。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-クラヴァット・lvスィン-ストライプス-7cm-s00-ネクタイ、ポケットチーフ--M77720_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-クラヴァット・lvスィン-ストライプス-7cm-s00-ネクタイ、ポケットチーフ--M77720_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-クラヴァット・lvスィン-ストライプス-7cm-s00-ネクタイ、ポケットチーフ--M77720_PM1_Detail view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Detail view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-クラヴァット・lvスィン-ストライプス-7cm-s00-ネクタイ、ポケットチーフ--M77720_PM1_Back view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Back view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/lv-thin-stripes-tie-s00-nvprod3570127v",
+      "material": "SILK",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 148,
+        "unitText": "cm"
+      },
+      "highEndTemplate": false,
+      "productId": "nvprod3570127v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-ACC-9PK_pink_.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>幅：7 cm</li><li>素材：シルク 100%</li><li>モノグラム･パターンの刺繍</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories;Sunglasses"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-1cyoz77",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/accessories/_/N-1d0iakb",
+          "alternateName": "accessories",
+          "name": "アクセサリー",
+          "identifier": "m-category-cat10052"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/accessories/ties-and-pocket-squares/_/N-cg9lew",
+          "alternateName": "ties-and-pocket-squares",
+          "name": "ネクタイ、ポケットチーフ",
+          "identifier": "nvcat1170023v"
+        }
+      ],
+      "disclaimers": {
+        "value": "pre_order_disclaimer",
+        "popInContent": "pre_order_disclaimer_info_popin_content",
+        "popInTitle": "pre_order_disclaimer_info_popin_title"
+      },
+      "color": "ピンク",
+      "@context": "http://schema.org",
+      "identifier": "M77720"
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "/api/catalog/jpn-jp/product/nvprod3570127v"
+    },
+    "push": {
+      "href": "/api/catalog/jpn-jp/product-push/nvprod3570127v"
+    },
+    "care-link": {
+      "href": "/api/catalog/jpn-jp/care-link/nvprod3570127v"
+    },
+    "availability": {
+      "href": "/api/catalog/jpn-jp/availability/nvprod3570127v"
+    }
+  },
+  "@type": "Product",
+  "sku": "M77605",
+  "isSimilarTo": [],
+  "productTips": [],
+  "url": "/jpn-jp/products/lv-thin-stripes-tie-s00-nvprod3570127v",
+  "material": "NOT APPLICABLE ACC",
+  "category": [
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/_/N-1cyoz77",
+      "alternateName": "men",
+      "name": "メンズ",
+      "identifier": "homme"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/accessories/_/N-1d0iakb",
+      "alternateName": "accessories",
+      "name": "アクセサリー",
+      "identifier": "m-category-cat10052"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/accessories/ties-and-pocket-squares/_/N-cg9lew",
+      "alternateName": "ties-and-pocket-squares",
+      "name": "ネクタイ、ポケットチーフ",
+      "identifier": "nvcat1170023v"
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "hidePrice",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "subType",
+      "value": "product"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "sizeGuide",
+      "value": false
+    }
+  ],
+  "name": "クラヴァット・LVスィン ストライプス 7CM",
+  "isRelatedTo": [],
+  "@context": "http://schema.org",
+  "identifier": "nvprod3570127v"
+}

@@ -1,0 +1,186 @@
+{
+  "model": [
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/nvsku3080018v/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod3480018v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/nvsku3080018v"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/nvsku3080018v/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod3480018v/nvsku3080018v/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "@type": "ProductModel",
+      "name": "SPRING-SUMMER 2022 Show - LOOK 08",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton--Women_Show_SS22_Act1_LOOK08_VISUAL4.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "SS22",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/spring-summer-2022-show-look-08-nvprod3480018v",
+      "highEndTemplate": false,
+      "productId": "nvprod3480018v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/_/N-1q5sgib",
+          "alternateName": "women",
+          "name": "ウィメンズ",
+          "identifier": "femme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/ready-to-wear/_/N-1nzqmbe",
+          "alternateName": "ready-to-wear",
+          "name": "プレタポルテ（洋服）",
+          "identifier": "w-readytowear"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/ready-to-wear/view-by-look/_/N-zazi08",
+          "alternateName": "view-by-look",
+          "name": "ルックブック",
+          "identifier": "nvcat460115v"
+        }
+      ],
+      "disclaimers": {
+        "value": "shipping_warning_bo",
+        "popInContent": "global_backorder_info_popin_content",
+        "popInTitle": "global_backorder_info_popin_title"
+      },
+      "@context": "http://schema.org",
+      "identifier": "nvsku3080018v"
+    }
+  ],
+  "readyToWearSKUs": [],
+  "disambiguatingDescription": "マスキュリン & フェミニンなデザインにエレガンスが薫るルック。大ぶりの襟、エポレット、リストアジャスターを合わせた、メンズ･ウェアのシルエットを彷彿させるベルト付きオーバーコートは、セミフィットの構築的なフォルムが光ります。アングレーズ刺繍のインサートと繊細なマザー･オブ･パールのボタンがロマンティックな雰囲気を演出する定番シャツのインナーに、今コレクションを象徴するヴィンテージ風のデニムパンツを合わせました。",
+  "_links": {
+    "self": {
+      "href": "/api/catalog/jpn-jp/product/nvprod3480018v"
+    },
+    "push": {
+      "href": "/api/catalog/jpn-jp/product-push/nvprod3480018v"
+    },
+    "care-link": {
+      "href": "/api/catalog/jpn-jp/care-link/nvprod3480018v"
+    },
+    "availability": {
+      "href": "/api/catalog/jpn-jp/availability/nvprod3480018v"
+    }
+  },
+  "@type": "Product",
+  "sku": "nvsku3080018v",
+  "isSimilarTo": [],
+  "productTips": [],
+  "url": "/jpn-jp/products/spring-summer-2022-show-look-08-nvprod3480018v",
+  "accessoriesSKUs": [],
+  "category": [
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/women/_/N-1q5sgib",
+      "alternateName": "women",
+      "name": "ウィメンズ",
+      "identifier": "femme"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/women/ready-to-wear/_/N-1nzqmbe",
+      "alternateName": "ready-to-wear",
+      "name": "プレタポルテ（洋服）",
+      "identifier": "w-readytowear"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/women/ready-to-wear/view-by-look/_/N-zazi08",
+      "alternateName": "view-by-look",
+      "name": "ルックブック",
+      "identifier": "nvcat460115v"
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "hidePrice",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "subType",
+      "value": "product"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "sizeGuide",
+      "value": false
+    }
+  ],
+  "name": "2022春夏ショー - LOOK 08",
+  "isRelatedTo": [],
+  "@context": "http://schema.org",
+  "identifier": "nvprod3480018v"
+}

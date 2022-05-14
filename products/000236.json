@@ -1,0 +1,283 @@
+{
+  "model": [
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/N47625/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/000236"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/N47625"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/N47625/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/000236/N47625/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "グレー",
+      "@type": "ProductModel",
+      "height": {
+        "@type": "QuantitativeValue",
+        "value": 20,
+        "unitText": "cm"
+      },
+      "name": "Toiletry Pouch",
+      "mainMaterial2": "COATED CANVAS",
+      "width": {
+        "@type": "QuantitativeValue",
+        "value": 9.3,
+        "unitText": "cm"
+      },
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 106700
+        },
+        "@type": "Offer",
+        "price": "¥106,700"
+      },
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-toiletry-pouch-ダミエ・グラフィット-travel--N47625_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-toiletry-pouch-ダミエ・グラフィット-travel--N47625_PM1_Closeup view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Closeup view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-toiletry-pouch-ダミエ・グラフィット-travel--N47625_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-toiletry-pouch-ダミエ・グラフィット-travel--N47625_PM1_Interior view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Interior view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-toiletry-pouch-ダミエ・グラフィット-travel--N47625_PM1_Detail view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Detail view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-toiletry-pouch-ダミエ・グラフィット-travel--N47625_PM1_Back view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Back view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/toiletry-pouch-damier-graphite-canvas-000236",
+      "material": "ダミエ・グラフィット",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 28,
+        "unitText": "cm"
+      },
+      "highEndTemplate": false,
+      "productId": "000236",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-LG-9GA_graphite.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul> \n <li>Damier Graphite canvas, cotton lining, leather trimmings</li> \n <li>Silvery brass pieces</li> \n <li>Wide opening zipper closure</li> \n <li>One inside zipped pocket</li> \n</ul><p>The reference is either made in France, Spain, Italy or in the US.</p>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--AEL-LG-D05_damier_graphite.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "hotstampable",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z01"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-1cyoz77",
+          "alternateName": "men",
+          "name": "Men",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/travel/_/N-6i5cqv",
+          "alternateName": "travel",
+          "name": "Travel",
+          "identifier": "m-category-cat10013"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/travel/all-luggage-and-accessories/_/N-pnu6e",
+          "alternateName": "all-luggage-and-accessories",
+          "name": "All Luggage and Accessories",
+          "identifier": "nvcat20004v"
+        }
+      ],
+      "disclaimers": {
+        "value": "pre_order_disclaimer",
+        "popInContent": "pre_order_disclaimer_info_popin_content",
+        "popInTitle": "pre_order_disclaimer_info_popin_title"
+      },
+      "color": "Graphite",
+      "@context": "http://schema.org",
+      "identifier": "N47625"
+    }
+  ],
+  "panelInformations": [
+    {
+      "@type": "Sustainability",
+      "title": "Sustainability",
+      "description": "The leather used in this product comes from a tannery audited and certified by the Leather Working Group (LWG), which is the highest environmental standard in terms of leather tanning. This standard requires tanneries to reduce their water and energy consumption, as well as their use of potentially hazardous substances. The tanneries we work with are located in Europe and are committed partners who work with us in our efforts for responsible sourcing and continuous improvement (implementation of material traceability systems, fighting against deforestation practices)."
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "/api/catalog/jpn-jp/product/000236"
+    },
+    "push": {
+      "href": "/api/catalog/jpn-jp/product-push/000236"
+    },
+    "care-link": {
+      "href": "/api/catalog/jpn-jp/care-link/000236"
+    },
+    "availability": {
+      "href": "/api/catalog/jpn-jp/availability/000236"
+    }
+  },
+  "@type": "Product",
+  "sku": "N47625",
+  "isSimilarTo": [],
+  "productTips": [],
+  "url": "/jpn-jp/products/toiletry-pouch-damier-graphite-canvas-000236",
+  "material": "ダミエ・グラフィット",
+  "category": [
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/_/N-1cyoz77",
+      "alternateName": "men",
+      "name": "Men",
+      "identifier": "homme"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/travel/_/N-6i5cqv",
+      "alternateName": "travel",
+      "name": "Travel",
+      "identifier": "m-category-cat10013"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/travel/all-luggage-and-accessories/_/N-pnu6e",
+      "alternateName": "all-luggage-and-accessories",
+      "name": "All Luggage and Accessories",
+      "identifier": "nvcat20004v"
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "hidePrice",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "subType",
+      "value": "product"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "materialIconURL",
+      "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--AEL-LG-D05_damier_graphite.jpg"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "hotStampable",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "careLink",
+      "value": "MATAEL-LG-D05"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "sizeGuide",
+      "value": false
+    }
+  ],
+  "name": "Toiletry Pouch",
+  "isRelatedTo": [],
+  "@context": "http://schema.org",
+  "identifier": "000236"
+}

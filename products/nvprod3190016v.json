@@ -1,0 +1,229 @@
+{
+  "model": [
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/M00564/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod3190016v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/M00564"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/M00564/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod3190016v/M00564/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ブラック",
+      "@type": "ProductModel",
+      "name": "バレッタ・クルーザー",
+      "mainMaterial2": "BRASS",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 69300
+        },
+        "@type": "Offer",
+        "price": "¥69,300"
+      },
+      "disambiguatingDescription": "カーフレザーと煌めくメタルパーツを組み合わせたシックなヘアアクセサリー「バレッタ･クルーザー」。落ち着いたカラーのレザーにあしらった5つのモノグラム･モチーフがさりげないステートメントを放ちます。「クルーザー」コレクションのブレスレット、ベルト、ピアスなどとも相性抜群です。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-バレッタ・クルーザー-s00-ヘアアクセサリー--M00564_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-バレッタ・クルーザー-s00-ヘアアクセサリー--M00564_PM1_Worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Worn view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-バレッタ・クルーザー-s00-ヘアアクセサリー--M00564_PM1_Back view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Back view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/cruiser-hair-clip-s00-nvprod3190016v",
+      "material": "CALFSKIN",
+      "highEndTemplate": false,
+      "productId": "nvprod3190016v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-ACC-980_black.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>ヘアクリップ</li><li>幅：7.5cm</li><li>高さ：3cm</li><li>素材：カーフレザー（皮革の種類：牛革）</li><li>金具（色：ゴールド）</li><li>モノグラム･パターンのエレメント</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories;Sunglasses"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/_/N-1q5sgib",
+          "alternateName": "women",
+          "name": "ウィメンズ",
+          "identifier": "femme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/accessories/_/N-1oyzg8c",
+          "alternateName": "accessories",
+          "name": "アクセサリー",
+          "identifier": "w-category-cat10155"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/accessories/hair-accessories/_/N-12ji1u2",
+          "alternateName": "hair-accessories",
+          "name": "ヘアアクセサリー",
+          "identifier": "nvcat2460008v"
+        }
+      ],
+      "disclaimers": {
+        "value": "shipping_warning_bo",
+        "popInContent": "global_backorder_info_popin_content",
+        "popInTitle": "global_backorder_info_popin_title"
+      },
+      "color": "ノワール",
+      "@context": "http://schema.org",
+      "identifier": "M00564"
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "/api/catalog/jpn-jp/product/nvprod3190016v"
+    },
+    "push": {
+      "href": "/api/catalog/jpn-jp/product-push/nvprod3190016v"
+    },
+    "care-link": {
+      "href": "/api/catalog/jpn-jp/care-link/nvprod3190016v"
+    },
+    "availability": {
+      "href": "/api/catalog/jpn-jp/availability/nvprod3190016v"
+    }
+  },
+  "@type": "Product",
+  "sku": "M00564",
+  "isSimilarTo": [],
+  "productTips": [],
+  "url": "/jpn-jp/products/cruiser-hair-clip-s00-nvprod3190016v",
+  "material": "NOT APPLICABLE ACC",
+  "category": [
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/women/_/N-1q5sgib",
+      "alternateName": "women",
+      "name": "ウィメンズ",
+      "identifier": "femme"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/women/accessories/_/N-1oyzg8c",
+      "alternateName": "accessories",
+      "name": "アクセサリー",
+      "identifier": "w-category-cat10155"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/women/accessories/hair-accessories/_/N-12ji1u2",
+      "alternateName": "hair-accessories",
+      "name": "ヘアアクセサリー",
+      "identifier": "nvcat2460008v"
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "hidePrice",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "subType",
+      "value": "product"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "sizeGuide",
+      "value": false
+    }
+  ],
+  "name": "バレッタ・クルーザー",
+  "isRelatedTo": [],
+  "@context": "http://schema.org",
+  "identifier": "nvprod3190016v"
+}

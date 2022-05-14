@@ -1,0 +1,399 @@
+{
+  "model": [
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/R98900/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod1250311v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/R98900"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/R98900/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod1250311v/R98900/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ブラック",
+      "@type": "ProductModel",
+      "height": {
+        "@type": "QuantitativeValue",
+        "value": 54,
+        "unitText": "cm"
+      },
+      "name": "Swing Boat By Atelier Oï",
+      "width": {
+        "@type": "QuantitativeValue",
+        "value": 74,
+        "unitText": "cm"
+      },
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 4906000
+        },
+        "@type": "Offer",
+        "price": "¥4,906,000"
+      },
+      "disambiguatingDescription": "アトリエ･オイの3人のデザイナーたちが、スイスのビール湖に浮かぶヴィンテージ風の折り畳み式ボートから着想を得て作り上げた「Swing Boat」。「ルイ･ヴィトン オブジェ･ノマド コレクション」のためにデザインされた、革新的なハンギング型のソファです。レザーのパッド、「ボート」を支えるウッドやファブリック、メタリックなヒンジといった各パーツにトランク製造業者であるルイ･ヴィトンの高度な技術を凝縮しました。穏やかな揺れが波間に浮かんでいるような夢心地の時間を演出します。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-swing-boat-by-atelier-oï-ホーム--R98900_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/swing-boat-by-atelier-oi-nvprod1250311v",
+      "material": "COWHIDE",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 163,
+        "unitText": "cm"
+      },
+      "highEndTemplate": false,
+      "productId": "nvprod1250311v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-ON-Black_Turquoise.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>サイズ： 58 cm x 160cm x 70 cm</li><li>別売りスタンド： 215 x 190 x 115 cm</li><li>オブジェ･ノマド コレクション</li><li>重さ：35 kg</li><li>素材：レザー（皮革の種類：牛革）、アッシュ木材、コットン・キャンバス、ゴールドカラーのスチール</li><li>耐荷重：200 kg</li><li>ウールクッション</li><li>使用しない時には折りたたんで簡単に収納可能</li><li>各30色限定</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z01"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/art-of-living/_/N-kmf9ty",
+          "alternateName": "art-of-living",
+          "name": "ライフスタイル",
+          "identifier": "nvcat1840004v"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/art-of-living/home/_/N-1181e7i",
+          "alternateName": "home",
+          "name": "ホーム",
+          "identifier": "nvcat1840008v"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/art-of-living/home/furniture/_/N-lpzrtm",
+          "alternateName": "furniture",
+          "name": "ファニチャー",
+          "identifier": "nvcat1840019v"
+        }
+      ],
+      "disclaimers": {
+        "value": "shipping_warning_bo",
+        "popInContent": "global_backorder_info_popin_content",
+        "popInTitle": "global_backorder_info_popin_title"
+      },
+      "color": "ブラック ターコイズ",
+      "@context": "http://schema.org",
+      "identifier": "R98900"
+    },
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/R98899/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod1250311v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/R98899"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/R98899/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod1250311v/R98899/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ホワイト",
+      "@type": "ProductModel",
+      "height": {
+        "@type": "QuantitativeValue",
+        "value": 54,
+        "unitText": "cm"
+      },
+      "name": "Swing Boat By Atelier Oï",
+      "width": {
+        "@type": "QuantitativeValue",
+        "value": 74,
+        "unitText": "cm"
+      },
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 4906000
+        },
+        "@type": "Offer",
+        "price": "¥4,906,000"
+      },
+      "disambiguatingDescription": "アトリエ･オイの3人のデザイナーたちが、スイスのビール湖に浮かぶヴィンテージ風の折り畳み式ボートから着想を得て作り上げた「Swing Boat」。「ルイ･ヴィトン オブジェ･ノマド コレクション」のためにデザインされた、革新的なハンギング型のソファです。レザーのパッド、「ボート」を支えるウッドやファブリック、メタリックなヒンジといった各パーツにトランク製造業者であるルイ･ヴィトンの高度な技術を凝縮しました。穏やかな揺れが波間に浮かんでいるような夢心地の時間を演出します。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-swing-boat-by-atelier-oï-ホーム--R98899_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/swing-boat-by-atelier-oi-nvprod1250311v",
+      "material": "COWHIDE",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 163,
+        "unitText": "cm"
+      },
+      "highEndTemplate": false,
+      "productId": "nvprod1250311v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-LG-97D_milk.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>サイズ： 58 cm x 160cm x 70 cm</li><li>別売りスタンド： 215 x 190 x 115 cm</li><li>オブジェ･ノマド コレクション</li><li>重さ：35 kg</li><li>素材：レザー（皮革の種類：牛革）、アッシュ木材、コットン・キャンバス、ゴールドカラーのスチール</li><li>耐荷重：200 kg</li><li>ウールクッション</li><li>使用しない時には折りたたんで簡単に収納可能</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z01"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/art-of-living/_/N-kmf9ty",
+          "alternateName": "art-of-living",
+          "name": "ライフスタイル",
+          "identifier": "nvcat1840004v"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/art-of-living/home/_/N-1181e7i",
+          "alternateName": "home",
+          "name": "ホーム",
+          "identifier": "nvcat1840008v"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/art-of-living/home/furniture/_/N-lpzrtm",
+          "alternateName": "furniture",
+          "name": "ファニチャー",
+          "identifier": "nvcat1840019v"
+        }
+      ],
+      "disclaimers": {
+        "value": "shipping_warning_bo",
+        "popInContent": "global_backorder_info_popin_content",
+        "popInTitle": "global_backorder_info_popin_title"
+      },
+      "color": "Milk",
+      "@context": "http://schema.org",
+      "identifier": "R98899"
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "/api/catalog/jpn-jp/product/nvprod1250311v"
+    },
+    "push": {
+      "href": "/api/catalog/jpn-jp/product-push/nvprod1250311v"
+    },
+    "care-link": {
+      "href": "/api/catalog/jpn-jp/care-link/nvprod1250311v"
+    },
+    "availability": {
+      "href": "/api/catalog/jpn-jp/availability/nvprod1250311v"
+    }
+  },
+  "@type": "Product",
+  "sku": "R98899",
+  "isSimilarTo": [],
+  "productTips": [],
+  "url": "/jpn-jp/products/swing-boat-by-atelier-oi-nvprod1250311v",
+  "material": "ファッション小物",
+  "category": [
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/art-of-living/_/N-kmf9ty",
+      "alternateName": "art-of-living",
+      "name": "ライフスタイル",
+      "identifier": "nvcat1840004v"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/art-of-living/home/_/N-1181e7i",
+      "alternateName": "home",
+      "name": "ホーム",
+      "identifier": "nvcat1840008v"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/art-of-living/home/furniture/_/N-lpzrtm",
+      "alternateName": "furniture",
+      "name": "ファニチャー",
+      "identifier": "nvcat1840019v"
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "hidePrice",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "subType",
+      "value": "product"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "materialIconURL",
+      "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--AEL-LG-N00_sans_ligne_esthetique.jpg"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "sizeGuide",
+      "value": false
+    }
+  ],
+  "name": "Swing Boat By Atelier Oï",
+  "isRelatedTo": [],
+  "@context": "http://schema.org",
+  "identifier": "nvprod1250311v"
+}

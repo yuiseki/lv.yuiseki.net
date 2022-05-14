@@ -1,0 +1,786 @@
+{
+  "model": [
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/1A23FM/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/013955"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/1A23FM"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/1A23FM/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/013955/1A23FM/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ブルー",
+      "@type": "ProductModel",
+      "name": "オーセンティックレギュラーデニム",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 68200
+        },
+        "@type": "Offer",
+        "price": "¥68,200"
+      },
+      "disambiguatingDescription": "オーセンティックな日本製デニムで仕立てた着心地抜群のレギュラーフィットのパンツ。生デニム、もしくは色を保つためにワンウォッシュした素材を採用し、はき込むことで独自の色落ちの1着を生み出すアイテムです。フロントポケットのLVロゴの装飾と背面のトーン･オン･トーンのモノグラム･キャンバスのラベルがさりげないメゾンらしさを演出します。<p>ご不明な点がございましたら、クライアントサービスまでお気軽にお問合せください。専任のクライアントアドバイザーが、素材やサイズなどの製品詳細、モデル着用イメージや関連アイテムのご案内など、お客様のご要望に合わせたスタイリング・アドバイスをご提供いたします。</p><p>また、サイズ違いなどによる返品・交換のご相談も承ります。詳細は<a href='https://jp.louisvuitton.com/jpn-jp/legal-privacy'><b>こちら。</b></a></p>",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-オーセンティックレギュラーデニム-プレタポルテ（洋服）--HAD80WDKO650_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-オーセンティックレギュラーデニム-プレタポルテ（洋服）--HAD80WDKO650_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-オーセンティックレギュラーデニム-プレタポルテ（洋服）--HAD80WDKO650_PM1_Detail view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Detail view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-オーセンティックレギュラーデニム-プレタポルテ（洋服）--HAD80WDKO650_PM1_Other view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Other view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-オーセンティックレギュラーデニム-プレタポルテ（洋服）--HAD80WDKO650_PM1_Other view2.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Other view2",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/authentic-regular-jeans-013955",
+      "highEndTemplate": false,
+      "sizeDisplayName": "28",
+      "productId": "013955",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-WAT-Z11_indigo.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>素材：コットン 100%</li><li>30℃以下で弱流洗濯機洗い</li><li>他の物と分けて洗濯してください</li><li>裏返しにして洗濯してください</li><li>日本製</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "hotstampable",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z05"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Ready_To_Wear_Men"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-1cyoz77",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/ready-to-wear/_/N-1lpb5id",
+          "alternateName": "ready-to-wear",
+          "name": "プレタポルテ（洋服）",
+          "identifier": "m-readytowear"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/ready-to-wear/denim/_/N-11ibh9k",
+          "alternateName": "denim",
+          "name": "メンズ デニム",
+          "identifier": "m-denim-mrtw"
+        }
+      ],
+      "disclaimers": {
+        "value": "pre_order_disclaimer",
+        "popInContent": "pre_order_disclaimer_info_popin_content",
+        "popInTitle": "pre_order_disclaimer_info_popin_title"
+      },
+      "color": "アンディゴブルー",
+      "@context": "http://schema.org",
+      "identifier": "1A23FM"
+    },
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/1A23FN/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/013955"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/1A23FN"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/1A23FN/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/013955/1A23FN/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ブルー",
+      "@type": "ProductModel",
+      "name": "オーセンティックレギュラーデニム",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 68200
+        },
+        "@type": "Offer",
+        "price": "¥68,200"
+      },
+      "disambiguatingDescription": "オーセンティックな日本製デニムで仕立てた着心地抜群のレギュラーフィットのパンツ。生デニム、もしくは色を保つためにワンウォッシュした素材を採用し、はき込むことで独自の色落ちの1着を生み出すアイテムです。フロントポケットのLVロゴの装飾と背面のトーン･オン･トーンのモノグラム･キャンバスのラベルがさりげないメゾンらしさを演出します。<p>ご不明な点がございましたら、クライアントサービスまでお気軽にお問合せください。専任のクライアントアドバイザーが、素材やサイズなどの製品詳細、モデル着用イメージや関連アイテムのご案内など、お客様のご要望に合わせたスタイリング・アドバイスをご提供いたします。</p><p>また、サイズ違いなどによる返品・交換のご相談も承ります。詳細は<a href='https://jp.louisvuitton.com/jpn-jp/legal-privacy'><b>こちら。</b></a></p>",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-オーセンティックレギュラーデニム-プレタポルテ（洋服）--HAD80WDKO650_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-オーセンティックレギュラーデニム-プレタポルテ（洋服）--HAD80WDKO650_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-オーセンティックレギュラーデニム-プレタポルテ（洋服）--HAD80WDKO650_PM1_Detail view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Detail view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-オーセンティックレギュラーデニム-プレタポルテ（洋服）--HAD80WDKO650_PM1_Other view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Other view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-オーセンティックレギュラーデニム-プレタポルテ（洋服）--HAD80WDKO650_PM1_Other view2.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Other view2",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/authentic-regular-jeans-013955",
+      "highEndTemplate": false,
+      "sizeDisplayName": "29",
+      "productId": "013955",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-WAT-Z11_indigo.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>素材：コットン 100%</li><li>30℃以下で弱流洗濯機洗い</li><li>他の物と分けて洗濯してください</li><li>裏返しにして洗濯してください</li><li>日本製</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "hotstampable",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z05"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Ready_To_Wear_Men"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-1cyoz77",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/ready-to-wear/_/N-1lpb5id",
+          "alternateName": "ready-to-wear",
+          "name": "プレタポルテ（洋服）",
+          "identifier": "m-readytowear"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/ready-to-wear/denim/_/N-11ibh9k",
+          "alternateName": "denim",
+          "name": "メンズ デニム",
+          "identifier": "m-denim-mrtw"
+        }
+      ],
+      "disclaimers": {
+        "value": "pre_order_disclaimer",
+        "popInContent": "pre_order_disclaimer_info_popin_content",
+        "popInTitle": "pre_order_disclaimer_info_popin_title"
+      },
+      "color": "アンディゴブルー",
+      "@context": "http://schema.org",
+      "identifier": "1A23FN"
+    },
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/1A23FO/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/013955"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/1A23FO"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/1A23FO/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/013955/1A23FO/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ブルー",
+      "@type": "ProductModel",
+      "name": "オーセンティックレギュラーデニム",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 68200
+        },
+        "@type": "Offer",
+        "price": "¥68,200"
+      },
+      "disambiguatingDescription": "オーセンティックな日本製デニムで仕立てた着心地抜群のレギュラーフィットのパンツ。生デニム、もしくは色を保つためにワンウォッシュした素材を採用し、はき込むことで独自の色落ちの1着を生み出すアイテムです。フロントポケットのLVロゴの装飾と背面のトーン･オン･トーンのモノグラム･キャンバスのラベルがさりげないメゾンらしさを演出します。<p>ご不明な点がございましたら、クライアントサービスまでお気軽にお問合せください。専任のクライアントアドバイザーが、素材やサイズなどの製品詳細、モデル着用イメージや関連アイテムのご案内など、お客様のご要望に合わせたスタイリング・アドバイスをご提供いたします。</p><p>また、サイズ違いなどによる返品・交換のご相談も承ります。詳細は<a href='https://jp.louisvuitton.com/jpn-jp/legal-privacy'><b>こちら。</b></a></p>",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-オーセンティックレギュラーデニム-プレタポルテ（洋服）--HAD80WDKO650_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-オーセンティックレギュラーデニム-プレタポルテ（洋服）--HAD80WDKO650_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-オーセンティックレギュラーデニム-プレタポルテ（洋服）--HAD80WDKO650_PM1_Detail view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Detail view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-オーセンティックレギュラーデニム-プレタポルテ（洋服）--HAD80WDKO650_PM1_Other view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Other view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-オーセンティックレギュラーデニム-プレタポルテ（洋服）--HAD80WDKO650_PM1_Other view2.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Other view2",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/authentic-regular-jeans-013955",
+      "highEndTemplate": false,
+      "sizeDisplayName": "30",
+      "productId": "013955",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-WAT-Z11_indigo.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>素材：コットン 100%</li><li>30℃以下で弱流洗濯機洗い</li><li>他の物と分けて洗濯してください</li><li>裏返しにして洗濯してください</li><li>日本製</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "hotstampable",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z05"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Ready_To_Wear_Men"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-1cyoz77",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/ready-to-wear/_/N-1lpb5id",
+          "alternateName": "ready-to-wear",
+          "name": "プレタポルテ（洋服）",
+          "identifier": "m-readytowear"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/ready-to-wear/denim/_/N-11ibh9k",
+          "alternateName": "denim",
+          "name": "メンズ デニム",
+          "identifier": "m-denim-mrtw"
+        }
+      ],
+      "disclaimers": {
+        "value": "shipping_warning_bo",
+        "popInContent": "global_backorder_info_popin_content",
+        "popInTitle": "global_backorder_info_popin_title"
+      },
+      "color": "アンディゴブルー",
+      "@context": "http://schema.org",
+      "identifier": "1A23FO"
+    },
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/1A23FR/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/013955"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/1A23FR"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/1A23FR/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/013955/1A23FR/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ブルー",
+      "@type": "ProductModel",
+      "name": "オーセンティックレギュラーデニム",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 68200
+        },
+        "@type": "Offer",
+        "price": "¥68,200"
+      },
+      "disambiguatingDescription": "オーセンティックな日本製デニムで仕立てた着心地抜群のレギュラーフィットのパンツ。生デニム、もしくは色を保つためにワンウォッシュした素材を採用し、はき込むことで独自の色落ちの1着を生み出すアイテムです。フロントポケットのLVロゴの装飾と背面のトーン･オン･トーンのモノグラム･キャンバスのラベルがさりげないメゾンらしさを演出します。<p>ご不明な点がございましたら、クライアントサービスまでお気軽にお問合せください。専任のクライアントアドバイザーが、素材やサイズなどの製品詳細、モデル着用イメージや関連アイテムのご案内など、お客様のご要望に合わせたスタイリング・アドバイスをご提供いたします。</p><p>また、サイズ違いなどによる返品・交換のご相談も承ります。詳細は<a href='https://jp.louisvuitton.com/jpn-jp/legal-privacy'><b>こちら。</b></a></p>",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-オーセンティックレギュラーデニム-プレタポルテ（洋服）--HAD80WDKO650_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-オーセンティックレギュラーデニム-プレタポルテ（洋服）--HAD80WDKO650_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-オーセンティックレギュラーデニム-プレタポルテ（洋服）--HAD80WDKO650_PM1_Detail view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Detail view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-オーセンティックレギュラーデニム-プレタポルテ（洋服）--HAD80WDKO650_PM1_Other view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Other view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-オーセンティックレギュラーデニム-プレタポルテ（洋服）--HAD80WDKO650_PM1_Other view2.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Other view2",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/authentic-regular-jeans-013955",
+      "highEndTemplate": false,
+      "sizeDisplayName": "33",
+      "productId": "013955",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-WAT-Z11_indigo.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>素材：コットン 100%</li><li>30℃以下で弱流洗濯機洗い</li><li>他の物と分けて洗濯してください</li><li>裏返しにして洗濯してください</li><li>日本製</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "hotstampable",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z05"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Ready_To_Wear_Men"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-1cyoz77",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/ready-to-wear/_/N-1lpb5id",
+          "alternateName": "ready-to-wear",
+          "name": "プレタポルテ（洋服）",
+          "identifier": "m-readytowear"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/ready-to-wear/denim/_/N-11ibh9k",
+          "alternateName": "denim",
+          "name": "メンズ デニム",
+          "identifier": "m-denim-mrtw"
+        }
+      ],
+      "disclaimers": {
+        "value": "shipping_warning_bo",
+        "popInContent": "global_backorder_info_popin_content",
+        "popInTitle": "global_backorder_info_popin_title"
+      },
+      "color": "アンディゴブルー",
+      "@context": "http://schema.org",
+      "identifier": "1A23FR"
+    }
+  ],
+  "disambiguatingDescription": "オーセンティックな日本製デニムで仕立てた着心地抜群のレギュラーフィットのパンツ。生デニム、もしくは色を保つためにワンウォッシュした素材を採用し、はき込むことで独自の色落ちの1着を生み出すアイテムです。フロントポケットのLVロゴの装飾と背面のトーン･オン･トーンのモノグラム･キャンバスのラベルがさりげないメゾンらしさを演出します。",
+  "_links": {
+    "related-heritage": {
+      "href": "/api/catalog/jpn-jp/product/nvprod1250252v"
+    },
+    "self": {
+      "href": "/api/catalog/jpn-jp/product/013955"
+    },
+    "related-world-tour": {
+      "href": "/api/catalog/jpn-jp/product/nvprod1250255v"
+    },
+    "push": {
+      "href": "/api/catalog/jpn-jp/product-push/013955"
+    },
+    "care-link": {
+      "href": "/api/catalog/jpn-jp/care-link/013955"
+    },
+    "size-guide": {
+      "href": "/api/catalog/jpn-jp/size-guide/013955"
+    },
+    "availability": {
+      "href": "/api/catalog/jpn-jp/availability/013955"
+    }
+  },
+  "@type": "Product",
+  "sku": "1A23FM",
+  "isSimilarTo": [],
+  "productTips": [],
+  "url": "/jpn-jp/products/authentic-regular-jeans-013955",
+  "category": [
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/_/N-1cyoz77",
+      "alternateName": "men",
+      "name": "メンズ",
+      "identifier": "homme"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/ready-to-wear/_/N-1lpb5id",
+      "alternateName": "ready-to-wear",
+      "name": "プレタポルテ（洋服）",
+      "identifier": "m-readytowear"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/ready-to-wear/denim/_/N-11ibh9k",
+      "alternateName": "denim",
+      "name": "メンズ デニム",
+      "identifier": "m-denim-mrtw"
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "hidePrice",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "subType",
+      "value": "product"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "hotStampable",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "sizeGuide",
+      "value": true
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "worldtourUrl",
+      "value": "/jpn-jp/products/regular-jeans-nvprod1250255v"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "worldtourImage",
+      "value": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton--HPD86WDKO650_PM2_Front view.png?wid={IMG_WIDTH}&hei={IMG_HEIGHT}"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "momUrl",
+      "value": "/jpn-jp/products/my-lv-heritage-regular-jeans-nvprod1250252v"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "momImage",
+      "value": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton--HPD80WDKO650_PM2_Front view.png?wid={IMG_WIDTH}&hei={IMG_HEIGHT}"
+    }
+  ],
+  "name": "オーセンティックレギュラーデニム",
+  "isRelatedTo": [],
+  "@context": "http://schema.org",
+  "identifier": "013955"
+}

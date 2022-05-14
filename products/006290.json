@@ -1,0 +1,326 @@
+{
+  "model": [
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/P00072/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/006290"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/P00072"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/P00072/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-perso": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "クリア",
+      "@type": "ProductModel",
+      "height": {
+        "@type": "QuantitativeValue",
+        "value": 9,
+        "unitText": "cm"
+      },
+      "name": "ポルトフォイユ・ミュルティプル マイLV ヘリテージ",
+      "mainMaterial2": "COATED CANVAS",
+      "width": {
+        "@type": "QuantitativeValue",
+        "value": 1.5,
+        "unitText": "cm"
+      },
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 91300
+        },
+        "@type": "Offer",
+        "price": "¥91,300"
+      },
+      "disambiguatingDescription": "お好みのカラーでストライプやイニシャルを施し、それにマッチしたライニングカラーを選ぶことでお客様だけの特別な一品をご注文いただける「マイLV ヘリテージ」。<p> 札入れ「ポルトフォイユ・ミュルティプル」は、男性には嬉しいクレジットカード用ポケットの豊富なすっきりとしたデザインの薄型の札入れです。ジャケットやパンツのポケットにも収納可能。</p>",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ポルトフォイユ・ミュルティプル-マイlv-ヘリテージ-モノグラム-パーソナライゼーション--P00072_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton-ポルトフォイユ・ミュルティプル-マイlv-ヘリテージ-モノグラム-パーソナライゼーション--M60895_P00072_mom_inside.jpg",
+          "@type": "ImageObject",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton-ポルトフォイユ・ミュルティプル-マイlv-ヘリテージ-モノグラム-パーソナライゼーション--M60895_P00072_mom_back.jpg",
+          "@type": "ImageObject",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/multiple-wallet-my-lv-heritage-monogram-006290",
+      "material": "モノグラム",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 11.5,
+        "unitText": "cm"
+      },
+      "highEndTemplate": false,
+      "productId": "006290",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>サイズ（幅x高さxまち）： 11.5 x 9 x 1 cm</li><li>モノグラム･キャンバス</li><li>ライニング：レザー（皮革の種類：牛革）</li><li>クレジットカード用ポケットx5</li><li>紙幣用ポケットx2</li><li>レシート用の内側ポケットx2</li><li>納期目安：約10週間(前後する場合もございます)</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "hotstampable",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "persoOfferItem",
+          "value": {
+            "@type": "PropertyValue",
+            "value": [
+              {
+                "@type": "StructuredValue",
+                "name": "DeliveryDelayInformationDefault",
+                "identifier": "約11-12週間(トロリーは約15-16週間)で店舗へお届け予定。"
+              },
+              {
+                "@type": "StructuredValue",
+                "name": "DisplayNameDefault",
+                "identifier": "MY LV HERITAGE"
+              },
+              {
+                "@type": "StructuredValue",
+                "name": "InternalName",
+                "identifier": "MY LV HERITAGE"
+              },
+              {
+                "@type": "StructuredValue",
+                "name": "MyLVshippingInformationDefault"
+              },
+              {
+                "@type": "StructuredValue",
+                "name": "OfferDescriptionDefault",
+                "identifier": "トランク製造業として創業したメゾンの歴史が息づく「マイLV ヘリテージ」は、洗練とパーソナライゼーション･サービスの伝統を受け継いでいます。"
+              },
+              {
+                "@type": "StructuredValue",
+                "name": "OfferInformationDefault",
+                "identifier": "こちらの製品はメイド･トゥ･オーダーのため、お届け目安として約11-12週間(トロリーは約15-16週間)かかります(前後する場合もございます)。"
+              },
+              {
+                "@type": "StructuredValue",
+                "name": "RefundableDefault",
+                "identifier": false
+              },
+              {
+                "@type": "StructuredValue",
+                "name": "ReturnPolicyDefault",
+                "identifier": "返品･交換は承りかねますので予めご了承ください。"
+              },
+              {
+                "@type": "StructuredValue",
+                "name": "SalesforceIntegrationDefault",
+                "identifier": true
+              },
+              {
+                "@type": "StructuredValue",
+                "name": "ShippingInformationDefault",
+                "identifier": "こちらの製品はメイド･トゥ･オーダーのため、お届け目安として約11-12週間(トロリーは約15-16週間)かかります(前後する場合もございます)。製品の発送が完了次第、メールにてお知らせいたしますのでお待ちください。"
+              },
+              {
+                "@type": "StructuredValue",
+                "name": "SplitShippingDefault",
+                "identifier": true
+              }
+            ]
+          }
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "recipeId",
+          "value": "35794861"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "fluidProductId",
+          "value": "21625"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z01"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-1cyoz77",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/personalisation/_/N-1fpocyf",
+          "alternateName": "personalization",
+          "name": "パーソナライゼーション",
+          "identifier": "m-category-catmom00m"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/personalisation/small-leather-goods/_/N-12wf5s2",
+          "alternateName": "small-leather-goods",
+          "name": "財布＆小物",
+          "identifier": "nvcat1260002v"
+        }
+      ],
+      "disclaimers": {
+        "value": "shipping_warning_bo",
+        "popInContent": "global_backorder_info_popin_content",
+        "popInTitle": "global_backorder_info_popin_title"
+      },
+      "color": "Personnalisable",
+      "@context": "http://schema.org",
+      "identifier": "P00072"
+    }
+  ],
+  "disambiguatingDescription": "モノグラム･ラインの札入れ「ポルトフォイユ・ミュルティプル」。クレジットカード、紙幣、レシートなどを収納できます。",
+  "_links": {
+    "self": {
+      "href": "/api/catalog/jpn-jp/product/006290"
+    },
+    "push": {
+      "href": "/api/catalog/jpn-jp/product-push/006290"
+    },
+    "care-link": {
+      "href": "/api/catalog/jpn-jp/care-link/006290"
+    },
+    "availability": {
+      "href": "/api/catalog/jpn-jp/availability/006290"
+    }
+  },
+  "@type": "Product",
+  "sku": "P00072",
+  "isSimilarTo": [],
+  "productTips": [],
+  "url": "/jpn-jp/products/multiple-wallet-my-lv-heritage-monogram-006290",
+  "material": "モノグラム",
+  "category": [
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/_/N-1cyoz77",
+      "alternateName": "men",
+      "name": "メンズ",
+      "identifier": "homme"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/personalisation/_/N-1fpocyf",
+      "alternateName": "personalization",
+      "name": "パーソナライゼーション",
+      "identifier": "m-category-catmom00m"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/personalisation/small-leather-goods/_/N-12wf5s2",
+      "alternateName": "small-leather-goods",
+      "name": "財布＆小物",
+      "identifier": "nvcat1260002v"
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "hidePrice",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "subType",
+      "value": "product"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "materialIconURL",
+      "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--AEL-LG-G00_monogram.jpg"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "hotStampable",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "careLink",
+      "value": "LGAESTHETICLINEZ13"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "sizeGuide",
+      "value": false
+    }
+  ],
+  "name": "ポルトフォイユ・ミュルティプル マイLV ヘリテージ",
+  "isRelatedTo": [],
+  "@context": "http://schema.org",
+  "identifier": "006290"
+}

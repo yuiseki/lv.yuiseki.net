@@ -1,0 +1,233 @@
+{
+  "model": [
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/M8028E/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod3360073v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/M8028E"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/M8028E/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod3360073v/M8028E/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ブラック",
+      "@type": "ProductModel",
+      "name": "ブラスレ・エブリデイ チェーンLV",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 60500
+        },
+        "@type": "Offer",
+        "price": "¥60,500"
+      },
+      "disambiguatingDescription": "「エブリデイ」カプセル･コレクションの他のアイテムとも相性抜群の、新たなメゾンのシグネチャーを配したブレスレット「ブラスレ・エブリデイ チェーンLV」。異なる仕上げのリンクを組み合わせた中央に、LV リンクをあしらいました。モノグラム･キャンバスとレザーで仕立てた幅広のバンドが、ラグジュアリーな雰囲気を演出します。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ブラスレ・エブリデイ-チェーンlv-モノグラム-ファッションジュエリー--M8028E_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ブラスレ・エブリデイ-チェーンlv-モノグラム-ファッションジュエリー--M8028E_PM1_Worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Worn view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/everyday-lv-bracelet-monogram-nvprod3360073v",
+      "material": "MONOGRAM CANVAS",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 19,
+        "unitText": "cm"
+      },
+      "highEndTemplate": false,
+      "sizeDisplayName": "19",
+      "productId": "nvprod3360073v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-ACC-980_black.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>ブレスレット</li><li>長さ：S -17 cm、M -19 cm</li><li>バンドの幅：1.2 cm</li><li>中央の金具：4.5 cm</li><li>素材：モノグラム･キャンバス、レザー（皮革の種類：牛革）</li><li>Everyday LVモチーフ</li><li>LVイニシャル</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories;Sunglasses"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/_/N-1q5sgib",
+          "alternateName": "women",
+          "name": "ウィメンズ",
+          "identifier": "femme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/accessories/_/N-1oyzg8c",
+          "alternateName": "accessories",
+          "name": "アクセサリー",
+          "identifier": "w-category-cat10155"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/accessories/fashion-jewellery/_/N-vw4qu0",
+          "alternateName": "fashion-jewelry",
+          "name": "ファッションジュエリー",
+          "identifier": "w-category-cat1410426"
+        }
+      ],
+      "disclaimers": {
+        "value": "pre_order_disclaimer",
+        "popInContent": "pre_order_disclaimer_info_popin_content",
+        "popInTitle": "pre_order_disclaimer_info_popin_title"
+      },
+      "color": "ノワール",
+      "@context": "http://schema.org",
+      "identifier": "M8028E"
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "/api/catalog/jpn-jp/product/nvprod3360073v"
+    },
+    "push": {
+      "href": "/api/catalog/jpn-jp/product-push/nvprod3360073v"
+    },
+    "care-link": {
+      "href": "/api/catalog/jpn-jp/care-link/nvprod3360073v"
+    },
+    "availability": {
+      "href": "/api/catalog/jpn-jp/availability/nvprod3360073v"
+    }
+  },
+  "@type": "Product",
+  "sku": "M8028E",
+  "isSimilarTo": [],
+  "productTips": [],
+  "url": "/jpn-jp/products/everyday-lv-bracelet-monogram-nvprod3360073v",
+  "material": "モノグラム",
+  "category": [
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/women/_/N-1q5sgib",
+      "alternateName": "women",
+      "name": "ウィメンズ",
+      "identifier": "femme"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/women/accessories/_/N-1oyzg8c",
+      "alternateName": "accessories",
+      "name": "アクセサリー",
+      "identifier": "w-category-cat10155"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/women/accessories/fashion-jewellery/_/N-vw4qu0",
+      "alternateName": "fashion-jewelry",
+      "name": "ファッションジュエリー",
+      "identifier": "w-category-cat1410426"
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "hidePrice",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "subType",
+      "value": "product"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "materialIconURL",
+      "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--AEL-LG-G00_monogram.jpg"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "sizeGuide",
+      "value": false
+    }
+  ],
+  "name": "ブラスレ・エブリデイ チェーンLV",
+  "isRelatedTo": [],
+  "@context": "http://schema.org",
+  "identifier": "nvprod3360073v"
+}

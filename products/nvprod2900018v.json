@@ -1,0 +1,376 @@
+{
+  "model": [
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/nvsku2640018v/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod2900018v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/nvsku2640018v"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/nvsku2640018v/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod2900018v/nvsku2640018v/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "@type": "ProductModel",
+      "name": "FALL-WINTER 2021 PRECOLLECTION - LOOK 18",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton--Men_PrecoFW21_LOOK18_VISUAL4.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "LOOK18",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/fall-winter-2021-precollection-look-18-nvprod2900018v",
+      "highEndTemplate": false,
+      "productId": "nvprod2900018v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-1cyoz77",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/ready-to-wear/_/N-1lpb5id",
+          "alternateName": "ready-to-wear",
+          "name": "プレタポルテ（洋服）",
+          "identifier": "m-readytowear"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/ready-to-wear/view-by-look/_/N-1ui6ldg",
+          "alternateName": "view-by-look",
+          "name": "ルックブック",
+          "identifier": "nvcat450010v"
+        }
+      ],
+      "disclaimers": {
+        "value": "shipping_warning_bo",
+        "popInContent": "global_backorder_info_popin_content",
+        "popInTitle": "global_backorder_info_popin_title"
+      },
+      "@context": "http://schema.org",
+      "identifier": "nvsku2640018v"
+    }
+  ],
+  "readyToWearSKUs": [],
+  "disambiguatingDescription": "今シーズンならではのプログレッシブ･カジュアルを体現したルック。ネオプレンに圧着して作り出した構築的な雰囲気が魅力のラムレザーのジャケットに、メゾンのレザーグッズから着想を得たカラフルなディテールをあしらいました。フォーマルとカジュアルの両方の魅力を兼ね備えた流れるようなラインのパンツと、ロールネックのカシミヤセーターをコーディネートしています。 ",
+  "_links": {
+    "self": {
+      "href": "/api/catalog/jpn-jp/product/nvprod2900018v"
+    },
+    "push": {
+      "href": "/api/catalog/jpn-jp/product-push/nvprod2900018v"
+    },
+    "care-link": {
+      "href": "/api/catalog/jpn-jp/care-link/nvprod2900018v"
+    },
+    "availability": {
+      "href": "/api/catalog/jpn-jp/availability/nvprod2900018v"
+    }
+  },
+  "@type": "Product",
+  "sku": "nvsku2640018v",
+  "isSimilarTo": [],
+  "productTips": [],
+  "url": "/jpn-jp/products/fall-winter-2021-precollection-look-18-nvprod2900018v",
+  "accessoriesSKUs": [
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/M45788/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod2880224v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/M45788"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/M45788/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod2880224v/M45788/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "マロン",
+      "@type": "ProductModel",
+      "height": {
+        "@type": "QuantitativeValue",
+        "value": 12,
+        "unitText": "cm"
+      },
+      "name": "キーポル XS",
+      "mainMaterial2": "COATED CANVAS",
+      "width": {
+        "@type": "QuantitativeValue",
+        "value": 9,
+        "unitText": "cm"
+      },
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 272800
+        },
+        "@type": "Offer",
+        "price": "¥272,800"
+      },
+      "disambiguatingDescription": "大胆な色使いとスタイルで2021秋のテーマである「LV ラバー」を表現した「キーポル XS」。モノグラム･キャンバスで仕立て、下部にラバーのアップリケをあしらいました。パープルとイエローで表現したメゾンのイニシャルが目を引きます。メゾンならではのステートメントを放つ、実用的なバッグです。快適に持ち運べるダブルハンドルと調節可能なストラップ付き。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-キーポル-xs--M45788_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-キーポル-xs--M45788_PM1_Closeup view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Closeup view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-キーポル-xs--M45788_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-キーポル-xs--M45788_PM1_Interior view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Interior view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-キーポル-xs--M45788_PM1_Detail view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Detail view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-キーポル-xs--M45788_PM1_Back view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Back view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/keepall-xs-monogram-other-nvprod2880224v",
+      "material": "COATED CANVAS",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 21,
+        "unitText": "cm"
+      },
+      "highEndTemplate": false,
+      "productId": "nvprod2880224v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>素材：モノグラム･キャンバス</li><li>トリミング：レザー（皮革の種類：牛革）</li><li>ライニング：テキスタイル</li><li>金具（色：ブラック）</li><li>「LV ラバー」のアップリケ</li><li>ファスナー開閉式</li><li>ストラップ：取り外し可能, 調整可能</li><li>ストラップの頂点からバッグ上部までの長さ(最短)：55.0 cm</li><li>ストラップの頂点からバッグ上部までの長さ(最長)：63.0 cm</li><li>ハンドル：ダブル</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z01"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-1cyoz77",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/bags/_/N-1t1tgex",
+          "alternateName": "bags",
+          "name": "バッグ",
+          "identifier": "m-category-cat10001"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/bags/small-bags-and-belt-bags/_/N-17baay6",
+          "alternateName": "small-bags-and-belt-bags",
+          "name": "メンズ クラッチ＆ボディバッグ",
+          "identifier": "nvcat1080050v"
+        }
+      ],
+      "disclaimers": {
+        "value": "shipping_warning_bo",
+        "popInContent": "global_backorder_info_popin_content",
+        "popInTitle": "global_backorder_info_popin_title"
+      },
+      "color": "MONOGRAM LV RUBBER",
+      "@context": "http://schema.org",
+      "identifier": "M45788"
+    }
+  ],
+  "category": [
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/_/N-1cyoz77",
+      "alternateName": "men",
+      "name": "メンズ",
+      "identifier": "homme"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/ready-to-wear/_/N-1lpb5id",
+      "alternateName": "ready-to-wear",
+      "name": "プレタポルテ（洋服）",
+      "identifier": "m-readytowear"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/ready-to-wear/view-by-look/_/N-1ui6ldg",
+      "alternateName": "view-by-look",
+      "name": "ルックブック",
+      "identifier": "nvcat450010v"
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "hidePrice",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "subType",
+      "value": "product"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "sizeGuide",
+      "value": false
+    }
+  ],
+  "name": "2021秋冬プレコレクション – LOOK 18",
+  "isRelatedTo": [],
+  "@context": "http://schema.org",
+  "identifier": "nvprod2900018v"
+}

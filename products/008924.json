@@ -1,0 +1,228 @@
+{
+  "model": [
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/R08010/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/008924"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/R08010"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/R08010/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/008924/R08010/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "@type": "ProductModel",
+      "name": "ブック LV & ファッション フォト 仏語版",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 12100
+        },
+        "@type": "Offer",
+        "price": "¥12,100"
+      },
+      "disambiguatingDescription": "1950年代から現代までのファッションフォトグラフィーの歴史を辿る、他にはない選りすぐりのビジュアルを集約した写真集。ルイ･ヴィトンのエスプリを、ファッションにおける屈指の写真家──ヘンリー・クラーク、パトリック・デマルシェリエ、ヘルムート・ニュートン、ユルゲン・テラーやピーター・リンドバーグなどが見事に捉えた一冊です。3通りの表紙の中からいずれかをお届けいたします。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ブック-lv-ファッション-フォト-仏語版-書籍-ステーショナリー--R08010_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ブック-lv-ファッション-フォト-仏語版-書籍-ステーショナリー--R08010_PM1_Other view2.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ブック-lv-ファッション-フォト-仏語版-書籍-ステーショナリー--R08010_PM1_Other view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/louis-vuitton-fashion-photography-french-008924",
+      "highEndTemplate": false,
+      "productId": "008924",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>フランス語版</li><li>3人の写真家（パトリック・デマルシェリエ、クレイグ・マクディーン、バート・スターン）がそれぞれ撮影した3通りの表紙でご用意</li><li>クロス装丁、シルバーシルクスクリーンプリントの差込み</li><li>サイズ： 21 x 34 x 5 cm</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "hotstampable",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Books;Writing"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/art-of-living/_/N-kmf9ty",
+          "alternateName": "art-of-living",
+          "name": "ライフスタイル",
+          "identifier": "nvcat1840004v"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/art-of-living/books-and-writing/_/N-1vh9yje",
+          "alternateName": "books-and-writing",
+          "name": "書籍 & ステーショナリー",
+          "identifier": "nvcat1840009v"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/art-of-living/books-and-writing/hard-cover-books/_/N-4yn55u",
+          "alternateName": "hard-cover-books",
+          "name": "ハードカバー",
+          "identifier": "nvcat1840024v"
+        }
+      ],
+      "disclaimers": {
+        "value": "shipping_warning_bo",
+        "popInContent": "global_backorder_info_popin_content",
+        "popInTitle": "global_backorder_info_popin_title"
+      },
+      "@context": "http://schema.org",
+      "identifier": "R08010"
+    }
+  ],
+  "disambiguatingDescription": "1950年代から現代までのファッションフォトグラフィーの歴史を辿る、他にはない選りすぐりのビジュアルを集約した写真集。ルイ･ヴィトンのエスプリを、ファッションにおける屈指の写真家──ヘンリー・クラーク、パトリック・デマルシェリエ、ヘルムート・ニュートン、ユルゲン・テラーやピーター・リンドバーグなどが見事に捉えた一冊です。3通りの表紙の中からいずれかをお届けいたします。",
+  "_links": {
+    "self": {
+      "href": "/api/catalog/jpn-jp/product/008924"
+    },
+    "push": {
+      "href": "/api/catalog/jpn-jp/product-push/008924"
+    },
+    "care-link": {
+      "href": "/api/catalog/jpn-jp/care-link/008924"
+    },
+    "availability": {
+      "href": "/api/catalog/jpn-jp/availability/008924"
+    }
+  },
+  "@type": "Product",
+  "sku": "R08010",
+  "isSimilarTo": [],
+  "productTips": [],
+  "url": "/jpn-jp/products/louis-vuitton-fashion-photography-french-008924",
+  "material": "ファッション小物",
+  "category": [
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/art-of-living/_/N-kmf9ty",
+      "alternateName": "art-of-living",
+      "name": "ライフスタイル",
+      "identifier": "nvcat1840004v"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/art-of-living/books-and-writing/_/N-1vh9yje",
+      "alternateName": "books-and-writing",
+      "name": "書籍 & ステーショナリー",
+      "identifier": "nvcat1840009v"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/art-of-living/books-and-writing/hard-cover-books/_/N-4yn55u",
+      "alternateName": "hard-cover-books",
+      "name": "ハードカバー",
+      "identifier": "nvcat1840024v"
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "hidePrice",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "subType",
+      "value": "product"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "materialIconURL",
+      "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--AEL-LG-N00_sans_ligne_esthetique.jpg"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "hotStampable",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "sizeGuide",
+      "value": false
+    }
+  ],
+  "name": "ブック LV & ファッション フォト 仏語版",
+  "isRelatedTo": [],
+  "@context": "http://schema.org",
+  "identifier": "008924"
+}

@@ -1,0 +1,144 @@
+{
+  "chunk": "/women/watches/connected-watches",
+  "totalResult": 4,
+  "categoryType": "productCategory",
+  "categoryId": "nvcat1270049v",
+  "twoOrMoreFilterSelected": false,
+  "headerName": "コネクテッドウォッチ",
+  "oneOrMoreFilterSelected": false,
+  "highEndTemplate": false,
+  "searchResults": {
+    "chunk": "/women/watches/connected-watches",
+    "recordList": [
+      {
+        "defaultSkuPrice": "¥434,500",
+        "chunk": "/products/tambour-horizon-light-up-connected-watch-nvprod3420008v",
+        "_links": {
+          "self": {
+            "href": "/api/catalog/jpn-jp/product/QBB189"
+          }
+        },
+        "productType": "product",
+        "productId": "nvprod3420008v",
+        "defaultSkuMediaUrl": "QBB189_PM2_Front view",
+        "tryOnEnabled": "0",
+        "displayName": "タンブール ホライゾン ライト・アップ",
+        "productSubType": "product",
+        "defaultSkuId": "QBB189"
+      },
+      {
+        "defaultSkuPrice": "¥443,300",
+        "chunk": "/products/tambour-horizon-light-up-connected-watch-nvprod3420009v",
+        "_links": {
+          "self": {
+            "href": "/api/catalog/jpn-jp/product/QBB190"
+          }
+        },
+        "productType": "product",
+        "productId": "nvprod3420009v",
+        "defaultSkuMediaUrl": "QBB190_PM2_Front view",
+        "tryOnEnabled": "0",
+        "displayName": "タンブール ホライゾン ライト・アップ",
+        "productSubType": "product",
+        "defaultSkuId": "QBB190"
+      },
+      {
+        "defaultSkuPrice": "¥522,500",
+        "chunk": "/products/tambour-horizon-light-up-connected-watch-nvprod3420010v",
+        "_links": {
+          "self": {
+            "href": "/api/catalog/jpn-jp/product/QBB191"
+          }
+        },
+        "productType": "product",
+        "productId": "nvprod3420010v",
+        "defaultSkuMediaUrl": "QBB191_PM2_Front view",
+        "tryOnEnabled": "0",
+        "displayName": "タンブール ホライゾン ライト・アップ マットブラウン",
+        "productSubType": "product",
+        "defaultSkuId": "QBB191"
+      },
+      {
+        "defaultSkuPrice": "¥434,500",
+        "chunk": "/products/tambour-horizon-light-up-connected-watch-nvprod3420011v",
+        "_links": {
+          "self": {
+            "href": "/api/catalog/jpn-jp/product/QBB192"
+          }
+        },
+        "productType": "product",
+        "productId": "nvprod3420011v",
+        "defaultSkuMediaUrl": "QBB192_PM2_Front view",
+        "tryOnEnabled": "0",
+        "displayName": "タンブール ホライゾン ライト・アップ",
+        "productSubType": "product",
+        "defaultSkuId": "QBB192"
+      }
+    ],
+    "_links": {
+      "previous": {
+        "href": "/api/catalog/jpn-jp/filter/unheia?range=0-4"
+      },
+      "last": {
+        "href": "/api/catalog/jpn-jp/filter/unheia?range=0-4"
+      },
+      "next": {
+        "href": "/api/catalog/jpn-jp/filter/unheia?range=4-4"
+      },
+      "self": {
+        "href": "/api/catalog/jpn-jp/filter/unheia?range=0-4"
+      },
+      "first": {
+        "href": "/api/catalog/jpn-jp/filter/unheia?range=0-4"
+      }
+    },
+    "recsPerPage": 50,
+    "totalNumberRecs": 4,
+    "firstRecNum": 1,
+    "lastRecNum": 4
+  },
+  "metaAdditionalText": "メゾンの「旅の真髄(こころ)」とクラフツマンシップ、そしてモダンなクリエイティビティを体現する、ウィメンズ用コネクテッドウォッチ。ハイテクを駆使したタイムピース「タンブール ホライゾン」は、革新的なデザインに加え実用的かつ独創的な機能が魅力です。エレガントでスポーティな雰囲気と装飾的なスタイルの各モデルは、特許取得済みの簡単に付け替えできる多彩なストラップ付きで、お好みに合わせてスタイリッシュなシグネチャーブレスレットにパーソナライズできます。\n",
+  "filters": [
+    {
+      "multiSelect": true,
+      "filterDimensionName": "product.caseMaterial",
+      "filterValues": [
+        {
+          "crawlable": false,
+          "valueLabel": "ステンレススティール",
+          "valueId": "23200045v",
+          "valueDimId": "unheiaZ1bxg09e",
+          "_links": {
+            "self": {
+              "href": "/api/catalog/jpn-jp/filter/unheiaZ1bxg09e"
+            }
+          },
+          "crawlableRaw": false,
+          "selected": false,
+          "valueURL": "/women/watches/connected-watches/stainless-steel/_/N-unheiaZ1bxg09e",
+          "trackingValue": "stainless-steel",
+          "disabled": false
+        },
+        {
+          "crawlable": false,
+          "valueLabel": "PVDコーティングを施したステンレススティール",
+          "valueId": "23200050v",
+          "valueDimId": "unheiaZrgwekb",
+          "_links": {
+            "self": {
+              "href": "/api/catalog/jpn-jp/filter/unheiaZrgwekb"
+            }
+          },
+          "crawlableRaw": false,
+          "selected": false,
+          "valueURL": "/women/watches/connected-watches/colored-stainless-steel/_/N-unheiaZrgwekb",
+          "trackingValue": "colored-stainless-steel",
+          "disabled": false
+        }
+      ],
+      "filterLabel": "ケース素材別に見る",
+      "filterType": "text",
+      "filterResetURL": "/women/watches/connected-watches/_/N-unheia"
+    }
+  ]
+}

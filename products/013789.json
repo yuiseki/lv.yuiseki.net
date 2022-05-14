@@ -1,0 +1,386 @@
+{
+  "model": [
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/M00251/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/013789"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/M00251"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/M00251/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/013789/M00251/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ゴールド",
+      "@type": "ProductModel",
+      "name": "カフ・ナノグラム",
+      "mainMaterial2": "BRASS",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 82500
+        },
+        "@type": "Offer",
+        "price": "¥82,500"
+      },
+      "disambiguatingDescription": "アイコニックなモノグラム･パターンと、ルイ･ヴィトンのシングルスタッズがあしらわれた「カフ･ナノグラム」。他と合わせたり、重ね付けも楽しめる、マストハブなアクセサリーです。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-カフ・ナノグラム-s00-ファッションジュエリー--M00251_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-カフ・ナノグラム-s00-ファッションジュエリー--M00251_PM1_Worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Worn view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/nanogram-cuff-s00-013789",
+      "material": "METAL",
+      "highEndTemplate": false,
+      "sizeDisplayName": "S",
+      "productId": "013789",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-ACC-948_gold.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>ブレスレット</li><li>金具（色：ゴールド）</li><li>Sサイズ：カフ横幅5.5ｘバンド幅1cm(内周：約15.7cm)</li><li>Mサイズ：カフ横幅5.7ｘバンド幅1cm(内周：約16.5cm) </li><li>LVロゴとモノグラムの刻印入り</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "hotstampable",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories;Sunglasses"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/_/N-1q5sgib",
+          "alternateName": "women",
+          "name": "ウィメンズ",
+          "identifier": "femme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/accessories/_/N-1oyzg8c",
+          "alternateName": "accessories",
+          "name": "アクセサリー",
+          "identifier": "w-category-cat10155"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/accessories/fashion-jewellery/_/N-vw4qu0",
+          "alternateName": "fashion-jewelry",
+          "name": "ファッションジュエリー",
+          "identifier": "w-category-cat1410426"
+        }
+      ],
+      "disclaimers": {
+        "value": "pre_order_disclaimer",
+        "popInContent": "pre_order_disclaimer_info_popin_content",
+        "popInTitle": "pre_order_disclaimer_info_popin_title"
+      },
+      "color": "ゴールド",
+      "@context": "http://schema.org",
+      "identifier": "M00251"
+    },
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/M00252/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/013789"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/M00252"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/M00252/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/013789/M00252/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ゴールド",
+      "@type": "ProductModel",
+      "name": "カフ・ナノグラム",
+      "mainMaterial2": "BRASS",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 82500
+        },
+        "@type": "Offer",
+        "price": "¥82,500"
+      },
+      "disambiguatingDescription": "アイコニックなモノグラム･パターンと、ルイ･ヴィトンのシングルスタッズがあしらわれた「カフ･ナノグラム」。他と合わせたり、重ね付けも楽しめる、マストハブなアクセサリーです。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-カフ・ナノグラム-s00-ファッションジュエリー--M00252_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-カフ・ナノグラム-s00-ファッションジュエリー--M00252_PM1_Worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Worn view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/nanogram-cuff-s00-013789",
+      "material": "METAL",
+      "highEndTemplate": false,
+      "sizeDisplayName": "M",
+      "productId": "013789",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-ACC-948_gold.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>ブレスレット</li><li>金具（色：ゴールド）</li><li>Sサイズ：カフ横幅5.5ｘバンド幅1cm(内周：約15.7cm)</li><li>Mサイズ：カフ横幅5.7ｘバンド幅1cm(内周：約16.5cm) </li><li>LVロゴとモノグラムの刻印入り</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "hotstampable",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories;Sunglasses"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/_/N-1q5sgib",
+          "alternateName": "women",
+          "name": "ウィメンズ",
+          "identifier": "femme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/accessories/_/N-1oyzg8c",
+          "alternateName": "accessories",
+          "name": "アクセサリー",
+          "identifier": "w-category-cat10155"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/accessories/fashion-jewellery/_/N-vw4qu0",
+          "alternateName": "fashion-jewelry",
+          "name": "ファッションジュエリー",
+          "identifier": "w-category-cat1410426"
+        }
+      ],
+      "disclaimers": {
+        "value": "pre_order_disclaimer",
+        "popInContent": "pre_order_disclaimer_info_popin_content",
+        "popInTitle": "pre_order_disclaimer_info_popin_title"
+      },
+      "color": "ゴールド",
+      "@context": "http://schema.org",
+      "identifier": "M00252"
+    }
+  ],
+  "disambiguatingDescription": "アイコニックなモノグラム･パターンと、ルイ･ヴィトンのシングルスタッズがあしらわれた「カフ･ナノグラム」。他と合わせたり、重ね付けも楽しめる、マスハブなアクセサリーです。",
+  "_links": {
+    "self": {
+      "href": "/api/catalog/jpn-jp/product/013789"
+    },
+    "push": {
+      "href": "/api/catalog/jpn-jp/product-push/013789"
+    },
+    "care-link": {
+      "href": "/api/catalog/jpn-jp/care-link/013789"
+    },
+    "availability": {
+      "href": "/api/catalog/jpn-jp/availability/013789"
+    }
+  },
+  "@type": "Product",
+  "sku": "M00251",
+  "isSimilarTo": [],
+  "productTips": [],
+  "url": "/jpn-jp/products/nanogram-cuff-s00-013789",
+  "material": "NOT APPLICABLE ACC",
+  "category": [
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/women/_/N-1q5sgib",
+      "alternateName": "women",
+      "name": "ウィメンズ",
+      "identifier": "femme"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/women/accessories/_/N-1oyzg8c",
+      "alternateName": "accessories",
+      "name": "アクセサリー",
+      "identifier": "w-category-cat10155"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/women/accessories/fashion-jewellery/_/N-vw4qu0",
+      "alternateName": "fashion-jewelry",
+      "name": "ファッションジュエリー",
+      "identifier": "w-category-cat1410426"
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "hidePrice",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "subType",
+      "value": "product"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "hotStampable",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "sizeGuide",
+      "value": false
+    }
+  ],
+  "name": "カフ・ナノグラム",
+  "isRelatedTo": [],
+  "@context": "http://schema.org",
+  "identifier": "013789"
+}

@@ -1,0 +1,260 @@
+{
+  "model": [
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/M80338/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod3190130v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/M80338"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/M80338/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod3190130v/M80338/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "マロン",
+      "@type": "ProductModel",
+      "height": {
+        "@type": "QuantitativeValue",
+        "value": 1.6,
+        "unitText": "cm"
+      },
+      "name": "Leash MM",
+      "mainMaterial2": "COATED CANVAS",
+      "width": {
+        "@type": "QuantitativeValue",
+        "value": 0.5,
+        "unitText": "cm"
+      },
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 48400
+        },
+        "@type": "Offer",
+        "price": "¥48,400"
+      },
+      "disambiguatingDescription": "Inspired by historic creations from the House’s product range, this new dog leash is both elegant and functional. A combination of iconic Monogram canvas and natural cowhide gives it an instantly recognizable signature look, and its Keepall-style snap hook is easy to attach and remove. The ideal companion to Louis Vuitton’s new Dog Carrier and collar.\n\n",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-leash-mm-モノグラム-trunks-and-travel--M80338_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-leash-mm-モノグラム-trunks-and-travel--M80338_PM1_Closeup view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Closeup view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-leash-mm-モノグラム-trunks-and-travel--M80338_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-leash-mm-モノグラム-trunks-and-travel--M80338_PM1_Detail view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Detail view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/leash-mm-monogram-nvprod3190130v",
+      "material": "モノグラム",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 110,
+        "unitText": "cm"
+      },
+      "highEndTemplate": false,
+      "productId": "nvprod3190130v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-ACC-977_monogram.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>Monogram coated canvas and natural cowhide leather</li><li>Gold-color hardware</li><li>Double riveted loop handle</li><li>Snap hook</li><li></li></ul><p>This reference is either Made in France, Spain, Italy or in the US.</p>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z01"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/art-of-living/_/N-kmf9ty",
+          "alternateName": "art-of-living",
+          "name": "Art Of Living",
+          "identifier": "nvcat1840004v"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/art-of-living/trunks-and-travel/_/N-1ooeusx",
+          "alternateName": "trunks-and-travel",
+          "name": "Trunks and Travel",
+          "identifier": "nvcat1840005v"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/art-of-living/trunks-and-travel/travel-accessories/_/N-1emq07i",
+          "alternateName": "travel-accessories",
+          "name": "Travel Accessories",
+          "identifier": "nvcat1840013v"
+        }
+      ],
+      "disclaimers": {
+        "value": "pre_order_disclaimer",
+        "popInContent": "pre_order_disclaimer_info_popin_content",
+        "popInTitle": "pre_order_disclaimer_info_popin_title"
+      },
+      "color": "モノグラム",
+      "@context": "http://schema.org",
+      "identifier": "M80338"
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "/api/catalog/jpn-jp/product/nvprod3190130v"
+    },
+    "push": {
+      "href": "/api/catalog/jpn-jp/product-push/nvprod3190130v"
+    },
+    "care-link": {
+      "href": "/api/catalog/jpn-jp/care-link/nvprod3190130v"
+    },
+    "availability": {
+      "href": "/api/catalog/jpn-jp/availability/nvprod3190130v"
+    }
+  },
+  "@type": "Product",
+  "sku": "M80338",
+  "isSimilarTo": [],
+  "productTips": [],
+  "url": "/jpn-jp/products/leash-mm-monogram-nvprod3190130v",
+  "material": "モノグラム",
+  "category": [
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/art-of-living/_/N-kmf9ty",
+      "alternateName": "art-of-living",
+      "name": "Art Of Living",
+      "identifier": "nvcat1840004v"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/art-of-living/trunks-and-travel/_/N-1ooeusx",
+      "alternateName": "trunks-and-travel",
+      "name": "Trunks and Travel",
+      "identifier": "nvcat1840005v"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/art-of-living/trunks-and-travel/travel-accessories/_/N-1emq07i",
+      "alternateName": "travel-accessories",
+      "name": "Travel Accessories",
+      "identifier": "nvcat1840013v"
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "hidePrice",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "subType",
+      "value": "product"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "materialIconURL",
+      "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--AEL-LG-G00_monogram.jpg"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "careLink",
+      "value": "MATAEL-LG-G00"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "sizeGuide",
+      "value": false
+    }
+  ],
+  "name": "Leash MM",
+  "isRelatedTo": [],
+  "@context": "http://schema.org",
+  "identifier": "nvprod3190130v"
+}

@@ -1,0 +1,402 @@
+{
+  "model": [
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/R98562/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod1550061v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/R98562"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/R98562/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod1550061v/R98562/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "レッド",
+      "@type": "ProductModel",
+      "height": {
+        "@type": "QuantitativeValue",
+        "value": 80,
+        "unitText": "cm"
+      },
+      "name": "Diamond Armchair by Marcel Wanders studio",
+      "width": {
+        "@type": "QuantitativeValue",
+        "value": 95,
+        "unitText": "cm"
+      },
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 7590000
+        },
+        "@type": "Offer",
+        "price": "¥7,590,000"
+      },
+      "disambiguatingDescription": "The Diamond Armchair by Marcel Wanders studio is designed to evoke the feeling of floating in a nest. The curved lines of arching ash wood slats form rounded cages that hold the suspended seats in place. At once delicate and sculptural in appearance, the seats of this podlike structure are covered in supple leather to ensure comfort.",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-diamond-armchair-by-marcel-wanders-studio-home--R98562_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-diamond-armchair-by-marcel-wanders-studio-home--R98562_PM1_Closeup view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Closeup view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-diamond-armchair-by-marcel-wanders-studio-home--R98562_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-diamond-armchair-by-marcel-wanders-studio-home--R98562_PM1_Ambiance view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Ambiance view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/diamond-armchair-by-marcel-wanders-studio-nvprod1550061v",
+      "material": "WOOD",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 106,
+        "unitText": "cm"
+      },
+      "highEndTemplate": false,
+      "productId": "nvprod1550061v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-WAT-Z05_red.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul>\n  <li>L 41.7 x H 31.4 x W 37.4 inches/L 106 x H 80 x W 95 cm</li>\n  <li>Red</li>\n  <li>40% ash wood, 30% cowhide leather, 10% fiberglass, 10% foam, 5% metal, 5% stainless steel</li>\n  <li>Indoor use only</li>\n  <li>Made in France</li>\n</ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z01"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/art-of-living/_/N-kmf9ty",
+          "alternateName": "art-of-living",
+          "name": "Art Of Living",
+          "identifier": "nvcat1840004v"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/art-of-living/home/_/N-1181e7i",
+          "alternateName": "home",
+          "name": "Home",
+          "identifier": "nvcat1840008v"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/art-of-living/home/furniture/_/N-lpzrtm",
+          "alternateName": "furniture",
+          "name": "Furniture",
+          "identifier": "nvcat1840019v"
+        }
+      ],
+      "disclaimers": {
+        "value": "shipping_warning_bo",
+        "popInContent": "global_backorder_info_popin_content",
+        "popInTitle": "global_backorder_info_popin_title"
+      },
+      "color": "レッド",
+      "@context": "http://schema.org",
+      "identifier": "R98562"
+    },
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/R98990/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod1550061v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/R98990"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/R98990/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod1550061v/R98990/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ホワイト",
+      "@type": "ProductModel",
+      "name": "Diamond Armchair by Marcel Wanders studio",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 7590000
+        },
+        "@type": "Offer",
+        "price": "¥7,590,000"
+      },
+      "disambiguatingDescription": "The Diamond Armchair by Marcel Wanders studio is designed to evoke the feeling of floating in a nest. The curved lines of arching ash wood slats form rounded cages that hold the suspended seats in place. At once delicate and sculptural in appearance, the seats of this podlike structure are covered in supple leather to ensure comfort.",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-diamond-armchair-by-marcel-wanders-studio-home--R98990_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/diamond-armchair-by-marcel-wanders-studio-nvprod1550061v",
+      "material": "WOOD",
+      "highEndTemplate": false,
+      "productId": "nvprod1550061v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-LG-97D_milk.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>L 41.7 x H 31.4 x W 37.4 inches/L 106 x H 80 x W 95 cm</li>\n  <li>White</li>\n  <li>40% ash wood, 30% cowhide leather, 10% fiberglass, 10% foam, 5% metal, 5% stainless steel</li>\n  <li>Indoor use only</li>\n  <li>Made in France</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z01"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/art-of-living/_/N-kmf9ty",
+          "alternateName": "art-of-living",
+          "name": "Art Of Living",
+          "identifier": "nvcat1840004v"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/art-of-living/home/_/N-1181e7i",
+          "alternateName": "home",
+          "name": "Home",
+          "identifier": "nvcat1840008v"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/art-of-living/home/furniture/_/N-lpzrtm",
+          "alternateName": "furniture",
+          "name": "Furniture",
+          "identifier": "nvcat1840019v"
+        }
+      ],
+      "disclaimers": {
+        "value": "shipping_warning_bo",
+        "popInContent": "global_backorder_info_popin_content",
+        "popInTitle": "global_backorder_info_popin_title"
+      },
+      "color": "Milk",
+      "@context": "http://schema.org",
+      "identifier": "R98990"
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "/api/catalog/jpn-jp/product/nvprod1550061v"
+    },
+    "push": {
+      "href": "/api/catalog/jpn-jp/product-push/nvprod1550061v"
+    },
+    "care-link": {
+      "href": "/api/catalog/jpn-jp/care-link/nvprod1550061v"
+    },
+    "availability": {
+      "href": "/api/catalog/jpn-jp/availability/nvprod1550061v"
+    }
+  },
+  "@type": "Product",
+  "sku": "R98562",
+  "isSimilarTo": [],
+  "productTips": [],
+  "url": "/jpn-jp/products/diamond-armchair-by-marcel-wanders-studio-nvprod1550061v",
+  "material": "ファッション小物",
+  "category": [
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/art-of-living/_/N-kmf9ty",
+      "alternateName": "art-of-living",
+      "name": "Art Of Living",
+      "identifier": "nvcat1840004v"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/art-of-living/home/_/N-1181e7i",
+      "alternateName": "home",
+      "name": "Home",
+      "identifier": "nvcat1840008v"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/art-of-living/home/furniture/_/N-lpzrtm",
+      "alternateName": "furniture",
+      "name": "Furniture",
+      "identifier": "nvcat1840019v"
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "hidePrice",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "subType",
+      "value": "product"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "materialIconURL",
+      "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--AEL-LG-N00_sans_ligne_esthetique.jpg"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "sizeGuide",
+      "value": false
+    }
+  ],
+  "name": "Diamond Armchair by Marcel Wanders studio",
+  "isRelatedTo": [],
+  "@context": "http://schema.org",
+  "identifier": "nvprod1550061v"
+}

@@ -1,0 +1,566 @@
+{
+  "model": [
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/M21325/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/000722"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/M21325"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/M21325/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/000722/M21325/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "マロン",
+      "@type": "ProductModel",
+      "height": {
+        "@type": "QuantitativeValue",
+        "value": 44,
+        "unitText": "cm"
+      },
+      "name": "BISTEN 65 ",
+      "mainMaterial2": "COATED CANVAS",
+      "width": {
+        "@type": "QuantitativeValue",
+        "value": 18,
+        "unitText": "cm"
+      },
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 1243000
+        },
+        "@type": "Offer",
+        "price": "¥1,243,000"
+      },
+      "disambiguatingDescription": "The Bisten suitcase is an integral part of the Louis Vuitton prestigious heritage. Slender and incomparably sturdy, it continues to impress connoisseurs from all around the world.",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-bisten-65-モノグラム-travel--M21325_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-bisten-65-モノグラム-travel--M21325_2_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "PM1",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-bisten-65-モノグラム-travel--M21325_PM1_Interior view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Interior view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-bisten-65-モノグラム-travel--M21325_2_PM1_Other view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "PM1",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-bisten-65-モノグラム-travel--M21325_PM1_Other view2.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Other view2",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/bisten-65-monogram-canvas-000722",
+      "material": "モノグラム",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 65,
+        "unitText": "cm"
+      },
+      "highEndTemplate": false,
+      "productId": "000722",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-LG-972_brown.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>Monogram canvas, canvas lining, rounded leather handles</li><li>Canvas interior, support handles</li><li>Louis Vuitton \"S\" lock with key, reinforced with two complementary trunk latches</li><li>Leather trim reinforced with rivets, golden brass corners</li><li>Golden brass pieces</li><li>Sold with a cover</li><li>ハンドル：シングル</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "hotstampable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z01"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/_/N-1q5sgib",
+          "alternateName": "women",
+          "name": "Women",
+          "identifier": "femme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/travel/_/N-1pk7bz8",
+          "alternateName": "travel",
+          "name": "Travel",
+          "identifier": "w-category-cat10087"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/travel/hardsided-luggage/_/N-14w8ozh",
+          "alternateName": "hardsided-luggage",
+          "name": "Hardsided Luggage",
+          "identifier": "w-category-cat1410299"
+        }
+      ],
+      "disclaimers": {
+        "value": "shipping_warning_bo",
+        "popInContent": "global_backorder_info_popin_content",
+        "popInTitle": "global_backorder_info_popin_title"
+      },
+      "color": "マロン",
+      "@context": "http://schema.org",
+      "identifier": "M21325"
+    }
+  ],
+  "panelInformations": [
+    {
+      "@type": "Sustainability",
+      "title": "Sustainability",
+      "description": "Louis Vuitton is implementing a responsible wood sourcing policy by working to find alternatives to the endangered wood species protected by CITES (Washington Convention). The wood used in this product is FSC<sup>©</sup>  (Forest Stewardship Council©)-certified, a standard that guarantees the sustainable management and exploitation of forests, in addition to respecting biodiversity and benefiting the local communities that live or work there. To reinforce our commitment, Louis Vuitton is proud to rely on the expertise of Canopy, a global non-profit environmental organization dedicated to the protection and preservation of forests, animal species and the climate."
+    },
+    {
+      "@type": "ProductCare",
+      "title": "Product Care",
+      "description": "<ul>\n<li>Beware not to scratch or rub your product against abrasive surfaces, especially the leather trim.</li>\n<li>Keep your product away from damp or humid environments and avoid direct exposure to sunlight, keep your product away from any direct source of heat (radiators, car interiors overheated by the sun, etc).</li>\n<li>Avoid contact with greasy substances, cosmetics, perfume, and hydroalcoholic solutions, as well as any material (magazines, other leathers, etc.) that may transfer their colored pigments onto the product.</li>\n<li>Keep your product away from water. Should it get wet or dirty on the surface, dry with a lint free, light-colored, absorbent cloth. Never use soap or solvent.</li>\n<li>If your lining gets dirty or in case of superficial stains, we recommend that you wipe it with a soft and light-colored cloth.</li>\n<li>In order to protect your product when you are not using it, store it in the felt protective pouch provided.</li>\n</ul>\n<p>Natural cowhide leather:<br>\nThe trimmings are in natural cowhide leather, the skin is finished through a vegetal tanning process. Some natural marks or genuine irregularities in the leather may show through. Over time, this delicate leather, which is sensitive to scratches, will acquire a beautiful patina.</p>\n<p>Taking proper care of your Louis Vuitton product will allow you to fully appreciate its beauty for many years.</p>\n<p>For any enquiries about your product, please do not hesitate to contact any Louis Vuitton store.</p>",
+      "introduction": "<div class=\"popinHeader uppercase\">To keep your Monogram canvas product beautiful as the years pass, we recommend following these guidelines for its care :</div>"
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "/api/catalog/jpn-jp/product/000722"
+    },
+    "push": {
+      "href": "/api/catalog/jpn-jp/product-push/000722"
+    },
+    "care-link": {
+      "href": "/api/catalog/jpn-jp/care-link/000722"
+    },
+    "availability": {
+      "href": "/api/catalog/jpn-jp/availability/000722"
+    }
+  },
+  "@type": "Product",
+  "sku": "M21325",
+  "isSimilarTo": [
+    {
+      "model": [
+        {
+          "productVisible": true,
+          "_links": {
+            "look": {
+              "href": "/api/catalog/jpn-jp/skus/M21327/look"
+            },
+            "parent": {
+              "href": "/api/catalog/jpn-jp/product/000720"
+            },
+            "self": {
+              "href": "/api/catalog/jpn-jp/product/M21327"
+            },
+            "perso-details": {
+              "href": "/api/catalog/jpn-jp/skus/M21327/perso-detail"
+            },
+            "/api/rels/jpn-jp/add-to-cart-base/000720/M21327/1": {
+              "name": "add-to-cart",
+              "href": "/api/cart/jpn-jp"
+            }
+          },
+          "macroColor": "マロン",
+          "@type": "ProductModel",
+          "height": {
+            "@type": "QuantitativeValue",
+            "value": 39,
+            "unitText": "cm"
+          },
+          "name": "BISTEN 55 ",
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": 18,
+            "unitText": "cm"
+          },
+          "offers": {
+            "priceSpecification": {
+              "priceCurrency": "JPY",
+              "price": 1144000
+            },
+            "@type": "Offer",
+            "price": "¥1,144,000"
+          },
+          "disambiguatingDescription": "The Bisten suitcase is an integral part of the Louis Vuitton prestigious heritage. Slender and incomparably sturdy, it continues to impress connoisseurs from all around the world.",
+          "image": [
+            {
+              "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-bisten-55-モノグラム-travel--M21327_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+              "@type": "ImageObject",
+              "name": "Front view",
+              "@context": "http://schema.org"
+            },
+            {
+              "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-bisten-55-モノグラム-travel--M21327_2_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+              "@type": "ImageObject",
+              "name": "PM1",
+              "@context": "http://schema.org"
+            },
+            {
+              "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-bisten-55-モノグラム-travel--M21327_PM1_Interior view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+              "@type": "ImageObject",
+              "name": "Interior view",
+              "@context": "http://schema.org"
+            },
+            {
+              "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-bisten-55-モノグラム-travel--M21327_2_PM1_Other view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+              "@type": "ImageObject",
+              "name": "PM1",
+              "@context": "http://schema.org"
+            },
+            {
+              "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-bisten-55-モノグラム-travel--M21327_PM1_Other view2.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+              "@type": "ImageObject",
+              "name": "Other view2",
+              "@context": "http://schema.org"
+            }
+          ],
+          "url": "/jpn-jp/products/bisten-55-monogram-canvas-000720",
+          "material": "モノグラム",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": 55,
+            "unitText": "cm"
+          },
+          "highEndTemplate": false,
+          "productId": "000720",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "colorIconURL",
+              "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-LG-972_brown.jpg"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "detailedDescription",
+              "value": "<ul><li>Monogram canvas, canvas lining, rounded leather handles</li><li>Canvas interior, support handles</li><li>Louis Vuitton \"S\" lock with key, reinforced with two complementary trunk latches</li><li>Leather trim reinforced with rivets, golden brass corners</li><li>Golden brass pieces</li><li>Sold with a cover</li><li>ハンドル：シングル</li></ul>"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "hotstampable",
+              "value": true
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "sellable",
+              "value": false
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "cscSellable",
+              "value": false
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "mom",
+              "value": false
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "locateInStore",
+              "value": true
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "materialGroupCode",
+              "value": "Z01"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "filterCategories",
+              "value": "Leather_Goods_and_Accessories"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "backOrderDisclaimer",
+              "value": true
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "backOrderFullDeposit",
+              "value": false
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "tryOnEnabled",
+              "value": false
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "isBundle",
+              "value": false
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "360ViewEnabled",
+              "value": false
+            }
+          ],
+          "category": [
+            {
+              "@type": "Thing",
+              "url": "/jpn-jp/women/_/N-1q5sgib",
+              "alternateName": "women",
+              "name": "Women",
+              "identifier": "femme"
+            },
+            {
+              "@type": "Thing",
+              "url": "/jpn-jp/women/travel/_/N-1pk7bz8",
+              "alternateName": "travel",
+              "name": "Travel",
+              "identifier": "w-category-cat10087"
+            },
+            {
+              "@type": "Thing",
+              "url": "/jpn-jp/women/travel/hardsided-luggage/_/N-14w8ozh",
+              "alternateName": "hardsided-luggage",
+              "name": "Hardsided Luggage",
+              "identifier": "w-category-cat1410299"
+            }
+          ],
+          "disclaimers": {
+            "value": "shipping_warning_bo",
+            "popInContent": "global_backorder_info_popin_content",
+            "popInTitle": "global_backorder_info_popin_title"
+          },
+          "color": "マロン",
+          "@context": "http://schema.org",
+          "identifier": "M21327"
+        }
+      ],
+      "panelInformations": [
+        {
+          "@type": "Sustainability",
+          "title": "Sustainability",
+          "description": "Louis Vuitton is implementing a responsible wood sourcing policy by working to find alternatives to the endangered wood species protected by CITES (Washington Convention). The wood used in this product is FSC<sup>©</sup>  (Forest Stewardship Council©)-certified, a standard that guarantees the sustainable management and exploitation of forests, in addition to respecting biodiversity and benefiting the local communities that live or work there. To reinforce our commitment, Louis Vuitton is proud to rely on the expertise of Canopy, a global non-profit environmental organization dedicated to the protection and preservation of forests, animal species and the climate."
+        },
+        {
+          "@type": "ProductCare",
+          "title": "Product Care",
+          "description": "<ul>\n<li>Beware not to scratch or rub your product against abrasive surfaces, especially the leather trim.</li>\n<li>Keep your product away from damp or humid environments and avoid direct exposure to sunlight, keep your product away from any direct source of heat (radiators, car interiors overheated by the sun, etc).</li>\n<li>Avoid contact with greasy substances, cosmetics, perfume, and hydroalcoholic solutions, as well as any material (magazines, other leathers, etc.) that may transfer their colored pigments onto the product.</li>\n<li>Keep your product away from water. Should it get wet or dirty on the surface, dry with a lint free, light-colored, absorbent cloth. Never use soap or solvent.</li>\n<li>If your lining gets dirty or in case of superficial stains, we recommend that you wipe it with a soft and light-colored cloth.</li>\n<li>In order to protect your product when you are not using it, store it in the felt protective pouch provided.</li>\n</ul>\n<p>Natural cowhide leather:<br>\nThe trimmings are in natural cowhide leather, the skin is finished through a vegetal tanning process. Some natural marks or genuine irregularities in the leather may show through. Over time, this delicate leather, which is sensitive to scratches, will acquire a beautiful patina.</p>\n<p>Taking proper care of your Louis Vuitton product will allow you to fully appreciate its beauty for many years.</p>\n<p>For any enquiries about your product, please do not hesitate to contact any Louis Vuitton store.</p>",
+          "introduction": "<div class=\"popinHeader uppercase\">To keep your Monogram canvas product beautiful as the years pass, we recommend following these guidelines for its care :</div>"
+        }
+      ],
+      "_links": {
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/000720"
+        },
+        "push": {
+          "href": "/api/catalog/jpn-jp/product-push/000720"
+        },
+        "care-link": {
+          "href": "/api/catalog/jpn-jp/care-link/000720"
+        },
+        "availability": {
+          "href": "/api/catalog/jpn-jp/availability/000720"
+        }
+      },
+      "@type": "Product",
+      "sku": "M21327",
+      "productTips": [],
+      "url": "/jpn-jp/products/bisten-55-monogram-canvas-000720",
+      "material": "モノグラム",
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/_/N-1q5sgib",
+          "alternateName": "women",
+          "name": "Women",
+          "identifier": "femme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/travel/_/N-1pk7bz8",
+          "alternateName": "travel",
+          "name": "Travel",
+          "identifier": "w-category-cat10087"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/travel/hardsided-luggage/_/N-14w8ozh",
+          "alternateName": "hardsided-luggage",
+          "name": "Hardsided Luggage",
+          "identifier": "w-category-cat1410299"
+        }
+      ],
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "hidePrice",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "subType",
+          "value": "product"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--AEL-LG-G00_monogram_2.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "hotStampable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "careLink",
+          "value": "MATAEL-LG-G00"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sizeGuide",
+          "value": false
+        }
+      ],
+      "name": "Bisten 55",
+      "@context": "http://schema.org",
+      "identifier": "000720"
+    }
+  ],
+  "productTips": [],
+  "url": "/jpn-jp/products/bisten-65-monogram-canvas-000722",
+  "material": "モノグラム",
+  "category": [
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/women/_/N-1q5sgib",
+      "alternateName": "women",
+      "name": "Women",
+      "identifier": "femme"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/women/travel/_/N-1pk7bz8",
+      "alternateName": "travel",
+      "name": "Travel",
+      "identifier": "w-category-cat10087"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/women/travel/hardsided-luggage/_/N-14w8ozh",
+      "alternateName": "hardsided-luggage",
+      "name": "Hardsided Luggage",
+      "identifier": "w-category-cat1410299"
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "hidePrice",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "subType",
+      "value": "product"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "materialIconURL",
+      "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--AEL-LG-G00_monogram_2.jpg"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "hotStampable",
+      "value": true
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "careLink",
+      "value": "MATAEL-LG-G00"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "sizeGuide",
+      "value": false
+    }
+  ],
+  "name": "Bisten 65",
+  "isRelatedTo": [],
+  "@context": "http://schema.org",
+  "identifier": "000722"
+}

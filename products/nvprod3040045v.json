@@ -1,0 +1,381 @@
+{
+  "model": [
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/nvsku2770040v/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod3040045v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/nvsku2770040v"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/nvsku2770040v/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod3040045v/nvsku2770040v/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "@type": "ProductModel",
+      "name": "Fall-Winter 2021 Show - Look 31",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton--Men_Show_FW21_LOOK31_VISUAL4.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "FW21",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/fall-winter-2021-show-look-31-nvprod3040045v",
+      "highEndTemplate": false,
+      "productId": "nvprod3040045v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-1cyoz77",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/ready-to-wear/_/N-1lpb5id",
+          "alternateName": "ready-to-wear",
+          "name": "プレタポルテ（洋服）",
+          "identifier": "m-readytowear"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/ready-to-wear/view-by-look/_/N-1ui6ldg",
+          "alternateName": "view-by-look",
+          "name": "ルックブック",
+          "identifier": "nvcat450010v"
+        }
+      ],
+      "disclaimers": {
+        "value": "shipping_warning_bo",
+        "popInContent": "global_backorder_info_popin_content",
+        "popInTitle": "global_backorder_info_popin_title"
+      },
+      "@context": "http://schema.org",
+      "identifier": "nvsku2770040v"
+    }
+  ],
+  "readyToWearSKUs": [],
+  "disambiguatingDescription": "コレクションのテーマである「トロンプ･ルイユ(騙し絵)」風にマーブル模様を再構築した、完全受注生産のミンクファーのブルゾンが主役のルック。今シーズンならではのオーバーサイズのシルエットに仕立てた、ストーンウォッシュ加工を施したヘビーオンスのデニムパンツとコーディネートしています。",
+  "_links": {
+    "self": {
+      "href": "/api/catalog/jpn-jp/product/nvprod3040045v"
+    },
+    "push": {
+      "href": "/api/catalog/jpn-jp/product-push/nvprod3040045v"
+    },
+    "care-link": {
+      "href": "/api/catalog/jpn-jp/care-link/nvprod3040045v"
+    },
+    "availability": {
+      "href": "/api/catalog/jpn-jp/availability/nvprod3040045v"
+    }
+  },
+  "@type": "Product",
+  "sku": "nvsku2770040v",
+  "isSimilarTo": [],
+  "productTips": [],
+  "url": "/jpn-jp/products/fall-winter-2021-show-look-31-nvprod3040045v",
+  "accessoriesSKUs": [
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/M58749/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod2970075v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/M58749"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/M58749/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod2970075v/M58749/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "グリーン",
+      "@type": "ProductModel",
+      "height": {
+        "@type": "QuantitativeValue",
+        "value": 53,
+        "unitText": "cm"
+      },
+      "name": "カバ・ジップ GM",
+      "mainMaterial2": "COATED CANVAS",
+      "width": {
+        "@type": "QuantitativeValue",
+        "value": 20,
+        "unitText": "cm"
+      },
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 358600
+        },
+        "@type": "Offer",
+        "price": "¥358,600"
+      },
+      "disambiguatingDescription": "ヴァージル･アブローが「エブリデイLV」カプセル･コレクションのエスプリを体現した「カバ･ジップ GM」。アメリカ人アーティスト、ローレンス･ウェイナーが解釈した「Tourist vs Purist」の言葉をあしらいました。ヴィンテージ風のモノグラム･キャンバスで仕立て、調節可能な2本のレザー製トップハンドルで、手持ちや腕に掛けても、またショルダーバッグとしてもご使用いただけます。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-カバ・ジップ-gm--M58749_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-カバ・ジップ-gm--M58749_PM1_Worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Worn view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-カバ・ジップ-gm--M58749_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-カバ・ジップ-gm--M58749_PM1_Interior view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Interior view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-カバ・ジップ-gm--M58749_PM1_Detail view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Detail view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-カバ・ジップ-gm--M58749_PM1_Back view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Back view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/cabas-zippe-monogram-other-nvprod2970075v",
+      "material": "AUTRES TOILES MONOGRAM",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 63,
+        "unitText": "cm"
+      },
+      "highEndTemplate": false,
+      "productId": "nvprod2970075v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-ACC-90T_vert1.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>素材：モノグラム･キャンバス</li><li>トリミング：レザー（皮革の種類：牛革） </li><li>ライニング：テキスタイル </li><li>金具（色：シルバー）</li><li>ネームタグ</li><li>取外し可能なファスナー式内ポケット</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z01"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-1cyoz77",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/bags/_/N-1t1tgex",
+          "alternateName": "bags",
+          "name": "バッグ",
+          "identifier": "m-category-cat10001"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/bags/all-bags/_/N-hsz5ln",
+          "alternateName": "all-bags",
+          "name": "すべてのメンズバッグ",
+          "identifier": "nvcat50001v"
+        }
+      ],
+      "disclaimers": {
+        "value": "shipping_warning_bo",
+        "popInContent": "global_backorder_info_popin_content",
+        "popInTitle": "global_backorder_info_popin_title"
+      },
+      "color": "ヴェール",
+      "@context": "http://schema.org",
+      "identifier": "M58749"
+    }
+  ],
+  "category": [
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/_/N-1cyoz77",
+      "alternateName": "men",
+      "name": "メンズ",
+      "identifier": "homme"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/ready-to-wear/_/N-1lpb5id",
+      "alternateName": "ready-to-wear",
+      "name": "プレタポルテ（洋服）",
+      "identifier": "m-readytowear"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/ready-to-wear/view-by-look/_/N-1ui6ldg",
+      "alternateName": "view-by-look",
+      "name": "ルックブック",
+      "identifier": "nvcat450010v"
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "hidePrice",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "subType",
+      "value": "product"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "sizeGuide",
+      "value": false
+    }
+  ],
+  "name": "2021 秋冬ショー - Look 31",
+  "isRelatedTo": [],
+  "@context": "http://schema.org",
+  "identifier": "nvprod3040045v"
+}

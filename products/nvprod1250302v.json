@@ -1,0 +1,236 @@
+{
+  "model": [
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/R98188/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod1250302v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/R98188"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/R98188/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod1250302v/R98188/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "マルチカラー",
+      "@type": "ProductModel",
+      "height": {
+        "@type": "QuantitativeValue",
+        "value": 70,
+        "unitText": "cm"
+      },
+      "name": "Poster of Raw Edges",
+      "width": {
+        "@type": "QuantitativeValue",
+        "value": 70,
+        "unitText": "cm"
+      },
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 27500
+        },
+        "@type": "Offer",
+        "price": "¥27,500"
+      },
+      "disambiguatingDescription": "「ルイ･ヴィトン オブジェ･ノマド コレクション」と旅の伝統にこれ以上ない形でオマージュを捧げたポスター。ヴィンテージ風のホテルステッカーから着想を得たポスターの連作です。パリを拠点に活動するアーティストのPolly Brotherwoodが、デザイナーの故郷を背景にオブジェ･ノマドを水彩で描き出しました。創造性との対話を視覚化したような作品です。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-poster-of-raw-edges-注目アイテム--R98188_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/poster-of-raw-edges-nvprod1250302v",
+      "material": "PAPER",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 50,
+        "unitText": "cm"
+      },
+      "highEndTemplate": false,
+      "productId": "nvprod1250302v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKCMKC-ACC-multicolor.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>Raw Edgesの折りたたみ式の椅子</li><li>サイズ：70 x 50 cm</li><li>オブジェ･ノマド コレクション</li><li>UVマットプリント</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z01"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-1cyoz77",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/highlights/_/N-b1si57",
+          "alternateName": "highlights",
+          "name": "注目アイテム",
+          "identifier": "nvcat2210002v"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/highlights/exceptional-pieces/_/N-1g9zyov",
+          "alternateName": "exceptional-pieces-m",
+          "name": "エクセプショナル・ピース",
+          "identifier": "nvcat2550006v"
+        }
+      ],
+      "disclaimers": {
+        "value": "shipping_warning_bo",
+        "popInContent": "global_backorder_info_popin_content",
+        "popInTitle": "global_backorder_info_popin_title"
+      },
+      "color": "マルチカラー",
+      "@context": "http://schema.org",
+      "identifier": "R98188"
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "/api/catalog/jpn-jp/product/nvprod1250302v"
+    },
+    "push": {
+      "href": "/api/catalog/jpn-jp/product-push/nvprod1250302v"
+    },
+    "care-link": {
+      "href": "/api/catalog/jpn-jp/care-link/nvprod1250302v"
+    },
+    "availability": {
+      "href": "/api/catalog/jpn-jp/availability/nvprod1250302v"
+    }
+  },
+  "@type": "Product",
+  "sku": "R98188",
+  "isSimilarTo": [],
+  "productTips": [],
+  "url": "/jpn-jp/products/poster-of-raw-edges-nvprod1250302v",
+  "material": "ファッション小物",
+  "category": [
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/_/N-1cyoz77",
+      "alternateName": "men",
+      "name": "メンズ",
+      "identifier": "homme"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/highlights/_/N-b1si57",
+      "alternateName": "highlights",
+      "name": "注目アイテム",
+      "identifier": "nvcat2210002v"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/highlights/exceptional-pieces/_/N-1g9zyov",
+      "alternateName": "exceptional-pieces-m",
+      "name": "エクセプショナル・ピース",
+      "identifier": "nvcat2550006v"
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "hidePrice",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "subType",
+      "value": "product"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "materialIconURL",
+      "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--AEL-LG-N00_sans_ligne_esthetique.jpg"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "sizeGuide",
+      "value": false
+    }
+  ],
+  "name": "Poster of Raw Edges",
+  "isRelatedTo": [],
+  "@context": "http://schema.org",
+  "identifier": "nvprod1250302v"
+}

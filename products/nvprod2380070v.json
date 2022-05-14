@@ -1,0 +1,290 @@
+{
+  "model": [
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/M69404/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod2380070v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/M69404"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/M69404/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod2380070v/M69404/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "マロン",
+      "@type": "ProductModel",
+      "height": {
+        "@type": "QuantitativeValue",
+        "value": 17,
+        "unitText": "cm"
+      },
+      "name": "Christopher Wearable Wallet",
+      "width": {
+        "@type": "QuantitativeValue",
+        "value": 8,
+        "unitText": "cm"
+      },
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 188100
+        },
+        "@type": "Offer",
+        "price": "¥188,100"
+      },
+      "disambiguatingDescription": "The sporty-chic Christopher wearable wallet is the modern way to carry a man’s everyday essentials. Louis Vuitton’s distinguished Monogram Macassar look is combined with ultra-contemporary matte black hardware and body-friendly features like an adjustable shoulder strap. And with a spacious main compartment plus a secure front pocket, it’s big enough to hold three phones.",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-christopher-wearable-wallet-モノグラム・マカサー-wallets-and-small-leather-goods--M69404_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-christopher-wearable-wallet-モノグラム・マカサー-wallets-and-small-leather-goods--M69404_PM1_Worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Worn view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-christopher-wearable-wallet-モノグラム・マカサー-wallets-and-small-leather-goods--M69404_PM1_Closeup view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Closeup view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-christopher-wearable-wallet-モノグラム・マカサー-wallets-and-small-leather-goods--M69404_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-christopher-wearable-wallet-モノグラム・マカサー-wallets-and-small-leather-goods--M69404_PM1_Interior view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Interior view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-christopher-wearable-wallet-モノグラム・マカサー-wallets-and-small-leather-goods--M69404_PM1_Detail view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Detail view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-christopher-wearable-wallet-モノグラム・マカサー-wallets-and-small-leather-goods--M69404_PM1_Ambiance view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Ambiance view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-christopher-wearable-wallet-モノグラム・マカサー-wallets-and-small-leather-goods--M69404_PM1_Back view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Back view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/christopher-wearable-wallet-monogram-macassar-nvprod2380070v",
+      "material": "モノグラム・マカサー",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 15,
+        "unitText": "cm"
+      },
+      "highEndTemplate": false,
+      "productId": "nvprod2380070v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-ACC-977_monogram.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul> \n <li>Monogram Macassar coated canvas and cowhide leather</li> \n <li>Cowhide-leather trim</li> \n <li>Textile lining</li> \n <li>Matte black hardware</li> \n \n <li>Large zipped compartment</li> \n <li>Front pocket with leather clasp</li> \n <li>Inside flat pocket</li> \n \n \n<li>ストラップ：取り外し不可, 調整可能</li><li>ストラップの頂点からバッグ上部までの長さ(最短)：50.0 cm</li><li>ストラップの頂点からバッグ上部までの長さ(最長)：57.0 cm</li></ul><p>The reference is either made in France, Spain, Italy or in the US.</p>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z01"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-1cyoz77",
+          "alternateName": "men",
+          "name": "Men",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/wallets-and-small-leather-goods/_/N-14n6l30",
+          "alternateName": "wallets-and-small-leather-goods",
+          "name": "Wallets and Small Leather Goods",
+          "identifier": "m-category-cat10021"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/wallets-and-small-leather-goods/all-wallets-and-small-leather-goods/_/N-1pfkmaq",
+          "alternateName": "all-wallets-and-small-leather-goods",
+          "name": "All Wallets and Small Leather Goods",
+          "identifier": "m-allcollections-mslg"
+        }
+      ],
+      "disclaimers": {
+        "value": "pre_order_disclaimer",
+        "popInContent": "pre_order_disclaimer_info_popin_content",
+        "popInTitle": "pre_order_disclaimer_info_popin_title"
+      },
+      "color": "モノグラム",
+      "@context": "http://schema.org",
+      "identifier": "M69404"
+    }
+  ],
+  "panelInformations": [
+    {
+      "@type": "Sustainability",
+      "title": "Sustainability",
+      "description": "The leather used in this product comes from a tannery audited and certified by the Leather Working Group (LWG), which is the highest environmental standard in terms of leather tanning. This standard requires tanneries to reduce their water and energy consumption, as well as their use of potentially hazardous substances. The tanneries we work with are located in Europe and are committed partners who work with us in our efforts for responsible sourcing and continuous improvement (implementation of material traceability systems, fighting against deforestation practices)."
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "/api/catalog/jpn-jp/product/nvprod2380070v"
+    },
+    "push": {
+      "href": "/api/catalog/jpn-jp/product-push/nvprod2380070v"
+    },
+    "care-link": {
+      "href": "/api/catalog/jpn-jp/care-link/nvprod2380070v"
+    },
+    "availability": {
+      "href": "/api/catalog/jpn-jp/availability/nvprod2380070v"
+    }
+  },
+  "@type": "Product",
+  "sku": "M69404",
+  "isSimilarTo": [],
+  "productTips": [],
+  "url": "/jpn-jp/products/christopher-wearable-wallet-monogram-macassar-nvprod2380070v",
+  "material": "モノグラム・マカサー",
+  "category": [
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/_/N-1cyoz77",
+      "alternateName": "men",
+      "name": "Men",
+      "identifier": "homme"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/wallets-and-small-leather-goods/_/N-14n6l30",
+      "alternateName": "wallets-and-small-leather-goods",
+      "name": "Wallets and Small Leather Goods",
+      "identifier": "m-category-cat10021"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/wallets-and-small-leather-goods/all-wallets-and-small-leather-goods/_/N-1pfkmaq",
+      "alternateName": "all-wallets-and-small-leather-goods",
+      "name": "All Wallets and Small Leather Goods",
+      "identifier": "m-allcollections-mslg"
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "hidePrice",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "subType",
+      "value": "product"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "materialIconURL",
+      "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--AEL-LG-G08_monogram_macassar.jpg"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "careLink",
+      "value": "MATAEL-LG-G08"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "sizeGuide",
+      "value": false
+    }
+  ],
+  "name": "Christopher Wearable Wallet",
+  "isRelatedTo": [],
+  "@context": "http://schema.org",
+  "identifier": "nvprod2380070v"
+}

@@ -1,0 +1,230 @@
+{
+  "model": [
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/1A5D4T/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod1670003v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/1A5D4T"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/1A5D4T/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod1670003v/1A5D4T/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ブラック",
+      "@type": "ProductModel",
+      "name": "Quilted Body Zip blouson",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 304700
+        },
+        "@type": "Offer",
+        "price": "¥304,700"
+      },
+      "disambiguatingDescription": "Crafted from an extra soft blend of wool and silk, this Quilted Body Zip blouson is available in the season’s elegant Green and Black colorways. The garment is quilted on the front and back, with ribbed sleeves offering a note of contrast.",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-quilted-body-zip-blouson-ready-to-wear--HHN45WIYP900_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-quilted-body-zip-blouson-ready-to-wear--HHN45WIYP900_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-quilted-body-zip-blouson-ready-to-wear--HHN45WIYP900_PM1_Back view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Back view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/quilted-body-zip-blouson-nvprod1670003v",
+      "highEndTemplate": false,
+      "sizeDisplayName": "M0",
+      "productId": "nvprod1670003v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-SHO-980_noir.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>80% Wool, 20% Silk</li><li>Lining : 100% Cupro</li><li>Black</li><li>Regular Fit</li><li>Made in Italy</li><ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z05"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Ready_To_Wear_Men"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-1cyoz77",
+          "alternateName": "men",
+          "name": "Men",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/ready-to-wear/_/N-1lpb5id",
+          "alternateName": "ready-to-wear",
+          "name": "Ready to Wear",
+          "identifier": "m-readytowear"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/ready-to-wear/outerwear-and-coats/_/N-iz1a8z",
+          "alternateName": "outerwear-and-coats",
+          "name": "Outerwear and Coats",
+          "identifier": "nvcat160001v"
+        }
+      ],
+      "disclaimers": {
+        "value": "shipping_warning_bo",
+        "popInContent": "global_backorder_info_popin_content",
+        "popInTitle": "global_backorder_info_popin_title"
+      },
+      "color": "ノワール",
+      "@context": "http://schema.org",
+      "identifier": "1A5D4T"
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "/api/catalog/jpn-jp/product/nvprod1670003v"
+    },
+    "push": {
+      "href": "/api/catalog/jpn-jp/product-push/nvprod1670003v"
+    },
+    "care-link": {
+      "href": "/api/catalog/jpn-jp/care-link/nvprod1670003v"
+    },
+    "size-guide": {
+      "href": "/api/catalog/jpn-jp/size-guide/nvprod1670003v"
+    },
+    "availability": {
+      "href": "/api/catalog/jpn-jp/availability/nvprod1670003v"
+    }
+  },
+  "@type": "Product",
+  "sku": "1A5D4T",
+  "isSimilarTo": [],
+  "productTips": [],
+  "url": "/jpn-jp/products/quilted-body-zip-blouson-nvprod1670003v",
+  "category": [
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/_/N-1cyoz77",
+      "alternateName": "men",
+      "name": "Men",
+      "identifier": "homme"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/ready-to-wear/_/N-1lpb5id",
+      "alternateName": "ready-to-wear",
+      "name": "Ready to Wear",
+      "identifier": "m-readytowear"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/ready-to-wear/outerwear-and-coats/_/N-iz1a8z",
+      "alternateName": "outerwear-and-coats",
+      "name": "Outerwear and Coats",
+      "identifier": "nvcat160001v"
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "hidePrice",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "subType",
+      "value": "product"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "sizeGuide",
+      "value": true
+    }
+  ],
+  "name": "Quilted Body Zip blouson",
+  "isRelatedTo": [],
+  "@context": "http://schema.org",
+  "identifier": "nvprod1670003v"
+}

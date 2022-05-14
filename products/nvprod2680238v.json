@@ -1,0 +1,272 @@
+{
+  "model": [
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/GI0502/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod2680238v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/GI0502"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/GI0502/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod2680238v/GI0502/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "マルチカラー",
+      "@type": "ProductModel",
+      "height": {
+        "@type": "QuantitativeValue",
+        "value": 24,
+        "unitText": "cm"
+      },
+      "name": "Doudou Louis",
+      "width": {
+        "@type": "QuantitativeValue",
+        "value": 10,
+        "unitText": "cm"
+      },
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 108900
+        },
+        "@type": "Offer",
+        "price": "¥108,900"
+      },
+      "disambiguatingDescription": "Part of the Louis Vuitton for Unicef partnership, this soft Doudou Louis teddy bear is a warm and meaningful new addition to the gifting collection. It is crafted from organic cotton and showcases distinctive House motifs such as the LV signature and Monogram Flower. This high-quality item will delight children and serve as a playful keepsake. For each sale, $200 will be donated, on your behalf, to UNICEF to help children in emergencies and in vulnerable situations around the world.",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-doudou-louis-sport-and-lifestyle--GI0502_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-doudou-louis-sport-and-lifestyle--GI0502_PM1_Worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Worn view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-doudou-louis-sport-and-lifestyle--GI0502_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-doudou-louis-sport-and-lifestyle--GI0502_PM1_Detail view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Detail view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-doudou-louis-sport-and-lifestyle--GI0502_PM1_Ambiance view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Ambiance view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-doudou-louis-sport-and-lifestyle--GI0502_PM1_Back view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Back view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-doudou-louis-sport-and-lifestyle--GI0502_PM1_Other view4.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Other view4",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/doudou-louis-nvprod2680238v",
+      "material": "POLYESTER",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 16,
+        "unitText": "cm"
+      },
+      "highEndTemplate": false,
+      "productId": "nvprod2680238v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-ACC-91P_multicolore.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul>\n  <li>9.8 x 6 x 4 inches</li>\n  <li>Multicolor</li>\n  <li>Organic cotton</li>\n  <li>Allover Monogram pattern </li>\n  <li>Monogram Flower</li>\n  <li>LV Initials</li>\n</ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories;Sunglasses"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/art-of-living/_/N-kmf9ty",
+          "alternateName": "art-of-living",
+          "name": "Art Of Living",
+          "identifier": "nvcat1840004v"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/art-of-living/sport-and-lifestyle/_/N-1nxn7wx",
+          "alternateName": "sport-and-lifestyle",
+          "name": "Sport and Lifestyle",
+          "identifier": "nvcat1840007v"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/art-of-living/sport-and-lifestyle/lifestyle-and-vivienne-dolls/_/N-1offs1i",
+          "alternateName": "lifestyle-and-vivienne-dolls",
+          "name": "Lifestyle and Vivienne Dolls",
+          "identifier": "nvcat1840018v"
+        }
+      ],
+      "disclaimers": {
+        "value": "pre_order_disclaimer",
+        "popInContent": "pre_order_disclaimer_info_popin_content",
+        "popInTitle": "pre_order_disclaimer_info_popin_title"
+      },
+      "color": "Multicolore",
+      "@context": "http://schema.org",
+      "identifier": "GI0502"
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "/api/catalog/jpn-jp/product/nvprod2680238v"
+    },
+    "push": {
+      "href": "/api/catalog/jpn-jp/product-push/nvprod2680238v"
+    },
+    "care-link": {
+      "href": "/api/catalog/jpn-jp/care-link/nvprod2680238v"
+    },
+    "availability": {
+      "href": "/api/catalog/jpn-jp/availability/nvprod2680238v"
+    }
+  },
+  "@type": "Product",
+  "sku": "GI0502",
+  "isSimilarTo": [],
+  "productTips": [],
+  "url": "/jpn-jp/products/doudou-louis-nvprod2680238v",
+  "material": "ファッション小物",
+  "category": [
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/art-of-living/_/N-kmf9ty",
+      "alternateName": "art-of-living",
+      "name": "Art Of Living",
+      "identifier": "nvcat1840004v"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/art-of-living/sport-and-lifestyle/_/N-1nxn7wx",
+      "alternateName": "sport-and-lifestyle",
+      "name": "Sport and Lifestyle",
+      "identifier": "nvcat1840007v"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/art-of-living/sport-and-lifestyle/lifestyle-and-vivienne-dolls/_/N-1offs1i",
+      "alternateName": "lifestyle-and-vivienne-dolls",
+      "name": "Lifestyle and Vivienne Dolls",
+      "identifier": "nvcat1840018v"
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "hidePrice",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "subType",
+      "value": "product"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "materialIconURL",
+      "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--AEL-LG-N00_sans_ligne_esthetique.jpg"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "sizeGuide",
+      "value": false
+    }
+  ],
+  "name": "Doudou Louis",
+  "isRelatedTo": [],
+  "@context": "http://schema.org",
+  "identifier": "nvprod2680238v"
+}

@@ -1,0 +1,364 @@
+{
+  "model": [
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/nvsku2680010v/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod2940010v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/nvsku2680010v"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/nvsku2680010v/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod2940010v/nvsku2680010v/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "@type": "ProductModel",
+      "name": "LVxNBA II - Look 10",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton--Men_NBA_drop2_LOOK10_VISUAL4.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "drop2",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/lvxnba-ii-look-10-nvprod2940010v",
+      "highEndTemplate": false,
+      "productId": "nvprod2940010v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-1cyoz77",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/ready-to-wear/_/N-1lpb5id",
+          "alternateName": "ready-to-wear",
+          "name": "プレタポルテ（洋服）",
+          "identifier": "m-readytowear"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/ready-to-wear/view-by-look/_/N-1ui6ldg",
+          "alternateName": "view-by-look",
+          "name": "ルックブック",
+          "identifier": "nvcat450010v"
+        }
+      ],
+      "disclaimers": {
+        "value": "shipping_warning_bo",
+        "popInContent": "global_backorder_info_popin_content",
+        "popInTitle": "global_backorder_info_popin_title"
+      },
+      "@context": "http://schema.org",
+      "identifier": "nvsku2680010v"
+    }
+  ],
+  "readyToWearSKUs": [],
+  "disambiguatingDescription": "グラフィカルな「Louis Vuitton」のシグネチャーとNBAから着想を得たモチーフを組み合わせたカジュアルなルック。「責任ある調達」によるメリノウールを使用したクルーネックのトップスには、さまざまなNBAのチームロゴを想起させるレタリングをあしらいました。ルーズフィットに仕立てたトラックスタイルのパンツには、キルティング加工でアップデートしたモノグラム･フラワーが彩りを添えます。  ",
+  "_links": {
+    "self": {
+      "href": "/api/catalog/jpn-jp/product/nvprod2940010v"
+    },
+    "push": {
+      "href": "/api/catalog/jpn-jp/product-push/nvprod2940010v"
+    },
+    "care-link": {
+      "href": "/api/catalog/jpn-jp/care-link/nvprod2940010v"
+    },
+    "availability": {
+      "href": "/api/catalog/jpn-jp/availability/nvprod2940010v"
+    }
+  },
+  "@type": "Product",
+  "sku": "nvsku2680010v",
+  "isSimilarTo": [],
+  "productTips": [],
+  "url": "/jpn-jp/products/lvxnba-ii-look-10-nvprod2940010v",
+  "accessoriesSKUs": [
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/MP3033/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod2900110v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/MP3033"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/MP3033/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod2900110v/MP3033/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ブルー",
+      "@type": "ProductModel",
+      "height": {
+        "@type": "QuantitativeValue",
+        "value": 28,
+        "unitText": "cm"
+      },
+      "name": "エシャルプ・モノグラム レターズ",
+      "mainMaterial2": "WOOL",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 100100
+        },
+        "@type": "Offer",
+        "price": "¥100,100"
+      },
+      "disambiguatingDescription": "クラシカルなモノグラム･パターンを全体に散りばめ、精緻なインターシャ(象嵌細工)技法でポップなレタリングをあしらった「エシャルプ･モノグラム レターズ」。メゾンに遊び心溢れるオマージュを捧げるウールのアイテムを、縁のフリンジで仕上げました。裾に添えたNBAのロゴのパッチは、NBAとルイ･ヴィトンのエクスクルーシブなコラボレーションの証です。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-エシャルプ・モノグラム-レターズ--MP3033_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-エシャルプ・モノグラム-レターズ--MP3033_PM1_Worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Worn view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-エシャルプ・モノグラム-レターズ--MP3033_PM1_Closeup view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Closeup view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-エシャルプ・モノグラム-レターズ--MP3033_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/lvxnba-letters-scarf-s00-nvprod2900110v",
+      "material": "WOOL",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 193,
+        "unitText": "cm"
+      },
+      "highEndTemplate": false,
+      "productId": "nvprod2900110v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-ACC-94B_blue.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul>\n  <li>素材：ウール 100%</li>\n  <li>インタルシア（象嵌細工）のニット技術</li>\n  <li>モノグラム･パターン</li>\n  <li>Louis Vuittonシグネチャー</li>\n  <li>NBAロゴのパッチ</li>\n  <li>フリンジ仕上げ</li>\n  <li>ドライクリーニングのみ</li>\n</ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories;Sunglasses"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-1cyoz77",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/accessories/_/N-1d0iakb",
+          "alternateName": "accessories",
+          "name": "アクセサリー",
+          "identifier": "m-category-cat10052"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/accessories/scarves/_/N-a4qie5",
+          "alternateName": "scarves",
+          "name": "メンズ マフラー、ストール、その他テキスタイル",
+          "identifier": "m-category-cattexm"
+        }
+      ],
+      "disclaimers": {
+        "value": "shipping_warning_bo",
+        "popInContent": "global_backorder_info_popin_content",
+        "popInTitle": "global_backorder_info_popin_title"
+      },
+      "color": "ブルー",
+      "@context": "http://schema.org",
+      "identifier": "MP3033"
+    }
+  ],
+  "category": [
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/_/N-1cyoz77",
+      "alternateName": "men",
+      "name": "メンズ",
+      "identifier": "homme"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/ready-to-wear/_/N-1lpb5id",
+      "alternateName": "ready-to-wear",
+      "name": "プレタポルテ（洋服）",
+      "identifier": "m-readytowear"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/ready-to-wear/view-by-look/_/N-1ui6ldg",
+      "alternateName": "view-by-look",
+      "name": "ルックブック",
+      "identifier": "nvcat450010v"
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "hidePrice",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "subType",
+      "value": "product"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "sizeGuide",
+      "value": false
+    }
+  ],
+  "name": "LVxNBA II - LOOK 10",
+  "isRelatedTo": [],
+  "@context": "http://schema.org",
+  "identifier": "nvprod2940010v"
+}

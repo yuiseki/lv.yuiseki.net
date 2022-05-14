@@ -1,0 +1,867 @@
+{
+  "model": [
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/M67210/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/008869"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/M67210"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/M67210/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/008869/M67210/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ブラック",
+      "@type": "ProductModel",
+      "height": {
+        "@type": "QuantitativeValue",
+        "value": 7,
+        "unitText": "cm"
+      },
+      "name": "ネオ・ポルトカルト",
+      "width": {
+        "@type": "QuantitativeValue",
+        "value": 0.6,
+        "unitText": "cm"
+      },
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 45100
+        },
+        "@type": "Offer",
+        "price": "¥45,100"
+      },
+      "disambiguatingDescription": "とてもしなやかでマスキュリンなエピ・レザーを使用した「ネオ・ポルトカルト」はエレガントにカードを持ち歩くのに最適です。ジャケットやパンツのポケットへの収納も簡単です。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ネオ・ポルトカルト-エピ-財布＆小物--M67210_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ネオ・ポルトカルト-エピ-財布＆小物--M67210_PM1_Closeup view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Closeup view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ネオ・ポルトカルト-エピ-財布＆小物--M67210_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ネオ・ポルトカルト-エピ-財布＆小物--M67210_PM1_Interior view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Interior view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ネオ・ポルトカルト-エピ-財布＆小物--M67210_PM1_Detail view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Detail view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ネオ・ポルトカルト-エピ-財布＆小物--M67210_PM1_Back view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Back view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/neo-porte-cartes-epi-008869",
+      "material": "エピ",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 11,
+        "unitText": "cm"
+      },
+      "highEndTemplate": false,
+      "productId": "008869",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-LG-980_noir.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul> \n \n <li>クレジットカード用ポケット2枚</li> \n <li>ポケット2つ</li> \n <li>ライニング：マットクロスグレインレザー</li> \n</ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "hotstampable",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z01"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-1cyoz77",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/wallets-and-small-leather-goods/_/N-14n6l30",
+          "alternateName": "wallets-and-small-leather-goods",
+          "name": "財布＆小物",
+          "identifier": "m-category-cat10021"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/wallets-and-small-leather-goods/cardholders-and-passport-cases/_/N-1996fnd",
+          "alternateName": "cardholders-and-passport-cases",
+          "name": "メンズ キー＆カードケース、パスポートカバー",
+          "identifier": "m-keycardholders-mslg"
+        }
+      ],
+      "disclaimers": {
+        "value": "pre_order_disclaimer",
+        "popInContent": "pre_order_disclaimer_info_popin_content",
+        "popInTitle": "pre_order_disclaimer_info_popin_title"
+      },
+      "color": "ノワール",
+      "@context": "http://schema.org",
+      "identifier": "M67210"
+    }
+  ],
+  "panelInformations": [
+    {
+      "@type": "Sustainability",
+      "title": "サステナビリティ",
+      "description": "本製品に使用されているレザーは、LWG(レザー･ワーキング･グループ)の監査および認証を受け、鞣(なめ)し工程に関する最高の環境基準を満たした工場において加工されています。この基準は、鞣(なめ)し工場で消費される水やエネルギーだけでなく、潜在的に有害性を有し得る物質の量を減らすことも目的として定められています。ルイ･ヴィトンと取引きのあるパートナーの鞣(なめ)し工場はヨーロッパ各地にあり、責任ある外部調達や継続的な改善(材料のトレーサビリティシステムの推進、森林伐採の慣例への対策)に協力して取組んでいます。"
+    },
+    {
+      "@type": "ProductCare",
+      "title": "素材とお手入れ方法、修理",
+      "description": "<ul><li>研磨剤や目の粗い表面との接触を避けてください。</li><li>\n色移りをする可能性があるものを、パテントレザーに長時間接触させないでください。特に淡色のエピ製品についてはご注意ください。</li><li>\n本製品は風通しの悪い場所での保管･放置を避け、風通しの良い乾燥した場所に保管してください。また、高温になる場所(暖房器具のそば、直射日光が当たる車内など)には短時間でも保管･放置しないでください。</li><li>\n保管の際は、付属の布袋をご使用ください。淡色のレザーは、光により敏感であり、多少黄色く変色する場合があります。</li><li>\nエピ製品、特にエレクトリックカラーの製品は、素材の特性上、色移りが起こることがあります。油性の製品(グリースや化粧品など)やアルコールを含んだ製品(香水､マニキュア､除光液､ベンジンなど)との接触を避けてください。</li><li>\nレザー部分が汚れたり、ライニング部分にシミがついた場合は、柔らかい白い布で拭き取るようにしてください。石鹸や溶剤は決して使わないでください。</li></ul>\n<p><u>リペアサービスのご案内：</u><br>\nルイ・ヴィトンでは、製品を末永くご愛用いただけるようリペアサービスを承っております。\nお客様のご要望をお伺いした上で、パリのアトリエと同じパーツを使用し、熟練した職人が真心を込めて、1点1点丁寧に修理いたします。ご利用方法は、「<a href=\"http://jp.louisvuitton.com/jpnjp/startthejourney\">ヘルプ</a>」セクション内の「<a href=\"http://jp.louisvuitton.com/jpnjp/repair\">リペアサービス</a>」をご覧ください。<br>\nまた、お問合せ･ご相談はクライアントサービスおよび全国のルイ･ヴィトン ストアまでお気軽にご連絡ください(阪急梅田店、阪急メンズ店、LOUIS VUITTON DOVER STREET MARKET GINZA店は除く)。</p>",
+      "introduction": "<div class=\"popinHeader uppercase\">エピ・レザーの注意点をお読みいただき、末永くご愛用くださいますようお願い申し上げます。\n</div>"
+    }
+  ],
+  "disambiguatingDescription": "とてもしなやかでマスキュリンなエピ・レザーを使用した「ネオ・ポルトカルト」はエレガントにカードを持ち歩くのに最適です。ジャケットやパンツのポケットへの収納も簡単です。",
+  "_links": {
+    "self": {
+      "href": "/api/catalog/jpn-jp/product/008869"
+    },
+    "push": {
+      "href": "/api/catalog/jpn-jp/product-push/008869"
+    },
+    "care-link": {
+      "href": "/api/catalog/jpn-jp/care-link/008869"
+    },
+    "availability": {
+      "href": "/api/catalog/jpn-jp/availability/008869"
+    }
+  },
+  "@type": "Product",
+  "sku": "M67210",
+  "isSimilarTo": [],
+  "productTips": [],
+  "url": "/jpn-jp/products/neo-porte-cartes-epi-008869",
+  "material": "エピ",
+  "category": [
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/_/N-1cyoz77",
+      "alternateName": "men",
+      "name": "メンズ",
+      "identifier": "homme"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/wallets-and-small-leather-goods/_/N-14n6l30",
+      "alternateName": "wallets-and-small-leather-goods",
+      "name": "財布＆小物",
+      "identifier": "m-category-cat10021"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/wallets-and-small-leather-goods/cardholders-and-passport-cases/_/N-1996fnd",
+      "alternateName": "cardholders-and-passport-cases",
+      "name": "メンズ キー＆カードケース、パスポートカバー",
+      "identifier": "m-keycardholders-mslg"
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "hidePrice",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "subType",
+      "value": "product"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "materialIconURL",
+      "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--AEL-LG-A00_Epi.jpg"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "hotStampable",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "careLink",
+      "value": "AEL-LG-A04"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "sizeGuide",
+      "value": false
+    }
+  ],
+  "name": "ネオ・ポルトカルト",
+  "isRelatedTo": [
+    {
+      "model": [
+        {
+          "productVisible": true,
+          "_links": {
+            "look": {
+              "href": "/api/catalog/jpn-jp/skus/N62666/look"
+            },
+            "parent": {
+              "href": "/api/catalog/jpn-jp/product/000305"
+            },
+            "self": {
+              "href": "/api/catalog/jpn-jp/product/N62666"
+            },
+            "perso-details": {
+              "href": "/api/catalog/jpn-jp/skus/N62666/perso-detail"
+            },
+            "/api/rels/jpn-jp/add-to-cart-base/000305/N62666/1": {
+              "name": "add-to-cart",
+              "href": "/api/cart/jpn-jp"
+            }
+          },
+          "macroColor": "グレー",
+          "@type": "ProductModel",
+          "height": {
+            "@type": "QuantitativeValue",
+            "value": 7,
+            "unitText": "cm"
+          },
+          "name": "ネオ・ポルト カルト",
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": 0.6,
+            "unitText": "cm"
+          },
+          "offers": {
+            "priceSpecification": {
+              "priceCurrency": "JPY",
+              "price": 41800
+            },
+            "@type": "Offer",
+            "price": "¥41,800"
+          },
+          "disambiguatingDescription": "ダミエ・グラフィットのシックなカードケース、「ネオ・ポルト カルト」。横入れと縦入れとして、表と裏で違ったカードの収納方式で個性的。薄型で、ジャケットやパンツのポケットにも楽に収納可能。",
+          "image": [
+            {
+              "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ネオ・ポルト-カルト-ダミエ・グラフィット-財布＆小物--N62666_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+              "@type": "ImageObject",
+              "name": "Front view",
+              "@context": "http://schema.org"
+            },
+            {
+              "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ネオ・ポルト-カルト-ダミエ・グラフィット-財布＆小物--N62666_PM1_Closeup view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+              "@type": "ImageObject",
+              "name": "Closeup view",
+              "@context": "http://schema.org"
+            },
+            {
+              "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ネオ・ポルト-カルト-ダミエ・グラフィット-財布＆小物--N62666_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+              "@type": "ImageObject",
+              "name": "Side view",
+              "@context": "http://schema.org"
+            },
+            {
+              "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ネオ・ポルト-カルト-ダミエ・グラフィット-財布＆小物--N62666_PM1_Interior view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+              "@type": "ImageObject",
+              "name": "Interior view",
+              "@context": "http://schema.org"
+            },
+            {
+              "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ネオ・ポルト-カルト-ダミエ・グラフィット-財布＆小物--N62666_PM1_Detail view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+              "@type": "ImageObject",
+              "name": "Detail view",
+              "@context": "http://schema.org"
+            },
+            {
+              "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ネオ・ポルト-カルト-ダミエ・グラフィット-財布＆小物--N62666_PM1_Back view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+              "@type": "ImageObject",
+              "name": "Back view",
+              "@context": "http://schema.org"
+            }
+          ],
+          "url": "/jpn-jp/products/neo-porte-cartes-damier-graphite-000305",
+          "material": "ダミエ・グラフィット",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": 11,
+            "unitText": "cm"
+          },
+          "highEndTemplate": false,
+          "productId": "000305",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "colorIconURL",
+              "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-LG-9GA_graphite.jpg"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "detailedDescription",
+              "value": "<ul> \n \n <li>ダミエ・グラフィット キャンバス</li> \n <li>カードケース</li> \n <li>クレジットカード用ポケット5枚（前面：1枚、内側：1枚、背面：3枚）</li> \n</ul>"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "materialIconURL",
+              "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--AEL-LG-D05_damier_graphite.jpg"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "hotstampable",
+              "value": false
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "sellable",
+              "value": true
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "cscSellable",
+              "value": true
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "mom",
+              "value": false
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "locateInStore",
+              "value": false
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "materialGroupCode",
+              "value": "Z01"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "backOrderDisclaimer",
+              "value": true
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "backOrderFullDeposit",
+              "value": false
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "tryOnEnabled",
+              "value": false
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "isBundle",
+              "value": false
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "360ViewEnabled",
+              "value": false
+            }
+          ],
+          "category": [
+            {
+              "@type": "Thing",
+              "url": "/jpn-jp/men/_/N-1cyoz77",
+              "alternateName": "men",
+              "name": "メンズ",
+              "identifier": "homme"
+            },
+            {
+              "@type": "Thing",
+              "url": "/jpn-jp/men/wallets-and-small-leather-goods/_/N-14n6l30",
+              "alternateName": "wallets-and-small-leather-goods",
+              "name": "財布＆小物",
+              "identifier": "m-category-cat10021"
+            },
+            {
+              "@type": "Thing",
+              "url": "/jpn-jp/men/wallets-and-small-leather-goods/cardholders-and-passport-cases/_/N-1996fnd",
+              "alternateName": "cardholders-and-passport-cases",
+              "name": "メンズ キー＆カードケース、パスポートカバー",
+              "identifier": "m-keycardholders-mslg"
+            }
+          ],
+          "disclaimers": {
+            "value": "shipping_warning_bo",
+            "popInContent": "global_backorder_info_popin_content",
+            "popInTitle": "global_backorder_info_popin_title"
+          },
+          "color": "Graphite",
+          "@context": "http://schema.org",
+          "identifier": "N62666"
+        }
+      ],
+      "panelInformations": [
+        {
+          "@type": "Sustainability",
+          "title": "サステナビリティ",
+          "description": "本製品に使用されているレザーは、LWG(レザー･ワーキング･グループ)の監査および認証を受け、鞣(なめ)し工程に関する最高の環境基準を満たした工場において加工されています。この基準は、鞣(なめ)し工場で消費される水やエネルギーだけでなく、潜在的に有害性を有し得る物質の量を減らすことも目的として定められています。ルイ･ヴィトンと取引きのあるパートナーの鞣(なめ)し工場はヨーロッパ各地にあり、責任ある外部調達や継続的な改善(材料のトレーサビリティシステムの推進、森林伐採の慣例への対策)に協力して取組んでいます。"
+        },
+        {
+          "@type": "ProductCare",
+          "title": "素材とお手入れ方法、修理",
+          "description": "<ul><li>研磨剤や目の粗い表面との接触を避けてください。特に、レザートリミング部分についてはご注意ください。</li><li>\n本製品は風通しの悪い場所での保管･放置を避け、風通しの良い乾燥した場所に保管してください。また、高温になる場所(暖房器具のそば、直射日光が当たる車内など)には短時間でも保管･放置しないでください。</li><li>\n油性の製品（グリースや化粧品、ハンドクリームなど）やアルコールを含んだ製品（アルコール消毒ジェル、アルコール消毒スプレー、香水、マニキュア、除光液、ベンジンなど）、色移りの原因となる素材(雑誌、カラーレザーなど)との接触は避けてください。化粧品やアルコールを含んだ製品、香水などをご使用の際には5-10分ほど時間をおき、手指や肌が完全に乾いてから、製品に触れていただきますようお願い申しあげます。</li><li>\n保管の際は、付属の布袋をご使用ください。温度や湿度が高く、風通しの悪い場所での保管･放置は避けてください。</li><li>\nコートキャンバス地は、お手入れも簡単です。レザー部分を避けて、少量の洗剤を溶かした水で湿らせた、白い柔らかい布で軽く拭いてください。</li><li>\n色移りをする可能性があるもの(雑誌、デニムのような布地、他の皮革製品など)を、コートキャンバス地に長時間接触させないでください。</li><li>\n時の経過とともに、ダミエ･パターンが多少薄くなり、キャンバス地の地色が現れる場合があります。これは品質上の問題ではなく、耐久性に影響を与えることはありません。</li></ul>\n<p><u>リペアサービスのご案内：</u><br>\nルイ・ヴィトンでは、製品を末永くご愛用いただけるようリペアサービスを承っております。\nお客様のご要望をお伺いした上で、パリのアトリエと同じパーツを使用し、熟練した職人が真心を込めて、1点1点丁寧に修理いたします。ご利用方法は、「<a href=\"http://jp.louisvuitton.com/jpnjp/startthejourney\">ヘルプ</a>」セクション内の「<a href=\"http://jp.louisvuitton.com/jpnjp/repair\">リペアサービス</a>」をご覧ください。<br>\nまた、お問合せ・ご相談はクライアントサービスおよび全国のルイ・ヴィトン ストアまでお気軽にご連絡ください(阪急梅田店、阪急メンズ店、LOUIS VUITTON DOVER STREET MARKET GINZA店は除く)。</p>",
+          "introduction": "<div class=\"popinHeader uppercase\">ダミエ・グラフィット キャンバスの注意点をお読みいただき、末永くご愛用くださいますようお願い申し上げます。</div>"
+        }
+      ],
+      "disambiguatingDescription": "ダミエ・グラフィットのシックなカードケース、「ネオ・ポルト カルト」。横入れと縦入れとして、表と裏で違ったカードの収納方式で個性的。薄型で、ジャケットやパンツのポケットにも楽に収納可能。",
+      "_links": {
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/000305"
+        },
+        "push": {
+          "href": "/api/catalog/jpn-jp/product-push/000305"
+        },
+        "care-link": {
+          "href": "/api/catalog/jpn-jp/care-link/000305"
+        },
+        "availability": {
+          "href": "/api/catalog/jpn-jp/availability/000305"
+        }
+      },
+      "@type": "Product",
+      "sku": "N62666",
+      "productTips": [],
+      "url": "/jpn-jp/products/neo-porte-cartes-damier-graphite-000305",
+      "material": "ダミエ・グラフィット",
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-1cyoz77",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/wallets-and-small-leather-goods/_/N-14n6l30",
+          "alternateName": "wallets-and-small-leather-goods",
+          "name": "財布＆小物",
+          "identifier": "m-category-cat10021"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/wallets-and-small-leather-goods/cardholders-and-passport-cases/_/N-1996fnd",
+          "alternateName": "cardholders-and-passport-cases",
+          "name": "メンズ キー＆カードケース、パスポートカバー",
+          "identifier": "m-keycardholders-mslg"
+        }
+      ],
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "hidePrice",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "subType",
+          "value": "product"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--AEL-LG-D05_damier_graphite.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "hotStampable",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "careLink",
+          "value": "MATAEL-LG-D05"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sizeGuide",
+          "value": false
+        }
+      ],
+      "name": "ネオ・ポルト カルト",
+      "@context": "http://schema.org",
+      "identifier": "000305"
+    },
+    {
+      "model": [
+        {
+          "productVisible": true,
+          "_links": {
+            "look": {
+              "href": "/api/catalog/jpn-jp/skus/M60166/look"
+            },
+            "parent": {
+              "href": "/api/catalog/jpn-jp/product/000309"
+            },
+            "self": {
+              "href": "/api/catalog/jpn-jp/product/M60166"
+            },
+            "perso-details": {
+              "href": "/api/catalog/jpn-jp/skus/M60166/perso-detail"
+            },
+            "/api/rels/jpn-jp/add-to-cart-base/000309/M60166/1": {
+              "name": "add-to-cart",
+              "href": "/api/cart/jpn-jp"
+            }
+          },
+          "macroColor": "マロン",
+          "@type": "ProductModel",
+          "height": {
+            "@type": "QuantitativeValue",
+            "value": 7,
+            "unitText": "cm"
+          },
+          "name": "ネオ・ポルト カルト",
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": 0.6,
+            "unitText": "cm"
+          },
+          "offers": {
+            "priceSpecification": {
+              "priceCurrency": "JPY",
+              "price": 41800
+            },
+            "@type": "Offer",
+            "price": "¥41,800"
+          },
+          "disambiguatingDescription": "シンプルなカードケース、「ネオ・ポルト カルト」はポケットにも収まるスリムなデザインが魅力的。表面は横入れ、裏面は縦入れにカードを収納できる、個性的な一品です。モノグラム・キャンバスとブラックレザーのコントラストがシック。",
+          "image": [
+            {
+              "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ネオ・ポルト-カルト-モノグラム・マカサー-財布＆小物--M60166_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+              "@type": "ImageObject",
+              "name": "Front view",
+              "@context": "http://schema.org"
+            },
+            {
+              "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ネオ・ポルト-カルト-モノグラム・マカサー-財布＆小物--M60166_PM1_Closeup view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+              "@type": "ImageObject",
+              "name": "Closeup view",
+              "@context": "http://schema.org"
+            },
+            {
+              "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ネオ・ポルト-カルト-モノグラム・マカサー-財布＆小物--M60166_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+              "@type": "ImageObject",
+              "name": "Side view",
+              "@context": "http://schema.org"
+            },
+            {
+              "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ネオ・ポルト-カルト-モノグラム・マカサー-財布＆小物--M60166_PM1_Interior view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+              "@type": "ImageObject",
+              "name": "Interior view",
+              "@context": "http://schema.org"
+            },
+            {
+              "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ネオ・ポルト-カルト-モノグラム・マカサー-財布＆小物--M60166_PM1_Detail view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+              "@type": "ImageObject",
+              "name": "Detail view",
+              "@context": "http://schema.org"
+            },
+            {
+              "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ネオ・ポルト-カルト-モノグラム・マカサー-財布＆小物--M60166_PM1_Back view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+              "@type": "ImageObject",
+              "name": "Back view",
+              "@context": "http://schema.org"
+            }
+          ],
+          "url": "/jpn-jp/products/neo-porte-cartes-monogram-macassar-000309",
+          "material": "モノグラム・マカサー",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": 11,
+            "unitText": "cm"
+          },
+          "highEndTemplate": false,
+          "productId": "000309",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "colorIconURL",
+              "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-LG-972_brown.jpg"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "detailedDescription",
+              "value": "<ul> \n \n <li>モノグラム・キャンバス</li> \n <li>カードケース</li> \n <li>クレジットカード用ポケット5枚（前面：1枚、内側：1枚、背面：3枚）</li> \n</ul>"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "hotstampable",
+              "value": false
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "sellable",
+              "value": true
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "cscSellable",
+              "value": true
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "mom",
+              "value": false
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "locateInStore",
+              "value": true
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "materialGroupCode",
+              "value": "Z01"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "filterCategories",
+              "value": "Leather_Goods_and_Accessories"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "backOrderDisclaimer",
+              "value": false
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "backOrderFullDeposit",
+              "value": true
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "tryOnEnabled",
+              "value": false
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "isBundle",
+              "value": false
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "360ViewEnabled",
+              "value": false
+            }
+          ],
+          "category": [
+            {
+              "@type": "Thing",
+              "url": "/jpn-jp/men/_/N-1cyoz77",
+              "alternateName": "men",
+              "name": "メンズ",
+              "identifier": "homme"
+            },
+            {
+              "@type": "Thing",
+              "url": "/jpn-jp/men/wallets-and-small-leather-goods/_/N-14n6l30",
+              "alternateName": "wallets-and-small-leather-goods",
+              "name": "財布＆小物",
+              "identifier": "m-category-cat10021"
+            },
+            {
+              "@type": "Thing",
+              "url": "/jpn-jp/men/wallets-and-small-leather-goods/cardholders-and-passport-cases/_/N-1996fnd",
+              "alternateName": "cardholders-and-passport-cases",
+              "name": "メンズ キー＆カードケース、パスポートカバー",
+              "identifier": "m-keycardholders-mslg"
+            }
+          ],
+          "disclaimers": {
+            "value": "pre_order_disclaimer",
+            "popInContent": "pre_order_disclaimer_info_popin_content",
+            "popInTitle": "pre_order_disclaimer_info_popin_title"
+          },
+          "color": "マロン",
+          "@context": "http://schema.org",
+          "identifier": "M60166"
+        }
+      ],
+      "panelInformations": [
+        {
+          "@type": "Sustainability",
+          "title": "サステナビリティ",
+          "description": "本製品に使用されているレザーは、LWG(レザー･ワーキング･グループ)の監査および認証を受け、鞣(なめ)し工程に関する最高の環境基準を満たした工場において加工されています。この基準は、鞣(なめ)し工場で消費される水やエネルギーだけでなく、潜在的に有害性を有し得る物質の量を減らすことも目的として定められています。ルイ･ヴィトンと取引きのあるパートナーの鞣(なめ)し工場はヨーロッパ各地にあり、責任ある外部調達や継続的な改善(材料のトレーサビリティシステムの推進、森林伐採の慣例への対策)に協力して取組んでいます。"
+        },
+        {
+          "@type": "ProductCare",
+          "title": "素材とお手入れ方法、修理",
+          "description": "<ul><li>研磨剤や目の粗い表面との接触を避けてください。特に、レザートリミング部分についてはご注意ください。</li><li>\n本製品は風通しの悪い場所での保管･放置を避け、風通しの良い乾燥した場所に保管してください。また、高温になる場所(暖房器具のそば、直射日光が当たる車内など)には短時間でも保管･放置しないでください。</li><li>\n油性の製品(グリースや化粧品などアルコールを含んだ製品、香水、マニキュア、除光液、ベンジンなど)や、色移りの原因となる素材(雑誌、カラーレザーなど)との接触は避けてください。</li><li>\n保管の際は、付属の布袋をご使用ください。温度や湿度が高く、風通しの悪い場所での保管･放置は避けてください。</li><li>\nコートキャンバス地は、お手入れも簡単です。レザー部分を避けて、少量の洗剤を溶かした水で湿らせた、白い柔らかい布で軽く拭いてください。</li><li>\n色移りをする可能性があるもの(雑誌、デニムのような布地、他の皮革製品など)を、コートキャンバス地に長時間接触させないでください。</li><li>\n時の経過とともに、モノグラム･パターンが多少薄くなり、キャンバス地の地色が現れる場合があります。これは品質上の問題ではなく、耐久性に影響を与えることはありません。</li></ul>\n<p><u>リペアサービスのご案内：</u><br>\nルイ・ヴィトンでは、製品を末永くご愛用いただけるようリペアサービスを承っております。\nお客様のご要望をお伺いした上で、パリのアトリエと同じパーツを使用し、熟練した職人が真心を込めて、1点1点丁寧に修理いたします。ご利用方法は、「<a href=\"http://jp.louisvuitton.com/jpnjp/startthejourney\">ヘルプ</a>」セクション内の「<a href=\"http://jp.louisvuitton.com/jpnjp/repair\">リペアサービス</a>」をご覧ください。<br>\nまた、お問合せ・ご相談はクライアントサービスおよび全国のルイ・ヴィトン ストアまでお気軽にご連絡ください(阪急梅田店、阪急メンズ店、LOUIS VUITTON DOVER STREET MARKET GINZA店は除く)。</p>",
+          "introduction": "<div class=\"popinHeader uppercase\">モノグラム・マカサー キャンバスの注意点をお読みいただき、末永くご愛用くださいますようお願い申し上げます。</div>"
+        }
+      ],
+      "disambiguatingDescription": "シンプルなカードケース、「ネオ・ポルト カルト」はポケットにも収まるスリムなデザインが魅力的。表面は横入れ、裏面は縦入れにカードを収納できる、個性的な一品です。モノグラム・キャンバスとブラックレザーのコントラストがシック。",
+      "_links": {
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/000309"
+        },
+        "push": {
+          "href": "/api/catalog/jpn-jp/product-push/000309"
+        },
+        "care-link": {
+          "href": "/api/catalog/jpn-jp/care-link/000309"
+        },
+        "availability": {
+          "href": "/api/catalog/jpn-jp/availability/000309"
+        }
+      },
+      "@type": "Product",
+      "sku": "M60166",
+      "productTips": [],
+      "url": "/jpn-jp/products/neo-porte-cartes-monogram-macassar-000309",
+      "material": "モノグラム・マカサー",
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-1cyoz77",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/wallets-and-small-leather-goods/_/N-14n6l30",
+          "alternateName": "wallets-and-small-leather-goods",
+          "name": "財布＆小物",
+          "identifier": "m-category-cat10021"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/wallets-and-small-leather-goods/cardholders-and-passport-cases/_/N-1996fnd",
+          "alternateName": "cardholders-and-passport-cases",
+          "name": "メンズ キー＆カードケース、パスポートカバー",
+          "identifier": "m-keycardholders-mslg"
+        }
+      ],
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "hidePrice",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "subType",
+          "value": "product"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--AEL-LG-G08_monogram_macassar.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "hotStampable",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "careLink",
+          "value": "MATAEL-LG-G08"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sizeGuide",
+          "value": false
+        }
+      ],
+      "name": "ネオ・ポルト カルト",
+      "@context": "http://schema.org",
+      "identifier": "000309"
+    }
+  ],
+  "@context": "http://schema.org",
+  "identifier": "008869"
+}

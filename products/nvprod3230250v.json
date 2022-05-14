@@ -1,0 +1,250 @@
+{
+  "model": [
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/M77341/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod3230250v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/M77341"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/M77341/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod3230250v/M77341/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ベージュ",
+      "@type": "ProductModel",
+      "height": {
+        "@type": "QuantitativeValue",
+        "value": 67,
+        "unitText": "cm"
+      },
+      "name": "Mix And Match Square 70",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 45100
+        },
+        "@type": "Offer",
+        "price": "¥45,100"
+      },
+      "disambiguatingDescription": "The Mix and Match 70 square is a new piece that is sure to delight Monogram lovers. This accessory combines the beloved Monogram pattern with strap motifs in an ode to the House's iconic handbags. The pure silk scarf is available in two versions, a bold style and a more traditional one.",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-mix-and-match-square-70-s00-silk-squares-and-bandeaus--M77341_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-mix-and-match-square-70-s00-silk-squares-and-bandeaus--M77341_PM1_Closeup view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Closeup view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-mix-and-match-square-70-s00-silk-squares-and-bandeaus--M77341_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-mix-and-match-square-70-s00-silk-squares-and-bandeaus--M77341_PM1_Interior view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Interior view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-mix-and-match-square-70-s00-silk-squares-and-bandeaus--M77341_PM1_Back view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Back view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/mix-and-match-square-s00-nvprod3230250v",
+      "material": "SILK",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 67,
+        "unitText": "cm"
+      },
+      "highEndTemplate": false,
+      "productId": "nvprod3230250v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-ACC-906_beige.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul>\n  <li>Beige</li>\n  <li>100% silk</li>\n  <li>Inkjet print</li>\n  <li>Monogram pattern</li>\n  <li>Strap motifs</li>\n  <li>Louis Vuitton signature</li>\n  <li>Hand-rolled edges</li>\n  <li>Dry clean only</li>\n</ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories;Sunglasses"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/_/N-1q5sgib",
+          "alternateName": "women",
+          "name": "Women",
+          "identifier": "femme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/accessories/_/N-1oyzg8c",
+          "alternateName": "accessories",
+          "name": "Accessories",
+          "identifier": "w-category-cat10155"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/accessories/silk-squares-and-bandeaus/_/N-1wvd638",
+          "alternateName": "silk-squares-and-bandeaus",
+          "name": "Silk Squares and Bandeaus",
+          "identifier": "nvcat1170030v"
+        }
+      ],
+      "disclaimers": {
+        "value": "shipping_warning_bo",
+        "popInContent": "global_backorder_info_popin_content",
+        "popInTitle": "global_backorder_info_popin_title"
+      },
+      "color": "ベージュ",
+      "@context": "http://schema.org",
+      "identifier": "M77341"
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "/api/catalog/jpn-jp/product/nvprod3230250v"
+    },
+    "push": {
+      "href": "/api/catalog/jpn-jp/product-push/nvprod3230250v"
+    },
+    "care-link": {
+      "href": "/api/catalog/jpn-jp/care-link/nvprod3230250v"
+    },
+    "availability": {
+      "href": "/api/catalog/jpn-jp/availability/nvprod3230250v"
+    }
+  },
+  "@type": "Product",
+  "sku": "M77341",
+  "isSimilarTo": [],
+  "productTips": [],
+  "url": "/jpn-jp/products/mix-and-match-square-s00-nvprod3230250v",
+  "material": "NOT APPLICABLE ACC",
+  "category": [
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/women/_/N-1q5sgib",
+      "alternateName": "women",
+      "name": "Women",
+      "identifier": "femme"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/women/accessories/_/N-1oyzg8c",
+      "alternateName": "accessories",
+      "name": "Accessories",
+      "identifier": "w-category-cat10155"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/women/accessories/silk-squares-and-bandeaus/_/N-1wvd638",
+      "alternateName": "silk-squares-and-bandeaus",
+      "name": "Silk Squares and Bandeaus",
+      "identifier": "nvcat1170030v"
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "hidePrice",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "subType",
+      "value": "product"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "sizeGuide",
+      "value": false
+    }
+  ],
+  "name": "Mix And Match Square",
+  "isRelatedTo": [],
+  "@context": "http://schema.org",
+  "identifier": "nvprod3230250v"
+}

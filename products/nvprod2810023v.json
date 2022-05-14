@@ -1,0 +1,186 @@
+{
+  "model": [
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/nvsku2560014v/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod2810023v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/nvsku2560014v"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/nvsku2560014v/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod2810023v/nvsku2560014v/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "@type": "ProductModel",
+      "name": "Watercolor Summer Collection - Look 14",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton--Men_Summer_LOOK14_VISUAL4.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "LOOK14",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/watercolor-summer-collection-look-14-nvprod2810023v",
+      "highEndTemplate": false,
+      "productId": "nvprod2810023v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-1cyoz77",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/ready-to-wear/_/N-1lpb5id",
+          "alternateName": "ready-to-wear",
+          "name": "プレタポルテ（洋服）",
+          "identifier": "m-readytowear"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/ready-to-wear/view-by-look/_/N-1ui6ldg",
+          "alternateName": "view-by-look",
+          "name": "ルックブック",
+          "identifier": "nvcat450010v"
+        }
+      ],
+      "disclaimers": {
+        "value": "shipping_warning_bo",
+        "popInContent": "global_backorder_info_popin_content",
+        "popInTitle": "global_backorder_info_popin_title"
+      },
+      "@context": "http://schema.org",
+      "identifier": "nvsku2560014v"
+    }
+  ],
+  "readyToWearSKUs": [],
+  "disambiguatingDescription": "ワークウェアから着想を得たブルゾンにスケートボーダースタイルのショーツを合わせ、スマートカジュアルを体現したルック。ジャケットには撥水加工を施したコットンとテクニカルファブリックを使用し、裏地にはカプセル･コレクションに登場したインク調のウォーターカラー･モノグラム パターンをあしらいました。エレガントなショーツのフロントに施したダブルプリーツがテーラリングの雰囲気を演出します。",
+  "_links": {
+    "self": {
+      "href": "/api/catalog/jpn-jp/product/nvprod2810023v"
+    },
+    "push": {
+      "href": "/api/catalog/jpn-jp/product-push/nvprod2810023v"
+    },
+    "care-link": {
+      "href": "/api/catalog/jpn-jp/care-link/nvprod2810023v"
+    },
+    "availability": {
+      "href": "/api/catalog/jpn-jp/availability/nvprod2810023v"
+    }
+  },
+  "@type": "Product",
+  "sku": "nvsku2560014v",
+  "isSimilarTo": [],
+  "productTips": [],
+  "url": "/jpn-jp/products/watercolor-summer-collection-look-14-nvprod2810023v",
+  "accessoriesSKUs": [],
+  "category": [
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/_/N-1cyoz77",
+      "alternateName": "men",
+      "name": "メンズ",
+      "identifier": "homme"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/ready-to-wear/_/N-1lpb5id",
+      "alternateName": "ready-to-wear",
+      "name": "プレタポルテ（洋服）",
+      "identifier": "m-readytowear"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/ready-to-wear/view-by-look/_/N-1ui6ldg",
+      "alternateName": "view-by-look",
+      "name": "ルックブック",
+      "identifier": "nvcat450010v"
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "hidePrice",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "subType",
+      "value": "product"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "sizeGuide",
+      "value": false
+    }
+  ],
+  "name": "ウォーターカラー サマー･コレクション - Look 14",
+  "isRelatedTo": [],
+  "@context": "http://schema.org",
+  "identifier": "nvprod2810023v"
+}

@@ -1,0 +1,246 @@
+{
+  "model": [
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/M50999/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/012084"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/M50999"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/M50999/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/012084/M50999/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ブラック",
+      "@type": "ProductModel",
+      "height": {
+        "@type": "QuantitativeValue",
+        "value": 12,
+        "unitText": "cm"
+      },
+      "name": "GO-14 MINI",
+      "mainMaterial2": "LAMB",
+      "width": {
+        "@type": "QuantitativeValue",
+        "value": 10.5,
+        "unitText": "cm"
+      },
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 469700
+        },
+        "@type": "Offer",
+        "price": "¥469,700"
+      },
+      "disambiguatingDescription": "ルイ・ヴィトンの伝統的なトランクの内側に潜む美しいひし形のライニングから着想を得たパターンを、しなやかなラムスキンと洗練されたリボンの刺繍で再現した「GO-14 MINI」。シグネチャーでもある調節可能なチェーンとLVロゴのツイストロックが洗練された印象を添えます。上品かつ、多用途で活躍するボディフレンドリーなバッグです。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-go-14-mini-マルタージュ-バッグ--M50999_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/go-14-mini-malletage-012084",
+      "material": "マルタージュ",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 21,
+        "unitText": "cm"
+      },
+      "highEndTemplate": false,
+      "productId": "012084",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-LG-980_noir.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul> \n <li>素材：ステッチと染色が施されたエンボス・ラムスキン</li> \n <li>金具（色：シルバー）</li> \n <li>ライニング：シープスキン</li> \n \n <li>LVロゴのツイストロック</li> \n <li>縁：同系色で染色加工</li> \n <li>ミラー付きの小ポケット</li> \n<li>チェーン：スライド式, 取り外し不可</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "hotstampable",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z01"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/_/N-1q5sgib",
+          "alternateName": "women",
+          "name": "ウィメンズ",
+          "identifier": "femme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/handbags/_/N-tatseh",
+          "alternateName": "handbags",
+          "name": "バッグ",
+          "identifier": "w-category-cat10070"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/handbags/chain-bags-and-clutches/_/N-f1ghvy",
+          "alternateName": "chain-bags-and-clutches",
+          "name": "ウィメンズ クラッチ＆チェーンバッグ",
+          "identifier": "w-category-cat1410174"
+        }
+      ],
+      "disclaimers": {
+        "value": "shipping_warning_bo",
+        "popInContent": "global_backorder_info_popin_content",
+        "popInTitle": "global_backorder_info_popin_title"
+      },
+      "color": "ノワール",
+      "@context": "http://schema.org",
+      "identifier": "M50999"
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "/api/catalog/jpn-jp/product/012084"
+    },
+    "push": {
+      "href": "/api/catalog/jpn-jp/product-push/012084"
+    },
+    "care-link": {
+      "href": "/api/catalog/jpn-jp/care-link/012084"
+    },
+    "availability": {
+      "href": "/api/catalog/jpn-jp/availability/012084"
+    }
+  },
+  "@type": "Product",
+  "sku": "M50999",
+  "isSimilarTo": [],
+  "productTips": [],
+  "url": "/jpn-jp/products/go-14-mini-malletage-012084",
+  "material": "マルタージュ",
+  "category": [
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/women/_/N-1q5sgib",
+      "alternateName": "women",
+      "name": "ウィメンズ",
+      "identifier": "femme"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/women/handbags/_/N-tatseh",
+      "alternateName": "handbags",
+      "name": "バッグ",
+      "identifier": "w-category-cat10070"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/women/handbags/chain-bags-and-clutches/_/N-f1ghvy",
+      "alternateName": "chain-bags-and-clutches",
+      "name": "ウィメンズ クラッチ＆チェーンバッグ",
+      "identifier": "w-category-cat1410174"
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "hidePrice",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "subType",
+      "value": "product"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "materialIconURL",
+      "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--AEL-LG-H16_malletage_GM.jpg"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "hotStampable",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "careLink",
+      "value": "LGAESTHETICLINEZ29"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "sizeGuide",
+      "value": false
+    }
+  ],
+  "name": "GO-14 MINI",
+  "isRelatedTo": [],
+  "@context": "http://schema.org",
+  "identifier": "012084"
+}

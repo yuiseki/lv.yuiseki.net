@@ -1,0 +1,966 @@
+{
+  "model": [
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/M0128Q/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod1270439v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/M0128Q"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/M0128Q/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod1270439v/M0128Q/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ブラック",
+      "@type": "ProductModel",
+      "name": "サンチュール・スレンダー 35MM リバーシブル",
+      "width": {
+        "@type": "QuantitativeValue",
+        "value": 3.5,
+        "unitText": "cm"
+      },
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 88000
+        },
+        "@type": "Offer",
+        "price": "¥88,000"
+      },
+      "disambiguatingDescription": "スリムな幅とタイムレスなスタイルがビジネスの装いに最適なベルト「サンチュール・スレンダー 35MM リバーシブル」。ベーシックなカラーが洗練された美しさを、リバーシブルのデザインが機能性を実現します。ラグジュアリーな質感のエピ･レザーとカーフレザーを使用し、バックルとベルトループにさりげなくあしらわれたルイ･ヴィトン シグネチャーも魅力です。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-サンチュール・スレンダー-35mm-リバーシブル-エピ-メンズ-ベルト--M0128Q_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-サンチュール・スレンダー-35mm-リバーシブル-エピ-メンズ-ベルト--M0128Q_PM1_Worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Worn view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-サンチュール・スレンダー-35mm-リバーシブル-エピ-メンズ-ベルト--M0128Q_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-サンチュール・スレンダー-35mm-リバーシブル-エピ-メンズ-ベルト--M0128Q_PM2_Interior view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Interior view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-サンチュール・スレンダー-35mm-リバーシブル-エピ-メンズ-ベルト--M0128Q_PM1_Other view4.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Other view4",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/slender-35-mm-reversible-belt-epi-nvprod1270439v",
+      "material": "EPI",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 110,
+        "unitText": "cm"
+      },
+      "highEndTemplate": false,
+      "sizeDisplayName": "110 CM",
+      "productId": "nvprod1270439v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>幅：35 mm</li><li>素材：エピ･レザー（皮革の種類：牛革）、カーフレザー（皮革の種類：牛革）</li><li>バックル金具（色：シルバー）</li><li>バックルにLouis Vuittonシグネチャーの刻印</li><li>ループにエンボス加工のLouis Vuittonシグネチャー</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories;Sunglasses"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-1cyoz77",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/accessories/_/N-1d0iakb",
+          "alternateName": "accessories",
+          "name": "アクセサリー",
+          "identifier": "m-category-cat10052"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/accessories/belts/_/N-1bp0rlo",
+          "alternateName": "belts",
+          "name": "メンズ ベルト",
+          "identifier": "m-category-cat1410153"
+        }
+      ],
+      "disclaimers": {
+        "value": "shipping_warning_bo",
+        "popInContent": "global_backorder_info_popin_content",
+        "popInTitle": "global_backorder_info_popin_title"
+      },
+      "color": "NOIR CHOCOLAT",
+      "@context": "http://schema.org",
+      "identifier": "M0128Q"
+    },
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/M0128S/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod1270439v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/M0128S"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/M0128S/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod1270439v/M0128S/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ブラック",
+      "@type": "ProductModel",
+      "name": "サンチュール・スレンダー 35MM リバーシブル",
+      "width": {
+        "@type": "QuantitativeValue",
+        "value": 3.5,
+        "unitText": "cm"
+      },
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 88000
+        },
+        "@type": "Offer",
+        "price": "¥88,000"
+      },
+      "disambiguatingDescription": "スリムな幅とタイムレスなスタイルがビジネスの装いに最適なベルト「サンチュール・スレンダー 35MM リバーシブル」。ベーシックなカラーが洗練された美しさを、リバーシブルのデザインが機能性を実現します。ラグジュアリーな質感のエピ･レザーとカーフレザーを使用し、バックルとベルトループにさりげなくあしらわれたルイ･ヴィトン シグネチャーも魅力です。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-サンチュール・スレンダー-35mm-リバーシブル-エピ-メンズ-ベルト--M0128S_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-サンチュール・スレンダー-35mm-リバーシブル-エピ-メンズ-ベルト--M0128S_PM1_Worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Worn view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-サンチュール・スレンダー-35mm-リバーシブル-エピ-メンズ-ベルト--M0128S_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-サンチュール・スレンダー-35mm-リバーシブル-エピ-メンズ-ベルト--M0128S_PM2_Interior view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Interior view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-サンチュール・スレンダー-35mm-リバーシブル-エピ-メンズ-ベルト--M0128S_PM1_Other view4.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Other view4",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/slender-35-mm-reversible-belt-epi-nvprod1270439v",
+      "material": "EPI",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 100,
+        "unitText": "cm"
+      },
+      "highEndTemplate": false,
+      "sizeDisplayName": "100 CM",
+      "productId": "nvprod1270439v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>幅：35 mm</li><li>素材：エピ･レザー（皮革の種類：牛革）、カーフレザー（皮革の種類：牛革）</li><li>バックル金具（色：シルバー）</li><li>バックルにLouis Vuittonシグネチャーの刻印</li><li>ループにエンボス加工のLouis Vuittonシグネチャー</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories;Sunglasses"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-1cyoz77",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/accessories/_/N-1d0iakb",
+          "alternateName": "accessories",
+          "name": "アクセサリー",
+          "identifier": "m-category-cat10052"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/accessories/belts/_/N-1bp0rlo",
+          "alternateName": "belts",
+          "name": "メンズ ベルト",
+          "identifier": "m-category-cat1410153"
+        }
+      ],
+      "disclaimers": {
+        "value": "shipping_warning_bo",
+        "popInContent": "global_backorder_info_popin_content",
+        "popInTitle": "global_backorder_info_popin_title"
+      },
+      "color": "NOIR CHOCOLAT",
+      "@context": "http://schema.org",
+      "identifier": "M0128S"
+    },
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/M0128T/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod1270439v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/M0128T"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/M0128T/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod1270439v/M0128T/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ブラック",
+      "@type": "ProductModel",
+      "name": "サンチュール・スレンダー 35MM リバーシブル",
+      "width": {
+        "@type": "QuantitativeValue",
+        "value": 3.5,
+        "unitText": "cm"
+      },
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 88000
+        },
+        "@type": "Offer",
+        "price": "¥88,000"
+      },
+      "disambiguatingDescription": "スリムな幅とタイムレスなスタイルがビジネスの装いに最適なベルト「サンチュール・スレンダー 35MM リバーシブル」。ベーシックなカラーが洗練された美しさを、リバーシブルのデザインが機能性を実現します。ラグジュアリーな質感のエピ･レザーとカーフレザーを使用し、バックルとベルトループにさりげなくあしらわれたルイ･ヴィトン シグネチャーも魅力です。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-サンチュール・スレンダー-35mm-リバーシブル-エピ-メンズ-ベルト--M0128T_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-サンチュール・スレンダー-35mm-リバーシブル-エピ-メンズ-ベルト--M0128T_PM1_Worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Worn view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-サンチュール・スレンダー-35mm-リバーシブル-エピ-メンズ-ベルト--M0128T_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-サンチュール・スレンダー-35mm-リバーシブル-エピ-メンズ-ベルト--M0128T_PM2_Interior view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Interior view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-サンチュール・スレンダー-35mm-リバーシブル-エピ-メンズ-ベルト--M0128T_PM1_Other view4.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Other view4",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/slender-35-mm-reversible-belt-epi-nvprod1270439v",
+      "material": "EPI",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 95,
+        "unitText": "cm"
+      },
+      "highEndTemplate": false,
+      "sizeDisplayName": "95 CM",
+      "productId": "nvprod1270439v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>幅：35 mm</li><li>素材：エピ･レザー（皮革の種類：牛革）、カーフレザー（皮革の種類：牛革）</li><li>バックル金具（色：シルバー）</li><li>バックルにLouis Vuittonシグネチャーの刻印</li><li>ループにエンボス加工のLouis Vuittonシグネチャー</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories;Sunglasses"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-1cyoz77",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/accessories/_/N-1d0iakb",
+          "alternateName": "accessories",
+          "name": "アクセサリー",
+          "identifier": "m-category-cat10052"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/accessories/belts/_/N-1bp0rlo",
+          "alternateName": "belts",
+          "name": "メンズ ベルト",
+          "identifier": "m-category-cat1410153"
+        }
+      ],
+      "disclaimers": {
+        "value": "shipping_warning_bo",
+        "popInContent": "global_backorder_info_popin_content",
+        "popInTitle": "global_backorder_info_popin_title"
+      },
+      "color": "NOIR CHOCOLAT",
+      "@context": "http://schema.org",
+      "identifier": "M0128T"
+    },
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/M0128U/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod1270439v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/M0128U"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/M0128U/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod1270439v/M0128U/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ブラック",
+      "@type": "ProductModel",
+      "name": "サンチュール・スレンダー 35MM リバーシブル",
+      "width": {
+        "@type": "QuantitativeValue",
+        "value": 3.5,
+        "unitText": "cm"
+      },
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 88000
+        },
+        "@type": "Offer",
+        "price": "¥88,000"
+      },
+      "disambiguatingDescription": "スリムな幅とタイムレスなスタイルがビジネスの装いに最適なベルト「サンチュール・スレンダー 35MM リバーシブル」。ベーシックなカラーが洗練された美しさを、リバーシブルのデザインが機能性を実現します。ラグジュアリーな質感のエピ･レザーとカーフレザーを使用し、バックルとベルトループにさりげなくあしらわれたルイ･ヴィトン シグネチャーも魅力です。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-サンチュール・スレンダー-35mm-リバーシブル-エピ-メンズ-ベルト--M0128U_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-サンチュール・スレンダー-35mm-リバーシブル-エピ-メンズ-ベルト--M0128U_PM1_Worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Worn view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-サンチュール・スレンダー-35mm-リバーシブル-エピ-メンズ-ベルト--M0128U_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-サンチュール・スレンダー-35mm-リバーシブル-エピ-メンズ-ベルト--M0128U_PM2_Interior view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Interior view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-サンチュール・スレンダー-35mm-リバーシブル-エピ-メンズ-ベルト--M0128U_PM1_Other view4.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Other view4",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/slender-35-mm-reversible-belt-epi-nvprod1270439v",
+      "material": "EPI",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 90,
+        "unitText": "cm"
+      },
+      "highEndTemplate": false,
+      "sizeDisplayName": "90 CM",
+      "productId": "nvprod1270439v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>幅：35 mm</li><li>素材：エピ･レザー（皮革の種類：牛革）、カーフレザー（皮革の種類：牛革）</li><li>バックル金具（色：シルバー）</li><li>バックルにLouis Vuittonシグネチャーの刻印</li><li>ループにエンボス加工のLouis Vuittonシグネチャー</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories;Sunglasses"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-1cyoz77",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/accessories/_/N-1d0iakb",
+          "alternateName": "accessories",
+          "name": "アクセサリー",
+          "identifier": "m-category-cat10052"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/accessories/belts/_/N-1bp0rlo",
+          "alternateName": "belts",
+          "name": "メンズ ベルト",
+          "identifier": "m-category-cat1410153"
+        }
+      ],
+      "disclaimers": {
+        "value": "shipping_warning_bo",
+        "popInContent": "global_backorder_info_popin_content",
+        "popInTitle": "global_backorder_info_popin_title"
+      },
+      "color": "NOIR CHOCOLAT",
+      "@context": "http://schema.org",
+      "identifier": "M0128U"
+    },
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/M0128V/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod1270439v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/M0128V"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/M0128V/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod1270439v/M0128V/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ブラック",
+      "@type": "ProductModel",
+      "name": "サンチュール・スレンダー 35MM リバーシブル",
+      "width": {
+        "@type": "QuantitativeValue",
+        "value": 3.5,
+        "unitText": "cm"
+      },
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 88000
+        },
+        "@type": "Offer",
+        "price": "¥88,000"
+      },
+      "disambiguatingDescription": "スリムな幅とタイムレスなスタイルがビジネスの装いに最適なベルト「サンチュール・スレンダー 35MM リバーシブル」。ベーシックなカラーが洗練された美しさを、リバーシブルのデザインが機能性を実現します。ラグジュアリーな質感のエピ･レザーとカーフレザーを使用し、バックルとベルトループにさりげなくあしらわれたルイ･ヴィトン シグネチャーも魅力です。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-サンチュール・スレンダー-35mm-リバーシブル-エピ-メンズ-ベルト--M0128V_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-サンチュール・スレンダー-35mm-リバーシブル-エピ-メンズ-ベルト--M0128V_PM1_Worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Worn view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-サンチュール・スレンダー-35mm-リバーシブル-エピ-メンズ-ベルト--M0128V_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-サンチュール・スレンダー-35mm-リバーシブル-エピ-メンズ-ベルト--M0128V_PM2_Interior view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Interior view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-サンチュール・スレンダー-35mm-リバーシブル-エピ-メンズ-ベルト--M0128V_PM1_Other view4.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Other view4",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/slender-35-mm-reversible-belt-epi-nvprod1270439v",
+      "material": "EPI",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 85,
+        "unitText": "cm"
+      },
+      "highEndTemplate": false,
+      "sizeDisplayName": "85 CM",
+      "productId": "nvprod1270439v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>幅：35 mm</li><li>素材：エピ･レザー（皮革の種類：牛革）、カーフレザー（皮革の種類：牛革）</li><li>バックル金具（色：シルバー）</li><li>バックルにLouis Vuittonシグネチャーの刻印</li><li>ループにエンボス加工のLouis Vuittonシグネチャー</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories;Sunglasses"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-1cyoz77",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/accessories/_/N-1d0iakb",
+          "alternateName": "accessories",
+          "name": "アクセサリー",
+          "identifier": "m-category-cat10052"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/accessories/belts/_/N-1bp0rlo",
+          "alternateName": "belts",
+          "name": "メンズ ベルト",
+          "identifier": "m-category-cat1410153"
+        }
+      ],
+      "disclaimers": {
+        "value": "shipping_warning_bo",
+        "popInContent": "global_backorder_info_popin_content",
+        "popInTitle": "global_backorder_info_popin_title"
+      },
+      "color": "NOIR CHOCOLAT",
+      "@context": "http://schema.org",
+      "identifier": "M0128V"
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "/api/catalog/jpn-jp/product/nvprod1270439v"
+    },
+    "push": {
+      "href": "/api/catalog/jpn-jp/product-push/nvprod1270439v"
+    },
+    "care-link": {
+      "href": "/api/catalog/jpn-jp/care-link/nvprod1270439v"
+    },
+    "size-guide": {
+      "href": "/api/catalog/jpn-jp/size-guide/nvprod1270439v"
+    },
+    "availability": {
+      "href": "/api/catalog/jpn-jp/availability/nvprod1270439v"
+    }
+  },
+  "@type": "Product",
+  "sku": "M0128S",
+  "isSimilarTo": [],
+  "productTips": [],
+  "url": "/jpn-jp/products/slender-35-mm-reversible-belt-epi-nvprod1270439v",
+  "material": "エピ",
+  "category": [
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/_/N-1cyoz77",
+      "alternateName": "men",
+      "name": "メンズ",
+      "identifier": "homme"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/accessories/_/N-1d0iakb",
+      "alternateName": "accessories",
+      "name": "アクセサリー",
+      "identifier": "m-category-cat10052"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/accessories/belts/_/N-1bp0rlo",
+      "alternateName": "belts",
+      "name": "メンズ ベルト",
+      "identifier": "m-category-cat1410153"
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "hidePrice",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "subType",
+      "value": "product"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "materialIconURL",
+      "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--AEL-LG-A00_Epi.jpg"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "sizeGuide",
+      "value": true
+    }
+  ],
+  "name": "サンチュール・スレンダー 35MM リバーシブル",
+  "isRelatedTo": [],
+  "@context": "http://schema.org",
+  "identifier": "nvprod1270439v"
+}

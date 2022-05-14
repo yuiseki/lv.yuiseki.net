@@ -1,0 +1,228 @@
+{
+  "model": [
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/M00343/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod2940058v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/M00343"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/M00343/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod2940058v/M00343/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "イエロー",
+      "@type": "ProductModel",
+      "name": "ビジュー サック・メッセージ イン ア ボトル",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 82500
+        },
+        "@type": "Offer",
+        "price": "¥82,500"
+      },
+      "disambiguatingDescription": "機能性の中にルイ･ヴィトンならではの遊び心が光る「ビジュー サック･メッセージ イン ア ボトル」。モノグラム･パターンを散りばめた小ぶりのプレキシガラスのボトルを、取外し可能なカバーにセットしました。ラッカー加工を施したモノグラム･フラワーのチャームと、スナップフックにあしらった 「Louis Vuitton」シグネチャーの刻印が目を引く、大切な物を保管するのに最適なアイテムです。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ビジュー-サック・メッセージ-イン-ア-ボトル-s00-メンズ-キーホルダー＆バッグチャーム--M00343_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ビジュー-サック・メッセージ-イン-ア-ボトル-s00-メンズ-キーホルダー＆バッグチャーム--M00343_PM1_Worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Worn view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ビジュー-サック・メッセージ-イン-ア-ボトル-s00-メンズ-キーホルダー＆バッグチャーム--M00343_PM1_Back view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Back view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/message-in-a-bottle-bag-charm-s00-nvprod2940058v",
+      "material": "PLASTIC",
+      "highEndTemplate": false,
+      "productId": "nvprod2940058v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-ACC-9AP_yellow_.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>サイズ：2.5 x 12 cm</li><li>素材：プレキシガラス、ラッカー</li>\n  <li>金具（色：シルバー）</li>\n  <li>取外し可能なカバー</li>\n  <li>ボトル</li>\n  <li>カバーにモノグラム･パターン</li>\n  <li>モノグラム･フラワーのチャーム</li>\n  <li>スナップフックにLouis Vuittonシグネチャーの刻印</li>\n</ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories;Sunglasses"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-1cyoz77",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/accessories/_/N-1d0iakb",
+          "alternateName": "accessories",
+          "name": "アクセサリー",
+          "identifier": "m-category-cat10052"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/accessories/key-holders-and-bag-charms/_/N-8p8rk4",
+          "alternateName": "key-holders-and-bag-charms",
+          "name": "メンズ キーホルダー＆バッグチャーム",
+          "identifier": "m-category-cat1410166"
+        }
+      ],
+      "disclaimers": {
+        "value": "pre_order_disclaimer",
+        "popInContent": "pre_order_disclaimer_info_popin_content",
+        "popInTitle": "pre_order_disclaimer_info_popin_title"
+      },
+      "color": "ジョーヌ",
+      "@context": "http://schema.org",
+      "identifier": "M00343"
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "/api/catalog/jpn-jp/product/nvprod2940058v"
+    },
+    "push": {
+      "href": "/api/catalog/jpn-jp/product-push/nvprod2940058v"
+    },
+    "care-link": {
+      "href": "/api/catalog/jpn-jp/care-link/nvprod2940058v"
+    },
+    "availability": {
+      "href": "/api/catalog/jpn-jp/availability/nvprod2940058v"
+    }
+  },
+  "@type": "Product",
+  "sku": "M00343",
+  "isSimilarTo": [],
+  "productTips": [],
+  "url": "/jpn-jp/products/message-in-a-bottle-bag-charm-s00-nvprod2940058v",
+  "material": "NOT APPLICABLE ACC",
+  "category": [
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/_/N-1cyoz77",
+      "alternateName": "men",
+      "name": "メンズ",
+      "identifier": "homme"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/accessories/_/N-1d0iakb",
+      "alternateName": "accessories",
+      "name": "アクセサリー",
+      "identifier": "m-category-cat10052"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/accessories/key-holders-and-bag-charms/_/N-8p8rk4",
+      "alternateName": "key-holders-and-bag-charms",
+      "name": "メンズ キーホルダー＆バッグチャーム",
+      "identifier": "m-category-cat1410166"
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "hidePrice",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "subType",
+      "value": "product"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "sizeGuide",
+      "value": false
+    }
+  ],
+  "name": "ビジュー サック・メッセージ イン ア ボトル",
+  "isRelatedTo": [],
+  "@context": "http://schema.org",
+  "identifier": "nvprod2940058v"
+}

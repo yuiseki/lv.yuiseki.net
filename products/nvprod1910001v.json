@@ -1,0 +1,310 @@
+{
+  "model": [
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/P01275/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod1910001v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/P01275"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/P01275/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-perso": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "クリア",
+      "@type": "ProductModel",
+      "height": {
+        "@type": "QuantitativeValue",
+        "value": 22,
+        "unitText": "cm"
+      },
+      "name": "パームスプリングス バックパック PM マイLV ワールドツアー",
+      "mainMaterial2": "COATED CANVAS",
+      "width": {
+        "@type": "QuantitativeValue",
+        "value": 10,
+        "unitText": "cm"
+      },
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 343200
+        },
+        "@type": "Offer",
+        "price": "¥343,200"
+      },
+      "disambiguatingDescription": "<BR>",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-パームスプリングス-バックパック-pm-マイlv-ワールドツアー-モノグラム-パーソナライゼーション--P01275_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/palm-springs-mini-my-lv-world-tour-monogram-nvprod1910001v",
+      "material": "モノグラム",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 17,
+        "unitText": "cm"
+      },
+      "highEndTemplate": false,
+      "productId": "nvprod1910001v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>素材：モノグラム・キャンバス</li><li>トリミング：レザー（皮革の種類：牛革）</li><li>ライニング：テキスタイル</li><li>金具（色：ゴールド）</li><li>トップハンドル</li><li>長さ調節可能なショルダーストラップx2 </li><li>ファスナー開閉式</li><li>レザー製スカーフホルダー</li><li>ファスナー式外ポケット</li><li>内フラットポケット</li><li>ハンドル：シングル</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "persoOfferItem",
+          "value": {
+            "@type": "PropertyValue",
+            "value": [
+              {
+                "@type": "StructuredValue",
+                "name": "DeliveryDelayInformationDefault",
+                "identifier": "約11-12週間(トロリーは約15-16週間)で店舗へお届け予定。"
+              },
+              {
+                "@type": "StructuredValue",
+                "name": "DisplayNameDefault",
+                "identifier": "MY LV WORLD TOUR"
+              },
+              {
+                "@type": "StructuredValue",
+                "name": "InternalName",
+                "identifier": "MY LV WORLD TOUR"
+              },
+              {
+                "@type": "StructuredValue",
+                "name": "MyLVshippingInformationDefault"
+              },
+              {
+                "@type": "StructuredValue",
+                "name": "OfferDescriptionDefault",
+                "identifier": "メゾンの歴史に深く結び付く「パーソナライゼーション」という伝統──その新たな表現方法としてラベルに彩られた本製品は、熱心な蒐集家として知られるガストン-ルイ･ヴィトンが愛したプライベート･コレクションから着想を得ています。"
+              },
+              {
+                "@type": "StructuredValue",
+                "name": "OfferInformationDefault",
+                "identifier": "こちらの製品はメイド･トゥ･オーダーのため、お届け目安として約11-12週間(トロリーは約15-16週間)かかります(前後する場合もございます)。予めご了承ください。"
+              },
+              {
+                "@type": "StructuredValue",
+                "name": "RefundableDefault",
+                "identifier": false
+              },
+              {
+                "@type": "StructuredValue",
+                "name": "ReturnPolicyDefault",
+                "identifier": "返品･交換は承りかねますので予めご了承ください。"
+              },
+              {
+                "@type": "StructuredValue",
+                "name": "SalesforceIntegrationDefault",
+                "identifier": true
+              },
+              {
+                "@type": "StructuredValue",
+                "name": "ShippingInformationDefault",
+                "identifier": "こちらの製品はメイド･トゥ･オーダーのため、お届け目安として約11-12週間(トロリーは約15-16週間)かかります(前後する場合もございます)。予めご了承ください。製品の発送が完了次第、メールにてお知らせいたしますのでお待ちください。"
+              },
+              {
+                "@type": "StructuredValue",
+                "name": "SplitShippingDefault",
+                "identifier": true
+              }
+            ]
+          }
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "recipeId",
+          "value": "87842089"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "fluidProductId",
+          "value": "21596"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z01"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/_/N-1q5sgib",
+          "alternateName": "women",
+          "name": "ウィメンズ",
+          "identifier": "femme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/personalization/_/N-1oc1mga",
+          "alternateName": "personalization",
+          "name": "パーソナライゼーション",
+          "identifier": "w-category-catmom0000"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/personalisation/handbags-and-travel/_/N-1x37sav",
+          "alternateName": "handbags-and-travel",
+          "name": "バッグ＆トラベル",
+          "identifier": "nvcat1240002v"
+        }
+      ],
+      "disclaimers": {
+        "value": "shipping_warning_bo",
+        "popInContent": "global_backorder_info_popin_content",
+        "popInTitle": "global_backorder_info_popin_title"
+      },
+      "color": "Personnalisable",
+      "@context": "http://schema.org",
+      "identifier": "P01275"
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "/api/catalog/jpn-jp/product/nvprod1910001v"
+    },
+    "push": {
+      "href": "/api/catalog/jpn-jp/product-push/nvprod1910001v"
+    },
+    "care-link": {
+      "href": "/api/catalog/jpn-jp/care-link/nvprod1910001v"
+    },
+    "availability": {
+      "href": "/api/catalog/jpn-jp/availability/nvprod1910001v"
+    }
+  },
+  "@type": "Product",
+  "sku": "P01275",
+  "isSimilarTo": [],
+  "productTips": [],
+  "url": "/jpn-jp/products/palm-springs-mini-my-lv-world-tour-monogram-nvprod1910001v",
+  "material": "モノグラム",
+  "category": [
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/women/_/N-1q5sgib",
+      "alternateName": "women",
+      "name": "ウィメンズ",
+      "identifier": "femme"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/women/personalization/_/N-1oc1mga",
+      "alternateName": "personalization",
+      "name": "パーソナライゼーション",
+      "identifier": "w-category-catmom0000"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/women/personalisation/handbags-and-travel/_/N-1x37sav",
+      "alternateName": "handbags-and-travel",
+      "name": "バッグ＆トラベル",
+      "identifier": "nvcat1240002v"
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "hidePrice",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "subType",
+      "value": "product"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "materialIconURL",
+      "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--AEL-LG-G00_monogram.jpg"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "careLink",
+      "value": "LGAESTHETICLINEZ13"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "sizeGuide",
+      "value": false
+    }
+  ],
+  "name": "パームスプリングス バックパック MINI マイLV ワールドツアー",
+  "isRelatedTo": [],
+  "@context": "http://schema.org",
+  "identifier": "nvprod1910001v"
+}

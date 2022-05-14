@@ -1,0 +1,372 @@
+{
+  "model": [
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/nvsku2870031v/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod3210226v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/nvsku2870031v"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/nvsku2870031v/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod3210226v/nvsku2870031v/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "@type": "ProductModel",
+      "name": "A piece of the rainbow - Look 05",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton--Men_Rainbow_LOOK05_VISUAL4.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "LOOK05",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/a-piece-of-the-rainbow-look-05-nvprod3210226v",
+      "highEndTemplate": false,
+      "productId": "nvprod3210226v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-1cyoz77",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/ready-to-wear/_/N-1lpb5id",
+          "alternateName": "ready-to-wear",
+          "name": "プレタポルテ（洋服）",
+          "identifier": "m-readytowear"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/ready-to-wear/view-by-look/_/N-1ui6ldg",
+          "alternateName": "view-by-look",
+          "name": "ルックブック",
+          "identifier": "nvcat450010v"
+        }
+      ],
+      "disclaimers": {
+        "value": "shipping_warning_bo",
+        "popInContent": "global_backorder_info_popin_content",
+        "popInTitle": "global_backorder_info_popin_title"
+      },
+      "@context": "http://schema.org",
+      "identifier": "nvsku2870031v"
+    }
+  ],
+  "readyToWearSKUs": [],
+  "disambiguatingDescription": "スポーティな雰囲気に鮮やかなカラーでひねりを加え、コレクションのテーマ「レインボー」を表現したルック。キルティング加工でモノグラム･フラワー パターンを施し、定番のボンバージャケットスタイルを再解釈しました。同じパターンをあしらった、遊び心溢れるルーズフィットのトラックパンツも魅力です。ラグジュアリーなカシミヤを使用した、クラシカルなフーディをコーディネートしています。\n",
+  "_links": {
+    "self": {
+      "href": "/api/catalog/jpn-jp/product/nvprod3210226v"
+    },
+    "push": {
+      "href": "/api/catalog/jpn-jp/product-push/nvprod3210226v"
+    },
+    "care-link": {
+      "href": "/api/catalog/jpn-jp/care-link/nvprod3210226v"
+    },
+    "availability": {
+      "href": "/api/catalog/jpn-jp/availability/nvprod3210226v"
+    }
+  },
+  "@type": "Product",
+  "sku": "nvsku2870031v",
+  "isSimilarTo": [],
+  "productTips": [],
+  "url": "/jpn-jp/products/a-piece-of-the-rainbow-look-05-nvprod3210226v",
+  "accessoriesSKUs": [
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/1A9FHE/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod3130272v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/1A9FHE"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/1A9FHE/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod3130272v/1A9FHE/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "オレンジ",
+      "@type": "ProductModel",
+      "name": "LVトレイナー・ライン スニーカー",
+      "mainMaterial2": "CALF",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 151800
+        },
+        "@type": "Offer",
+        "price": "¥151,800"
+      },
+      "disambiguatingDescription": "「レインボー」カプセル･コレクションに登場した、今シーズンに相応しい明るいカラーで再解釈した「LVトレイナー･ライン スニーカー」。しなやかなカーフレザーを使用し、ルイ･ヴィトンの職人が7時間かけて縫い上げた精緻なアッパーが魅力です。メンズ アーティスティック･ディレクター ヴァージル･アブローが手掛けたヴィンテージ風のデザインに、ジェルのインジェクションを組み込んだ革新的なアウトソールを組み合わせ、モノグラム･フラワー モチーフで飾りました。<p>ご不明な点がございましたら、クライアントサービスまでお気軽にお問合せください。専任のクライアントアドバイザーが、素材やサイズなどの製品詳細、モデル着用イメージや関連アイテムのご案内など、お客様のご要望に合わせたスタイリング・アドバイスをご提供いたします。</p><p>また、サイズ違いなどによる返品・交換のご相談も承ります。詳細は<a href='https://jp.louisvuitton.com/jpn-jp/legal-privacy'><b>こちら。</b></a></p>",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lvトレイナー・ライン-スニーカー--BM9U3PPC11_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lvトレイナー・ライン-スニーカー--BM9U3PPC11_PM1_Worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Worn view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lvトレイナー・ライン-スニーカー--BM9U3PPC11_PM1_Closeup view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Closeup view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lvトレイナー・ライン-スニーカー--BM9U3PPC11_PM1_Interior view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Interior view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lvトレイナー・ライン-スニーカー--BM9U3PPC11_PM1_Interior2 view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Interior2 view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lvトレイナー・ライン-スニーカー--BM9U3PPC11_PM1_Detail view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Detail view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lvトレイナー・ライン-スニーカー--BM9U3PPC11_PM1_Other view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Other view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/lv-trainer-sneaker-nvprod3130272v",
+      "highEndTemplate": false,
+      "sizeDisplayName": "08.0",
+      "productId": "nvprod3130272v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-SHO-11_orange.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>素材：カーフレザー（皮革の種類：牛革）</li><li>1足7時間かけて仕上げたステッチ</li><li>アウトソール：ラバー</li><li>シュータン、背面、サイドにLVイニシャル</li><li>サイドにVuittonシグネチャー</li><li>アウトソールにモノグラム･フラワー</li><li>イタリア製</li><li>イギリスサイズ</li><li>REF：BM9U3PPC</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z04"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Shoe_Men"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-1cyoz77",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/shoes/_/N-i84cx3",
+          "alternateName": "shoes",
+          "name": "シューズ",
+          "identifier": "m-category-cat10037"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/shoes/sneakers/_/N-1ox4tnl",
+          "alternateName": "sneakers",
+          "name": "メンズ スニーカー",
+          "identifier": "nvcat60002v-11"
+        }
+      ],
+      "disclaimers": {
+        "value": "shipping_warning_bo",
+        "popInContent": "global_backorder_info_popin_content",
+        "popInTitle": "global_backorder_info_popin_title"
+      },
+      "color": "ORANGE",
+      "@context": "http://schema.org",
+      "identifier": "1A9FHE"
+    }
+  ],
+  "category": [
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/_/N-1cyoz77",
+      "alternateName": "men",
+      "name": "メンズ",
+      "identifier": "homme"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/ready-to-wear/_/N-1lpb5id",
+      "alternateName": "ready-to-wear",
+      "name": "プレタポルテ（洋服）",
+      "identifier": "m-readytowear"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/ready-to-wear/view-by-look/_/N-1ui6ldg",
+      "alternateName": "view-by-look",
+      "name": "ルックブック",
+      "identifier": "nvcat450010v"
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "hidePrice",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "subType",
+      "value": "product"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "sizeGuide",
+      "value": false
+    }
+  ],
+  "name": "A piece of the rainbow - Look 05",
+  "isRelatedTo": [],
+  "@context": "http://schema.org",
+  "identifier": "nvprod3210226v"
+}

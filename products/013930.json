@@ -1,0 +1,402 @@
+{
+  "model": [
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/M70338/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/013930"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/M70338"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/M70338/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/013930/M70338/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ブルー",
+      "@type": "ProductModel",
+      "name": "エシャルプ・メサジェ",
+      "mainMaterial2": "WOOL",
+      "width": {
+        "@type": "QuantitativeValue",
+        "value": 37,
+        "unitText": "cm"
+      },
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 42900
+        },
+        "@type": "Offer",
+        "price": "¥42,900"
+      },
+      "disambiguatingDescription": "多くのメゾンのアイコニックなシグネチャーとモチーフを組み合わせたニュークラシックでラグジュアリーな「エシャルプ･メサジェ」。カジュアルにもビジネスにも活躍するアイテムです。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-エシャルプ・メサジェ-s00-メンズ-マフラー、ストール、その他テキスタイル--M70338_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-エシャルプ・メサジェ-s00-メンズ-マフラー、ストール、その他テキスタイル--M70338_PM1_Worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Worn view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/messager-damier-scarf-s00-013930",
+      "material": "WOOL",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 193,
+        "unitText": "cm"
+      },
+      "highEndTemplate": false,
+      "productId": "013930",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-ACC-92N_navy_.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>素材：ウール100%</li><li>ダミエ･パターン</li><li>トランクに施しているストライプに着想を得たライン入りのLVシグネチャー</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "hotstampable",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories;Sunglasses"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-1cyoz77",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/accessories/_/N-1d0iakb",
+          "alternateName": "accessories",
+          "name": "アクセサリー",
+          "identifier": "m-category-cat10052"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/accessories/scarves/_/N-a4qie5",
+          "alternateName": "scarves",
+          "name": "メンズ マフラー、ストール、その他テキスタイル",
+          "identifier": "m-category-cattexm"
+        }
+      ],
+      "disclaimers": {
+        "value": "shipping_warning_bo",
+        "popInContent": "global_backorder_info_popin_content",
+        "popInTitle": "global_backorder_info_popin_title"
+      },
+      "color": "ネイビー",
+      "@context": "http://schema.org",
+      "identifier": "M70338"
+    },
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/M70339/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/013930"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/M70339"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/M70339/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/013930/M70339/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "グレー",
+      "@type": "ProductModel",
+      "name": "エシャルプ・メサジェ",
+      "mainMaterial2": "WOOL",
+      "width": {
+        "@type": "QuantitativeValue",
+        "value": 37,
+        "unitText": "cm"
+      },
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 42900
+        },
+        "@type": "Offer",
+        "price": "¥42,900"
+      },
+      "disambiguatingDescription": "多くのメゾンのアイコニックなシグネチャーとモチーフを組み合わせたニュークラシックでラグジュアリーな「エシャルプ･メサジェ」。カジュアルにもビジネスにも活躍するアイテムです。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-エシャルプ・メサジェ-s00-メンズ-マフラー、ストール、その他テキスタイル--M70339_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-エシャルプ・メサジェ-s00-メンズ-マフラー、ストール、その他テキスタイル--M70339_PM1_Worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Worn view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/messager-damier-scarf-s00-013930",
+      "material": "WOOL",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 193,
+        "unitText": "cm"
+      },
+      "highEndTemplate": false,
+      "productId": "013930",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-ACC-902_anthracite.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>素材：ウール100%</li><li>ダミエ･パターン</li><li>トランクに施しているストライプに着想を得たライン入りのLVシグネチャー</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "hotstampable",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories;Sunglasses"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-1cyoz77",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/accessories/_/N-1d0iakb",
+          "alternateName": "accessories",
+          "name": "アクセサリー",
+          "identifier": "m-category-cat10052"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/accessories/scarves/_/N-a4qie5",
+          "alternateName": "scarves",
+          "name": "メンズ マフラー、ストール、その他テキスタイル",
+          "identifier": "m-category-cattexm"
+        }
+      ],
+      "disclaimers": {
+        "value": "shipping_warning_bo",
+        "popInContent": "global_backorder_info_popin_content",
+        "popInTitle": "global_backorder_info_popin_title"
+      },
+      "color": "アントラシット",
+      "@context": "http://schema.org",
+      "identifier": "M70339"
+    }
+  ],
+  "disambiguatingDescription": "多くのメゾンのアイコニックなシグネチャーとモチーフを組み合わせたニュークラシックでラグジュアリーな「エシャルプ･メサジェ」。カジュアルにもビジネスにも活躍するアイテムです。",
+  "_links": {
+    "self": {
+      "href": "/api/catalog/jpn-jp/product/013930"
+    },
+    "push": {
+      "href": "/api/catalog/jpn-jp/product-push/013930"
+    },
+    "care-link": {
+      "href": "/api/catalog/jpn-jp/care-link/013930"
+    },
+    "availability": {
+      "href": "/api/catalog/jpn-jp/availability/013930"
+    }
+  },
+  "@type": "Product",
+  "sku": "M70338",
+  "isSimilarTo": [],
+  "productTips": [],
+  "url": "/jpn-jp/products/messager-damier-scarf-s00-013930",
+  "material": "NOT APPLICABLE ACC",
+  "category": [
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/_/N-1cyoz77",
+      "alternateName": "men",
+      "name": "メンズ",
+      "identifier": "homme"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/accessories/_/N-1d0iakb",
+      "alternateName": "accessories",
+      "name": "アクセサリー",
+      "identifier": "m-category-cat10052"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/accessories/scarves/_/N-a4qie5",
+      "alternateName": "scarves",
+      "name": "メンズ マフラー、ストール、その他テキスタイル",
+      "identifier": "m-category-cattexm"
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "hidePrice",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "subType",
+      "value": "product"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "hotStampable",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "sizeGuide",
+      "value": false
+    }
+  ],
+  "name": "エシャルプ・メサジェ",
+  "isRelatedTo": [],
+  "@context": "http://schema.org",
+  "identifier": "013930"
+}
