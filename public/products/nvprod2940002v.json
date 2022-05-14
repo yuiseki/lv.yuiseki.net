@@ -1,0 +1,363 @@
+{
+  "model": [
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/nvsku2680002v/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod2940002v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/nvsku2680002v"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/nvsku2680002v/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod2940002v/nvsku2680002v/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "@type": "ProductModel",
+      "name": "LVxNBA II - Look 02",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton--Men_NBA_drop2_LOOK02_VISUAL4.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "drop2",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/lvxnba-ii-look-02-nvprod2940002v",
+      "highEndTemplate": false,
+      "productId": "nvprod2940002v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-1cyoz77",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/ready-to-wear/_/N-1lpb5id",
+          "alternateName": "ready-to-wear",
+          "name": "プレタポルテ（洋服）",
+          "identifier": "m-readytowear"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/ready-to-wear/view-by-look/_/N-1ui6ldg",
+          "alternateName": "view-by-look",
+          "name": "ルックブック",
+          "identifier": "nvcat450010v"
+        }
+      ],
+      "disclaimers": {
+        "value": "shipping_warning_bo",
+        "popInContent": "global_backorder_info_popin_content",
+        "popInTitle": "global_backorder_info_popin_title"
+      },
+      "@context": "http://schema.org",
+      "identifier": "nvsku2680002v"
+    }
+  ],
+  "readyToWearSKUs": [],
+  "disambiguatingDescription": "着心地の良いシェイプとファブリックを組み合わせ、今シーズンの「NBA」のテーマで表現した旅行にぴったりなルック。機能的なポケットを複数配したパーカと、伸縮性のある裾とパイピング入りのバックポケットが特徴のスポーティなパンツをコーディネートしました。両方のアイテムにあしらわれた、今シーズンならではのヌメ革にエンボス加工を施したNBAパッチも魅力です。",
+  "_links": {
+    "self": {
+      "href": "/api/catalog/jpn-jp/product/nvprod2940002v"
+    },
+    "push": {
+      "href": "/api/catalog/jpn-jp/product-push/nvprod2940002v"
+    },
+    "care-link": {
+      "href": "/api/catalog/jpn-jp/care-link/nvprod2940002v"
+    },
+    "availability": {
+      "href": "/api/catalog/jpn-jp/availability/nvprod2940002v"
+    }
+  },
+  "@type": "Product",
+  "sku": "nvsku2680002v",
+  "isSimilarTo": [],
+  "productTips": [],
+  "url": "/jpn-jp/products/lvxnba-ii-look-02-nvprod2940002v",
+  "accessoriesSKUs": [
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/M58516/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod2880017v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/M58516"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/M58516/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod2880017v/M58516/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ブラック",
+      "@type": "ProductModel",
+      "height": {
+        "@type": "QuantitativeValue",
+        "value": 27,
+        "unitText": "cm"
+      },
+      "name": "キーポル・バンドリエール 55",
+      "mainMaterial2": "COWHIDE",
+      "width": {
+        "@type": "QuantitativeValue",
+        "value": 20,
+        "unitText": "cm"
+      },
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 726000
+        },
+        "@type": "Offer",
+        "price": "¥726,000"
+      },
+      "disambiguatingDescription": "モノグラム･パターンをエンボス加工したブラックレザーで仕立て、バスケットボールのチャンピオンジャケットから着想を得たプリントとパッチで彩った「キーポル･バンドリエール 55」。鮮やかなデザインと、側面にバスケットボールのゴールネットを想わせるネットをあしらったこのアイテムは、「LVxNBA」カプセル･コレクション第2弾ならではのさまざまなスタイルに合わせてお楽しみいただけます。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-キーポル・バンドリエール-55--M58516_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-キーポル・バンドリエール-55--M58516_PM1_Worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Worn view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-キーポル・バンドリエール-55--M58516_PM1_Other view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Other view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/lvxnba-keepall-bandouliere-55-nvprod2880017v",
+      "material": "その他レザー",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 55,
+        "unitText": "cm"
+      },
+      "highEndTemplate": false,
+      "productId": "nvprod2880017v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-ACC-980_black.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>機内持ち込み可能なサイズ（航空会社や使用する機材によって異なります）</li><li>素材：レザー（皮革の種類：牛革）</li><li>ライニング：テキスタイル</li><li>トリミング：レザー（皮革の種類：牛革）</li><li>金具（色：ゴールド）</li><li>ファスナー開閉式</li><li>ファスナー式内ポケット</li><li>ネームタグ</li><li>ストラップ：取り外し可能, 調整可能</li><li>ストラップの頂点からバッグ上部までの長さ(最短)：36.0 cm</li><li>ストラップの頂点からバッグ上部までの長さ(最長)：50.0 cm</li><li>ハンドル：ダブル</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z01"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-1cyoz77",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/travel/_/N-6i5cqv",
+          "alternateName": "travel",
+          "name": "トラベル",
+          "identifier": "m-category-cat10013"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/travel/travel-bags/_/N-5fpfvx",
+          "alternateName": "travel-bags",
+          "name": "メンズ トラベルバッグ",
+          "identifier": "m-category-cat1410060"
+        }
+      ],
+      "disclaimers": {
+        "value": "shipping_warning_bo",
+        "popInContent": "global_backorder_info_popin_content",
+        "popInTitle": "global_backorder_info_popin_title"
+      },
+      "color": "ノワール",
+      "@context": "http://schema.org",
+      "identifier": "M58516"
+    }
+  ],
+  "category": [
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/_/N-1cyoz77",
+      "alternateName": "men",
+      "name": "メンズ",
+      "identifier": "homme"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/ready-to-wear/_/N-1lpb5id",
+      "alternateName": "ready-to-wear",
+      "name": "プレタポルテ（洋服）",
+      "identifier": "m-readytowear"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/ready-to-wear/view-by-look/_/N-1ui6ldg",
+      "alternateName": "view-by-look",
+      "name": "ルックブック",
+      "identifier": "nvcat450010v"
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "hidePrice",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "subType",
+      "value": "product"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "sizeGuide",
+      "value": false
+    }
+  ],
+  "name": "LVxNBA II - LOOK 02",
+  "isRelatedTo": [],
+  "@context": "http://schema.org",
+  "identifier": "nvprod2940002v"
+}

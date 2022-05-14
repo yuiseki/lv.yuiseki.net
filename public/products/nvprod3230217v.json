@@ -1,0 +1,420 @@
+{
+  "model": [
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/M77379/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod3230217v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/M77379"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/M77379/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod3230217v/M77379/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "マロン",
+      "@type": "ProductModel",
+      "height": {
+        "@type": "QuantitativeValue",
+        "value": 26,
+        "unitText": "cm"
+      },
+      "name": "エシャルプ・スィートドリーム",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 107800
+        },
+        "@type": "Offer",
+        "price": "¥107,800"
+      },
+      "disambiguatingDescription": "ラグジュアリーなウール & カシミヤの混紡素材で仕立てた、肌寒い季節に心地良いマストハブアイテム「エシャルプ・スィートドリーム」。メゾンのアイコニックなモノグラム･ジャイアント パターンをあしらい、ブランケットステッチを施しました。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-エシャルプ・スィートドリーム-s00-holiday--M77379_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-エシャルプ・スィートドリーム-s00-holiday--M77379_PM1_Worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Worn view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-エシャルプ・スィートドリーム-s00-holiday--M77379_PM1_Closeup view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Closeup view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-エシャルプ・スィートドリーム-s00-holiday--M77379_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-エシャルプ・スィートドリーム-s00-holiday--M77379_PM1_Other view4.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Other view4",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/sweet-dreams-scarf-s00-nvprod3230217v",
+      "material": "WOOL",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 240,
+        "unitText": "cm"
+      },
+      "highEndTemplate": false,
+      "productId": "nvprod3230217v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-ACC-972_brown.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>素材：カシミヤ 100%</li><li>モノグラム･パターン</li><li>ドライクリーニングのみ</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories;Sunglasses"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/new/_/N-1kffqff",
+          "alternateName": "new",
+          "name": "New",
+          "identifier": "nvcat1830004v"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/new/holiday/_/N-s6qoym",
+          "alternateName": "holiday",
+          "name": "Holiday",
+          "identifier": "nvcat2740002v"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/new/holiday/women-s-selection/_/N-z3gdep",
+          "alternateName": "womens-selection",
+          "name": "ウィメンズ ホリデイ・セレクション",
+          "identifier": "nvcat2740003v"
+        }
+      ],
+      "disclaimers": {
+        "value": "pre_order_disclaimer",
+        "popInContent": "pre_order_disclaimer_info_popin_content",
+        "popInTitle": "pre_order_disclaimer_info_popin_title"
+      },
+      "color": "マロン",
+      "@context": "http://schema.org",
+      "identifier": "M77379"
+    },
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/M77380/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod3230217v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/M77380"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/M77380/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod3230217v/M77380/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "グレー",
+      "@type": "ProductModel",
+      "height": {
+        "@type": "QuantitativeValue",
+        "value": 26,
+        "unitText": "cm"
+      },
+      "name": "エシャルプ・スィートドリーム",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 107800
+        },
+        "@type": "Offer",
+        "price": "¥107,800"
+      },
+      "disambiguatingDescription": "ラグジュアリーなウール & カシミヤの混紡素材で仕立てた、肌寒い季節に心地良いマストハブアイテム「エシャルプ・スィートドリーム」。メゾンのアイコニックなモノグラム･ジャイアント パターンをあしらい、ブランケットステッチを施しました。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-エシャルプ・スィートドリーム-s00-holiday--M77380_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-エシャルプ・スィートドリーム-s00-holiday--M77380_PM1_Closeup view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Closeup view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-エシャルプ・スィートドリーム-s00-holiday--M77380_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/sweet-dreams-scarf-s00-nvprod3230217v",
+      "material": "WOOL",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 240,
+        "unitText": "cm"
+      },
+      "highEndTemplate": false,
+      "productId": "nvprod3230217v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-ACC-951_zzzgris.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>素材：カシミヤ 100%</li><li>モノグラム･パターン</li><li>ドライクリーニングのみ</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories;Sunglasses"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/new/_/N-1kffqff",
+          "alternateName": "new",
+          "name": "New",
+          "identifier": "nvcat1830004v"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/new/holiday/_/N-s6qoym",
+          "alternateName": "holiday",
+          "name": "Holiday",
+          "identifier": "nvcat2740002v"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/new/holiday/women-s-selection/_/N-z3gdep",
+          "alternateName": "womens-selection",
+          "name": "ウィメンズ ホリデイ・セレクション",
+          "identifier": "nvcat2740003v"
+        }
+      ],
+      "disclaimers": {
+        "value": "pre_order_disclaimer",
+        "popInContent": "pre_order_disclaimer_info_popin_content",
+        "popInTitle": "pre_order_disclaimer_info_popin_title"
+      },
+      "color": "グリ",
+      "@context": "http://schema.org",
+      "identifier": "M77380"
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "/api/catalog/jpn-jp/product/nvprod3230217v"
+    },
+    "push": {
+      "href": "/api/catalog/jpn-jp/product-push/nvprod3230217v"
+    },
+    "care-link": {
+      "href": "/api/catalog/jpn-jp/care-link/nvprod3230217v"
+    },
+    "availability": {
+      "href": "/api/catalog/jpn-jp/availability/nvprod3230217v"
+    }
+  },
+  "@type": "Product",
+  "sku": "M77379",
+  "isSimilarTo": [],
+  "productTips": [],
+  "url": "/jpn-jp/products/sweet-dreams-scarf-s00-nvprod3230217v",
+  "material": "NOT APPLICABLE ACC",
+  "category": [
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/new/_/N-1kffqff",
+      "alternateName": "new",
+      "name": "New",
+      "identifier": "nvcat1830004v"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/new/holiday/_/N-s6qoym",
+      "alternateName": "holiday",
+      "name": "Holiday",
+      "identifier": "nvcat2740002v"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/new/holiday/women-s-selection/_/N-z3gdep",
+      "alternateName": "womens-selection",
+      "name": "ウィメンズ ホリデイ・セレクション",
+      "identifier": "nvcat2740003v"
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "hidePrice",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "subType",
+      "value": "product"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "sizeGuide",
+      "value": false
+    }
+  ],
+  "name": "エシャルプ・スィートドリーム",
+  "isRelatedTo": [],
+  "@context": "http://schema.org",
+  "identifier": "nvprod3230217v"
+}

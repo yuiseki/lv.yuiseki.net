@@ -1,0 +1,445 @@
+{
+  "model": [
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/M77458/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod3390166v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/M77458"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/M77458/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod3390166v/M77458/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ベージュ",
+      "@type": "ProductModel",
+      "height": {
+        "@type": "QuantitativeValue",
+        "value": 142.5,
+        "unitText": "cm"
+      },
+      "name": "ショール・クロワジヨン",
+      "mainMaterial2": "SILK",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 110000
+        },
+        "@type": "Offer",
+        "price": "¥110,000"
+      },
+      "disambiguatingDescription": "メゾンの伝統的なクラフツマンシップにオマージュを捧げたコレクションの1つ「ショール･クロワジヨン」。ウール & シルクの混紡素材で仕立てたコントラストカラーの背景にアイコニックなモノグラム･パターンのプリントを施し、ボトムのコーナー部分には「Louis Vuitton」シグネチャーをあしらいました。旅のお供にぴったりの、大判のアクセサリーです。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ショール・クロワジヨン-s00-ショール＆ストール--M77458_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ショール・クロワジヨン-s00-ショール＆ストール--M77458_PM1_Closeup view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Closeup view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ショール・クロワジヨン-s00-ショール＆ストール--M77458_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ショール・クロワジヨン-s00-ショール＆ストール--M77458_PM1_Interior view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Interior view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ショール・クロワジヨン-s00-ショール＆ストール--M77458_PM1_Back view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Back view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/croisillon-shawl-s00-nvprod3390166v",
+      "material": "SILK",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 142.5,
+        "unitText": "cm"
+      },
+      "highEndTemplate": false,
+      "productId": "nvprod3390166v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-ACC-935_cream.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>素材：シルク 60%、ウール 40%</li><li>シルクスクリーン･プリント</li><li>モノグラム･パターン</li><li>フリンジ仕上げ</li><li>ドライクリーニングのみ</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories;Sunglasses"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/_/N-1q5sgib",
+          "alternateName": "women",
+          "name": "ウィメンズ",
+          "identifier": "femme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/accessories/_/N-1oyzg8c",
+          "alternateName": "accessories",
+          "name": "アクセサリー",
+          "identifier": "w-category-cat10155"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/accessories/scarves-and-shawls/_/N-u9cjyl",
+          "alternateName": "shawls-and-stoles",
+          "name": "ショール＆ストール",
+          "identifier": "w-category-cattexf"
+        }
+      ],
+      "disclaimers": {
+        "value": "shipping_warning_bo",
+        "popInContent": "global_backorder_info_popin_content",
+        "popInTitle": "global_backorder_info_popin_title"
+      },
+      "color": "クレーム",
+      "@context": "http://schema.org",
+      "identifier": "M77458"
+    },
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/M77459/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod3390166v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/M77459"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/M77459/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod3390166v/M77459/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ブラック",
+      "@type": "ProductModel",
+      "height": {
+        "@type": "QuantitativeValue",
+        "value": 138,
+        "unitText": "cm"
+      },
+      "name": "ショール・クロワジヨン",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 110000
+        },
+        "@type": "Offer",
+        "price": "¥110,000"
+      },
+      "disambiguatingDescription": "メゾンの伝統的なクラフツマンシップにオマージュを捧げたコレクションの1つ「ショール･クロワジヨン」。ウール & シルクの混紡素材で仕立てたコントラストカラーの背景にアイコニックなモノグラム･パターンのプリントを施し、ボトムのコーナー部分には「Louis Vuitton」シグネチャーをあしらいました。旅のお供にぴったりの、大判のアクセサリーです。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ショール・クロワジヨン-s00-ショール＆ストール--M77459_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ショール・クロワジヨン-s00-ショール＆ストール--M77459_PM1_Worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Worn view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ショール・クロワジヨン-s00-ショール＆ストール--M77459_PM1_Closeup view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Closeup view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ショール・クロワジヨン-s00-ショール＆ストール--M77459_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ショール・クロワジヨン-s00-ショール＆ストール--M77459_PM1_Interior view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Interior view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ショール・クロワジヨン-s00-ショール＆ストール--M77459_PM1_Back view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Back view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ショール・クロワジヨン-s00-ショール＆ストール--M77459_PM1_Other view4.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Other view4",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/croisillon-shawl-s00-nvprod3390166v",
+      "material": "SILK",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 138,
+        "unitText": "cm"
+      },
+      "highEndTemplate": false,
+      "productId": "nvprod3390166v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-ACC-980_black.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>素材：シルク 60%、ウール 40%</li><li>シルクスクリーン･プリント</li><li>モノグラム･パターン</li><li>フリンジ仕上げ</li><li>ドライクリーニングのみ</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories;Sunglasses"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/_/N-1q5sgib",
+          "alternateName": "women",
+          "name": "ウィメンズ",
+          "identifier": "femme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/accessories/_/N-1oyzg8c",
+          "alternateName": "accessories",
+          "name": "アクセサリー",
+          "identifier": "w-category-cat10155"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/accessories/scarves-and-shawls/_/N-u9cjyl",
+          "alternateName": "shawls-and-stoles",
+          "name": "ショール＆ストール",
+          "identifier": "w-category-cattexf"
+        }
+      ],
+      "disclaimers": {
+        "value": "pre_order_disclaimer",
+        "popInContent": "pre_order_disclaimer_info_popin_content",
+        "popInTitle": "pre_order_disclaimer_info_popin_title"
+      },
+      "color": "ノワール",
+      "@context": "http://schema.org",
+      "identifier": "M77459"
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "/api/catalog/jpn-jp/product/nvprod3390166v"
+    },
+    "push": {
+      "href": "/api/catalog/jpn-jp/product-push/nvprod3390166v"
+    },
+    "care-link": {
+      "href": "/api/catalog/jpn-jp/care-link/nvprod3390166v"
+    },
+    "availability": {
+      "href": "/api/catalog/jpn-jp/availability/nvprod3390166v"
+    }
+  },
+  "@type": "Product",
+  "sku": "M77458",
+  "isSimilarTo": [],
+  "productTips": [],
+  "url": "/jpn-jp/products/croisillon-shawl-s00-nvprod3390166v",
+  "material": "NOT APPLICABLE ACC",
+  "category": [
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/women/_/N-1q5sgib",
+      "alternateName": "women",
+      "name": "ウィメンズ",
+      "identifier": "femme"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/women/accessories/_/N-1oyzg8c",
+      "alternateName": "accessories",
+      "name": "アクセサリー",
+      "identifier": "w-category-cat10155"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/women/accessories/scarves-and-shawls/_/N-u9cjyl",
+      "alternateName": "shawls-and-stoles",
+      "name": "ショール＆ストール",
+      "identifier": "w-category-cattexf"
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "hidePrice",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "subType",
+      "value": "product"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "sizeGuide",
+      "value": false
+    }
+  ],
+  "name": "ショール・クロワジヨン",
+  "isRelatedTo": [],
+  "@context": "http://schema.org",
+  "identifier": "nvprod3390166v"
+}

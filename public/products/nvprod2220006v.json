@@ -1,0 +1,242 @@
+{
+  "model": [
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/M20297/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod2220006v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/M20297"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/M20297/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod2220006v/M20297/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ホワイト",
+      "@type": "ProductModel",
+      "height": {
+        "@type": "QuantitativeValue",
+        "value": 51.5,
+        "unitText": "cm"
+      },
+      "name": "ストラップス・トランク",
+      "width": {
+        "@type": "QuantitativeValue",
+        "value": 58.5,
+        "unitText": "cm"
+      },
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 8481000
+        },
+        "@type": "Offer",
+        "price": "¥8,481,000"
+      },
+      "disambiguatingDescription": "アイコニックな「キャビン･トランク」を再解釈した「ストラップス･トランク」。通常使用されているウッドパネルの替わりに、伸縮性のあるコットンストラップをあしらいました。 ",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ストラップス・トランク-その他キャンバス-トランク-トラベル--M20297_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ストラップス・トランク-その他キャンバス-トランク-トラベル--M20297_PM1_Back view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Back view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/straps-trunk-nvprod2220006v",
+      "material": "AUTRES TOILES",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 77.5,
+        "unitText": "cm"
+      },
+      "highEndTemplate": false,
+      "productId": "nvprod2220006v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-LG-Blanc.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>サイズ：L 77.5 x H 51.5 x W 58.5 cm</li><li>レザーハンドル</li><li>ロック開閉式</li><li>木製、シースルーの製品</li><li>ハンドル：ダブル</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z01"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/art-of-living/_/N-kmf9ty",
+          "alternateName": "art-of-living",
+          "name": "ライフスタイル",
+          "identifier": "nvcat1840004v"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/art-of-living/trunks-and-travel/_/N-1ooeusx",
+          "alternateName": "trunks-and-travel",
+          "name": "トランク & トラベル",
+          "identifier": "nvcat1840005v"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/art-of-living/trunks-and-travel/trunks/_/N-168a15t",
+          "alternateName": "trunks",
+          "name": "トランク",
+          "identifier": "nvcat1840010v"
+        }
+      ],
+      "disclaimers": {
+        "value": "shipping_warning_bo",
+        "popInContent": "global_backorder_info_popin_content",
+        "popInTitle": "global_backorder_info_popin_title"
+      },
+      "color": "ブロン",
+      "@context": "http://schema.org",
+      "identifier": "M20297"
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "/api/catalog/jpn-jp/product/nvprod2220006v"
+    },
+    "push": {
+      "href": "/api/catalog/jpn-jp/product-push/nvprod2220006v"
+    },
+    "care-link": {
+      "href": "/api/catalog/jpn-jp/care-link/nvprod2220006v"
+    },
+    "availability": {
+      "href": "/api/catalog/jpn-jp/availability/nvprod2220006v"
+    }
+  },
+  "@type": "Product",
+  "sku": "M20297",
+  "isSimilarTo": [],
+  "productTips": [],
+  "url": "/jpn-jp/products/straps-trunk-nvprod2220006v",
+  "material": "その他キャンバス",
+  "category": [
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/art-of-living/_/N-kmf9ty",
+      "alternateName": "art-of-living",
+      "name": "ライフスタイル",
+      "identifier": "nvcat1840004v"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/art-of-living/trunks-and-travel/_/N-1ooeusx",
+      "alternateName": "trunks-and-travel",
+      "name": "トランク & トラベル",
+      "identifier": "nvcat1840005v"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/art-of-living/trunks-and-travel/trunks/_/N-168a15t",
+      "alternateName": "trunks",
+      "name": "トランク",
+      "identifier": "nvcat1840010v"
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "hidePrice",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "subType",
+      "value": "product"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "materialIconURL",
+      "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--AEL-LG-K37_autres_toiles.jpg"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "sizeGuide",
+      "value": false
+    }
+  ],
+  "name": "ストラップス・トランク",
+  "isRelatedTo": [],
+  "@context": "http://schema.org",
+  "identifier": "nvprod2220006v"
+}

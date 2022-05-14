@@ -1,0 +1,244 @@
+{
+  "model": [
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/M12031/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod660211v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/M12031"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/M12031/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod660211v/M12031/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "マロン",
+      "@type": "ProductModel",
+      "height": {
+        "@type": "QuantitativeValue",
+        "value": 110,
+        "unitText": "cm"
+      },
+      "name": "Wardrobe 110X52",
+      "width": {
+        "@type": "QuantitativeValue",
+        "value": 55,
+        "unitText": "cm"
+      },
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 9361000
+        },
+        "@type": "Offer",
+        "price": "¥9,361,000"
+      },
+      "disambiguatingDescription": "In 1870’s, the Wardrobe trunk became the ultimate symbol of Parisian chic for outfits and accessories.\nSince, it undergoes a constant evolution to keep pace with the exigences of modern travel and to answer\nnew requirements.",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-wardrobe-110x52-モノグラム-travel--M12031_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-wardrobe-110x52-モノグラム-travel--M12031_PM1_Interior view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Interior view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/wardrobe-110x52-monogram-nvprod660211v",
+      "material": "モノグラム",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 52,
+        "unitText": "cm"
+      },
+      "highEndTemplate": false,
+      "productId": "nvprod660211v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-ACC-977_monogram.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>43.2 x 21.6 x 20.4 inches</li><li>ハンドル：ダブル</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z01"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-1cyoz77",
+          "alternateName": "men",
+          "name": "Men",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/travel/_/N-6i5cqv",
+          "alternateName": "travel",
+          "name": "Travel",
+          "identifier": "m-category-cat10013"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/travel/hardsided-luggage/_/N-ehehz5",
+          "alternateName": "hardsided-luggage",
+          "name": "Hardsided Luggage",
+          "identifier": "m-category-cat1410075"
+        }
+      ],
+      "disclaimers": {
+        "value": "shipping_warning_bo",
+        "popInContent": "global_backorder_info_popin_content",
+        "popInTitle": "global_backorder_info_popin_title"
+      },
+      "color": "モノグラム",
+      "@context": "http://schema.org",
+      "identifier": "M12031"
+    }
+  ],
+  "panelInformations": [
+    {
+      "@type": "Sustainability",
+      "title": "Sustainability",
+      "description": "Louis Vuitton is implementing a responsible wood sourcing policy by working to find alternatives to the endangered wood species protected by CITES (Washington Convention). The wood used in this product is FSC<sup>©</sup>  (Forest Stewardship Council©)-certified, a standard that guarantees the sustainable management and exploitation of forests, in addition to respecting biodiversity and benefiting the local communities that live or work there. To reinforce our commitment, Louis Vuitton is proud to rely on the expertise of Canopy, a global non-profit environmental organization dedicated to the protection and preservation of forests, animal species and the climate."
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "/api/catalog/jpn-jp/product/nvprod660211v"
+    },
+    "push": {
+      "href": "/api/catalog/jpn-jp/product-push/nvprod660211v"
+    },
+    "care-link": {
+      "href": "/api/catalog/jpn-jp/care-link/nvprod660211v"
+    },
+    "availability": {
+      "href": "/api/catalog/jpn-jp/availability/nvprod660211v"
+    }
+  },
+  "@type": "Product",
+  "sku": "M12031",
+  "isSimilarTo": [],
+  "productTips": [],
+  "url": "/jpn-jp/products/wardrobe-110x52-monogram-nvprod660211v",
+  "material": "モノグラム",
+  "category": [
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/_/N-1cyoz77",
+      "alternateName": "men",
+      "name": "Men",
+      "identifier": "homme"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/travel/_/N-6i5cqv",
+      "alternateName": "travel",
+      "name": "Travel",
+      "identifier": "m-category-cat10013"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/travel/hardsided-luggage/_/N-ehehz5",
+      "alternateName": "hardsided-luggage",
+      "name": "Hardsided Luggage",
+      "identifier": "m-category-cat1410075"
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "hidePrice",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "subType",
+      "value": "product"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "materialIconURL",
+      "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--AEL-LG-G00_monogram.jpg"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "sizeGuide",
+      "value": false
+    }
+  ],
+  "name": "Wardrobe 110X52",
+  "isRelatedTo": [],
+  "@context": "http://schema.org",
+  "identifier": "nvprod660211v"
+}

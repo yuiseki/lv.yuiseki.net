@@ -1,0 +1,223 @@
+{
+  "model": [
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/M68153/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/012573"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/M68153"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/M68153/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/012573/M68153/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ゴールド",
+      "@type": "ProductModel",
+      "name": "スタッズ イヤリング・エセンシャル V",
+      "mainMaterial2": "BRASS",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 40700
+        },
+        "@type": "Offer",
+        "price": "¥40,700"
+      },
+      "disambiguatingDescription": "メゾンのアイコニックな「V」シグネチャーをミニサイズで再解釈したマストハブアイテム「スタッズ イヤリング・エセンシャル V」。ギフトにぴったりな、タイムレスなアイテムです。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-スタッズ-イヤリング・エセンシャル-v-s00-ファッションジュエリー--M68153_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-スタッズ-イヤリング・エセンシャル-v-s00-ファッションジュエリー--M68153_PM1_Worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Worn view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/essential-v-stud-earrings-s00-012573",
+      "material": "METAL",
+      "highEndTemplate": false,
+      "productId": "012573",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-ACC-948_gold.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>ピアス</li><li>サイズ：1x1cm</li><li>金具（色：ゴールド）</li><li>LVロゴ入り</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "hotstampable",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/_/N-1q5sgib",
+          "alternateName": "women",
+          "name": "ウィメンズ",
+          "identifier": "femme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/accessories/_/N-1oyzg8c",
+          "alternateName": "accessories",
+          "name": "アクセサリー",
+          "identifier": "w-category-cat10155"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/accessories/fashion-jewellery/_/N-vw4qu0",
+          "alternateName": "fashion-jewelry",
+          "name": "ファッションジュエリー",
+          "identifier": "w-category-cat1410426"
+        }
+      ],
+      "disclaimers": {
+        "value": "pre_order_disclaimer",
+        "popInContent": "pre_order_disclaimer_info_popin_content",
+        "popInTitle": "pre_order_disclaimer_info_popin_title"
+      },
+      "color": "ゴールド",
+      "@context": "http://schema.org",
+      "identifier": "M68153"
+    }
+  ],
+  "disambiguatingDescription": "メゾンのアイコニックな「V」シグネチャーをミニサイズで再解釈したマストハブアイテム「スタッズ イヤリング・エセンシャル V」。ギフトにぴったりな、タイムレスなアイテムです。",
+  "_links": {
+    "self": {
+      "href": "/api/catalog/jpn-jp/product/012573"
+    },
+    "push": {
+      "href": "/api/catalog/jpn-jp/product-push/012573"
+    },
+    "care-link": {
+      "href": "/api/catalog/jpn-jp/care-link/012573"
+    },
+    "availability": {
+      "href": "/api/catalog/jpn-jp/availability/012573"
+    }
+  },
+  "@type": "Product",
+  "sku": "M68153",
+  "isSimilarTo": [],
+  "productTips": [],
+  "url": "/jpn-jp/products/essential-v-stud-earrings-s00-012573",
+  "material": "NOT APPLICABLE ACC",
+  "category": [
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/women/_/N-1q5sgib",
+      "alternateName": "women",
+      "name": "ウィメンズ",
+      "identifier": "femme"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/women/accessories/_/N-1oyzg8c",
+      "alternateName": "accessories",
+      "name": "アクセサリー",
+      "identifier": "w-category-cat10155"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/women/accessories/fashion-jewellery/_/N-vw4qu0",
+      "alternateName": "fashion-jewelry",
+      "name": "ファッションジュエリー",
+      "identifier": "w-category-cat1410426"
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "hidePrice",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "subType",
+      "value": "product"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "hotStampable",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "sizeGuide",
+      "value": false
+    }
+  ],
+  "name": "スタッズ イヤリング・エセンシャル V",
+  "isRelatedTo": [],
+  "@context": "http://schema.org",
+  "identifier": "012573"
+}

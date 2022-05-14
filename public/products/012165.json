@@ -1,0 +1,228 @@
+{
+  "model": [
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/R08180/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/012165"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/R08180"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/R08180/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/012165/R08180/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "@type": "ProductModel",
+      "name": "ブック ルイ・ヴィトン グランパレ 仏語版",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 16500
+        },
+        "@type": "Offer",
+        "price": "¥16,500"
+      },
+      "disambiguatingDescription": "「Volez, Voguez, Voyagez – Louis Vuitton（空へ、海へ、彼方へ――旅するルイ･ヴィトン）」展でキュレーターを務めるオリヴィエ・サイヤールのプロデュースのもと制作された「ブック ルイ・ヴィトン グランパレ 仏語版」。2015年12月4日から2016年2月21日までパリ グラン・パレで開催される展覧会をご紹介します。他では見ることのできない内容を集約した豪華本で、エクスクルーシブなフォトグラファーとして知られるカテリーナ・ジェブが捉えた写真100点は、本誌のみご覧いただけます。世界中の著名なフィクション作家や批評家20名によるルイ・ヴィトンについて綴られたフィクションや評論を選び抜かれた写真とキャプションで構成され、洗練された素材と制作手法を駆使し、これまでにない魅力溢れる1冊です。<br><br>本体外装カラーは3種類ございますが、ご購入の際にカラーをご指定いただくことはできませんのでご留意ください。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ブック-ルイ・ヴィトン-グランパレ-仏語版-書籍-ステーショナリー--R08180_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ブック-ルイ・ヴィトン-グランパレ-仏語版-書籍-ステーショナリー--R08180_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ブック-ルイ・ヴィトン-グランパレ-仏語版-書籍-ステーショナリー--R08180_PM1_Other view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/volez-voguez-voyagez-louis-vuitton-catalogue-french-version-012165",
+      "highEndTemplate": false,
+      "productId": "012165",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>サイズ：25x31.5cm</li><li>400ページ、300以上のヴィジュアル</li><li>英語版のご用意もございます\n</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "hotstampable",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Books;Writing"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/art-of-living/_/N-kmf9ty",
+          "alternateName": "art-of-living",
+          "name": "ライフスタイル",
+          "identifier": "nvcat1840004v"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/art-of-living/books-and-writing/_/N-1vh9yje",
+          "alternateName": "books-and-writing",
+          "name": "書籍 & ステーショナリー",
+          "identifier": "nvcat1840009v"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/art-of-living/books-and-writing/hard-cover-books/_/N-4yn55u",
+          "alternateName": "hard-cover-books",
+          "name": "ハードカバー",
+          "identifier": "nvcat1840024v"
+        }
+      ],
+      "disclaimers": {
+        "value": "shipping_warning_bo",
+        "popInContent": "global_backorder_info_popin_content",
+        "popInTitle": "global_backorder_info_popin_title"
+      },
+      "@context": "http://schema.org",
+      "identifier": "R08180"
+    }
+  ],
+  "disambiguatingDescription": "「Volez, Voguez, Voyagez – Louis Vuitton（空へ、海へ、彼方へ――旅するルイ･ヴィトン）」展でキュレーターを務めるオリヴィエ・サイヤールのプロデュースのもと制作された「ブック ルイ・ヴィトン グランパレ 仏語版」。2015年12月4日から2016年2月21日までパリ グラン・パレで開催される展覧会をご紹介します。他では見ることのできない内容を集約した豪華本で、エクスクルーシブなフォトグラファーとして知られるカテリーナ・ジェブが捉えた写真100点は、本誌のみご覧いただけます。世界中の著名なフィクション作家や批評家20名によるルイ・ヴィトンについて綴られたフィクションや評論を選び抜かれた写真とキャプションで構成され、洗練された素材と制作手法を駆使し、これまでにない魅力溢れる1冊です。",
+  "_links": {
+    "self": {
+      "href": "/api/catalog/jpn-jp/product/012165"
+    },
+    "push": {
+      "href": "/api/catalog/jpn-jp/product-push/012165"
+    },
+    "care-link": {
+      "href": "/api/catalog/jpn-jp/care-link/012165"
+    },
+    "availability": {
+      "href": "/api/catalog/jpn-jp/availability/012165"
+    }
+  },
+  "@type": "Product",
+  "sku": "R08180",
+  "isSimilarTo": [],
+  "productTips": [],
+  "url": "/jpn-jp/products/volez-voguez-voyagez-louis-vuitton-catalogue-french-version-012165",
+  "material": "ファッション小物",
+  "category": [
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/art-of-living/_/N-kmf9ty",
+      "alternateName": "art-of-living",
+      "name": "ライフスタイル",
+      "identifier": "nvcat1840004v"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/art-of-living/books-and-writing/_/N-1vh9yje",
+      "alternateName": "books-and-writing",
+      "name": "書籍 & ステーショナリー",
+      "identifier": "nvcat1840009v"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/art-of-living/books-and-writing/hard-cover-books/_/N-4yn55u",
+      "alternateName": "hard-cover-books",
+      "name": "ハードカバー",
+      "identifier": "nvcat1840024v"
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "hidePrice",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "subType",
+      "value": "product"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "materialIconURL",
+      "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--AEL-LG-N00_sans_ligne_esthetique.jpg"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "hotStampable",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "sizeGuide",
+      "value": false
+    }
+  ],
+  "name": "ブック ルイ・ヴィトン グランパレ 仏語版",
+  "isRelatedTo": [],
+  "@context": "http://schema.org",
+  "identifier": "012165"
+}

@@ -1,0 +1,424 @@
+{
+  "model": [
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/Z1485E/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod2890010v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/Z1485E"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/Z1485E/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod2890010v/Z1485E/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "マロン",
+      "@type": "ProductModel",
+      "name": "LV Waimea Sunglasses",
+      "mainMaterial2": "PLASTIC",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 69300
+        },
+        "@type": "Offer",
+        "price": "¥69,300"
+      },
+      "disambiguatingDescription": "Cutting edge craftsmanship and urban style combine to create the LV Waimea sunglasses. This updated version of a cult House style features the familiar Monogram pattern on the lenses, displayed in a statement-making large print. Hardware studs on the front and a Louis Vuitton signature on the temples add refined finishing touches.",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-waimea-sunglasses-s00-sunglasses--Z1485E_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-waimea-sunglasses-s00-sunglasses--Z1485E_PM1_Closeup view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Closeup view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-waimea-sunglasses-s00-sunglasses--Z1485E_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-waimea-sunglasses-s00-sunglasses--Z1485E_PM1_Back view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Back view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/lv-waimea-sunglasses-s00-nvprod2890010v",
+      "material": "PLASTIC",
+      "highEndTemplate": false,
+      "sizeDisplayName": "E",
+      "productId": "nvprod2890010v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-ACC-9D4_ebony.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul>\n  <li>Injected brown frame</li>\n  <li>Brown lenses</li>\n  <li>Square shape</li>\n  <li>Keyhole bridge</li>\n  <li>Monogram pattern on lenses</li>\n  <li>Hardware studs on front</li>\n  <li>Louis Vuitton signature on temples</li>\n<li>可視光線透過率：12%</li><li>紫外線カット率：100%</li><li>フィルターカテゴリー：3</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "additionalDescription",
+          "value": "可視光線透過率とレンズフィルターカテゴリーの詳細は<a href=https://www.louisvuitton.com/documents/LensCategories/Sun_Lens_Technical_Focus_JAP target=\"_blank\"><b>こちら</b></a>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories;Sunglasses"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "glassId",
+          "value": "606128"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-1cyoz77",
+          "alternateName": "men",
+          "name": "Men",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/accessories/_/N-1d0iakb",
+          "alternateName": "accessories",
+          "name": "Accessories",
+          "identifier": "m-category-cat10052"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/accessories/sunglasses/_/N-d24zn6",
+          "alternateName": "sunglasses",
+          "name": "Sunglasses",
+          "identifier": "m-category-cat200025"
+        }
+      ],
+      "disclaimers": {
+        "value": "shipping_warning_bo",
+        "popInContent": "global_backorder_info_popin_content",
+        "popInTitle": "global_backorder_info_popin_title"
+      },
+      "color": "Brown",
+      "@context": "http://schema.org",
+      "identifier": "Z1485E"
+    },
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/Z1485W/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod2890010v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/Z1485W"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/Z1485W/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod2890010v/Z1485W/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "マロン",
+      "@type": "ProductModel",
+      "name": "LV Waimea Sunglasses",
+      "mainMaterial2": "PLASTIC",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 69300
+        },
+        "@type": "Offer",
+        "price": "¥69,300"
+      },
+      "disambiguatingDescription": "Cutting edge craftsmanship and urban style combine to create the LV Waimea sunglasses. This updated version of a cult House style features the familiar Monogram pattern on the lenses, displayed in a statement-making large print. Hardware studs on the front and a Louis Vuitton signature on the temples add refined finishing touches.",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-waimea-sunglasses-s00-sunglasses--Z1485W_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-waimea-sunglasses-s00-sunglasses--Z1485W_PM1_Closeup view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Closeup view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-waimea-sunglasses-s00-sunglasses--Z1485W_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-waimea-sunglasses-s00-sunglasses--Z1485W_PM1_Back view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Back view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/lv-waimea-sunglasses-s00-nvprod2890010v",
+      "material": "PLASTIC",
+      "highEndTemplate": false,
+      "sizeDisplayName": "W",
+      "productId": "nvprod2890010v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-ACC-9D4_ebony.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul>\n  <li>Injected brown frame</li>\n  <li>Brown lenses</li>\n  <li>Square shape</li>\n  <li>Keyhole bridge</li>\n  <li>Monogram pattern on lenses</li>\n  <li>Hardware studs on front</li>\n  <li>Louis Vuitton signature on temples</li>\n<li>可視光線透過率：12%</li><li>紫外線カット率：100%</li><li>フィルターカテゴリー：3</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "additionalDescription",
+          "value": "可視光線透過率とレンズフィルターカテゴリーの詳細は<a href=https://www.louisvuitton.com/documents/LensCategories/Sun_Lens_Technical_Focus_JAP target=\"_blank\"><b>こちら</b></a>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories;Sunglasses"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "glassId",
+          "value": "606128"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-1cyoz77",
+          "alternateName": "men",
+          "name": "Men",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/accessories/_/N-1d0iakb",
+          "alternateName": "accessories",
+          "name": "Accessories",
+          "identifier": "m-category-cat10052"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/accessories/sunglasses/_/N-d24zn6",
+          "alternateName": "sunglasses",
+          "name": "Sunglasses",
+          "identifier": "m-category-cat200025"
+        }
+      ],
+      "disclaimers": {
+        "value": "shipping_warning_bo",
+        "popInContent": "global_backorder_info_popin_content",
+        "popInTitle": "global_backorder_info_popin_title"
+      },
+      "color": "Brown",
+      "@context": "http://schema.org",
+      "identifier": "Z1485W"
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "/api/catalog/jpn-jp/product/nvprod2890010v"
+    },
+    "push": {
+      "href": "/api/catalog/jpn-jp/product-push/nvprod2890010v"
+    },
+    "care-link": {
+      "href": "/api/catalog/jpn-jp/care-link/nvprod2890010v"
+    },
+    "availability": {
+      "href": "/api/catalog/jpn-jp/availability/nvprod2890010v"
+    }
+  },
+  "@type": "Product",
+  "sku": "Z1485E",
+  "isSimilarTo": [],
+  "productTips": [],
+  "url": "/jpn-jp/products/lv-waimea-sunglasses-s00-nvprod2890010v",
+  "material": "NOT APPLICABLE ACC",
+  "category": [
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/_/N-1cyoz77",
+      "alternateName": "men",
+      "name": "Men",
+      "identifier": "homme"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/accessories/_/N-1d0iakb",
+      "alternateName": "accessories",
+      "name": "Accessories",
+      "identifier": "m-category-cat10052"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/accessories/sunglasses/_/N-d24zn6",
+      "alternateName": "sunglasses",
+      "name": "Sunglasses",
+      "identifier": "m-category-cat200025"
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "hidePrice",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "subType",
+      "value": "product"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "sizeGuide",
+      "value": false
+    }
+  ],
+  "name": "LV Waimea Sunglasses",
+  "isRelatedTo": [],
+  "@context": "http://schema.org",
+  "identifier": "nvprod2890010v"
+}

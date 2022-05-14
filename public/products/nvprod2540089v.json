@@ -1,0 +1,418 @@
+{
+  "model": [
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/M0353W/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod2540089v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/M0353W"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/M0353W/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod2540089v/M0353W/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "マロン",
+      "@type": "ProductModel",
+      "name": "サンチュール・LV パームスプリングス 35MM",
+      "width": {
+        "@type": "QuantitativeValue",
+        "value": 35,
+        "unitText": "cm"
+      },
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 149600
+        },
+        "@type": "Offer",
+        "price": "¥149,600"
+      },
+      "disambiguatingDescription": "実用性のトレンドを取入れた「サンチュール・LV パームスプリングス 35MM」。モノグラム･キャンバスのストラップに、取外し可能な共布のポーチをセットしました。小物を収納できるポーチは単体でもご使用いただけます。エレガントな雰囲気を添える、輝くLV サークルのバックルも魅力です。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-サンチュール・lv-パームスプリングス-35mm-モノグラム-ベルト--M0353W_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-サンチュール・lv-パームスプリングス-35mm-モノグラム-ベルト--M0353W_PM1_Closeup view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Closeup view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-サンチュール・lv-パームスプリングス-35mm-モノグラム-ベルト--M0353W_PM1_Back view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Back view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/lv-palm-spring-35mm-belt-monogram-nvprod2540089v",
+      "material": "MONOGRAM CANVAS",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 80,
+        "unitText": "cm"
+      },
+      "highEndTemplate": false,
+      "sizeDisplayName": "80 CM",
+      "productId": "nvprod2540089v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-ACC-Monogram.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>幅：3.5cm</li><li>素材：モノグラム・キャンバス</li><li>ライニング：カーフレザー（皮革の種類：牛革）</li><li>金具（色：ゴールド）</li><li>取外し可能なパームスプリングスポーチ</li><li>LVサークルバックル</li><li>ポーチにLouis Vuitton Parisシグネチャー</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories;Sunglasses"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/_/N-1q5sgib",
+          "alternateName": "women",
+          "name": "ウィメンズ",
+          "identifier": "femme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/accessories/_/N-1oyzg8c",
+          "alternateName": "accessories",
+          "name": "アクセサリー",
+          "identifier": "w-category-cat10155"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/accessories/belts/_/N-1iz2cb5",
+          "alternateName": "belts",
+          "name": "ベルト",
+          "identifier": "w-category-cat1410417"
+        }
+      ],
+      "disclaimers": {
+        "value": "pre_order_disclaimer",
+        "popInContent": "pre_order_disclaimer_info_popin_content",
+        "popInTitle": "pre_order_disclaimer_info_popin_title"
+      },
+      "color": "モノグラム",
+      "@context": "http://schema.org",
+      "identifier": "M0353W"
+    },
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/M0353U/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod2540089v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/M0353U"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/M0353U/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod2540089v/M0353U/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "マロン",
+      "@type": "ProductModel",
+      "name": "サンチュール・LV パームスプリングス 35MM",
+      "width": {
+        "@type": "QuantitativeValue",
+        "value": 35,
+        "unitText": "cm"
+      },
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 149600
+        },
+        "@type": "Offer",
+        "price": "¥149,600"
+      },
+      "disambiguatingDescription": "実用性のトレンドを取入れた「サンチュール・LV パームスプリングス 35MM」。モノグラム･キャンバスのストラップに、取外し可能な共布のポーチをセットしました。小物を収納できるポーチは単体でもご使用いただけます。エレガントな雰囲気を添える、輝くLV サークルのバックルも魅力です。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-サンチュール・lv-パームスプリングス-35mm-モノグラム-ベルト--M0353U_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-サンチュール・lv-パームスプリングス-35mm-モノグラム-ベルト--M0353U_PM1_Closeup view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Closeup view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-サンチュール・lv-パームスプリングス-35mm-モノグラム-ベルト--M0353U_PM1_Back view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Back view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/lv-palm-spring-35mm-belt-monogram-nvprod2540089v",
+      "material": "MONOGRAM CANVAS",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 90,
+        "unitText": "cm"
+      },
+      "highEndTemplate": false,
+      "sizeDisplayName": "90 CM",
+      "productId": "nvprod2540089v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-ACC-Monogram.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>幅：3.5cm</li><li>素材：モノグラム・キャンバス</li><li>ライニング：カーフレザー（皮革の種類：牛革）</li><li>金具（色：ゴールド）</li><li>取外し可能なパームスプリングスポーチ</li><li>LVサークルバックル</li><li>ポーチにLouis Vuitton Parisシグネチャー</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories;Sunglasses"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/_/N-1q5sgib",
+          "alternateName": "women",
+          "name": "ウィメンズ",
+          "identifier": "femme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/accessories/_/N-1oyzg8c",
+          "alternateName": "accessories",
+          "name": "アクセサリー",
+          "identifier": "w-category-cat10155"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/accessories/belts/_/N-1iz2cb5",
+          "alternateName": "belts",
+          "name": "ベルト",
+          "identifier": "w-category-cat1410417"
+        }
+      ],
+      "disclaimers": {
+        "value": "pre_order_disclaimer",
+        "popInContent": "pre_order_disclaimer_info_popin_content",
+        "popInTitle": "pre_order_disclaimer_info_popin_title"
+      },
+      "color": "モノグラム",
+      "@context": "http://schema.org",
+      "identifier": "M0353U"
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "/api/catalog/jpn-jp/product/nvprod2540089v"
+    },
+    "push": {
+      "href": "/api/catalog/jpn-jp/product-push/nvprod2540089v"
+    },
+    "care-link": {
+      "href": "/api/catalog/jpn-jp/care-link/nvprod2540089v"
+    },
+    "size-guide": {
+      "href": "/api/catalog/jpn-jp/size-guide/nvprod2540089v"
+    },
+    "availability": {
+      "href": "/api/catalog/jpn-jp/availability/nvprod2540089v"
+    }
+  },
+  "@type": "Product",
+  "sku": "M0353U",
+  "isSimilarTo": [],
+  "productTips": [],
+  "url": "/jpn-jp/products/lv-palm-spring-35mm-belt-monogram-nvprod2540089v",
+  "material": "モノグラム",
+  "category": [
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/women/_/N-1q5sgib",
+      "alternateName": "women",
+      "name": "ウィメンズ",
+      "identifier": "femme"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/women/accessories/_/N-1oyzg8c",
+      "alternateName": "accessories",
+      "name": "アクセサリー",
+      "identifier": "w-category-cat10155"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/women/accessories/belts/_/N-1iz2cb5",
+      "alternateName": "belts",
+      "name": "ベルト",
+      "identifier": "w-category-cat1410417"
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "hidePrice",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "subType",
+      "value": "product"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "materialIconURL",
+      "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--AEL-LG-G00_monogram.jpg"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "sizeGuide",
+      "value": true
+    }
+  ],
+  "name": "サンチュール・LV パームスプリングス 35MM",
+  "isRelatedTo": [],
+  "@context": "http://schema.org",
+  "identifier": "nvprod2540089v"
+}

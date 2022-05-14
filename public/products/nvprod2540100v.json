@@ -1,0 +1,1487 @@
+{
+  "model": [
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/M76896/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod2540100v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/M76896"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/M76896/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod2540100v/M76896/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ベージュ",
+      "@type": "ProductModel",
+      "height": {
+        "@type": "QuantitativeValue",
+        "value": 5,
+        "unitText": "cm"
+      },
+      "name": "Ultimate Monogram BB Bandeau",
+      "mainMaterial2": "SILK",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 27500
+        },
+        "@type": "Offer",
+        "price": "¥27,500"
+      },
+      "disambiguatingDescription": "The Ultimate Monogram BB bandeau features chain, strap and padlock motifs that offer an eye-catching interpretation of House signatures. A contrasting Monogram pattern background adds visual dimension to this playful piece. This elegant pure silk accessory will add a luxurious touch to an everyday wardrobe.",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ultimate-monogram-bb-bandeau-s00-silk-squares-and-bandeaus--M76896_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ultimate-monogram-bb-bandeau-s00-silk-squares-and-bandeaus--M76896_PM1_Closeup view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Closeup view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ultimate-monogram-bb-bandeau-s00-silk-squares-and-bandeaus--M76896_PM1_Back view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Back view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ultimate-monogram-bb-bandeau-s00-silk-squares-and-bandeaus--M76896_PM1_Other view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Other view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/ultimate-monogram-bb-bandeau-s00-nvprod2540100v",
+      "material": "SILK",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 120,
+        "unitText": "cm"
+      },
+      "highEndTemplate": false,
+      "productId": "nvprod2540100v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-RTW-007_beige_rose.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul>\n  <li>Beige/Pink</li>\n  <li>100% silk</li>\n  <li>Inkjet print</li>\n  <li>Monogram pattern</li>\n  <li>Strap, chain and padlock motifs</li>\n  <li>Louis Vuitton signature</li>\n  <li>Contrasting border</li>\n  <li>Dry clean only</li>\n</ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories;Sunglasses"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/_/N-1q5sgib",
+          "alternateName": "women",
+          "name": "Women",
+          "identifier": "femme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/accessories/_/N-1oyzg8c",
+          "alternateName": "accessories",
+          "name": "Accessories",
+          "identifier": "w-category-cat10155"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/accessories/silk-squares-and-bandeaus/_/N-1wvd638",
+          "alternateName": "silk-squares-and-bandeaus",
+          "name": "Silk Squares and Bandeaus",
+          "identifier": "nvcat1170030v"
+        }
+      ],
+      "disclaimers": {
+        "value": "shipping_warning_bo",
+        "popInContent": "global_backorder_info_popin_content",
+        "popInTitle": "global_backorder_info_popin_title"
+      },
+      "color": "Beige Rose",
+      "@context": "http://schema.org",
+      "identifier": "M76896"
+    },
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/M76897/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod2540100v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/M76897"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/M76897/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod2540100v/M76897/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "マロン",
+      "@type": "ProductModel",
+      "height": {
+        "@type": "QuantitativeValue",
+        "value": 5,
+        "unitText": "cm"
+      },
+      "name": "Ultimate Monogram BB Bandeau",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 28600
+        },
+        "@type": "Offer",
+        "price": "¥28,600"
+      },
+      "disambiguatingDescription": "The Ultimate Monogram BB bandeau features chain, strap and padlock motifs that offer an eye-catching interpretation of House signatures. A contrasting Monogram pattern background adds visual dimension to this playful piece. This elegant pure silk accessory will add a luxurious touch to an everyday wardrobe.",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ultimate-monogram-bb-bandeau-s00-silk-squares-and-bandeaus--M76897_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ultimate-monogram-bb-bandeau-s00-silk-squares-and-bandeaus--M76897_PM1_Closeup view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Closeup view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ultimate-monogram-bb-bandeau-s00-silk-squares-and-bandeaus--M76897_PM1_Back view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Back view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/ultimate-monogram-bb-bandeau-s00-nvprod2540100v",
+      "material": "SILK",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 120,
+        "unitText": "cm"
+      },
+      "highEndTemplate": false,
+      "productId": "nvprod2540100v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-ACC-972_brown.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul>\n  <li>Brown/Beige</li>\n  <li>100% silk</li>\n  <li>Inkjet print</li>\n  <li>Monogram pattern</li>\n  <li>Strap, chain and padlock motifs</li>\n  <li>Louis Vuitton signature</li>\n  <li>Contrasting border</li>\n  <li>Dry clean only</li>\n</ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories;Sunglasses"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/_/N-1q5sgib",
+          "alternateName": "women",
+          "name": "Women",
+          "identifier": "femme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/accessories/_/N-1oyzg8c",
+          "alternateName": "accessories",
+          "name": "Accessories",
+          "identifier": "w-category-cat10155"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/accessories/silk-squares-and-bandeaus/_/N-1wvd638",
+          "alternateName": "silk-squares-and-bandeaus",
+          "name": "Silk Squares and Bandeaus",
+          "identifier": "nvcat1170030v"
+        }
+      ],
+      "disclaimers": {
+        "value": "shipping_warning_bo",
+        "popInContent": "global_backorder_info_popin_content",
+        "popInTitle": "global_backorder_info_popin_title"
+      },
+      "color": "マロン",
+      "@context": "http://schema.org",
+      "identifier": "M76897"
+    },
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/M76895/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod2540100v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/M76895"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/M76895/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod2540100v/M76895/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ピンク",
+      "@type": "ProductModel",
+      "height": {
+        "@type": "QuantitativeValue",
+        "value": 5,
+        "unitText": "cm"
+      },
+      "name": "Ultimate Monogram BB Bandeau",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 28600
+        },
+        "@type": "Offer",
+        "price": "¥28,600"
+      },
+      "disambiguatingDescription": "The Ultimate Monogram BB bandeau features chain, strap and padlock motifs that offer an eye-catching interpretation of House signatures. A contrasting Monogram pattern background adds visual dimension to this playful piece. This elegant pure silk accessory will add a luxurious touch to an everyday wardrobe.",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ultimate-monogram-bb-bandeau-s00-silk-squares-and-bandeaus--M76895_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ultimate-monogram-bb-bandeau-s00-silk-squares-and-bandeaus--M76895_PM1_Closeup view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Closeup view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ultimate-monogram-bb-bandeau-s00-silk-squares-and-bandeaus--M76895_PM1_Back view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Back view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ultimate-monogram-bb-bandeau-s00-silk-squares-and-bandeaus--M76895_PM1_Other view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Other view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ultimate-monogram-bb-bandeau-s00-silk-squares-and-bandeaus--M76895_PM1_Other view2.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Other view2",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/ultimate-monogram-bb-bandeau-s00-nvprod2540100v",
+      "material": "SILK",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 120,
+        "unitText": "cm"
+      },
+      "highEndTemplate": false,
+      "productId": "nvprod2540100v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-ACC-91V_rose_pop.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul>\n  <li>Poppy Pink</li>\n  <li>100% silk</li>\n  <li>Inkjet print</li>\n  <li>Monogram pattern</li>\n  <li>Strap, chain and padlock motifs</li>\n  <li>Louis Vuitton signature</li>\n  <li>Contrasting border</li>\n  <li>Dry clean only</li>\n</ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories;Sunglasses"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/_/N-1q5sgib",
+          "alternateName": "women",
+          "name": "Women",
+          "identifier": "femme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/accessories/_/N-1oyzg8c",
+          "alternateName": "accessories",
+          "name": "Accessories",
+          "identifier": "w-category-cat10155"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/accessories/silk-squares-and-bandeaus/_/N-1wvd638",
+          "alternateName": "silk-squares-and-bandeaus",
+          "name": "Silk Squares and Bandeaus",
+          "identifier": "nvcat1170030v"
+        }
+      ],
+      "disclaimers": {
+        "value": "shipping_warning_bo",
+        "popInContent": "global_backorder_info_popin_content",
+        "popInTitle": "global_backorder_info_popin_title"
+      },
+      "color": "ROSE POP",
+      "@context": "http://schema.org",
+      "identifier": "M76895"
+    },
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/M76677/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod2540100v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/M76677"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/M76677/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod2540100v/M76677/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ピンク",
+      "@type": "ProductModel",
+      "height": {
+        "@type": "QuantitativeValue",
+        "value": 5,
+        "unitText": "cm"
+      },
+      "name": "Ultimate Monogram BB Bandeau",
+      "mainMaterial2": "SILK",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 28600
+        },
+        "@type": "Offer",
+        "price": "¥28,600"
+      },
+      "disambiguatingDescription": "An eye-catching interpretation of House signatures, the Ultimate Monogram BB bandeau features chains, leather straps and LV padlock motifs. Crafted from pure silk, this elegant accessory will add a touch of luxury to any outfit. A contrasting Monogram background adds dimension to this playful piece.",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ultimate-monogram-bb-bandeau-s00-silk-squares-and-bandeaus--M76677_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ultimate-monogram-bb-bandeau-s00-silk-squares-and-bandeaus--M76677_PM1_Closeup view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Closeup view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ultimate-monogram-bb-bandeau-s00-silk-squares-and-bandeaus--M76677_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ultimate-monogram-bb-bandeau-s00-silk-squares-and-bandeaus--M76677_PM1_Back view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Back view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/ultimate-monogram-bb-bandeau-s00-nvprod2540100v",
+      "material": "SILK",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 120,
+        "unitText": "cm"
+      },
+      "highEndTemplate": false,
+      "productId": "nvprod2540100v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-LG-994_rose_clair.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul>\n  <li>1.9 x 47.2 inches</li>\n  <li>Light Pink</li>\n  <li>100% silk</li>\n  <li>Allover Monogram  </li>\n  <li>Chains, leather straps, LV padlock motifs</li>\n  <li>Inkjet printed</li>\n  <li>Contrasting Louis Vuitton signature at bottom</li>\n  <li>Dry clean only</li>\n</ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories;Sunglasses"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/_/N-1q5sgib",
+          "alternateName": "women",
+          "name": "Women",
+          "identifier": "femme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/accessories/_/N-1oyzg8c",
+          "alternateName": "accessories",
+          "name": "Accessories",
+          "identifier": "w-category-cat10155"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/accessories/silk-squares-and-bandeaus/_/N-1wvd638",
+          "alternateName": "silk-squares-and-bandeaus",
+          "name": "Silk Squares and Bandeaus",
+          "identifier": "nvcat1170030v"
+        }
+      ],
+      "disclaimers": {
+        "value": "shipping_warning_bo",
+        "popInContent": "global_backorder_info_popin_content",
+        "popInTitle": "global_backorder_info_popin_title"
+      },
+      "color": "ローズクレール",
+      "@context": "http://schema.org",
+      "identifier": "M76677"
+    },
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/M76676/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod2540100v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/M76676"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/M76676/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod2540100v/M76676/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ブラック",
+      "@type": "ProductModel",
+      "height": {
+        "@type": "QuantitativeValue",
+        "value": 5,
+        "unitText": "cm"
+      },
+      "name": "Ultimate Monogram BB Bandeau",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 28600
+        },
+        "@type": "Offer",
+        "price": "¥28,600"
+      },
+      "disambiguatingDescription": "The Ultimate Monogram BB bandeau features chain, strap and padlock motifs that offer an eye-catching interpretation of House signatures. A contrasting Monogram pattern background adds visual dimension to this playful piece. This elegant pure silk accessory will add a luxurious touch to an everyday wardrobe.",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ultimate-monogram-bb-bandeau-s00-silk-squares-and-bandeaus--M76676_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ultimate-monogram-bb-bandeau-s00-silk-squares-and-bandeaus--M76676_PM1_Worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Worn view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ultimate-monogram-bb-bandeau-s00-silk-squares-and-bandeaus--M76676_PM1_Closeup view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Closeup view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ultimate-monogram-bb-bandeau-s00-silk-squares-and-bandeaus--M76676_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ultimate-monogram-bb-bandeau-s00-silk-squares-and-bandeaus--M76676_PM1_Detail view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Detail view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ultimate-monogram-bb-bandeau-s00-silk-squares-and-bandeaus--M76676_PM1_Back view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Back view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/ultimate-monogram-bb-bandeau-s00-nvprod2540100v",
+      "material": "SILK",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 120,
+        "unitText": "cm"
+      },
+      "highEndTemplate": false,
+      "productId": "nvprod2540100v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-LG-980_noir.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul>\n  <li>Black</li>\n  <li>100% silk</li>\n  <li>Inkjet print</li>\n  <li>Monogram pattern</li>\n  <li>Strap, chain and padlock motifs</li>\n  <li>Louis Vuitton signature</li>\n  <li>Contrasting border</li>\n  <li>Dry clean only</li>\n</ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/_/N-1q5sgib",
+          "alternateName": "women",
+          "name": "Women",
+          "identifier": "femme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/accessories/_/N-1oyzg8c",
+          "alternateName": "accessories",
+          "name": "Accessories",
+          "identifier": "w-category-cat10155"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/accessories/silk-squares-and-bandeaus/_/N-1wvd638",
+          "alternateName": "silk-squares-and-bandeaus",
+          "name": "Silk Squares and Bandeaus",
+          "identifier": "nvcat1170030v"
+        }
+      ],
+      "disclaimers": {
+        "value": "pre_order_disclaimer",
+        "popInContent": "pre_order_disclaimer_info_popin_content",
+        "popInTitle": "pre_order_disclaimer_info_popin_title"
+      },
+      "color": "ノワール",
+      "@context": "http://schema.org",
+      "identifier": "M76676"
+    },
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/M76679/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod2540100v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/M76679"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/M76679/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod2540100v/M76679/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "レッド",
+      "@type": "ProductModel",
+      "height": {
+        "@type": "QuantitativeValue",
+        "value": 5,
+        "unitText": "cm"
+      },
+      "name": "Ultimate Monogram BB Bandeau",
+      "mainMaterial2": "SILK",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 27500
+        },
+        "@type": "Offer",
+        "price": "¥27,500"
+      },
+      "disambiguatingDescription": "An eye-catching interpretation of House signatures, the Ultimate Monogram BB bandeau features chains, leather straps and LV padlock motifs. Crafted from pure silk, this elegant accessory will add a touch of luxury to any outfit. A contrasting Monogram background adds dimension to this playful piece.",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ultimate-monogram-bb-bandeau-s00-silk-squares-and-bandeaus--M76679_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ultimate-monogram-bb-bandeau-s00-silk-squares-and-bandeaus--M76679_PM1_Closeup view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Closeup view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ultimate-monogram-bb-bandeau-s00-silk-squares-and-bandeaus--M76679_PM1_Back view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Back view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/ultimate-monogram-bb-bandeau-s00-nvprod2540100v",
+      "material": "SILK",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 120,
+        "unitText": "cm"
+      },
+      "highEndTemplate": false,
+      "productId": "nvprod2540100v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-ACC-997_red.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul>\n  <li>1.9 x 47.2 inches</li>\n  <li>Scarlet Red</li>\n  <li>100% silk</li>\n  <li>Allover Monogram  </li>\n  <li>Chains, leather straps, LV padlock motifs</li>\n  <li>Inkjet printed</li>\n  <li>Contrasting Louis Vuitton signature at bottom</li>\n  <li>Dry clean only</li>\n</ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories;Sunglasses"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/_/N-1q5sgib",
+          "alternateName": "women",
+          "name": "Women",
+          "identifier": "femme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/accessories/_/N-1oyzg8c",
+          "alternateName": "accessories",
+          "name": "Accessories",
+          "identifier": "w-category-cat10155"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/accessories/silk-squares-and-bandeaus/_/N-1wvd638",
+          "alternateName": "silk-squares-and-bandeaus",
+          "name": "Silk Squares and Bandeaus",
+          "identifier": "nvcat1170030v"
+        }
+      ],
+      "disclaimers": {
+        "value": "shipping_warning_bo",
+        "popInContent": "global_backorder_info_popin_content",
+        "popInTitle": "global_backorder_info_popin_title"
+      },
+      "color": "ルージュ",
+      "@context": "http://schema.org",
+      "identifier": "M76679"
+    },
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/M76678/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod2540100v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/M76678"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/M76678/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod2540100v/M76678/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "パープル",
+      "@type": "ProductModel",
+      "height": {
+        "@type": "QuantitativeValue",
+        "value": 5,
+        "unitText": "cm"
+      },
+      "name": "Ultimate Monogram BB Bandeau",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 27500
+        },
+        "@type": "Offer",
+        "price": "¥27,500"
+      },
+      "disambiguatingDescription": "An eye-catching interpretation of House signatures, the Ultimate Monogram BB bandeau features chains, leather straps and LV padlock motifs. Crafted from pure silk, this elegant accessory will add a touch of luxury to any outfit. A contrasting Monogram background adds dimension to this playful piece.",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ultimate-monogram-bb-bandeau-s00-silk-squares-and-bandeaus--M76678_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ultimate-monogram-bb-bandeau-s00-silk-squares-and-bandeaus--M76678_PM1_Closeup view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Closeup view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ultimate-monogram-bb-bandeau-s00-silk-squares-and-bandeaus--M76678_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ultimate-monogram-bb-bandeau-s00-silk-squares-and-bandeaus--M76678_PM1_Back view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Back view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ultimate-monogram-bb-bandeau-s00-silk-squares-and-bandeaus--M76678_PM1_Other view view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Other view view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/ultimate-monogram-bb-bandeau-s00-nvprod2540100v",
+      "material": "SILK",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 120,
+        "unitText": "cm"
+      },
+      "highEndTemplate": false,
+      "productId": "nvprod2540100v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-LG-968_lilas.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul>\n  <li>1.9 x 47.2 inches</li>\n  <li>Lilac</li>\n  <li>100% silk</li>\n  <li>Allover Monogram  </li>\n  <li>Chains, leather straps, LV padlock motifs</li>\n  <li>Inkjet printed</li>\n  <li>Contrasting Louis Vuitton signature at bottom</li>\n  <li>Dry clean only</li>\n</ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories;Sunglasses"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/_/N-1q5sgib",
+          "alternateName": "women",
+          "name": "Women",
+          "identifier": "femme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/accessories/_/N-1oyzg8c",
+          "alternateName": "accessories",
+          "name": "Accessories",
+          "identifier": "w-category-cat10155"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/accessories/silk-squares-and-bandeaus/_/N-1wvd638",
+          "alternateName": "silk-squares-and-bandeaus",
+          "name": "Silk Squares and Bandeaus",
+          "identifier": "nvcat1170030v"
+        }
+      ],
+      "disclaimers": {
+        "value": "shipping_warning_bo",
+        "popInContent": "global_backorder_info_popin_content",
+        "popInTitle": "global_backorder_info_popin_title"
+      },
+      "color": "リラ",
+      "@context": "http://schema.org",
+      "identifier": "M76678"
+    },
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/M76894/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod2540100v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/M76894"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/M76894/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod2540100v/M76894/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ブルー",
+      "@type": "ProductModel",
+      "height": {
+        "@type": "QuantitativeValue",
+        "value": 5,
+        "unitText": "cm"
+      },
+      "name": "Ultimate Monogram BB Bandeau",
+      "mainMaterial2": "SILK",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 28600
+        },
+        "@type": "Offer",
+        "price": "¥28,600"
+      },
+      "disambiguatingDescription": "The Ultimate Monogram BB bandeau features chain, strap and padlock motifs that offer an eye-catching interpretation of House signatures. A contrasting Monogram pattern background adds visual dimension to this playful piece. This elegant pure silk accessory will add a luxurious touch to an everyday wardrobe.",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ultimate-monogram-bb-bandeau-s00-silk-squares-and-bandeaus--M76894_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ultimate-monogram-bb-bandeau-s00-silk-squares-and-bandeaus--M76894_PM1_Closeup view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Closeup view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ultimate-monogram-bb-bandeau-s00-silk-squares-and-bandeaus--M76894_PM1_Back view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Back view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ultimate-monogram-bb-bandeau-s00-silk-squares-and-bandeaus--M76894_PM1_Other view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Other view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/ultimate-monogram-bb-bandeau-s00-nvprod2540100v",
+      "material": "SILK",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 120,
+        "unitText": "cm"
+      },
+      "highEndTemplate": false,
+      "productId": "nvprod2540100v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-ACC-914_bleu_pale_v948.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul>\n  <li>Light Blue</li>\n  <li>100% silk</li>\n  <li>Inkjet print</li>\n  <li>Monogram pattern</li>\n  <li>Strap, chain and padlock motifs</li>\n  <li>Louis Vuitton signature</li>\n  <li>Contrasting border</li>\n  <li>Dry clean only</li>\n</ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories;Sunglasses"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/_/N-1q5sgib",
+          "alternateName": "women",
+          "name": "Women",
+          "identifier": "femme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/accessories/_/N-1oyzg8c",
+          "alternateName": "accessories",
+          "name": "Accessories",
+          "identifier": "w-category-cat10155"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/accessories/silk-squares-and-bandeaus/_/N-1wvd638",
+          "alternateName": "silk-squares-and-bandeaus",
+          "name": "Silk Squares and Bandeaus",
+          "identifier": "nvcat1170030v"
+        }
+      ],
+      "disclaimers": {
+        "value": "shipping_warning_bo",
+        "popInContent": "global_backorder_info_popin_content",
+        "popInTitle": "global_backorder_info_popin_title"
+      },
+      "color": "ホワイトブルー",
+      "@context": "http://schema.org",
+      "identifier": "M76894"
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "/api/catalog/jpn-jp/product/nvprod2540100v"
+    },
+    "push": {
+      "href": "/api/catalog/jpn-jp/product-push/nvprod2540100v"
+    },
+    "care-link": {
+      "href": "/api/catalog/jpn-jp/care-link/nvprod2540100v"
+    },
+    "availability": {
+      "href": "/api/catalog/jpn-jp/availability/nvprod2540100v"
+    }
+  },
+  "@type": "Product",
+  "sku": "M76895",
+  "isSimilarTo": [],
+  "productTips": [],
+  "url": "/jpn-jp/products/ultimate-monogram-bb-bandeau-s00-nvprod2540100v",
+  "material": "NOT APPLICABLE ACC",
+  "category": [
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/women/_/N-1q5sgib",
+      "alternateName": "women",
+      "name": "Women",
+      "identifier": "femme"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/women/accessories/_/N-1oyzg8c",
+      "alternateName": "accessories",
+      "name": "Accessories",
+      "identifier": "w-category-cat10155"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/women/accessories/silk-squares-and-bandeaus/_/N-1wvd638",
+      "alternateName": "silk-squares-and-bandeaus",
+      "name": "Silk Squares and Bandeaus",
+      "identifier": "nvcat1170030v"
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "hidePrice",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "subType",
+      "value": "product"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "sizeGuide",
+      "value": false
+    }
+  ],
+  "name": "Ultimate Monogram BB Bandeau",
+  "isRelatedTo": [],
+  "@context": "http://schema.org",
+  "identifier": "nvprod2540100v"
+}

@@ -1,0 +1,260 @@
+{
+  "model": [
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/P00193/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod610010v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/P00193"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/P00193/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-perso": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "マロン",
+      "@type": "ProductModel",
+      "height": {
+        "@type": "QuantitativeValue",
+        "value": 31,
+        "unitText": "cm"
+      },
+      "name": "Keepall Bandoulière 55 My LV World Tour",
+      "mainMaterial2": "COATED CANVAS",
+      "width": {
+        "@type": "QuantitativeValue",
+        "value": 26,
+        "unitText": "cm"
+      },
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 359700
+        },
+        "@type": "Offer",
+        "price": "¥359,700"
+      },
+      "disambiguatingDescription": "An elegant travel bag in Monogram canvas. Ideal for travelling and taking all the necessities, this bag has a generous amount of space. Can be comfortably carried by hand or on the shoulder.",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-keepall-bandoulière-55-my-lv-world-tour-モノグラム-personalisation--P00193_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-keepall-bandoulière-55-my-lv-world-tour-モノグラム-personalisation--P00193_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-keepall-bandoulière-55-my-lv-world-tour-モノグラム-personalisation--P00193_PM1_Detail view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Detail view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-keepall-bandoulière-55-my-lv-world-tour-モノグラム-personalisation--P00193_PM1_Other view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Other view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/keepall-bandouliere-55-my-lv-world-tour-monogram-nvprod610010v",
+      "material": "モノグラム",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 55,
+        "unitText": "cm"
+      },
+      "highEndTemplate": false,
+      "productId": "nvprod610010v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul> \n \n <li>Coated canvas</li> \n <li>Cowhide leather trim</li> \n <li>Textile lining</li> \n <li>Gold-color hardware</li> \n <li>Double zip closure with padlock</li> \n \n \n <li>Removable leather name tag</li> \n <li>Inside zipped pocket</li> \n<li>ストラップ：取り外し可能, 調整可能</li><li>ストラップの頂点からバッグ上部までの長さ(最短)：36.0 cm</li><li>ストラップの頂点からバッグ上部までの長さ(最長)：50.0 cm</li><li>ハンドル：ダブル</li></ul><p>The reference is either made in France, Spain, Italy or in the US.</p>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "recipeId",
+          "value": "43453515"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "fluidProductId",
+          "value": "21457"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z01"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-1cyoz77",
+          "alternateName": "men",
+          "name": "Men",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/personalisation/_/N-1fpocyf",
+          "alternateName": "personalization",
+          "name": "Personalisation",
+          "identifier": "m-category-catmom00m"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/personalisation/bags-and-travel/_/N-iaam01",
+          "alternateName": "Bags-and-travel ",
+          "name": "Bags and Travel",
+          "identifier": "nvcat1260003v"
+        }
+      ],
+      "disclaimers": {
+        "value": "shipping_warning_bo",
+        "popInContent": "global_backorder_info_popin_content",
+        "popInTitle": "global_backorder_info_popin_title"
+      },
+      "color": "Personnalisable",
+      "@context": "http://schema.org",
+      "identifier": "P00193"
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "/api/catalog/jpn-jp/product/nvprod610010v"
+    },
+    "push": {
+      "href": "/api/catalog/jpn-jp/product-push/nvprod610010v"
+    },
+    "care-link": {
+      "href": "/api/catalog/jpn-jp/care-link/nvprod610010v"
+    },
+    "availability": {
+      "href": "/api/catalog/jpn-jp/availability/nvprod610010v"
+    }
+  },
+  "@type": "Product",
+  "sku": "P00193",
+  "isSimilarTo": [],
+  "productTips": [],
+  "url": "/jpn-jp/products/keepall-bandouliere-55-my-lv-world-tour-monogram-nvprod610010v",
+  "material": "モノグラム",
+  "category": [
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/_/N-1cyoz77",
+      "alternateName": "men",
+      "name": "Men",
+      "identifier": "homme"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/personalisation/_/N-1fpocyf",
+      "alternateName": "personalization",
+      "name": "Personalisation",
+      "identifier": "m-category-catmom00m"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/personalisation/bags-and-travel/_/N-iaam01",
+      "alternateName": "Bags-and-travel ",
+      "name": "Bags and Travel",
+      "identifier": "nvcat1260003v"
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "hidePrice",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "subType",
+      "value": "product"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "materialIconURL",
+      "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--AEL-LG-G00_monogram.jpg"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "careLink",
+      "value": "LGAESTHETICLINEZ13"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "sizeGuide",
+      "value": false
+    }
+  ],
+  "name": "KEEPALL BANDOULIÈRE 55 MY LV WORLD TOUR",
+  "isRelatedTo": [],
+  "@context": "http://schema.org",
+  "identifier": "nvprod610010v"
+}

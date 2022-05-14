@@ -1,0 +1,219 @@
+{
+  "model": [
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/R17341/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod3030131v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/R17341"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/R17341/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod3030131v/R17341/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "@type": "ProductModel",
+      "name": "Louis Vuitton Horizon Light Up Speaker Strap",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 51700
+        },
+        "@type": "Offer",
+        "price": "¥51,700"
+      },
+      "disambiguatingDescription": "With this stylish strap, the Louis Vuitton Horizon Light Up Speaker can be carried as an accessory. Adjustable and removable, it enables the speaker to be worn cross-body or slung over the shoulder, transforming it into a fashionable travel companion.",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-louis-vuitton-horizon-light-up-speaker-strap-high-tech-objects-and-accessories--R17341_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-louis-vuitton-horizon-light-up-speaker-strap-high-tech-objects-and-accessories--R17341_PM1_Worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Worn view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-louis-vuitton-horizon-light-up-speaker-strap-high-tech-objects-and-accessories--R17341_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/louis-vuitton-horizon-speaker-strap-nvprod3030131v",
+      "highEndTemplate": false,
+      "productId": "nvprod3030131v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<p>Materials:</p>\n<ul><li>Black nylon and leather\n</li><li>Stainless steel hook with gunmetal color PVD coating</li></ul>\n<p><p/>\n<p>Dimensions: </p>\n<ul><li>Width: 4 cm\n</li><li>Thickness: 0,4 cm\n</li><li>Minimum Length: 45 cm\n</li><li>Maximum length: 70 cm</li></ul>\n<p><p>\n<p>Removable and adjustable strap to be used on shoulder or cross body</p>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z03"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Watches"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/art-of-living/_/N-kmf9ty",
+          "alternateName": "art-of-living",
+          "name": "Art Of Living",
+          "identifier": "nvcat1840004v"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/art-of-living/tech-accessories/_/N-b5pomb",
+          "alternateName": "high-tech-objects-and-accessories",
+          "name": "High-Tech Objects and Accessories",
+          "identifier": "nvcat1840006v"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/art-of-living/high-tech-objects-and-accessories/audio-connected-watches-and-accessories/_/N-1j0668e",
+          "alternateName": "audio-connected-watches-and-accessories",
+          "name": "Audio, Connected Watches and Accessories",
+          "identifier": "nvcat1840014v"
+        }
+      ],
+      "disclaimers": {
+        "value": "pre_order_disclaimer",
+        "popInContent": "pre_order_disclaimer_info_popin_content",
+        "popInTitle": "pre_order_disclaimer_info_popin_title"
+      },
+      "@context": "http://schema.org",
+      "identifier": "R17341"
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "/api/catalog/jpn-jp/product/nvprod3030131v"
+    },
+    "push": {
+      "href": "/api/catalog/jpn-jp/product-push/nvprod3030131v"
+    },
+    "care-link": {
+      "href": "/api/catalog/jpn-jp/care-link/nvprod3030131v"
+    },
+    "availability": {
+      "href": "/api/catalog/jpn-jp/availability/nvprod3030131v"
+    }
+  },
+  "@type": "Product",
+  "sku": "R17341",
+  "isSimilarTo": [],
+  "productTips": [],
+  "url": "/jpn-jp/products/louis-vuitton-horizon-speaker-strap-nvprod3030131v",
+  "category": [
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/art-of-living/_/N-kmf9ty",
+      "alternateName": "art-of-living",
+      "name": "Art Of Living",
+      "identifier": "nvcat1840004v"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/art-of-living/tech-accessories/_/N-b5pomb",
+      "alternateName": "high-tech-objects-and-accessories",
+      "name": "High-Tech Objects and Accessories",
+      "identifier": "nvcat1840006v"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/art-of-living/high-tech-objects-and-accessories/audio-connected-watches-and-accessories/_/N-1j0668e",
+      "alternateName": "audio-connected-watches-and-accessories",
+      "name": "Audio, Connected Watches and Accessories",
+      "identifier": "nvcat1840014v"
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "hidePrice",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "subType",
+      "value": "product"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "sizeGuide",
+      "value": false
+    }
+  ],
+  "name": "Louis Vuitton Horizon Speaker Strap",
+  "isRelatedTo": [],
+  "@context": "http://schema.org",
+  "identifier": "nvprod3030131v"
+}

@@ -1,0 +1,233 @@
+{
+  "model": [
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/M6623E/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/002620"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/M6623E"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/M6623E/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/002620/M6623E/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "マロン",
+      "@type": "ProductModel",
+      "name": "ブラスレ・サイン イット",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 44000
+        },
+        "@type": "Offer",
+        "price": "¥44,000"
+      },
+      "disambiguatingDescription": "男性用のスタイリッシュなブレスレット「ブラスレ・サイン イット」。ダミエ・パターンにLVロゴを切り抜いたバックルがワンポイントに。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ブラスレ・サイン-イット-ダミエ・エベヌ-メンズ-ファッションジュエリー--M6623E_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ブラスレ・サイン-イット-ダミエ・エベヌ-メンズ-ファッションジュエリー--M6623E_PM1_Worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Worn view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/sign-it-bracelet-damier-ebene-002620",
+      "material": "DAMIER CANVAS",
+      "highEndTemplate": false,
+      "sizeDisplayName": "19",
+      "productId": "002620",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-ACC-939_ebene.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>ブレスレット</li><li>素材：ダミエ・キャンバス</li><li>ライニング（素材：カーフレザー）</li><li>金具（色：ゴールド）</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "hotstampable",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories;Sunglasses"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-1cyoz77",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/accessories/_/N-1d0iakb",
+          "alternateName": "accessories",
+          "name": "アクセサリー",
+          "identifier": "m-category-cat10052"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/accessories/fashion-jewellery/_/N-qv1g01",
+          "alternateName": "fashion-jewellery",
+          "name": "メンズ ファッションジュエリー",
+          "identifier": "m-fashionjewelry"
+        }
+      ],
+      "disclaimers": {
+        "value": "pre_order_disclaimer",
+        "popInContent": "pre_order_disclaimer_info_popin_content",
+        "popInTitle": "pre_order_disclaimer_info_popin_title"
+      },
+      "color": "EBENE",
+      "@context": "http://schema.org",
+      "identifier": "M6623E"
+    }
+  ],
+  "disambiguatingDescription": "男性用のスタイリッシュなブレスレット「ブラスレ・サイン イット」。ダミエ・パターンにLVロゴを切り抜いたバックルがワンポイントに。",
+  "_links": {
+    "self": {
+      "href": "/api/catalog/jpn-jp/product/002620"
+    },
+    "push": {
+      "href": "/api/catalog/jpn-jp/product-push/002620"
+    },
+    "care-link": {
+      "href": "/api/catalog/jpn-jp/care-link/002620"
+    },
+    "availability": {
+      "href": "/api/catalog/jpn-jp/availability/002620"
+    }
+  },
+  "@type": "Product",
+  "sku": "M6623E",
+  "isSimilarTo": [],
+  "productTips": [],
+  "url": "/jpn-jp/products/sign-it-bracelet-damier-ebene-002620",
+  "material": "ダミエ・エベヌ",
+  "category": [
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/_/N-1cyoz77",
+      "alternateName": "men",
+      "name": "メンズ",
+      "identifier": "homme"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/accessories/_/N-1d0iakb",
+      "alternateName": "accessories",
+      "name": "アクセサリー",
+      "identifier": "m-category-cat10052"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/accessories/fashion-jewellery/_/N-qv1g01",
+      "alternateName": "fashion-jewellery",
+      "name": "メンズ ファッションジュエリー",
+      "identifier": "m-fashionjewelry"
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "hidePrice",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "subType",
+      "value": "product"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "materialIconURL",
+      "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--AEL-LG-D00_damier_ebene.jpg"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "hotStampable",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "sizeGuide",
+      "value": false
+    }
+  ],
+  "name": "ブラスレ・サイン イット",
+  "isRelatedTo": [],
+  "@context": "http://schema.org",
+  "identifier": "002620"
+}

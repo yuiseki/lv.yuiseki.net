@@ -1,0 +1,238 @@
+{
+  "model": [
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/M76342/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod2540210v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/M76342"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/M76342/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod2540210v/M76342/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ブルー",
+      "@type": "ProductModel",
+      "height": {
+        "@type": "QuantitativeValue",
+        "value": 45,
+        "unitText": "cm"
+      },
+      "name": "エシャルプ・コールド レイキャビック",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 300300
+        },
+        "@type": "Offer",
+        "price": "¥300,300"
+      },
+      "disambiguatingDescription": "メゾンを象徴する冬のアイテムを、新たな雰囲気にアップデートした「エシャルプ･コールド レイキャビック」。贅沢なカシミヤ素材のベースにミンクファーのポケットを添えて洗練度を高め、モノグラムのインターシャ(象嵌細工)をポイントにあしらいました。大ぶりのLV イニシャルとモノグラム･フラワーのパターンが光るスカーフを、長めのフリンジでエレガントに仕上げました。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-エシャルプ・コールド-レイキャビック-s00-マフラー--M76342_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-エシャルプ・コールド-レイキャビック-s00-マフラー--M76342_PM1_Closeup view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Closeup view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-エシャルプ・コールド-レイキャビック-s00-マフラー--M76342_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/cold-reykjavik-scarf-s00-nvprod2540210v",
+      "material": "MINK",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 170,
+        "unitText": "cm"
+      },
+      "highEndTemplate": false,
+      "productId": "nvprod2540210v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-ACC-908_bleu.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>素材：カシミヤ 100%</li><li>ミンク 100%のポケット</li><li>モノグラム・フラワー</li><li>LVイニシャル</li><li>ジャカード織り</li><li>Louis Vuittonシグネチャー</li><li>フリンジ仕上げ</li><li>プロによるクリーニングのみ</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories;Sunglasses"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/_/N-1q5sgib",
+          "alternateName": "women",
+          "name": "ウィメンズ",
+          "identifier": "femme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/accessories/_/N-1oyzg8c",
+          "alternateName": "accessories",
+          "name": "アクセサリー",
+          "identifier": "w-category-cat10155"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/accessories/scarves/_/N-8j3sbm",
+          "alternateName": "scarves",
+          "name": "マフラー",
+          "identifier": "nvcat2810007v"
+        }
+      ],
+      "disclaimers": {
+        "value": "shipping_warning_bo",
+        "popInContent": "global_backorder_info_popin_content",
+        "popInTitle": "global_backorder_info_popin_title"
+      },
+      "color": "ブルー",
+      "@context": "http://schema.org",
+      "identifier": "M76342"
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "/api/catalog/jpn-jp/product/nvprod2540210v"
+    },
+    "push": {
+      "href": "/api/catalog/jpn-jp/product-push/nvprod2540210v"
+    },
+    "care-link": {
+      "href": "/api/catalog/jpn-jp/care-link/nvprod2540210v"
+    },
+    "availability": {
+      "href": "/api/catalog/jpn-jp/availability/nvprod2540210v"
+    }
+  },
+  "@type": "Product",
+  "sku": "M76342",
+  "isSimilarTo": [],
+  "productTips": [],
+  "url": "/jpn-jp/products/cold-reykjavik-scarf-s00-nvprod2540210v",
+  "material": "NOT APPLICABLE ACC",
+  "category": [
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/women/_/N-1q5sgib",
+      "alternateName": "women",
+      "name": "ウィメンズ",
+      "identifier": "femme"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/women/accessories/_/N-1oyzg8c",
+      "alternateName": "accessories",
+      "name": "アクセサリー",
+      "identifier": "w-category-cat10155"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/women/accessories/scarves/_/N-8j3sbm",
+      "alternateName": "scarves",
+      "name": "マフラー",
+      "identifier": "nvcat2810007v"
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "hidePrice",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "subType",
+      "value": "product"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "sizeGuide",
+      "value": false
+    }
+  ],
+  "name": "エシャルプ・コールド レイキャビック",
+  "isRelatedTo": [],
+  "@context": "http://schema.org",
+  "identifier": "nvprod2540210v"
+}

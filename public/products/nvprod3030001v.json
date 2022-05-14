@@ -1,0 +1,423 @@
+{
+  "model": [
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/R96302/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod3030001v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/R96302"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/R96302/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod3030001v/R96302/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ブラック",
+      "@type": "ProductModel",
+      "height": {
+        "@type": "QuantitativeValue",
+        "value": 88,
+        "unitText": "cm"
+      },
+      "name": "Lune Chair By Marcel Wanders studio",
+      "width": {
+        "@type": "QuantitativeValue",
+        "value": 94,
+        "unitText": "cm"
+      },
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 3124000
+        },
+        "@type": "Offer",
+        "price": "¥3,124,000"
+      },
+      "disambiguatingDescription": "Demonstrating his flair for combining innovation and tradition, designer Marcel Wanders studio pays homage to Louis Vuitton’s heritage in his Lune Chair for the Objets Nomades collection. Perched on gracefully curved wooden rockers, a soft quilted leather seat is stretched across an aluminum frame with sculptural brass corners, a nod to the House’s legendary trunks. Light yet sturdy, it achieves an effortless union of elegance and comfort.",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lune-chair-by-marcel-wanders-studio-home--R96302_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/lune-chair-by-marcel-wanders-studio-nvprod3030001v",
+      "material": "COWHIDE",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 59,
+        "unitText": "cm"
+      },
+      "highEndTemplate": false,
+      "productId": "nvprod3030001v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-SHO-980_noir.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>H 88 x L 94 x W 59 cm</li><li>Weight: 17.52 kg</li><li>Black Silver</li><li>Cowhide, ash wood, aluminum and silver brass</li><li>Detachable, height-adjustable head cushion</li><li>Multilayer leather stoppers</li><li>Max. capacity: 100 kg</li><li>Limited edition of 300 per color</li><li>Made in Italy</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z01"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/art-of-living/_/N-kmf9ty",
+          "alternateName": "art-of-living",
+          "name": "Art Of Living",
+          "identifier": "nvcat1840004v"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/art-of-living/home/_/N-1181e7i",
+          "alternateName": "home",
+          "name": "Home",
+          "identifier": "nvcat1840008v"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/art-of-living/home/furniture/_/N-lpzrtm",
+          "alternateName": "furniture",
+          "name": "Furniture",
+          "identifier": "nvcat1840019v"
+        }
+      ],
+      "disclaimers": {
+        "value": "shipping_warning_bo",
+        "popInContent": "global_backorder_info_popin_content",
+        "popInTitle": "global_backorder_info_popin_title"
+      },
+      "color": "ノワール",
+      "@context": "http://schema.org",
+      "identifier": "R96302"
+    },
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/R96102/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod3030001v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/R96102"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/R96102/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod3030001v/R96102/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ホワイト",
+      "@type": "ProductModel",
+      "height": {
+        "@type": "QuantitativeValue",
+        "value": 88,
+        "unitText": "cm"
+      },
+      "name": "Lune Chair By Marcel Wanders studio",
+      "width": {
+        "@type": "QuantitativeValue",
+        "value": 94,
+        "unitText": "cm"
+      },
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 3124000
+        },
+        "@type": "Offer",
+        "price": "¥3,124,000"
+      },
+      "disambiguatingDescription": "Demonstrating his flair for combining innovation and tradition, designer Marcel Wanders studio pays homage to Louis Vuitton’s heritage in his Lune Chair for the Objets Nomades collection. Perched on gracefully curved wooden rockers, a soft quilted leather seat is stretched across an aluminum frame with sculptural brass corners, a nod to the House’s legendary trunks. Light yet sturdy, it achieves an effortless union of elegance and comfort.",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lune-chair-by-marcel-wanders-studio-home--R96102_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lune-chair-by-marcel-wanders-studio-home--R96102_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lune-chair-by-marcel-wanders-studio-home--R96102_PM1_Interior view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Interior view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lune-chair-by-marcel-wanders-studio-home--R96102_PM1_Detail view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Detail view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lune-chair-by-marcel-wanders-studio-home--R96102_PM1_Back view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Back view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/lune-chair-by-marcel-wanders-studio-nvprod3030001v",
+      "material": "COWHIDE",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 59,
+        "unitText": "cm"
+      },
+      "highEndTemplate": false,
+      "productId": "nvprod3030001v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-LG-97D_milk.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li> H 88 x L 94 x W 59 cm</li>\n<li> Weight: 17.52 kg</li>\n<li> Milk</li>\n<li> Cowhide, ash wood, aluminum and guilded brass</li>\n<li> Detachable, height-adjustable head cushion</li>\n<li> Multilayer leather stoppers </li>\n<li> Max. capacity: 100 kg</li>\n<li> Limited edition of 300 per color</li>\n<li> Made in Italy</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z01"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/art-of-living/_/N-kmf9ty",
+          "alternateName": "art-of-living",
+          "name": "Art Of Living",
+          "identifier": "nvcat1840004v"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/art-of-living/home/_/N-1181e7i",
+          "alternateName": "home",
+          "name": "Home",
+          "identifier": "nvcat1840008v"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/art-of-living/home/furniture/_/N-lpzrtm",
+          "alternateName": "furniture",
+          "name": "Furniture",
+          "identifier": "nvcat1840019v"
+        }
+      ],
+      "disclaimers": {
+        "value": "shipping_warning_bo",
+        "popInContent": "global_backorder_info_popin_content",
+        "popInTitle": "global_backorder_info_popin_title"
+      },
+      "color": "Milk",
+      "@context": "http://schema.org",
+      "identifier": "R96102"
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "/api/catalog/jpn-jp/product/nvprod3030001v"
+    },
+    "push": {
+      "href": "/api/catalog/jpn-jp/product-push/nvprod3030001v"
+    },
+    "care-link": {
+      "href": "/api/catalog/jpn-jp/care-link/nvprod3030001v"
+    },
+    "availability": {
+      "href": "/api/catalog/jpn-jp/availability/nvprod3030001v"
+    }
+  },
+  "@type": "Product",
+  "sku": "R96102",
+  "isSimilarTo": [],
+  "productTips": [],
+  "url": "/jpn-jp/products/lune-chair-by-marcel-wanders-studio-nvprod3030001v",
+  "material": "ファッション小物",
+  "category": [
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/art-of-living/_/N-kmf9ty",
+      "alternateName": "art-of-living",
+      "name": "Art Of Living",
+      "identifier": "nvcat1840004v"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/art-of-living/home/_/N-1181e7i",
+      "alternateName": "home",
+      "name": "Home",
+      "identifier": "nvcat1840008v"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/art-of-living/home/furniture/_/N-lpzrtm",
+      "alternateName": "furniture",
+      "name": "Furniture",
+      "identifier": "nvcat1840019v"
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "hidePrice",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "subType",
+      "value": "product"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "materialIconURL",
+      "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--AEL-LG-N00_sans_ligne_esthetique.jpg"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "sizeGuide",
+      "value": false
+    }
+  ],
+  "name": "Lune Chair by Marcel Wanders studio",
+  "isRelatedTo": [],
+  "@context": "http://schema.org",
+  "identifier": "nvprod3030001v"
+}

@@ -1,0 +1,222 @@
+{
+  "model": [
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/M61076/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/009157"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/M61076"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/M61076/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/009157/M61076/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ゴールド",
+      "@type": "ProductModel",
+      "name": "ネックレス・LV＆ME U",
+      "mainMaterial2": "BRASS",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 60500
+        },
+        "@type": "Offer",
+        "price": "¥60,500"
+      },
+      "disambiguatingDescription": "LVロゴがさりげなく刻印された「ネックレス・LV＆ME U」。26文字のアルファベットには、ルイ・ヴィトンのアイコニックなトランクを彷彿させる鋲があしらわれています。コーディネートしやすく、プレゼントにもぴったりなアイテムです。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ネックレス・lv＆me-u-s00-ファッションジュエリー--M61076_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/lv-me-necklace-letter-u-s00-009157",
+      "material": "METAL",
+      "highEndTemplate": false,
+      "productId": "009157",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-ACC-937_dore.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>ネックレス</li><li>金具（色：ゴールド）</li><li>サイズ：約56-60cm </li><li>イニシャルにLVのホールマーク入り</li><li>AからZまで全26イニシャルでご用意しております</li><li>ブレスレットもございます</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "hotstampable",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories;Sunglasses"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/_/N-1q5sgib",
+          "alternateName": "women",
+          "name": "ウィメンズ",
+          "identifier": "femme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/accessories/_/N-1oyzg8c",
+          "alternateName": "accessories",
+          "name": "アクセサリー",
+          "identifier": "w-category-cat10155"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/accessories/fashion-jewellery/_/N-vw4qu0",
+          "alternateName": "fashion-jewelry",
+          "name": "ファッションジュエリー",
+          "identifier": "w-category-cat1410426"
+        }
+      ],
+      "disclaimers": {
+        "value": "pre_order_disclaimer",
+        "popInContent": "pre_order_disclaimer_info_popin_content",
+        "popInTitle": "pre_order_disclaimer_info_popin_title"
+      },
+      "color": "ドレ",
+      "@context": "http://schema.org",
+      "identifier": "M61076"
+    }
+  ],
+  "disambiguatingDescription": "LVロゴがさりげなく刻印された「ネックレス・LV＆ME U」。26文字のアルファベットには、ルイ・ヴィトンのアイコニックなトランクを彷彿させる鋲があしらわれています。コーディネートしやすく、プレゼントにもぴったりなアイテムです。",
+  "_links": {
+    "self": {
+      "href": "/api/catalog/jpn-jp/product/009157"
+    },
+    "push": {
+      "href": "/api/catalog/jpn-jp/product-push/009157"
+    },
+    "care-link": {
+      "href": "/api/catalog/jpn-jp/care-link/009157"
+    },
+    "availability": {
+      "href": "/api/catalog/jpn-jp/availability/009157"
+    }
+  },
+  "@type": "Product",
+  "sku": "M61076",
+  "isSimilarTo": [],
+  "productTips": [],
+  "url": "/jpn-jp/products/lv-me-necklace-letter-u-s00-009157",
+  "material": "NOT APPLICABLE ACC",
+  "category": [
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/women/_/N-1q5sgib",
+      "alternateName": "women",
+      "name": "ウィメンズ",
+      "identifier": "femme"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/women/accessories/_/N-1oyzg8c",
+      "alternateName": "accessories",
+      "name": "アクセサリー",
+      "identifier": "w-category-cat10155"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/women/accessories/fashion-jewellery/_/N-vw4qu0",
+      "alternateName": "fashion-jewelry",
+      "name": "ファッションジュエリー",
+      "identifier": "w-category-cat1410426"
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "hidePrice",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "subType",
+      "value": "product"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "hotStampable",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "sizeGuide",
+      "value": false
+    }
+  ],
+  "name": "ネックレス・LV＆ME U",
+  "isRelatedTo": [],
+  "@context": "http://schema.org",
+  "identifier": "009157"
+}

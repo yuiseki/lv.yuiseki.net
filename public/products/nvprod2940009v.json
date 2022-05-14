@@ -1,0 +1,1155 @@
+{
+  "model": [],
+  "readyToWearSKUs": [
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/1A8X14/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod2800023v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/1A8X14"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/1A8X14/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod2800023v/1A8X14/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ブラック",
+      "@type": "ProductModel",
+      "name": "LVxNBA Monogram Buttoned Shirt",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 146300
+        },
+        "@type": "Offer",
+        "price": "¥146,300"
+      },
+      "disambiguatingDescription": "This regular-fitting piece offers a smart take on the collection's NBA theme. Tailored from technical cotton jacquard fabric - with a piqué texture recreating the Monogram motif - it features a patch in VVN leather, embossed with the NBA's logo. Details include tonal snap buttons, a knitted collar and V-shaped slits at the bottom of the sleeves.  ",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lvxnba-monogram-buttoned-shirt--HLY13WDM1900_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "playerType": "freecaster",
+          "contentUrl": "https://player.louisvuitton.com/embed/1397541",
+          "@type": "ImageObject",
+          "name": "freecaster media",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lvxnba-monogram-buttoned-shirt--HLY13WDM1900_PM1_Worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Worn view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lvxnba-monogram-buttoned-shirt--HLY13WDM1900_PM1_Closeup view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Closeup view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lvxnba-monogram-buttoned-shirt--HLY13WDM1900_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lvxnba-monogram-buttoned-shirt--HLY13WDM1900_PM1_Detail view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Detail view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/lvxnba-monogram-buttoned-shirt-nvprod2800023v",
+      "highEndTemplate": false,
+      "sizeDisplayName": "M0",
+      "productId": "nvprod2800023v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-RTW-900_noir.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>66% Polyester, 34% Cotton</li><li>Black</li><li>Regular Fit</li><li>Model measurements : chest 36’’ / 92 cm, height 6’1’’ / 185 cm</li><li>Model wears a FR M size</li><li>Made in Italy</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z05"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Ready_To_Wear_Men"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-1cyoz77",
+          "alternateName": "men",
+          "name": "Men",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/ready-to-wear/_/N-1lpb5id",
+          "alternateName": "ready-to-wear",
+          "name": "Ready to Wear",
+          "identifier": "m-readytowear"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/ready-to-wear/shirts/_/N-1da2uut",
+          "alternateName": "shirts",
+          "name": "Shirts",
+          "identifier": "m-shirts-mrtw"
+        }
+      ],
+      "disclaimers": {
+        "value": "shipping_warning_bo",
+        "popInContent": "global_backorder_info_popin_content",
+        "popInTitle": "global_backorder_info_popin_title"
+      },
+      "color": "ノワール",
+      "@context": "http://schema.org",
+      "identifier": "1A8X14"
+    },
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/1A8X1A/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod2800024v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/1A8X1A"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/1A8X1A/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod2800024v/1A8X1A/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ブラック",
+      "@type": "ProductModel",
+      "name": "LVxNBA Monogram Pants with Slits",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 162800
+        },
+        "@type": "Offer",
+        "price": "¥162,800"
+      },
+      "disambiguatingDescription": "These fluid pants supply a more sophisticated option to the season's NBA story. They are tailored in a regular fit from technical cotton jacquard fabric, with a piqué texture that recreates the iconic Monogram motif. Embellished with a leather patch embossed with the NBA's logo, they feature a knitted belt and V-shaped slits at the bottom of the legs.  ",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lvxnba-monogram-pants-with-slits--HLY14WDM1900_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "playerType": "freecaster",
+          "contentUrl": "https://player.louisvuitton.com/embed/1400633",
+          "@type": "ImageObject",
+          "name": "freecaster media",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lvxnba-monogram-pants-with-slits--HLY14WDM1900_PM1_Worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Worn view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lvxnba-monogram-pants-with-slits--HLY14WDM1900_PM1_Closeup view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Closeup view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lvxnba-monogram-pants-with-slits--HLY14WDM1900_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lvxnba-monogram-pants-with-slits--HLY14WDM1900_PM1_Detail view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Detail view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/lvxnba-monogram-pants-with-slits-nvprod2800024v",
+      "highEndTemplate": false,
+      "sizeDisplayName": "M0",
+      "productId": "nvprod2800024v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-RTW-900_noir.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>66% Polyester, 34% Cotton</li><li>Black</li><li>Regular Fit</li><li>Model measurements : chest 36’’ / 92 cm, height 6’1’’ / 185 cm</li><li>Model wears a FR M size</li><li>Made in Italy</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z05"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Ready_To_Wear_Men"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-1cyoz77",
+          "alternateName": "men",
+          "name": "Men",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/ready-to-wear/_/N-1lpb5id",
+          "alternateName": "ready-to-wear",
+          "name": "Ready to Wear",
+          "identifier": "m-readytowear"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/ready-to-wear/pants/_/N-13dbyz9",
+          "alternateName": "pants",
+          "name": "Pants",
+          "identifier": "m-pants-mrtw"
+        }
+      ],
+      "disclaimers": {
+        "value": "shipping_warning_bo",
+        "popInContent": "global_backorder_info_popin_content",
+        "popInTitle": "global_backorder_info_popin_title"
+      },
+      "color": "ノワール",
+      "@context": "http://schema.org",
+      "identifier": "1A8X1A"
+    }
+  ],
+  "disambiguatingDescription": "This look adds a sophisticated vibe to the collection's NBA story. The matching shirt and pants are both tailored from fluid cotton jacquard fabric, with a piqué texture that recreates the iconic Monogram motif. Leather patches with the NBA's logo add a basketball edge to the Louis Vuitton details. ",
+  "_links": {
+    "self": {
+      "href": "/api/catalog/jpn-jp/product/nvprod2940009v"
+    },
+    "push": {
+      "href": "/api/catalog/jpn-jp/product-push/nvprod2940009v"
+    },
+    "care-link": {
+      "href": "/api/catalog/jpn-jp/care-link/nvprod2940009v"
+    },
+    "availability": {
+      "href": "/api/catalog/jpn-jp/availability/nvprod2940009v"
+    }
+  },
+  "@type": "Product",
+  "sku": "nvsku2680009v",
+  "isSimilarTo": [],
+  "productTips": [],
+  "url": "/jpn-jp/products/lvxnba-ii-look-09-nvprod2940009v",
+  "accessoriesSKUs": [
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/1A9057/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod2830116v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/1A9057"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/1A9057/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod2830116v/1A9057/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ブラック",
+      "@type": "ProductModel",
+      "name": "LVxNBA LV Bold Ankle Boot",
+      "mainMaterial2": "CALF",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 158400
+        },
+        "@type": "Offer",
+        "price": "¥158,400"
+      },
+      "disambiguatingDescription": "The LV Bold ankle boot is crafted from Monogram-embossed nubuck leather with a padded collar in smooth calf leather. This special edition is part of the Louis Vuitton x NBA collection, which encompasses accessories, leather goods and ready-to-wear. It is accessorized with an NBA rubber tag, while the NBA logo is hot-stamped in gold on the tongue.",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lvxnba-lv-bold-ankle-boot--BLEQ1XNU02_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lvxnba-lv-bold-ankle-boot--BLEQ1XNU02_PM1_Worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Worn view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lvxnba-lv-bold-ankle-boot--BLEQ1XNU02_PM1_Closeup view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Closeup view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lvxnba-lv-bold-ankle-boot--BLEQ1XNU02_PM1_Interior view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Interior view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lvxnba-lv-bold-ankle-boot--BLEQ1XNU02_PM1_Interior2 view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Interior2 view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/lvxnba-lv-bold-ankle-boot-nvprod2830116v",
+      "highEndTemplate": false,
+      "sizeDisplayName": "08.0",
+      "productId": "nvprod2830116v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-SHO-02_noir.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>Black</li><li>Monogram-embossed nubuck leather</li><li>Micro outsole</li><li>NBA logo on the tongue</li><li>NBA rubber tag</li><li>Made in Italy</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z04"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Shoe_Men"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-1cyoz77",
+          "alternateName": "men",
+          "name": "Men",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/shoes/_/N-i84cx3",
+          "alternateName": "shoes",
+          "name": "Shoes",
+          "identifier": "m-category-cat10037"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/shoes/boots/_/N-x0ovmq",
+          "alternateName": "boots",
+          "name": "Boots",
+          "identifier": "nvcat60002v-8"
+        }
+      ],
+      "disclaimers": {
+        "value": "shipping_warning_bo",
+        "popInContent": "global_backorder_info_popin_content",
+        "popInTitle": "global_backorder_info_popin_title"
+      },
+      "color": "ノワール",
+      "@context": "http://schema.org",
+      "identifier": "1A9057"
+    },
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/M57974/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod2880009v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/M57974"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/M57974/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod2880009v/M57974/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "マロン",
+      "@type": "ProductModel",
+      "height": {
+        "@type": "QuantitativeValue",
+        "value": 42,
+        "unitText": "cm"
+      },
+      "name": "LVxNBA Ball In Basket",
+      "mainMaterial2": "COWHIDE",
+      "width": {
+        "@type": "QuantitativeValue",
+        "value": 11,
+        "unitText": "cm"
+      },
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 478500
+        },
+        "@type": "Offer",
+        "price": "¥478,500"
+      },
+      "disambiguatingDescription": "The Ball in Basket bag is one of the most collectible pieces in the LV x NBA SEASON 2 collaboration. It’s a basketball-shaped bag, inside a basketball net bag that’s attached to a shoulder strap. Versatile, it can be held by the netting as a sling bag or worn with the strap as a messenger. ",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lvxnba-ball-in-basket--M57974_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lvxnba-ball-in-basket--M57974_PM1_Worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Worn view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lvxnba-ball-in-basket--M57974_PM1_Closeup view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Closeup view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lvxnba-ball-in-basket--M57974_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lvxnba-ball-in-basket--M57974_PM1_Interior view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Interior view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lvxnba-ball-in-basket--M57974_PM1_Detail view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Detail view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lvxnba-ball-in-basket--M57974_PM1_Ambiance view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Ambiance view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lvxnba-ball-in-basket--M57974_PM1_Back view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Back view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lvxnba-ball-in-basket--M57974_PM1_Other view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Other view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/lvxnba-ball-in-basket-nvprod2880009v",
+      "material": "その他レザー",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 30,
+        "unitText": "cm"
+      },
+      "highEndTemplate": false,
+      "productId": "nvprod2880009v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-ACC-972_brown.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>Brown</li><li>Ball Grain leather</li><li>Textile lining</li><li>Ball Grain leather trim</li><li>Gold-color hardware</li><li>Ball bag size: 24.8 cm/9.8 inches diameter (same as a basketball) </li><li>Removable and adjustable strap </li><li>ストラップ：取り外し不可, 調整可能</li><li>ストラップの頂点からバッグ上部までの長さ(最短)：58.0 cm</li><li>ストラップの頂点からバッグ上部までの長さ(最長)：63.0 cm</li></ul><p>This reference is either Made in France, Spain, Italy or in the US.</p>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z01"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-1cyoz77",
+          "alternateName": "men",
+          "name": "Men",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/bags/_/N-1t1tgex",
+          "alternateName": "bags",
+          "name": "Bags",
+          "identifier": "m-category-cat10001"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/bags/all-bags/_/N-hsz5ln",
+          "alternateName": "all-bags",
+          "name": "All Bags",
+          "identifier": "nvcat50001v"
+        }
+      ],
+      "disclaimers": {
+        "value": "shipping_warning_bo",
+        "popInContent": "global_backorder_info_popin_content",
+        "popInTitle": "global_backorder_info_popin_title"
+      },
+      "color": "マロン",
+      "@context": "http://schema.org",
+      "identifier": "M57974"
+    },
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/MP3055/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod2900093v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/MP3055"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/MP3055/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod2900093v/MP3055/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ゴールド",
+      "@type": "ProductModel",
+      "name": "LVXNBA Flying Ball Necklace",
+      "mainMaterial2": "BRASS",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 265100
+        },
+        "@type": "Offer",
+        "price": "¥265,100"
+      },
+      "disambiguatingDescription": "The LVXNBA Flying Ball necklace makes a bold and confident statement. Suspended from a bright chain, the emblematic NBA symbol comes to life as a 3D pendant that catches the eye with the suggestion of movement. This dramatic piece is branded with Monogram Flower details for a signature House touch.",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lvxnba-flying-ball-necklace--MP3055_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lvxnba-flying-ball-necklace--MP3055_PM1_Worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Worn view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lvxnba-flying-ball-necklace--MP3055_PM1_Closeup view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Closeup view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lvxnba-flying-ball-necklace--MP3055_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lvxnba-flying-ball-necklace--MP3055_PM1_Back view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Back view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/lvxnba-flying-ball-necklace-s00-nvprod2900093v",
+      "material": "METAL",
+      "highEndTemplate": false,
+      "productId": "nvprod2900093v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-ACC-985_or.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul>\n  <li>Length: 27.6 inches/70 cm</li>\n  <li>Gold-color hardware chain</li>\n  <li>Monogram Flowers details</li>\n  <li>Clasp closure</li>\n</ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories;Sunglasses"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-1cyoz77",
+          "alternateName": "men",
+          "name": "Men",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/accessories/_/N-1d0iakb",
+          "alternateName": "accessories",
+          "name": "Accessories",
+          "identifier": "m-category-cat10052"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/accessories/fashion-jewellery/_/N-qv1g01",
+          "alternateName": "fashion-jewellery",
+          "name": "Fashion Jewellery",
+          "identifier": "m-fashionjewelry"
+        }
+      ],
+      "disclaimers": {
+        "value": "shipping_warning_bo",
+        "popInContent": "global_backorder_info_popin_content",
+        "popInTitle": "global_backorder_info_popin_title"
+      },
+      "color": "Gold",
+      "@context": "http://schema.org",
+      "identifier": "MP3055"
+    },
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/MP3053/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod2900091v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/MP3053"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/MP3053/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod2900091v/MP3053/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ブルー",
+      "@type": "ProductModel",
+      "name": "LVXNBA Chain Links Bracelet",
+      "mainMaterial2": "BRASS",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 237600
+        },
+        "@type": "Offer",
+        "price": "¥237,600"
+      },
+      "disambiguatingDescription": "The statement-making LVXNBA Chain Links bracelet reveals an artistic combination of finishes for a wholly unique look. With phosphorescent sections that glow in the dark, this piece is a showcase of Louis Vuitton's penchant for innovation and surprise. Finely executed signature engravings reveal the House's collaborative teamwork with the NBA.",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lvxnba-chain-links-bracelet--MP3053_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lvxnba-chain-links-bracelet--MP3053_PM1_Worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Worn view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lvxnba-chain-links-bracelet--MP3053_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lvxnba-chain-links-bracelet--MP3053_PM1_Other view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Other view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/lvxnba-chain-links-bracelet-s00-nvprod2900091v",
+      "material": "METAL & SWAROVSKI ELEMENTS1",
+      "highEndTemplate": false,
+      "sizeDisplayName": "M",
+      "productId": "nvprod2900091v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-ACC-91J_turquoise.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul>\n  <li>Sizes: M, L</li>\n  <li>Gold-color hardware</li>\n  <li>Laquer, phosphorescent and gold-colored finishes</li>\n  <li>Monogram engraving on links</li>\n  <li>NBA logo engraving on tab</li>\n  <li>Clasp closure</li>\n</ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories;Sunglasses"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-1cyoz77",
+          "alternateName": "men",
+          "name": "Men",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/accessories/_/N-1d0iakb",
+          "alternateName": "accessories",
+          "name": "Accessories",
+          "identifier": "m-category-cat10052"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/accessories/fashion-jewellery/_/N-qv1g01",
+          "alternateName": "fashion-jewellery",
+          "name": "Fashion Jewellery",
+          "identifier": "m-fashionjewelry"
+        }
+      ],
+      "disclaimers": {
+        "value": "shipping_warning_bo",
+        "popInContent": "global_backorder_info_popin_content",
+        "popInTitle": "global_backorder_info_popin_title"
+      },
+      "color": "ターコイズ",
+      "@context": "http://schema.org",
+      "identifier": "MP3053"
+    }
+  ],
+  "category": [
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/_/N-1cyoz77",
+      "alternateName": "men",
+      "name": "Men",
+      "identifier": "homme"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/ready-to-wear/_/N-1lpb5id",
+      "alternateName": "ready-to-wear",
+      "name": "Ready to Wear",
+      "identifier": "m-readytowear"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/ready-to-wear/view-by-look/_/N-1ui6ldg",
+      "alternateName": "view-by-look",
+      "name": "View by Look",
+      "identifier": "nvcat450010v"
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "hidePrice",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "subType",
+      "value": "product"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "sizeGuide",
+      "value": false
+    }
+  ],
+  "name": "LVxNBA II - Look 09",
+  "isRelatedTo": [],
+  "@context": "http://schema.org",
+  "identifier": "nvprod2940009v"
+}

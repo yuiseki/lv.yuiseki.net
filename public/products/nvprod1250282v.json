@@ -1,0 +1,430 @@
+{
+  "model": [
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/R98207/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod1250282v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/R98207"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/R98207/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod1250282v/R98207/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ベージュ",
+      "@type": "ProductModel",
+      "height": {
+        "@type": "QuantitativeValue",
+        "value": 200,
+        "unitText": "cm"
+      },
+      "name": "Diamond Screen by Marcel Wanders Studio",
+      "width": {
+        "@type": "QuantitativeValue",
+        "value": 40,
+        "unitText": "cm"
+      },
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 3872000
+        },
+        "@type": "Offer",
+        "price": "¥3,872,000"
+      },
+      "disambiguatingDescription": "マルセル･ワンダース スタジオがルイ･ヴィトンの伝統的なモノグラム･パターンやトランクの籐細工を再解釈した「Diamond Screen by Marcel Wanders Studio」。「ルイ･ヴィトン オブジェ･ノマド コレクション」のために作られました。職人技を感じさせる繊細なモジュールは1つ1つが8枚のノマド･レザーから成り、メゾンのハンドバッグのクラスプを想起させる真鍮製のクリップでつながっています。黒大理石の土台と組み合わせた60個のモジュールが視線を適度に遮りつつ、目を楽しませてくれるアイテムです。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-diamond-screen-by-marcel-wanders-studio-ホーム--R98207_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-diamond-screen-by-marcel-wanders-studio-ホーム--R98207_PM1_Closeup view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Closeup view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-diamond-screen-by-marcel-wanders-studio-ホーム--R98207_PM1_Detail view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Detail view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-diamond-screen-by-marcel-wanders-studio-ホーム--R98207_PM1_Ambiance view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Ambiance view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/diamond-screen-by-marcel-wanders-studio-nvprod1250282v",
+      "material": "COWHIDE",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 300,
+        "unitText": "cm"
+      },
+      "highEndTemplate": false,
+      "productId": "nvprod1250282v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-SHO-31_beige.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>サイズ：200 cm x 300 x 40 cm</li><li>オブジェ･ノマド コレクション</li><li>重さ： 42 kg</li><li>素材：レザー（皮革の種類：牛革）、マイクロファイバー、スチール、大理石、金具</li><li>フレームを支える60のモジュール</li><li>卓越したレザー加工の装飾</li><li>ライニング：マイクロファイバー</li><li>各色100点限定</li><li>スペイン製</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z01"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/art-of-living/_/N-kmf9ty",
+          "alternateName": "art-of-living",
+          "name": "ライフスタイル",
+          "identifier": "nvcat1840004v"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/art-of-living/home/_/N-1181e7i",
+          "alternateName": "home",
+          "name": "ホーム",
+          "identifier": "nvcat1840008v"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/art-of-living/home/furniture/_/N-lpzrtm",
+          "alternateName": "furniture",
+          "name": "ファニチャー",
+          "identifier": "nvcat1840019v"
+        }
+      ],
+      "disclaimers": {
+        "value": "shipping_warning_bo",
+        "popInContent": "global_backorder_info_popin_content",
+        "popInTitle": "global_backorder_info_popin_title"
+      },
+      "color": "Beige",
+      "@context": "http://schema.org",
+      "identifier": "R98207"
+    },
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/R99483/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod1250282v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/R99483"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/R99483/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod1250282v/R99483/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ナチュラル",
+      "@type": "ProductModel",
+      "height": {
+        "@type": "QuantitativeValue",
+        "value": 200,
+        "unitText": "cm"
+      },
+      "name": "Diamond Screen by Marcel Wanders Studio",
+      "width": {
+        "@type": "QuantitativeValue",
+        "value": 40,
+        "unitText": "cm"
+      },
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 3872000
+        },
+        "@type": "Offer",
+        "price": "¥3,872,000"
+      },
+      "disambiguatingDescription": "マルセル･ワンダース スタジオがルイ･ヴィトンの伝統的なモノグラム･パターンやトランクの籐細工を再解釈した「Diamond Screen by Marcel Wanders Studio」。「ルイ･ヴィトン オブジェ･ノマド コレクション」のために作られました。職人技を感じさせる繊細なモジュールは1つ1つが8枚のノマド･レザーから成り、メゾンのハンドバッグのクラスプを想起させる真鍮製のクリップでつながっています。黒大理石の土台と組み合わせた60個のモジュールが視線を適度に遮りつつ、目を楽しませてくれるアイテムです。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-diamond-screen-by-marcel-wanders-studio-ホーム--R99483_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-diamond-screen-by-marcel-wanders-studio-ホーム--R99483_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-diamond-screen-by-marcel-wanders-studio-ホーム--R99483_PM1_Interior view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Interior view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-diamond-screen-by-marcel-wanders-studio-ホーム--R99483_PM1_Ambiance view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Ambiance view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/diamond-screen-by-marcel-wanders-studio-nvprod1250282v",
+      "material": "COWHIDE",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 300,
+        "unitText": "cm"
+      },
+      "highEndTemplate": false,
+      "productId": "nvprod1250282v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-LG-925_caramel.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>サイズ：200 cm x 300 x 40 cm</li><li>オブジェ･ノマド コレクション</li><li>重さ： 42 kg</li><li>素材：レザー（皮革の種類：牛革）、マイクロファイバー、スチール、大理石、金具</li><li>フレームを支える60のモジュール</li><li>卓越したレザー加工の装飾</li><li>ライニング：マイクロファイバー</li><li>スペイン製</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z01"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/art-of-living/_/N-kmf9ty",
+          "alternateName": "art-of-living",
+          "name": "ライフスタイル",
+          "identifier": "nvcat1840004v"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/art-of-living/home/_/N-1181e7i",
+          "alternateName": "home",
+          "name": "ホーム",
+          "identifier": "nvcat1840008v"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/art-of-living/home/furniture/_/N-lpzrtm",
+          "alternateName": "furniture",
+          "name": "ファニチャー",
+          "identifier": "nvcat1840019v"
+        }
+      ],
+      "disclaimers": {
+        "value": "shipping_warning_bo",
+        "popInContent": "global_backorder_info_popin_content",
+        "popInTitle": "global_backorder_info_popin_title"
+      },
+      "color": "キャラメル",
+      "@context": "http://schema.org",
+      "identifier": "R99483"
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "/api/catalog/jpn-jp/product/nvprod1250282v"
+    },
+    "push": {
+      "href": "/api/catalog/jpn-jp/product-push/nvprod1250282v"
+    },
+    "care-link": {
+      "href": "/api/catalog/jpn-jp/care-link/nvprod1250282v"
+    },
+    "availability": {
+      "href": "/api/catalog/jpn-jp/availability/nvprod1250282v"
+    }
+  },
+  "@type": "Product",
+  "sku": "R98207",
+  "isSimilarTo": [],
+  "productTips": [],
+  "url": "/jpn-jp/products/diamond-screen-by-marcel-wanders-studio-nvprod1250282v",
+  "material": "ファッション小物",
+  "category": [
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/art-of-living/_/N-kmf9ty",
+      "alternateName": "art-of-living",
+      "name": "ライフスタイル",
+      "identifier": "nvcat1840004v"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/art-of-living/home/_/N-1181e7i",
+      "alternateName": "home",
+      "name": "ホーム",
+      "identifier": "nvcat1840008v"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/art-of-living/home/furniture/_/N-lpzrtm",
+      "alternateName": "furniture",
+      "name": "ファニチャー",
+      "identifier": "nvcat1840019v"
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "hidePrice",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "subType",
+      "value": "product"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "materialIconURL",
+      "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--AEL-LG-N00_sans_ligne_esthetique.jpg"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "sizeGuide",
+      "value": false
+    }
+  ],
+  "name": "Diamond Screen by Marcel Wanders Studio",
+  "isRelatedTo": [],
+  "@context": "http://schema.org",
+  "identifier": "nvprod1250282v"
+}

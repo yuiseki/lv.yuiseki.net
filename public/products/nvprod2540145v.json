@@ -1,0 +1,432 @@
+{
+  "model": [
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/M77328/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod2540145v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/M77328"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/M77328/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod2540145v/M77328/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ブルー",
+      "@type": "ProductModel",
+      "height": {
+        "@type": "QuantitativeValue",
+        "value": 90,
+        "unitText": "cm"
+      },
+      "name": "カレ90・ゲームオン",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 59400
+        },
+        "@type": "Offer",
+        "price": "¥59,400"
+      },
+      "disambiguatingDescription": "ルイ･ヴィトンのモノグラム･キャンバスをラグジュアリーに再解釈した「カレ90・ゲームオン」。シルク100％の素材を使用し、ニコラ･ジェスキエールが2021クルーズ･コレクションのためにアップデートしたデザインです。楽しさ溢れるカードゲームの世界から着想を得て、コントラストカラーで明るく彩りました。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-カレ90・ゲームオン-s00-シルク-スカーフ-バンドー--M77328_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-カレ90・ゲームオン-s00-シルク-スカーフ-バンドー--M77328_PM1_Closeup view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Closeup view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-カレ90・ゲームオン-s00-シルク-スカーフ-バンドー--M77328_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-カレ90・ゲームオン-s00-シルク-スカーフ-バンドー--M77328_PM1_Interior view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Interior view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-カレ90・ゲームオン-s00-シルク-スカーフ-バンドー--M77328_PM1_Detail view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Detail view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/game-on-square-s00-nvprod2540145v",
+      "material": "SILK",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 90,
+        "unitText": "cm"
+      },
+      "highEndTemplate": false,
+      "productId": "nvprod2540145v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-ACC-908_bleu.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>素材：シルク 100%</li><li>シルクスクリーン･プリント</li><li>モノグラム･パターン</li><li>ハンドロール仕上げ</li><li>ドライクリーニングのみ</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories;Sunglasses"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/_/N-1q5sgib",
+          "alternateName": "women",
+          "name": "ウィメンズ",
+          "identifier": "femme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/accessories/_/N-1oyzg8c",
+          "alternateName": "accessories",
+          "name": "アクセサリー",
+          "identifier": "w-category-cat10155"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/accessories/silk-squares-and-bandeaus/_/N-1wvd638",
+          "alternateName": "silk-squares-and-bandeaus",
+          "name": "シルク スカーフ&バンドー",
+          "identifier": "nvcat1170030v"
+        }
+      ],
+      "disclaimers": {
+        "value": "shipping_warning_bo",
+        "popInContent": "global_backorder_info_popin_content",
+        "popInTitle": "global_backorder_info_popin_title"
+      },
+      "color": "ブルー",
+      "@context": "http://schema.org",
+      "identifier": "M77328"
+    },
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/M77329/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod2540145v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/M77329"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/M77329/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod2540145v/M77329/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "レッド",
+      "@type": "ProductModel",
+      "height": {
+        "@type": "QuantitativeValue",
+        "value": 90,
+        "unitText": "cm"
+      },
+      "name": "カレ90・ゲームオン",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 59400
+        },
+        "@type": "Offer",
+        "price": "¥59,400"
+      },
+      "disambiguatingDescription": "2022春夏カプセル･コレクションのテーマであるカードゲームから着想を得たスクエアスカーフ「カレ90･ゲームオン」。シルク100%の素材を使用し、ニコラ･ジェスキエールが鮮やかなコントラストとジオメトリカルなシェイプでメゾンのアイコニックなモノグラム･パターンを再解釈しました。同コレクションのシュシュとも相性抜群の、遊び心溢れるアイテムです。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-カレ90・ゲームオン-s00-シルク-スカーフ-バンドー--M77329_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-カレ90・ゲームオン-s00-シルク-スカーフ-バンドー--M77329_PM1_Closeup view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Closeup view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-カレ90・ゲームオン-s00-シルク-スカーフ-バンドー--M77329_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-カレ90・ゲームオン-s00-シルク-スカーフ-バンドー--M77329_PM1_Interior view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Interior view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-カレ90・ゲームオン-s00-シルク-スカーフ-バンドー--M77329_PM1_Detail view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Detail view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/game-on-square-s00-nvprod2540145v",
+      "material": "SILK",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 90,
+        "unitText": "cm"
+      },
+      "highEndTemplate": false,
+      "productId": "nvprod2540145v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-ACC-997_red.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>素材：シルク 100%</li><li>モノグラム･パターン</li><li>シルクスクリーン･プリント</li><li>ハンドロール仕上げ</li><li>ドライクリーニングのみ</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories;Sunglasses"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/_/N-1q5sgib",
+          "alternateName": "women",
+          "name": "ウィメンズ",
+          "identifier": "femme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/accessories/_/N-1oyzg8c",
+          "alternateName": "accessories",
+          "name": "アクセサリー",
+          "identifier": "w-category-cat10155"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/accessories/silk-squares-and-bandeaus/_/N-1wvd638",
+          "alternateName": "silk-squares-and-bandeaus",
+          "name": "シルク スカーフ&バンドー",
+          "identifier": "nvcat1170030v"
+        }
+      ],
+      "disclaimers": {
+        "value": "pre_order_disclaimer",
+        "popInContent": "pre_order_disclaimer_info_popin_content",
+        "popInTitle": "pre_order_disclaimer_info_popin_title"
+      },
+      "color": "ルージュ",
+      "@context": "http://schema.org",
+      "identifier": "M77329"
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "/api/catalog/jpn-jp/product/nvprod2540145v"
+    },
+    "push": {
+      "href": "/api/catalog/jpn-jp/product-push/nvprod2540145v"
+    },
+    "care-link": {
+      "href": "/api/catalog/jpn-jp/care-link/nvprod2540145v"
+    },
+    "availability": {
+      "href": "/api/catalog/jpn-jp/availability/nvprod2540145v"
+    }
+  },
+  "@type": "Product",
+  "sku": "M77329",
+  "isSimilarTo": [],
+  "productTips": [],
+  "url": "/jpn-jp/products/game-on-square-s00-nvprod2540145v",
+  "material": "NOT APPLICABLE ACC",
+  "category": [
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/women/_/N-1q5sgib",
+      "alternateName": "women",
+      "name": "ウィメンズ",
+      "identifier": "femme"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/women/accessories/_/N-1oyzg8c",
+      "alternateName": "accessories",
+      "name": "アクセサリー",
+      "identifier": "w-category-cat10155"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/women/accessories/silk-squares-and-bandeaus/_/N-1wvd638",
+      "alternateName": "silk-squares-and-bandeaus",
+      "name": "シルク スカーフ&バンドー",
+      "identifier": "nvcat1170030v"
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "hidePrice",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "subType",
+      "value": "product"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "sizeGuide",
+      "value": false
+    }
+  ],
+  "name": "カレ90・ゲームオン",
+  "isRelatedTo": [],
+  "@context": "http://schema.org",
+  "identifier": "nvprod2540145v"
+}

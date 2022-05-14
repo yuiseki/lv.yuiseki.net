@@ -1,0 +1,186 @@
+{
+  "model": [
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/nvsku3020056v/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod3410248v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/nvsku3020056v"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/nvsku3020056v/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod3410248v/nvsku3020056v/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "@type": "ProductModel",
+      "name": "Wardrobe - Look 12",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton--Men_Wardrobe_LOOK12_VISUAL4.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "LOOK12",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/wardrobe-look-12-nvprod3410248v",
+      "highEndTemplate": false,
+      "productId": "nvprod3410248v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-1cyoz77",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/ready-to-wear/_/N-1lpb5id",
+          "alternateName": "ready-to-wear",
+          "name": "プレタポルテ（洋服）",
+          "identifier": "m-readytowear"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/ready-to-wear/view-by-look/_/N-1ui6ldg",
+          "alternateName": "view-by-look",
+          "name": "ルックブック",
+          "identifier": "nvcat450010v"
+        }
+      ],
+      "disclaimers": {
+        "value": "shipping_warning_bo",
+        "popInContent": "global_backorder_info_popin_content",
+        "popInTitle": "global_backorder_info_popin_title"
+      },
+      "@context": "http://schema.org",
+      "identifier": "nvsku3020056v"
+    }
+  ],
+  "readyToWearSKUs": [],
+  "disambiguatingDescription": "イブニングシーンに相応しい華やかなルック。スーツには、今シーズンならではのモノグラム･フラワー タイル パターンをスパンコールの刺繍で表現しました。エナメルボタンをあしらったジャケットのインナーには、フォーマルスタイルにヴァージル･アブローならではのアクセントを添えるミッドレイヤーを合わせています。オーガニックコットンで仕立て、スパンコールの刺繍で彩ったシャツも魅力です。",
+  "_links": {
+    "self": {
+      "href": "/api/catalog/jpn-jp/product/nvprod3410248v"
+    },
+    "push": {
+      "href": "/api/catalog/jpn-jp/product-push/nvprod3410248v"
+    },
+    "care-link": {
+      "href": "/api/catalog/jpn-jp/care-link/nvprod3410248v"
+    },
+    "availability": {
+      "href": "/api/catalog/jpn-jp/availability/nvprod3410248v"
+    }
+  },
+  "@type": "Product",
+  "sku": "nvsku3020056v",
+  "isSimilarTo": [],
+  "productTips": [],
+  "url": "/jpn-jp/products/wardrobe-look-12-nvprod3410248v",
+  "accessoriesSKUs": [],
+  "category": [
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/_/N-1cyoz77",
+      "alternateName": "men",
+      "name": "メンズ",
+      "identifier": "homme"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/ready-to-wear/_/N-1lpb5id",
+      "alternateName": "ready-to-wear",
+      "name": "プレタポルテ（洋服）",
+      "identifier": "m-readytowear"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/ready-to-wear/view-by-look/_/N-1ui6ldg",
+      "alternateName": "view-by-look",
+      "name": "ルックブック",
+      "identifier": "nvcat450010v"
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "hidePrice",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "subType",
+      "value": "product"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "sizeGuide",
+      "value": false
+    }
+  ],
+  "name": "Wardrobe - Look 12",
+  "isRelatedTo": [],
+  "@context": "http://schema.org",
+  "identifier": "nvprod3410248v"
+}

@@ -1,0 +1,586 @@
+{
+  "model": [
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/1A99TE/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod3140051v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/1A99TE"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/1A99TE/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod3140051v/1A99TE/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ブラック",
+      "@type": "ProductModel",
+      "name": "ドローストリングショーツ",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 113300
+        },
+        "@type": "Offer",
+        "price": "¥113,300"
+      },
+      "disambiguatingDescription": "ウールとコットンの混紡素材を使用したエレガントなショーツ。足のパッチポケットには「Louis Vuitton」シグネチャー入りの織り上げラベルを縫い付けました。LV シグネチャー入りのボタンを添えた背面のフラップポケット、刻印入りのスナップフックで留めた「ルイ･ヴィトン ステープルズ エディション」ラベルも光ります。レギュラーフィットのシルエットと伸縮性のあるドローストリングをあしらったウエストが特徴です。\n<p>ご不明な点がございましたら、クライアントサービスまでお気軽にお問合せください。専任のクライアントアドバイザーが、素材やサイズなどの製品詳細、モデル着用イメージや関連アイテムのご案内など、お客様のご要望に合わせたスタイリング・アドバイスをご提供いたします。</p><p>また、サイズ違いなどによる返品・交換のご相談も承ります。詳細は<a href='https://jp.louisvuitton.com/jpn-jp/legal-privacy'><b>こちら。</b></a></p>",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ドローストリングショーツ-プレタポルテ（洋服）--HLP45WDC8900_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ドローストリングショーツ-プレタポルテ（洋服）--HLP45WDC8900_PM1_Worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Worn view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ドローストリングショーツ-プレタポルテ（洋服）--HLP45WDC8900_PM1_Closeup view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Closeup view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ドローストリングショーツ-プレタポルテ（洋服）--HLP45WDC8900_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ドローストリングショーツ-プレタポルテ（洋服）--HLP45WDC8900_PM1_Detail view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Detail view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/drawstring-shorts-nvprod3140051v",
+      "highEndTemplate": false,
+      "sizeDisplayName": "38",
+      "productId": "nvprod3140051v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-RTW-900_noir.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>本体：ウール 77%、コットン 23%</li><li>レギュラーフィット</li><li>モデル着用40サイズ</li><li>モデル：胸囲 85cm、身長 190cm</li><li>イタリア製</li><li>REF：HLP45WDC8</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z05"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Ready_To_Wear_Men"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-1cyoz77",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/ready-to-wear/_/N-1lpb5id",
+          "alternateName": "ready-to-wear",
+          "name": "プレタポルテ（洋服）",
+          "identifier": "m-readytowear"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/ready-to-wear/all-ready-to-wear/_/N-dphk1r",
+          "alternateName": "all-ready-to-wear",
+          "name": "すべてのメンズプレタポルテ（洋服）",
+          "identifier": "nvcat910171v"
+        }
+      ],
+      "disclaimers": {
+        "value": "shipping_warning_bo",
+        "popInContent": "global_backorder_info_popin_content",
+        "popInTitle": "global_backorder_info_popin_title"
+      },
+      "color": "ノワール",
+      "@context": "http://schema.org",
+      "identifier": "1A99TE"
+    },
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/1A99TG/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod3140051v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/1A99TG"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/1A99TG/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod3140051v/1A99TG/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ブラック",
+      "@type": "ProductModel",
+      "name": "ドローストリングショーツ",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 113300
+        },
+        "@type": "Offer",
+        "price": "¥113,300"
+      },
+      "disambiguatingDescription": "ウールとコットンの混紡素材を使用したエレガントなショーツ。足のパッチポケットには「Louis Vuitton」シグネチャー入りの織り上げラベルを縫い付けました。LV シグネチャー入りのボタンを添えた背面のフラップポケット、刻印入りのスナップフックで留めた「ルイ･ヴィトン ステープルズ エディション」ラベルも光ります。レギュラーフィットのシルエットと伸縮性のあるドローストリングをあしらったウエストが特徴です。\n<p>ご不明な点がございましたら、クライアントサービスまでお気軽にお問合せください。専任のクライアントアドバイザーが、素材やサイズなどの製品詳細、モデル着用イメージや関連アイテムのご案内など、お客様のご要望に合わせたスタイリング・アドバイスをご提供いたします。</p><p>また、サイズ違いなどによる返品・交換のご相談も承ります。詳細は<a href='https://jp.louisvuitton.com/jpn-jp/legal-privacy'><b>こちら。</b></a></p>",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ドローストリングショーツ-プレタポルテ（洋服）--HLP45WDC8900_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ドローストリングショーツ-プレタポルテ（洋服）--HLP45WDC8900_PM1_Worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Worn view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ドローストリングショーツ-プレタポルテ（洋服）--HLP45WDC8900_PM1_Closeup view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Closeup view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ドローストリングショーツ-プレタポルテ（洋服）--HLP45WDC8900_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ドローストリングショーツ-プレタポルテ（洋服）--HLP45WDC8900_PM1_Detail view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Detail view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/drawstring-shorts-nvprod3140051v",
+      "highEndTemplate": false,
+      "sizeDisplayName": "42",
+      "productId": "nvprod3140051v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-RTW-900_noir.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>本体：ウール 77%、コットン 23%</li><li>レギュラーフィット</li><li>モデル着用40サイズ</li><li>モデル：胸囲 85cm、身長 190cm</li><li>イタリア製</li><li>REF：HLP45WDC8</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z05"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Ready_To_Wear_Men"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-1cyoz77",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/ready-to-wear/_/N-1lpb5id",
+          "alternateName": "ready-to-wear",
+          "name": "プレタポルテ（洋服）",
+          "identifier": "m-readytowear"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/ready-to-wear/all-ready-to-wear/_/N-dphk1r",
+          "alternateName": "all-ready-to-wear",
+          "name": "すべてのメンズプレタポルテ（洋服）",
+          "identifier": "nvcat910171v"
+        }
+      ],
+      "disclaimers": {
+        "value": "shipping_warning_bo",
+        "popInContent": "global_backorder_info_popin_content",
+        "popInTitle": "global_backorder_info_popin_title"
+      },
+      "color": "ノワール",
+      "@context": "http://schema.org",
+      "identifier": "1A99TG"
+    },
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/1A99TH/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod3140051v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/1A99TH"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/1A99TH/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod3140051v/1A99TH/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ブラック",
+      "@type": "ProductModel",
+      "name": "ドローストリングショーツ",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 113300
+        },
+        "@type": "Offer",
+        "price": "¥113,300"
+      },
+      "disambiguatingDescription": "ウールとコットンの混紡素材を使用したエレガントなショーツ。足のパッチポケットには「Louis Vuitton」シグネチャー入りの織り上げラベルを縫い付けました。LV シグネチャー入りのボタンを添えた背面のフラップポケット、刻印入りのスナップフックで留めた「ルイ･ヴィトン ステープルズ エディション」ラベルも光ります。レギュラーフィットのシルエットと伸縮性のあるドローストリングをあしらったウエストが特徴です。\n<p>ご不明な点がございましたら、クライアントサービスまでお気軽にお問合せください。専任のクライアントアドバイザーが、素材やサイズなどの製品詳細、モデル着用イメージや関連アイテムのご案内など、お客様のご要望に合わせたスタイリング・アドバイスをご提供いたします。</p><p>また、サイズ違いなどによる返品・交換のご相談も承ります。詳細は<a href='https://jp.louisvuitton.com/jpn-jp/legal-privacy'><b>こちら。</b></a></p>",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ドローストリングショーツ-プレタポルテ（洋服）--HLP45WDC8900_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ドローストリングショーツ-プレタポルテ（洋服）--HLP45WDC8900_PM1_Worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Worn view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ドローストリングショーツ-プレタポルテ（洋服）--HLP45WDC8900_PM1_Closeup view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Closeup view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ドローストリングショーツ-プレタポルテ（洋服）--HLP45WDC8900_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ドローストリングショーツ-プレタポルテ（洋服）--HLP45WDC8900_PM1_Detail view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Detail view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/drawstring-shorts-nvprod3140051v",
+      "highEndTemplate": false,
+      "sizeDisplayName": "44",
+      "productId": "nvprod3140051v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-RTW-900_noir.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>本体：ウール 77%、コットン 23%</li><li>レギュラーフィット</li><li>モデル着用40サイズ</li><li>モデル：胸囲 85cm、身長 190cm</li><li>イタリア製</li><li>REF：HLP45WDC8</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z05"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Ready_To_Wear_Men"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-1cyoz77",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/ready-to-wear/_/N-1lpb5id",
+          "alternateName": "ready-to-wear",
+          "name": "プレタポルテ（洋服）",
+          "identifier": "m-readytowear"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/ready-to-wear/all-ready-to-wear/_/N-dphk1r",
+          "alternateName": "all-ready-to-wear",
+          "name": "すべてのメンズプレタポルテ（洋服）",
+          "identifier": "nvcat910171v"
+        }
+      ],
+      "disclaimers": {
+        "value": "shipping_warning_bo",
+        "popInContent": "global_backorder_info_popin_content",
+        "popInTitle": "global_backorder_info_popin_title"
+      },
+      "color": "ノワール",
+      "@context": "http://schema.org",
+      "identifier": "1A99TH"
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "/api/catalog/jpn-jp/product/nvprod3140051v"
+    },
+    "push": {
+      "href": "/api/catalog/jpn-jp/product-push/nvprod3140051v"
+    },
+    "care-link": {
+      "href": "/api/catalog/jpn-jp/care-link/nvprod3140051v"
+    },
+    "size-guide": {
+      "href": "/api/catalog/jpn-jp/size-guide/nvprod3140051v"
+    },
+    "availability": {
+      "href": "/api/catalog/jpn-jp/availability/nvprod3140051v"
+    }
+  },
+  "@type": "Product",
+  "sku": "1A99TG",
+  "isSimilarTo": [],
+  "productTips": [],
+  "url": "/jpn-jp/products/drawstring-shorts-nvprod3140051v",
+  "category": [
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/_/N-1cyoz77",
+      "alternateName": "men",
+      "name": "メンズ",
+      "identifier": "homme"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/ready-to-wear/_/N-1lpb5id",
+      "alternateName": "ready-to-wear",
+      "name": "プレタポルテ（洋服）",
+      "identifier": "m-readytowear"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/ready-to-wear/all-ready-to-wear/_/N-dphk1r",
+      "alternateName": "all-ready-to-wear",
+      "name": "すべてのメンズプレタポルテ（洋服）",
+      "identifier": "nvcat910171v"
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "hidePrice",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "subType",
+      "value": "product"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "sizeGuide",
+      "value": true
+    }
+  ],
+  "name": "ドローストリングショーツ",
+  "isRelatedTo": [],
+  "@context": "http://schema.org",
+  "identifier": "nvprod3140051v"
+}

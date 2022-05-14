@@ -1,0 +1,592 @@
+{
+  "model": [
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/M0475W/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod3360106v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/M0475W"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/M0475W/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod3360106v/M0475W/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "マロン",
+      "@type": "ProductModel",
+      "name": "サンチュール・LVドーフィーヌ 25MM リバーシバル",
+      "mainMaterial2": "COATED CANVAS",
+      "width": {
+        "@type": "QuantitativeValue",
+        "value": 25,
+        "unitText": "cm"
+      },
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 82500
+        },
+        "@type": "Offer",
+        "price": "¥82,500"
+      },
+      "disambiguatingDescription": "複数のメゾンのシグネチャーを組み合わせて、アイコニックな美しさを演出した「サンチュール･LVドーフィーヌ 25MM リバーシバル」。調節可能なカーフレザーのストラップには、光沢感のあるLV ドーフィーヌのバックルをあしらいました。裏面をモノグラム･キャンバスで彩ったステートメントアイテムは、レザーグッズ･コレクションの他のアクセサリーとも相性抜群です。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-サンチュール・lvドーフィーヌ-25mm-リバーシバル-モノグラム-ベルト--M0475W_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-サンチュール・lvドーフィーヌ-25mm-リバーシバル-モノグラム-ベルト--M0475W_PM1_Closeup view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Closeup view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-サンチュール・lvドーフィーヌ-25mm-リバーシバル-モノグラム-ベルト--M0475W_PM1_Back view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Back view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/lv-dauphine-25mm-reversible-belt-monogram-nvprod3360106v",
+      "material": "MONOGRAM",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 80,
+        "unitText": "cm"
+      },
+      "highEndTemplate": false,
+      "sizeDisplayName": "80 CM",
+      "productId": "nvprod3360106v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-LG-Arizona.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>幅：2.5 cm</li><li>素材：カーフレザー（皮革の種類：牛革）、モノグラム･キャンバス</li><li>金具（色：ゴールド）</li><li>LVイニシャルのバックル</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories;Sunglasses"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/_/N-1q5sgib",
+          "alternateName": "women",
+          "name": "ウィメンズ",
+          "identifier": "femme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/accessories/_/N-1oyzg8c",
+          "alternateName": "accessories",
+          "name": "アクセサリー",
+          "identifier": "w-category-cat10155"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/accessories/belts/_/N-1iz2cb5",
+          "alternateName": "belts",
+          "name": "ベルト",
+          "identifier": "w-category-cat1410417"
+        }
+      ],
+      "disclaimers": {
+        "value": "pre_order_disclaimer",
+        "popInContent": "pre_order_disclaimer_info_popin_content",
+        "popInTitle": "pre_order_disclaimer_info_popin_title"
+      },
+      "color": "アリゾナ",
+      "@context": "http://schema.org",
+      "identifier": "M0475W"
+    },
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/M0475V/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod3360106v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/M0475V"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/M0475V/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod3360106v/M0475V/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "マロン",
+      "@type": "ProductModel",
+      "name": "サンチュール・LVドーフィーヌ 25MM リバーシバル",
+      "mainMaterial2": "COATED CANVAS",
+      "width": {
+        "@type": "QuantitativeValue",
+        "value": 25,
+        "unitText": "cm"
+      },
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 82500
+        },
+        "@type": "Offer",
+        "price": "¥82,500"
+      },
+      "disambiguatingDescription": "複数のメゾンのシグネチャーを組み合わせて、アイコニックな美しさを演出した「サンチュール･LVドーフィーヌ 25MM リバーシバル」。調節可能なカーフレザーのストラップには、光沢感のあるLV ドーフィーヌのバックルをあしらいました。裏面をモノグラム･キャンバスで彩ったステートメントアイテムは、レザーグッズ･コレクションの他のアクセサリーとも相性抜群です。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-サンチュール・lvドーフィーヌ-25mm-リバーシバル-モノグラム-ベルト--M0475V_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-サンチュール・lvドーフィーヌ-25mm-リバーシバル-モノグラム-ベルト--M0475V_PM1_Closeup view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Closeup view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-サンチュール・lvドーフィーヌ-25mm-リバーシバル-モノグラム-ベルト--M0475V_PM1_Back view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Back view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/lv-dauphine-25mm-reversible-belt-monogram-nvprod3360106v",
+      "material": "MONOGRAM",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 85,
+        "unitText": "cm"
+      },
+      "highEndTemplate": false,
+      "sizeDisplayName": "85 CM",
+      "productId": "nvprod3360106v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-LG-Arizona.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>幅：2.5 cm</li><li>素材：カーフレザー（皮革の種類：牛革）、モノグラム･キャンバス</li><li>金具（色：ゴールド）</li><li>LVイニシャルのバックル</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories;Sunglasses"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/_/N-1q5sgib",
+          "alternateName": "women",
+          "name": "ウィメンズ",
+          "identifier": "femme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/accessories/_/N-1oyzg8c",
+          "alternateName": "accessories",
+          "name": "アクセサリー",
+          "identifier": "w-category-cat10155"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/accessories/belts/_/N-1iz2cb5",
+          "alternateName": "belts",
+          "name": "ベルト",
+          "identifier": "w-category-cat1410417"
+        }
+      ],
+      "disclaimers": {
+        "value": "pre_order_disclaimer",
+        "popInContent": "pre_order_disclaimer_info_popin_content",
+        "popInTitle": "pre_order_disclaimer_info_popin_title"
+      },
+      "color": "アリゾナ",
+      "@context": "http://schema.org",
+      "identifier": "M0475V"
+    },
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/M0475U/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod3360106v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/M0475U"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/M0475U/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod3360106v/M0475U/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "マロン",
+      "@type": "ProductModel",
+      "name": "サンチュール・LVドーフィーヌ 25MM リバーシバル",
+      "mainMaterial2": "COATED CANVAS",
+      "width": {
+        "@type": "QuantitativeValue",
+        "value": 25,
+        "unitText": "cm"
+      },
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 82500
+        },
+        "@type": "Offer",
+        "price": "¥82,500"
+      },
+      "disambiguatingDescription": "複数のメゾンのシグネチャーを組み合わせて、アイコニックな美しさを演出した「サンチュール･LVドーフィーヌ 25MM リバーシバル」。調節可能なカーフレザーのストラップには、光沢感のあるLV ドーフィーヌのバックルをあしらいました。裏面をモノグラム･キャンバスで彩ったステートメントアイテムは、レザーグッズ･コレクションの他のアクセサリーとも相性抜群です。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-サンチュール・lvドーフィーヌ-25mm-リバーシバル-モノグラム-ベルト--M0475U_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-サンチュール・lvドーフィーヌ-25mm-リバーシバル-モノグラム-ベルト--M0475U_PM1_Closeup view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Closeup view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-サンチュール・lvドーフィーヌ-25mm-リバーシバル-モノグラム-ベルト--M0475U_PM1_Back view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Back view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/lv-dauphine-25mm-reversible-belt-monogram-nvprod3360106v",
+      "material": "MONOGRAM",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 90,
+        "unitText": "cm"
+      },
+      "highEndTemplate": false,
+      "sizeDisplayName": "90 CM",
+      "productId": "nvprod3360106v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-LG-Arizona.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>幅：2.5 cm</li><li>素材：カーフレザー（皮革の種類：牛革）、モノグラム･キャンバス</li><li>金具（色：ゴールド）</li><li>LVイニシャルのバックル</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories;Sunglasses"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/_/N-1q5sgib",
+          "alternateName": "women",
+          "name": "ウィメンズ",
+          "identifier": "femme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/accessories/_/N-1oyzg8c",
+          "alternateName": "accessories",
+          "name": "アクセサリー",
+          "identifier": "w-category-cat10155"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/accessories/belts/_/N-1iz2cb5",
+          "alternateName": "belts",
+          "name": "ベルト",
+          "identifier": "w-category-cat1410417"
+        }
+      ],
+      "disclaimers": {
+        "value": "pre_order_disclaimer",
+        "popInContent": "pre_order_disclaimer_info_popin_content",
+        "popInTitle": "pre_order_disclaimer_info_popin_title"
+      },
+      "color": "アリゾナ",
+      "@context": "http://schema.org",
+      "identifier": "M0475U"
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "/api/catalog/jpn-jp/product/nvprod3360106v"
+    },
+    "push": {
+      "href": "/api/catalog/jpn-jp/product-push/nvprod3360106v"
+    },
+    "care-link": {
+      "href": "/api/catalog/jpn-jp/care-link/nvprod3360106v"
+    },
+    "size-guide": {
+      "href": "/api/catalog/jpn-jp/size-guide/nvprod3360106v"
+    },
+    "availability": {
+      "href": "/api/catalog/jpn-jp/availability/nvprod3360106v"
+    }
+  },
+  "@type": "Product",
+  "sku": "M0475W",
+  "isSimilarTo": [],
+  "productTips": [],
+  "url": "/jpn-jp/products/lv-dauphine-25mm-reversible-belt-monogram-nvprod3360106v",
+  "material": "モノグラム",
+  "category": [
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/women/_/N-1q5sgib",
+      "alternateName": "women",
+      "name": "ウィメンズ",
+      "identifier": "femme"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/women/accessories/_/N-1oyzg8c",
+      "alternateName": "accessories",
+      "name": "アクセサリー",
+      "identifier": "w-category-cat10155"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/women/accessories/belts/_/N-1iz2cb5",
+      "alternateName": "belts",
+      "name": "ベルト",
+      "identifier": "w-category-cat1410417"
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "hidePrice",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "subType",
+      "value": "product"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "materialIconURL",
+      "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--AEL-LG-G00_monogram.jpg"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "sizeGuide",
+      "value": true
+    }
+  ],
+  "name": "サンチュール・LVドーフィーヌ 25MM リバーシバル",
+  "isRelatedTo": [],
+  "@context": "http://schema.org",
+  "identifier": "nvprod3360106v"
+}

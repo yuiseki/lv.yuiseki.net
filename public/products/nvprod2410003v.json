@@ -1,0 +1,227 @@
+{
+  "model": [
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/LS0384/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod2410003v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/LS0384"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/LS0384/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod2410003v/LS0384/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ベージュ",
+      "@type": "ProductModel",
+      "name": "トラベルケース（100ML）",
+      "mainMaterial2": "COATED CANVAS",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 93500
+        },
+        "@type": "Offer",
+        "price": "¥93,500"
+      },
+      "disambiguatingDescription": "フレグランスを保護する「トラベルケース(100ML)」。大切な物を守り、持ち運ぶためのケースを作り続けてきたカスタムデザインの伝統を受け継ぎ、ルイ･ヴィトンならではのサヴォアフェール(匠の技)を駆使して仕立てられた一品です。今シーズン、フレッシュなデザインにアップデートされた「トラベルケース(100ML)」には、メゾンのアイコニックなモノグラム･パターンの再解釈が躍ります。これは、ガストン-ルイ･ヴィトンが個人的に蒐集した先住民文化に由来する仮面から着想を得たもの。グラフィカルなデザインをミックスした美しいパターンが特徴です。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-トラベルケース（100ml）-その他キャンバス-フレグランス（香水）--LS0384_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/lv-crafty-100ml-travel-case-nvprod2410003v",
+      "material": "AUTRES TOILES MONOGRAM",
+      "highEndTemplate": false,
+      "productId": "nvprod2410003v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-ACC-Creme_Rouge_Noir.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>LVフレグランス専用トラベルケース（100mlスプレー専用）</li><li>金具（色：ゴールド）</li><li>ライニング：マイクロファイバー</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z01"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/_/N-1q5sgib",
+          "alternateName": "women",
+          "name": "ウィメンズ",
+          "identifier": "femme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/fragrances/_/N-uf72jd",
+          "alternateName": "fragrances",
+          "name": "フレグランス（香水）",
+          "identifier": "w-parfums"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/fragrances/travel/_/N-7pqdj5",
+          "alternateName": "travel",
+          "name": "トラベルスプレー＆ケース",
+          "identifier": "nvcat1180003v"
+        }
+      ],
+      "disclaimers": {
+        "value": "shipping_warning_bo",
+        "popInContent": "global_backorder_info_popin_content",
+        "popInTitle": "global_backorder_info_popin_title"
+      },
+      "color": "クレーム ルージュ ノワール",
+      "@context": "http://schema.org",
+      "identifier": "LS0384"
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "/api/catalog/jpn-jp/product/nvprod2410003v"
+    },
+    "push": {
+      "href": "/api/catalog/jpn-jp/product-push/nvprod2410003v"
+    },
+    "care-link": {
+      "href": "/api/catalog/jpn-jp/care-link/nvprod2410003v"
+    },
+    "availability": {
+      "href": "/api/catalog/jpn-jp/availability/nvprod2410003v"
+    }
+  },
+  "@type": "Product",
+  "sku": "LS0384",
+  "isSimilarTo": [],
+  "productTips": [],
+  "url": "/jpn-jp/products/lv-crafty-100ml-travel-case-nvprod2410003v",
+  "material": "その他キャンバス",
+  "category": [
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/women/_/N-1q5sgib",
+      "alternateName": "women",
+      "name": "ウィメンズ",
+      "identifier": "femme"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/women/fragrances/_/N-uf72jd",
+      "alternateName": "fragrances",
+      "name": "フレグランス（香水）",
+      "identifier": "w-parfums"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/women/fragrances/travel/_/N-7pqdj5",
+      "alternateName": "travel",
+      "name": "トラベルスプレー＆ケース",
+      "identifier": "nvcat1180003v"
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "hidePrice",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "subType",
+      "value": "product"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "materialIconURL",
+      "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--AEL-LG-G19_autres_toiles_monogram.jpg"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "careLink",
+      "value": "LGAESTHETICLINEZ13"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "sizeGuide",
+      "value": false
+    }
+  ],
+  "name": "トラベルケース（100ML）",
+  "isRelatedTo": [],
+  "@context": "http://schema.org",
+  "identifier": "nvprod2410003v"
+}

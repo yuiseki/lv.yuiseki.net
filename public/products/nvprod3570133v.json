@@ -1,0 +1,592 @@
+{
+  "model": [
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/M0522U/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod3570133v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/M0522U"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/M0522U/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod3570133v/M0522U/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ブラック",
+      "@type": "ProductModel",
+      "name": "サンチュール・LV スポットライト 40MM",
+      "mainMaterial2": "CALF",
+      "width": {
+        "@type": "QuantitativeValue",
+        "value": 4,
+        "unitText": "cm"
+      },
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 80300
+        },
+        "@type": "Offer",
+        "price": "¥80,300"
+      },
+      "disambiguatingDescription": "ヴァージル･アブローならではのファッショナブルなデザインの美学を愛する方にぴったりの、クールでモダンな雰囲気薫る「サンチュール･LV スポットライト 40MM」。ストラップの片面はラバーのような質感のレザー、もう片面は柔らかなナッパレザーで仕上げました。鮮やかなグラデーションを効かせたLV イニシャルのバックルが彩りを添えます。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-サンチュール・lv-スポットライト-40mm-メンズ-ベルト--M0522U_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-サンチュール・lv-スポットライト-40mm-メンズ-ベルト--M0522U_PM1_Worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Worn view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-サンチュール・lv-スポットライト-40mm-メンズ-ベルト--M0522U_PM1_Closeup view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Closeup view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/lv-spotlight-40mm-reversible-belt-nvprod3570133v",
+      "material": "CALFSKIN",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 90,
+        "unitText": "cm"
+      },
+      "highEndTemplate": false,
+      "sizeDisplayName": "90 CM",
+      "productId": "nvprod3570133v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-ACC-93L_black_.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>幅：4 cm</li><li>素材：エピ･レザー（皮革の種類：牛革）、ナッパ･レザー（皮革の種類：牛革）</li><li>LV イニシャルのバックル</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories;Sunglasses"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-1cyoz77",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/accessories/_/N-1d0iakb",
+          "alternateName": "accessories",
+          "name": "アクセサリー",
+          "identifier": "m-category-cat10052"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/accessories/belts/_/N-1bp0rlo",
+          "alternateName": "belts",
+          "name": "メンズ ベルト",
+          "identifier": "m-category-cat1410153"
+        }
+      ],
+      "disclaimers": {
+        "value": "pre_order_disclaimer",
+        "popInContent": "pre_order_disclaimer_info_popin_content",
+        "popInTitle": "pre_order_disclaimer_info_popin_title"
+      },
+      "color": "ノワール",
+      "@context": "http://schema.org",
+      "identifier": "M0522U"
+    },
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/M0522T/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod3570133v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/M0522T"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/M0522T/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod3570133v/M0522T/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ブラック",
+      "@type": "ProductModel",
+      "name": "サンチュール・LV スポットライト 40MM",
+      "mainMaterial2": "CALF",
+      "width": {
+        "@type": "QuantitativeValue",
+        "value": 4,
+        "unitText": "cm"
+      },
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 80300
+        },
+        "@type": "Offer",
+        "price": "¥80,300"
+      },
+      "disambiguatingDescription": "ヴァージル･アブローならではのファッショナブルなデザインの美学を愛する方にぴったりの、クールでモダンな雰囲気薫る「サンチュール･LV スポットライト 40MM」。ストラップの片面はラバーのような質感のレザー、もう片面は柔らかなナッパレザーで仕上げました。鮮やかなグラデーションを効かせたLV イニシャルのバックルが彩りを添えます。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-サンチュール・lv-スポットライト-40mm-メンズ-ベルト--M0522T_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-サンチュール・lv-スポットライト-40mm-メンズ-ベルト--M0522T_PM1_Worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Worn view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-サンチュール・lv-スポットライト-40mm-メンズ-ベルト--M0522T_PM1_Closeup view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Closeup view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/lv-spotlight-40mm-reversible-belt-nvprod3570133v",
+      "material": "CALFSKIN",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 95,
+        "unitText": "cm"
+      },
+      "highEndTemplate": false,
+      "sizeDisplayName": "95 CM",
+      "productId": "nvprod3570133v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-ACC-93L_black_.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>幅：4 cm</li><li>素材：エピ･レザー（皮革の種類：牛革）、ナッパ･レザー（皮革の種類：牛革）</li><li>LV イニシャルのバックル</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories;Sunglasses"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-1cyoz77",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/accessories/_/N-1d0iakb",
+          "alternateName": "accessories",
+          "name": "アクセサリー",
+          "identifier": "m-category-cat10052"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/accessories/belts/_/N-1bp0rlo",
+          "alternateName": "belts",
+          "name": "メンズ ベルト",
+          "identifier": "m-category-cat1410153"
+        }
+      ],
+      "disclaimers": {
+        "value": "pre_order_disclaimer",
+        "popInContent": "pre_order_disclaimer_info_popin_content",
+        "popInTitle": "pre_order_disclaimer_info_popin_title"
+      },
+      "color": "ノワール",
+      "@context": "http://schema.org",
+      "identifier": "M0522T"
+    },
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/M0522S/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod3570133v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/M0522S"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/M0522S/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod3570133v/M0522S/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ブラック",
+      "@type": "ProductModel",
+      "name": "サンチュール・LV スポットライト 40MM",
+      "mainMaterial2": "CALF",
+      "width": {
+        "@type": "QuantitativeValue",
+        "value": 4,
+        "unitText": "cm"
+      },
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 80300
+        },
+        "@type": "Offer",
+        "price": "¥80,300"
+      },
+      "disambiguatingDescription": "ヴァージル･アブローならではのファッショナブルなデザインの美学を愛する方にぴったりの、クールでモダンな雰囲気薫る「サンチュール･LV スポットライト 40MM」。ストラップの片面はラバーのような質感のレザー、もう片面は柔らかなナッパレザーで仕上げました。鮮やかなグラデーションを効かせたLV イニシャルのバックルが彩りを添えます。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-サンチュール・lv-スポットライト-40mm-メンズ-ベルト--M0522S_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-サンチュール・lv-スポットライト-40mm-メンズ-ベルト--M0522S_PM1_Worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Worn view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-サンチュール・lv-スポットライト-40mm-メンズ-ベルト--M0522S_PM1_Closeup view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Closeup view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/lv-spotlight-40mm-reversible-belt-nvprod3570133v",
+      "material": "CALFSKIN",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 100,
+        "unitText": "cm"
+      },
+      "highEndTemplate": false,
+      "sizeDisplayName": "100 CM",
+      "productId": "nvprod3570133v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-ACC-93L_black_.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>幅：4 cm</li><li>素材：エピ･レザー（皮革の種類：牛革）、ナッパ･レザー（皮革の種類：牛革）</li><li>LV イニシャルのバックル</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories;Sunglasses"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-1cyoz77",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/accessories/_/N-1d0iakb",
+          "alternateName": "accessories",
+          "name": "アクセサリー",
+          "identifier": "m-category-cat10052"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/accessories/belts/_/N-1bp0rlo",
+          "alternateName": "belts",
+          "name": "メンズ ベルト",
+          "identifier": "m-category-cat1410153"
+        }
+      ],
+      "disclaimers": {
+        "value": "shipping_warning_bo",
+        "popInContent": "global_backorder_info_popin_content",
+        "popInTitle": "global_backorder_info_popin_title"
+      },
+      "color": "ノワール",
+      "@context": "http://schema.org",
+      "identifier": "M0522S"
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "/api/catalog/jpn-jp/product/nvprod3570133v"
+    },
+    "push": {
+      "href": "/api/catalog/jpn-jp/product-push/nvprod3570133v"
+    },
+    "care-link": {
+      "href": "/api/catalog/jpn-jp/care-link/nvprod3570133v"
+    },
+    "size-guide": {
+      "href": "/api/catalog/jpn-jp/size-guide/nvprod3570133v"
+    },
+    "availability": {
+      "href": "/api/catalog/jpn-jp/availability/nvprod3570133v"
+    }
+  },
+  "@type": "Product",
+  "sku": "M0522S",
+  "isSimilarTo": [],
+  "productTips": [],
+  "url": "/jpn-jp/products/lv-spotlight-40mm-reversible-belt-nvprod3570133v",
+  "material": "ファッション小物",
+  "category": [
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/_/N-1cyoz77",
+      "alternateName": "men",
+      "name": "メンズ",
+      "identifier": "homme"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/accessories/_/N-1d0iakb",
+      "alternateName": "accessories",
+      "name": "アクセサリー",
+      "identifier": "m-category-cat10052"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/accessories/belts/_/N-1bp0rlo",
+      "alternateName": "belts",
+      "name": "メンズ ベルト",
+      "identifier": "m-category-cat1410153"
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "hidePrice",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "subType",
+      "value": "product"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "materialIconURL",
+      "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--AEL-LG-N00_sans_ligne_esthetique.jpg"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "sizeGuide",
+      "value": true
+    }
+  ],
+  "name": "サンチュール・LV スポットライト 40MM",
+  "isRelatedTo": [],
+  "@context": "http://schema.org",
+  "identifier": "nvprod3570133v"
+}

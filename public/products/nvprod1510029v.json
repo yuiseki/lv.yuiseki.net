@@ -1,0 +1,230 @@
+{
+  "model": [
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/1A5CWL/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod1510029v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/1A5CWL"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/1A5CWL/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod1510029v/1A5CWL/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ブルー",
+      "@type": "ProductModel",
+      "name": "カーゴワイドレッグパンツ",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 183700
+        },
+        "@type": "Offer",
+        "price": "¥183,700"
+      },
+      "disambiguatingDescription": "都会的なカジュアルスタイルに相応しく、ルーズフィットに仕上げたカーゴパンツ。テクニカルファブリックを使用し、フロント部分と背面にはコレクションを象徴する波型の縫い目をトリプルステッチで施しました。レッグポケットにあしらったヌメ革のレザータブに添えたステープル、ブラックのスナップフックで取り付けた取外し可能な「Louis Vuitton Staples Edition」のラベルが特徴です。<p>ご不明な点がございましたら、クライアントサービスまでお気軽にお問合せください。専任のクライアントアドバイザーが、素材やサイズなどの製品詳細、モデル着用イメージや関連アイテムのご案内など、お客様のご要望に合わせたスタイリング・アドバイスをご提供いたします。</p><p>また、サイズ違いなどによる返品・交換のご相談も承ります。詳細は<a href='https://jp.louisvuitton.com/jpn-jp/legal-privacy'><b>こちら。</b></a></p>",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-カーゴワイドレッグパンツ-プレタポルテ（洋服）--HHP45WNJD631_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-カーゴワイドレッグパンツ-プレタポルテ（洋服）--HHP45WNJD631_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-カーゴワイドレッグパンツ-プレタポルテ（洋服）--HHP45WNJD631_PM1_Back view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Back view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/cargo-wide-leg-pants-nvprod1510029v",
+      "highEndTemplate": false,
+      "sizeDisplayName": "44",
+      "productId": "nvprod1510029v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-LG-9E9_ocean.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>表地：ナイロン 100%</li><li>裏地：コットン 100%</li><li>ルーズフィット</li><li>モデル着用40サイズ</li><li>モデル：胸囲 82cm、身長 183cm</li><li>サイズ40：総丈 110cm、ウエスト  87cm、裾周り 57cm 製品により多少の誤差が生じる場合がございますので、あらかじめご了承ください。</li><li>イタリア製</li><li>REF：HHP45WNJD</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z05"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Ready_To_Wear_Men"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-1cyoz77",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/ready-to-wear/_/N-1lpb5id",
+          "alternateName": "ready-to-wear",
+          "name": "プレタポルテ（洋服）",
+          "identifier": "m-readytowear"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/ready-to-wear/all-ready-to-wear/_/N-dphk1r",
+          "alternateName": "all-ready-to-wear",
+          "name": "すべてのメンズプレタポルテ（洋服）",
+          "identifier": "nvcat910171v"
+        }
+      ],
+      "disclaimers": {
+        "value": "shipping_warning_bo",
+        "popInContent": "global_backorder_info_popin_content",
+        "popInTitle": "global_backorder_info_popin_title"
+      },
+      "color": "オセアン",
+      "@context": "http://schema.org",
+      "identifier": "1A5CWL"
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "/api/catalog/jpn-jp/product/nvprod1510029v"
+    },
+    "push": {
+      "href": "/api/catalog/jpn-jp/product-push/nvprod1510029v"
+    },
+    "care-link": {
+      "href": "/api/catalog/jpn-jp/care-link/nvprod1510029v"
+    },
+    "size-guide": {
+      "href": "/api/catalog/jpn-jp/size-guide/nvprod1510029v"
+    },
+    "availability": {
+      "href": "/api/catalog/jpn-jp/availability/nvprod1510029v"
+    }
+  },
+  "@type": "Product",
+  "sku": "1A5CWL",
+  "isSimilarTo": [],
+  "productTips": [],
+  "url": "/jpn-jp/products/cargo-wide-leg-pants-nvprod1510029v",
+  "category": [
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/_/N-1cyoz77",
+      "alternateName": "men",
+      "name": "メンズ",
+      "identifier": "homme"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/ready-to-wear/_/N-1lpb5id",
+      "alternateName": "ready-to-wear",
+      "name": "プレタポルテ（洋服）",
+      "identifier": "m-readytowear"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/ready-to-wear/all-ready-to-wear/_/N-dphk1r",
+      "alternateName": "all-ready-to-wear",
+      "name": "すべてのメンズプレタポルテ（洋服）",
+      "identifier": "nvcat910171v"
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "hidePrice",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "subType",
+      "value": "product"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "sizeGuide",
+      "value": true
+    }
+  ],
+  "name": "カーゴワイドレッグパンツ",
+  "isRelatedTo": [],
+  "@context": "http://schema.org",
+  "identifier": "nvprod1510029v"
+}

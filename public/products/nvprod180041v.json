@@ -1,0 +1,446 @@
+{
+  "model": [
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/GI0115/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod180041v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/GI0115"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/GI0115/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod180041v/GI0115/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ピンク",
+      "@type": "ProductModel",
+      "height": {
+        "@type": "QuantitativeValue",
+        "value": 19.3,
+        "unitText": "cm"
+      },
+      "name": "カイエ・ギュスターヴMM",
+      "mainMaterial2": "PAPER",
+      "width": {
+        "@type": "QuantitativeValue",
+        "value": 1,
+        "unitText": "cm"
+      },
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 27500
+        },
+        "@type": "Offer",
+        "price": "¥27,500"
+      },
+      "disambiguatingDescription": "ファッショナブルで豊富なカラーバリエーションが揃うノートブック「カイエ･ギュスターヴMM」。ルイ･ヴィトンを持ち歩く楽しさを感じていただけるアイテムです。透かし模様の入った高品質の紙とエピ･レザーを使用し、ルイ･ヴィトンならではのメタリックなLVサークル･モチーフをあしらいました。<BR><BR>※オンラインストアではこちらの製品のイニシャル刻印サービスを承ることができません。恐れ入りますが、お近くの店舗にご相談ください。無償にて承ります。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-カイエ・ギュスターヴmm-エピ-パーソナライゼーション--GI0115_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-カイエ・ギュスターヴmm-エピ-パーソナライゼーション--GI0115_PM1_Interior view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Interior view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-カイエ・ギュスターヴmm-エピ-パーソナライゼーション--GI0115_PM1_Ambiance view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Ambiance view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-カイエ・ギュスターヴmm-エピ-パーソナライゼーション--GI0115_PM1_Other view2.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Other view2",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-カイエ・ギュスターヴmm-エピ-パーソナライゼーション--GI0115_PM1_Other view4.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Other view4",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/notebook-gustave-mm-epi-nvprod180041v",
+      "material": "PAPER",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 14,
+        "unitText": "cm"
+      },
+      "highEndTemplate": false,
+      "productId": "nvprod180041v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-ACC-9DS_rose_pale.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>素材：レザー（皮革の種類：牛革）、メタル、紙</li><li>Louis VuittonシグネチャーとLVサークルモチーフの刻印</li><li>用紙に特別なLVサークルのすかし模様</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "hotstampable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Books;Writing"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/_/N-1q5sgib",
+          "alternateName": "women",
+          "name": "ウィメンズ",
+          "identifier": "femme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/personalization/_/N-1oc1mga",
+          "alternateName": "personalization",
+          "name": "パーソナライゼーション",
+          "identifier": "w-category-catmom0000"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/personalisation/hotstamping/_/N-ddphie",
+          "alternateName": "hot-stamping",
+          "name": "イニシャルホットスタンピング",
+          "identifier": "nvcat120019v"
+        }
+      ],
+      "disclaimers": {
+        "value": "pre_order_disclaimer",
+        "popInContent": "pre_order_disclaimer_info_popin_content",
+        "popInTitle": "pre_order_disclaimer_info_popin_title"
+      },
+      "color": "ローズペール",
+      "@context": "http://schema.org",
+      "identifier": "GI0115"
+    },
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/GI0116/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod180041v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/GI0116"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/GI0116/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod180041v/GI0116/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ブラック",
+      "@type": "ProductModel",
+      "height": {
+        "@type": "QuantitativeValue",
+        "value": 19.3,
+        "unitText": "cm"
+      },
+      "name": "カイエ・ギュスターヴMM",
+      "mainMaterial2": "PAPER",
+      "width": {
+        "@type": "QuantitativeValue",
+        "value": 1,
+        "unitText": "cm"
+      },
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 27500
+        },
+        "@type": "Offer",
+        "price": "¥27,500"
+      },
+      "disambiguatingDescription": "ファッショナブルで豊富なカラーバリエーションが揃うノートブック「カイエ･ギュスターヴMM」。ルイ･ヴィトンを持ち歩く楽しさを感じていただけるアイテムです。透かし模様の入った高品質の紙とエピ･レザーを使用し、ルイ･ヴィトンならではのメタリックなLVサークル･モチーフをあしらいました。<BR><BR>※オンラインストアではこちらの製品のイニシャル刻印サービスを承ることができません。恐れ入りますが、お近くの店舗にご相談ください。無償にて承ります。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-カイエ・ギュスターヴmm-エピ-パーソナライゼーション--GI0116_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-カイエ・ギュスターヴmm-エピ-パーソナライゼーション--GI0116_PM1_Interior view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Interior view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/notebook-gustave-mm-epi-nvprod180041v",
+      "material": "PAPER",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 14,
+        "unitText": "cm"
+      },
+      "highEndTemplate": false,
+      "productId": "nvprod180041v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-ACC-980_black.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>素材：レザー（皮革の種類：牛革）、メタル、紙</li><li>Louis VuittonシグネチャーとLVサークルモチーフの刻印</li><li>用紙に特別なLVサークルのすかし模様</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "hotstampable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Books;Writing"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/_/N-1q5sgib",
+          "alternateName": "women",
+          "name": "ウィメンズ",
+          "identifier": "femme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/personalization/_/N-1oc1mga",
+          "alternateName": "personalization",
+          "name": "パーソナライゼーション",
+          "identifier": "w-category-catmom0000"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/personalisation/hotstamping/_/N-ddphie",
+          "alternateName": "hot-stamping",
+          "name": "イニシャルホットスタンピング",
+          "identifier": "nvcat120019v"
+        }
+      ],
+      "disclaimers": {
+        "value": "shipping_warning_bo",
+        "popInContent": "global_backorder_info_popin_content",
+        "popInTitle": "global_backorder_info_popin_title"
+      },
+      "color": "ノワール",
+      "@context": "http://schema.org",
+      "identifier": "GI0116"
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "/api/catalog/jpn-jp/product/nvprod180041v"
+    },
+    "push": {
+      "href": "/api/catalog/jpn-jp/product-push/nvprod180041v"
+    },
+    "care-link": {
+      "href": "/api/catalog/jpn-jp/care-link/nvprod180041v"
+    },
+    "availability": {
+      "href": "/api/catalog/jpn-jp/availability/nvprod180041v"
+    }
+  },
+  "@type": "Product",
+  "sku": "GI0115",
+  "isSimilarTo": [],
+  "productTips": [],
+  "url": "/jpn-jp/products/notebook-gustave-mm-epi-nvprod180041v",
+  "material": "エピ",
+  "category": [
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/women/_/N-1q5sgib",
+      "alternateName": "women",
+      "name": "ウィメンズ",
+      "identifier": "femme"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/women/personalization/_/N-1oc1mga",
+      "alternateName": "personalization",
+      "name": "パーソナライゼーション",
+      "identifier": "w-category-catmom0000"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/women/personalisation/hotstamping/_/N-ddphie",
+      "alternateName": "hot-stamping",
+      "name": "イニシャルホットスタンピング",
+      "identifier": "nvcat120019v"
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "hidePrice",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "subType",
+      "value": "product"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "materialIconURL",
+      "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--AEL-LG-A00_Epi.jpg"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "hotStampable",
+      "value": true
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "sizeGuide",
+      "value": false
+    }
+  ],
+  "name": "ノートブック カイエ・ギュスターヴ MM",
+  "isRelatedTo": [],
+  "@context": "http://schema.org",
+  "identifier": "nvprod180041v"
+}

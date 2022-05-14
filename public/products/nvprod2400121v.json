@@ -1,0 +1,583 @@
+{
+  "model": [
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/N40365/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod2400121v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/N40365"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/N40365/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod2400121v/N40365/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "グレー",
+      "@type": "ProductModel",
+      "height": {
+        "@type": "QuantitativeValue",
+        "value": 40,
+        "unitText": "cm"
+      },
+      "name": "Josh",
+      "width": {
+        "@type": "QuantitativeValue",
+        "value": 13,
+        "unitText": "cm"
+      },
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 269500
+        },
+        "@type": "Offer",
+        "price": "¥269,500"
+      },
+      "disambiguatingDescription": "Clean lines and easy style distinguish the new Josh backpack, crafted from signature Damier canvas with refined cowhide leather trim. The compact and functional design suits active men lifestyles: Roomy yet lightweight, this pack keeps belongings organised, secure and easily accessible.",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-josh-ダミエ・グラフィット-bags--N40365_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-josh-ダミエ・グラフィット-bags--N40365_PM1_Worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Worn view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-josh-ダミエ・グラフィット-bags--N40365_PM1_Closeup view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Closeup view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-josh-ダミエ・グラフィット-bags--N40365_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-josh-ダミエ・グラフィット-bags--N40365_PM1_Interior view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Interior view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-josh-ダミエ・グラフィット-bags--N40365_PM1_Detail view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Detail view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-josh-ダミエ・グラフィット-bags--N40365_PM1_Ambiance view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Ambiance view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-josh-ダミエ・グラフィット-bags--N40365_PM1_Back view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Back view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/josh-nv-damier-graphite-nvprod2400121v",
+      "material": "ダミエ・グラフィット",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 32,
+        "unitText": "cm"
+      },
+      "highEndTemplate": false,
+      "productId": "nvprod2400121v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--AEL-LG-D05_damier_graphite.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>Damier coated canvas in Graphite</li><li>Cowhide leather trim</li><li>Textile lining</li><li>Silver colour metallic pieces</li><li>Adjustable textile shoulder strap</li><li>Inside iPad pocket</li><li>Inside double flat pocket</li><li>Handle: Single</li><li>The reference is either made in France, Spain, Italy or in the US.</li><li>ハンドル：シングル</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--AEL-LG-D05_damier_graphite.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z01"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-1cyoz77",
+          "alternateName": "men",
+          "name": "Men",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/bags/_/N-1t1tgex",
+          "alternateName": "bags",
+          "name": "Bags",
+          "identifier": "m-category-cat10001"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/bags/all-bags/_/N-hsz5ln",
+          "alternateName": "all-bags",
+          "name": "All Bags",
+          "identifier": "nvcat50001v"
+        }
+      ],
+      "disclaimers": {
+        "value": "pre_order_disclaimer",
+        "popInContent": "pre_order_disclaimer_info_popin_content",
+        "popInTitle": "pre_order_disclaimer_info_popin_title"
+      },
+      "color": "Graphite",
+      "@context": "http://schema.org",
+      "identifier": "N40365"
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "/api/catalog/jpn-jp/product/nvprod2400121v"
+    },
+    "related-world-tour": {
+      "href": "/api/catalog/jpn-jp/product/nvprod2260019v"
+    },
+    "push": {
+      "href": "/api/catalog/jpn-jp/product-push/nvprod2400121v"
+    },
+    "care-link": {
+      "href": "/api/catalog/jpn-jp/care-link/nvprod2400121v"
+    },
+    "availability": {
+      "href": "/api/catalog/jpn-jp/availability/nvprod2400121v"
+    }
+  },
+  "@type": "Product",
+  "sku": "N40365",
+  "isSimilarTo": [],
+  "productTips": [],
+  "url": "/jpn-jp/products/josh-nv-damier-graphite-nvprod2400121v",
+  "material": "ダミエ・グラフィット",
+  "category": [
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/_/N-1cyoz77",
+      "alternateName": "men",
+      "name": "Men",
+      "identifier": "homme"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/bags/_/N-1t1tgex",
+      "alternateName": "bags",
+      "name": "Bags",
+      "identifier": "m-category-cat10001"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/bags/all-bags/_/N-hsz5ln",
+      "alternateName": "all-bags",
+      "name": "All Bags",
+      "identifier": "nvcat50001v"
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "hidePrice",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "subType",
+      "value": "product"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "materialIconURL",
+      "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--AEL-LG-D05_damier_graphite.jpg"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "careLink",
+      "value": "MATAEL-LG-D05"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "sizeGuide",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "worldtourUrl",
+      "value": "/jpn-jp/products/josh-my-lv-world-tour-damier-graphite-nvprod2260019v"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "worldtourImage",
+      "value": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton--P01529_PM2_Front view.png?wid={IMG_WIDTH}&hei={IMG_HEIGHT}"
+    }
+  ],
+  "name": "Josh NV",
+  "isRelatedTo": [
+    {
+      "model": [
+        {
+          "productVisible": true,
+          "_links": {
+            "look": {
+              "href": "/api/catalog/jpn-jp/skus/M45349/look"
+            },
+            "parent": {
+              "href": "/api/catalog/jpn-jp/product/nvprod2270005v"
+            },
+            "self": {
+              "href": "/api/catalog/jpn-jp/product/M45349"
+            },
+            "perso-details": {
+              "href": "/api/catalog/jpn-jp/skus/M45349/perso-detail"
+            },
+            "/api/rels/jpn-jp/add-to-cart-base/nvprod2270005v/M45349/1": {
+              "name": "add-to-cart",
+              "href": "/api/cart/jpn-jp"
+            }
+          },
+          "macroColor": "マロン",
+          "@type": "ProductModel",
+          "height": {
+            "@type": "QuantitativeValue",
+            "value": 40,
+            "unitText": "cm"
+          },
+          "name": "Josh Backpack",
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": 13,
+            "unitText": "cm"
+          },
+          "offers": {
+            "priceSpecification": {
+              "priceCurrency": "JPY",
+              "price": 269500
+            },
+            "@type": "Offer",
+            "price": "¥269,500"
+          },
+          "disambiguatingDescription": "A lean, streamlined companion for active men. Refined detailing and sophisticated construction make the Josh backpack in Monogram Macassar a stylish choice. Roomy yet lightweight, this pack keeps belongings organised, secure and easily accessible.",
+          "image": [
+            {
+              "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-josh-backpack-モノグラム・マカサー-bags--M45349_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+              "@type": "ImageObject",
+              "name": "Front view",
+              "@context": "http://schema.org"
+            },
+            {
+              "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-josh-backpack-モノグラム・マカサー-bags--M45349_PM1_Worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+              "@type": "ImageObject",
+              "name": "Worn view",
+              "@context": "http://schema.org"
+            },
+            {
+              "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-josh-backpack-モノグラム・マカサー-bags--M45349_PM1_Closeup view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+              "@type": "ImageObject",
+              "name": "Closeup view",
+              "@context": "http://schema.org"
+            },
+            {
+              "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-josh-backpack-モノグラム・マカサー-bags--M45349_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+              "@type": "ImageObject",
+              "name": "Side view",
+              "@context": "http://schema.org"
+            },
+            {
+              "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-josh-backpack-モノグラム・マカサー-bags--M45349_PM1_Interior view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+              "@type": "ImageObject",
+              "name": "Interior view",
+              "@context": "http://schema.org"
+            },
+            {
+              "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-josh-backpack-モノグラム・マカサー-bags--M45349_PM1_Detail view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+              "@type": "ImageObject",
+              "name": "Detail view",
+              "@context": "http://schema.org"
+            },
+            {
+              "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-josh-backpack-モノグラム・マカサー-bags--M45349_PM1_Ambiance view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+              "@type": "ImageObject",
+              "name": "Ambiance view",
+              "@context": "http://schema.org"
+            },
+            {
+              "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-josh-backpack-モノグラム・マカサー-bags--M45349_PM1_Back view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+              "@type": "ImageObject",
+              "name": "Back view",
+              "@context": "http://schema.org"
+            }
+          ],
+          "url": "/jpn-jp/products/josh-monogram-macassar-nvprod2270005v",
+          "material": "モノグラム・マカサー",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": 32,
+            "unitText": "cm"
+          },
+          "highEndTemplate": false,
+          "productId": "nvprod2270005v",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "colorIconURL",
+              "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-ACC-977_monogram.jpg"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "detailedDescription",
+              "value": "<ul><li>Monogram Macassar coated canvas</li><li>Cowhide leather trim</li><li>Textile lining</li><li>Silver colour metallic pieces</li><li>Adjustable textile shoulder strap</li><li>Inside iPad pocket</li><li>Inside double flat pocket</li><li>Handle: Single</li><li>The reference is either made in France, Spain, Italy or in the US.</li><li>ハンドル：シングル</li></ul>"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "activateEngraving",
+              "value": false
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "sellable",
+              "value": false
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "cscSellable",
+              "value": true
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "mom",
+              "value": false
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "locateInStore",
+              "value": true
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "materialGroupCode",
+              "value": "Z01"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "filterCategories",
+              "value": "Leather_Goods_and_Accessories"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "backOrderDisclaimer",
+              "value": false
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "backOrderFullDeposit",
+              "value": true
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "tryOnEnabled",
+              "value": false
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "isBundle",
+              "value": false
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "360ViewEnabled",
+              "value": false
+            }
+          ],
+          "category": [
+            {
+              "@type": "Thing",
+              "url": "/jpn-jp/men/_/N-1cyoz77",
+              "alternateName": "men",
+              "name": "Men",
+              "identifier": "homme"
+            },
+            {
+              "@type": "Thing",
+              "url": "/jpn-jp/men/bags/_/N-1t1tgex",
+              "alternateName": "bags",
+              "name": "Bags",
+              "identifier": "m-category-cat10001"
+            },
+            {
+              "@type": "Thing",
+              "url": "/jpn-jp/men/bags/all-bags/_/N-hsz5ln",
+              "alternateName": "all-bags",
+              "name": "All Bags",
+              "identifier": "nvcat50001v"
+            }
+          ],
+          "disclaimers": {
+            "value": "pre_order_disclaimer",
+            "popInContent": "pre_order_disclaimer_info_popin_content",
+            "popInTitle": "pre_order_disclaimer_info_popin_title"
+          },
+          "color": "モノグラム",
+          "@context": "http://schema.org",
+          "identifier": "M45349"
+        }
+      ],
+      "_links": {
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/nvprod2270005v"
+        },
+        "push": {
+          "href": "/api/catalog/jpn-jp/product-push/nvprod2270005v"
+        },
+        "care-link": {
+          "href": "/api/catalog/jpn-jp/care-link/nvprod2270005v"
+        },
+        "availability": {
+          "href": "/api/catalog/jpn-jp/availability/nvprod2270005v"
+        }
+      },
+      "@type": "Product",
+      "sku": "M45349",
+      "productTips": [],
+      "url": "/jpn-jp/products/josh-monogram-macassar-nvprod2270005v",
+      "material": "モノグラム・マカサー",
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-1cyoz77",
+          "alternateName": "men",
+          "name": "Men",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/bags/_/N-1t1tgex",
+          "alternateName": "bags",
+          "name": "Bags",
+          "identifier": "m-category-cat10001"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/bags/all-bags/_/N-hsz5ln",
+          "alternateName": "all-bags",
+          "name": "All Bags",
+          "identifier": "nvcat50001v"
+        }
+      ],
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "hidePrice",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "subType",
+          "value": "product"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--AEL-LG-G08_monogram_macassar.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "careLink",
+          "value": "MATAEL-LG-G08"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sizeGuide",
+          "value": false
+        }
+      ],
+      "name": "Josh",
+      "@context": "http://schema.org",
+      "identifier": "nvprod2270005v"
+    }
+  ],
+  "@context": "http://schema.org",
+  "identifier": "nvprod2400121v"
+}

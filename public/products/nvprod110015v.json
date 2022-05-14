@@ -1,0 +1,220 @@
+{
+  "model": [
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/R08337/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod110015v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/R08337"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/R08337/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod110015v/R08337/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "@type": "ProductModel",
+      "name": "Peter Marino Art Architecture",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 12100
+        },
+        "@type": "Offer",
+        "price": "¥12,100"
+      },
+      "disambiguatingDescription": "This is the first book to chronicle architect Peter Marino's collaborations with renowned artists for luxury retail spaces. Each chapter is dedicated to a single collaboration, exploring the link between art and architecture.",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-peter-marino-art-architecture-books-and-writing--R08337_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-peter-marino-art-architecture-books-and-writing--R08337_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-peter-marino-art-architecture-books-and-writing--R08337_PM1_Interior view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Interior view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-peter-marino-art-architecture-books-and-writing--R08337_PM1_Other view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Other view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/peter-marino-art-architecture-nvprod110015v",
+      "highEndTemplate": false,
+      "productId": "nvprod110015v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<BR>- 30.5cm x 24cm<BR>- Signature black cover<BR>- Published by Phaidon"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Books;Writing"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/art-of-living/_/N-kmf9ty",
+          "alternateName": "art-of-living",
+          "name": "Art Of Living",
+          "identifier": "nvcat1840004v"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/art-of-living/books-and-writing/_/N-1vh9yje",
+          "alternateName": "books-and-writing",
+          "name": "Books and Writing",
+          "identifier": "nvcat1840009v"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/art-of-living/books-and-writing/hard-cover-books/_/N-4yn55u",
+          "alternateName": "hard-cover-books",
+          "name": "Hard Cover Books",
+          "identifier": "nvcat1840024v"
+        }
+      ],
+      "disclaimers": {
+        "value": "shipping_warning_bo",
+        "popInContent": "global_backorder_info_popin_content",
+        "popInTitle": "global_backorder_info_popin_title"
+      },
+      "@context": "http://schema.org",
+      "identifier": "R08337"
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "/api/catalog/jpn-jp/product/nvprod110015v"
+    },
+    "push": {
+      "href": "/api/catalog/jpn-jp/product-push/nvprod110015v"
+    },
+    "care-link": {
+      "href": "/api/catalog/jpn-jp/care-link/nvprod110015v"
+    },
+    "availability": {
+      "href": "/api/catalog/jpn-jp/availability/nvprod110015v"
+    }
+  },
+  "@type": "Product",
+  "sku": "R08337",
+  "isSimilarTo": [],
+  "productTips": [],
+  "url": "/jpn-jp/products/peter-marino-art-architecture-nvprod110015v",
+  "category": [
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/art-of-living/_/N-kmf9ty",
+      "alternateName": "art-of-living",
+      "name": "Art Of Living",
+      "identifier": "nvcat1840004v"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/art-of-living/books-and-writing/_/N-1vh9yje",
+      "alternateName": "books-and-writing",
+      "name": "Books and Writing",
+      "identifier": "nvcat1840009v"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/art-of-living/books-and-writing/hard-cover-books/_/N-4yn55u",
+      "alternateName": "hard-cover-books",
+      "name": "Hard Cover Books",
+      "identifier": "nvcat1840024v"
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "hidePrice",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "subType",
+      "value": "product"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "sizeGuide",
+      "value": false
+    }
+  ],
+  "name": "Peter Marino Art Architecture",
+  "isRelatedTo": [],
+  "@context": "http://schema.org",
+  "identifier": "nvprod110015v"
+}

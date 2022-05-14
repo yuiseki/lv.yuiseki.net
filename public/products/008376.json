@@ -1,0 +1,222 @@
+{
+  "model": [
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/M75294/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/008376"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/M75294"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/M75294/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/008376/M75294/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ブラック",
+      "@type": "ProductModel",
+      "name": "クラヴァット・モノグラム",
+      "mainMaterial2": "SILK",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 49500
+        },
+        "@type": "Offer",
+        "price": "¥49,500"
+      },
+      "disambiguatingDescription": "24Kの金糸で織り込まれた象徴的なモノグラム・パターンがワンランク上の印象を与えます。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-クラヴァット・モノグラム-s00-ネクタイ、ポケットチーフ--M75294_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/monogram-gold-tie-s00-008376",
+      "material": "SILK",
+      "highEndTemplate": false,
+      "productId": "008376",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-ACC-980_black.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>素材：シルク97％、メタル3％</li><li>24K金糸</li><li>ジャカード織りのモノグラム・パターンにトーン・オン・トーンで施されたLVロゴ<BR></li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "hotstampable",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories;Sunglasses"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-1cyoz77",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/accessories/_/N-1d0iakb",
+          "alternateName": "accessories",
+          "name": "アクセサリー",
+          "identifier": "m-category-cat10052"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/accessories/ties-and-pocket-squares/_/N-cg9lew",
+          "alternateName": "ties-and-pocket-squares",
+          "name": "ネクタイ、ポケットチーフ",
+          "identifier": "nvcat1170023v"
+        }
+      ],
+      "disclaimers": {
+        "value": "pre_order_disclaimer",
+        "popInContent": "pre_order_disclaimer_info_popin_content",
+        "popInTitle": "pre_order_disclaimer_info_popin_title"
+      },
+      "color": "ノワール",
+      "@context": "http://schema.org",
+      "identifier": "M75294"
+    }
+  ],
+  "disambiguatingDescription": "24Kの金糸で織り込まれた象徴的なモノグラム・パターンがワンランク上の印象を与えます。",
+  "_links": {
+    "self": {
+      "href": "/api/catalog/jpn-jp/product/008376"
+    },
+    "push": {
+      "href": "/api/catalog/jpn-jp/product-push/008376"
+    },
+    "care-link": {
+      "href": "/api/catalog/jpn-jp/care-link/008376"
+    },
+    "availability": {
+      "href": "/api/catalog/jpn-jp/availability/008376"
+    }
+  },
+  "@type": "Product",
+  "sku": "M75294",
+  "isSimilarTo": [],
+  "productTips": [],
+  "url": "/jpn-jp/products/monogram-gold-tie-s00-008376",
+  "material": "NOT APPLICABLE ACC",
+  "category": [
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/_/N-1cyoz77",
+      "alternateName": "men",
+      "name": "メンズ",
+      "identifier": "homme"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/accessories/_/N-1d0iakb",
+      "alternateName": "accessories",
+      "name": "アクセサリー",
+      "identifier": "m-category-cat10052"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/accessories/ties-and-pocket-squares/_/N-cg9lew",
+      "alternateName": "ties-and-pocket-squares",
+      "name": "ネクタイ、ポケットチーフ",
+      "identifier": "nvcat1170023v"
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "hidePrice",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "subType",
+      "value": "product"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "hotStampable",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "sizeGuide",
+      "value": false
+    }
+  ],
+  "name": "クラヴァット・モノグラム",
+  "isRelatedTo": [],
+  "@context": "http://schema.org",
+  "identifier": "008376"
+}

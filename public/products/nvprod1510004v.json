@@ -1,0 +1,402 @@
+{
+  "model": [
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/1A5CTZ/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod1510004v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/1A5CTZ"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/1A5CTZ/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod1510004v/1A5CTZ/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ブラック",
+      "@type": "ProductModel",
+      "name": "3Dポケットフィールドブルゾン",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 387200
+        },
+        "@type": "Offer",
+        "price": "¥387,200"
+      },
+      "disambiguatingDescription": "クラシカルなアウトドア･スタイルにひねりを加えたブルゾン。コットン100%の素材をレギュラーフィットに仕立て、今シーズンならではの立体的なポケットを胸元に添えました。ヌメ革で飾ったファスナー付きの胸ポケット、シグネチャーのステープルをあしらったヌメ革のレザータブ、歪んだ形のメタルパーツが特徴です。取外し可能な「Louis Vuitton Staples Edition」のラベルは、ブラックのスナップフックで留めました。<p>ご不明な点がございましたら、クライアントサービスまでお気軽にお問合せください。専任のクライアントアドバイザーが、素材やサイズなどの製品詳細、モデル着用イメージや関連アイテムのご案内など、お客様のご要望に合わせたスタイリング・アドバイスをご提供いたします。</p><p>また、サイズ違いなどによる返品・交換のご相談も承ります。詳細は<a href='https://jp.louisvuitton.com/jpn-jp/legal-privacy'><b>こちら。</b></a></p>",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-3dポケットフィールドブルゾン-プレタポルテ（洋服）--HHB59WOWA900_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-3dポケットフィールドブルゾン-プレタポルテ（洋服）--HHB59WOWA900_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-3dポケットフィールドブルゾン-プレタポルテ（洋服）--HHB59WOWA900_PM1_Back view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Back view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-3dポケットフィールドブルゾン-プレタポルテ（洋服）--HHB59WOWA900_PM1_Other view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Other view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/3d-pocket-field-blouson-nvprod1510004v",
+      "highEndTemplate": false,
+      "sizeDisplayName": "50",
+      "productId": "nvprod1510004v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-SHO-980_noir.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>表地：コットン 100%</li><li>裏地：キュプラ 86%、コットン 14%</li><li>レギュラーフィット</li><li>サイズ48：着丈 76cm、ウエスト 129cm、裄丈 91cm 製品により多少の誤差が生じる場合がございますので、あらかじめご了承ください。</li><li>イタリア製</li><li>REF：HHB59WOWA</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z05"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Ready_To_Wear_Men"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-1cyoz77",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/ready-to-wear/_/N-1lpb5id",
+          "alternateName": "ready-to-wear",
+          "name": "プレタポルテ（洋服）",
+          "identifier": "m-readytowear"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/ready-to-wear/all-ready-to-wear/_/N-dphk1r",
+          "alternateName": "all-ready-to-wear",
+          "name": "すべてのメンズプレタポルテ（洋服）",
+          "identifier": "nvcat910171v"
+        }
+      ],
+      "disclaimers": {
+        "value": "shipping_warning_bo",
+        "popInContent": "global_backorder_info_popin_content",
+        "popInTitle": "global_backorder_info_popin_title"
+      },
+      "color": "ノワール",
+      "@context": "http://schema.org",
+      "identifier": "1A5CTZ"
+    },
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/1A5CU0/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod1510004v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/1A5CU0"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/1A5CU0/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod1510004v/1A5CU0/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ブラック",
+      "@type": "ProductModel",
+      "name": "3Dポケットフィールドブルゾン",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 387200
+        },
+        "@type": "Offer",
+        "price": "¥387,200"
+      },
+      "disambiguatingDescription": "クラシカルなアウトドア･スタイルにひねりを加えたブルゾン。コットン100%の素材をレギュラーフィットに仕立て、今シーズンならではの立体的なポケットを胸元に添えました。ヌメ革で飾ったファスナー付きの胸ポケット、シグネチャーのステープルをあしらったヌメ革のレザータブ、歪んだ形のメタルパーツが特徴です。取外し可能な「Louis Vuitton Staples Edition」のラベルは、ブラックのスナップフックで留めました。<p>ご不明な点がございましたら、クライアントサービスまでお気軽にお問合せください。専任のクライアントアドバイザーが、素材やサイズなどの製品詳細、モデル着用イメージや関連アイテムのご案内など、お客様のご要望に合わせたスタイリング・アドバイスをご提供いたします。</p><p>また、サイズ違いなどによる返品・交換のご相談も承ります。詳細は<a href='https://jp.louisvuitton.com/jpn-jp/legal-privacy'><b>こちら。</b></a></p>",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-3dポケットフィールドブルゾン-プレタポルテ（洋服）--HHB59WOWA900_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-3dポケットフィールドブルゾン-プレタポルテ（洋服）--HHB59WOWA900_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-3dポケットフィールドブルゾン-プレタポルテ（洋服）--HHB59WOWA900_PM1_Back view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Back view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-3dポケットフィールドブルゾン-プレタポルテ（洋服）--HHB59WOWA900_PM1_Other view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Other view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/3d-pocket-field-blouson-nvprod1510004v",
+      "highEndTemplate": false,
+      "sizeDisplayName": "52",
+      "productId": "nvprod1510004v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-SHO-980_noir.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>表地：コットン 100%</li><li>裏地：キュプラ 86%、コットン 14%</li><li>レギュラーフィット</li><li>サイズ48：着丈 76cm、ウエスト 129cm、裄丈 91cm 製品により多少の誤差が生じる場合がございますので、あらかじめご了承ください。</li><li>イタリア製</li><li>REF：HHB59WOWA</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z05"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Ready_To_Wear_Men"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-1cyoz77",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/ready-to-wear/_/N-1lpb5id",
+          "alternateName": "ready-to-wear",
+          "name": "プレタポルテ（洋服）",
+          "identifier": "m-readytowear"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/ready-to-wear/all-ready-to-wear/_/N-dphk1r",
+          "alternateName": "all-ready-to-wear",
+          "name": "すべてのメンズプレタポルテ（洋服）",
+          "identifier": "nvcat910171v"
+        }
+      ],
+      "disclaimers": {
+        "value": "shipping_warning_bo",
+        "popInContent": "global_backorder_info_popin_content",
+        "popInTitle": "global_backorder_info_popin_title"
+      },
+      "color": "ノワール",
+      "@context": "http://schema.org",
+      "identifier": "1A5CU0"
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "/api/catalog/jpn-jp/product/nvprod1510004v"
+    },
+    "push": {
+      "href": "/api/catalog/jpn-jp/product-push/nvprod1510004v"
+    },
+    "care-link": {
+      "href": "/api/catalog/jpn-jp/care-link/nvprod1510004v"
+    },
+    "size-guide": {
+      "href": "/api/catalog/jpn-jp/size-guide/nvprod1510004v"
+    },
+    "availability": {
+      "href": "/api/catalog/jpn-jp/availability/nvprod1510004v"
+    }
+  },
+  "@type": "Product",
+  "sku": "1A5CTZ",
+  "isSimilarTo": [],
+  "productTips": [],
+  "url": "/jpn-jp/products/3d-pocket-field-blouson-nvprod1510004v",
+  "category": [
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/_/N-1cyoz77",
+      "alternateName": "men",
+      "name": "メンズ",
+      "identifier": "homme"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/ready-to-wear/_/N-1lpb5id",
+      "alternateName": "ready-to-wear",
+      "name": "プレタポルテ（洋服）",
+      "identifier": "m-readytowear"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/ready-to-wear/all-ready-to-wear/_/N-dphk1r",
+      "alternateName": "all-ready-to-wear",
+      "name": "すべてのメンズプレタポルテ（洋服）",
+      "identifier": "nvcat910171v"
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "hidePrice",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "subType",
+      "value": "product"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "sizeGuide",
+      "value": true
+    }
+  ],
+  "name": "3Dポケットフィールドブルゾン",
+  "isRelatedTo": [],
+  "@context": "http://schema.org",
+  "identifier": "nvprod1510004v"
+}

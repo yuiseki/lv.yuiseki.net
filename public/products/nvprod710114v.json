@@ -1,0 +1,218 @@
+{
+  "model": [
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/M64855/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod710114v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/M64855"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/M64855/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod710114v/M64855/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ゴールド",
+      "@type": "ProductModel",
+      "name": "Blooming Supple Necklace",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 69300
+        },
+        "@type": "Offer",
+        "price": "¥69,300"
+      },
+      "disambiguatingDescription": "Blooming reinterprets the Maison's iconic LV Circle and Monogram Flower signatures as dangling charms. A perfect gift, this very feminine necklace is ideal to mix-and-match with other pieces from the collection.",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-blooming-supple-necklace-s00-fashion-jewelry--M64855_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-blooming-supple-necklace-s00-fashion-jewelry--M64855_PM1_Worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Worn view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-blooming-supple-necklace-s00-fashion-jewelry--M64855_PM1_Interior view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Interior view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/blooming-supple-necklace-s00-nvprod710114v",
+      "material": "METAL",
+      "highEndTemplate": false,
+      "productId": "nvprod710114v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-ACC-948_gold.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<BR>- Brass (golden finishing)<BR>- Monogram flowers and LV circle as part of the design<BR>- LV circle on the chains and ending the clasps<BR>- “Louis Vuitton” signatures engraved"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/_/N-1q5sgib",
+          "alternateName": "women",
+          "name": "Women",
+          "identifier": "femme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/accessories/_/N-1oyzg8c",
+          "alternateName": "accessories",
+          "name": "Accessories",
+          "identifier": "w-category-cat10155"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/accessories/fashion-jewellery/_/N-vw4qu0",
+          "alternateName": "fashion-jewelry",
+          "name": "Fashion Jewelry",
+          "identifier": "w-category-cat1410426"
+        }
+      ],
+      "disclaimers": {
+        "value": "pre_order_disclaimer",
+        "popInContent": "pre_order_disclaimer_info_popin_content",
+        "popInTitle": "pre_order_disclaimer_info_popin_title"
+      },
+      "color": "ゴールド",
+      "@context": "http://schema.org",
+      "identifier": "M64855"
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "/api/catalog/jpn-jp/product/nvprod710114v"
+    },
+    "push": {
+      "href": "/api/catalog/jpn-jp/product-push/nvprod710114v"
+    },
+    "care-link": {
+      "href": "/api/catalog/jpn-jp/care-link/nvprod710114v"
+    },
+    "availability": {
+      "href": "/api/catalog/jpn-jp/availability/nvprod710114v"
+    }
+  },
+  "@type": "Product",
+  "sku": "M64855",
+  "isSimilarTo": [],
+  "productTips": [],
+  "url": "/jpn-jp/products/blooming-supple-necklace-s00-nvprod710114v",
+  "material": "NOT APPLICABLE ACC",
+  "category": [
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/women/_/N-1q5sgib",
+      "alternateName": "women",
+      "name": "Women",
+      "identifier": "femme"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/women/accessories/_/N-1oyzg8c",
+      "alternateName": "accessories",
+      "name": "Accessories",
+      "identifier": "w-category-cat10155"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/women/accessories/fashion-jewellery/_/N-vw4qu0",
+      "alternateName": "fashion-jewelry",
+      "name": "Fashion Jewelry",
+      "identifier": "w-category-cat1410426"
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "hidePrice",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "subType",
+      "value": "product"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "sizeGuide",
+      "value": false
+    }
+  ],
+  "name": "Blooming Supple Necklace",
+  "isRelatedTo": [],
+  "@context": "http://schema.org",
+  "identifier": "nvprod710114v"
+}

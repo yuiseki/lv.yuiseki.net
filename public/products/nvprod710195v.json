@@ -1,0 +1,774 @@
+{
+  "model": [
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/M0003N/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod710195v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/M0003N"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/M0003N/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod710195v/M0003N/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ホワイト",
+      "@type": "ProductModel",
+      "name": "サンチュール・リヴェルソ 40MM ",
+      "mainMaterial2": "COATED CANVAS",
+      "width": {
+        "@type": "QuantitativeValue",
+        "value": 4,
+        "unitText": "cm"
+      },
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 72600
+        },
+        "@type": "Offer",
+        "price": "¥72,600"
+      },
+      "disambiguatingDescription": "「リヴェルソ」のバックルを再解釈し、ホワイトのモノグラム･キャンバスで仕上げた「サンチュール･リヴェルソ 40MM」。強い存在感を放つステートメントアイテムです。夏らしいホワイトとカジュアルなネイビーの2色で、リバーシブルでお使いいただけます。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-サンチュール・リヴェルソ-40mm-その他キャンバス-メンズ-ベルト--M0003N_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-サンチュール・リヴェルソ-40mm-その他キャンバス-メンズ-ベルト--M0003N_PM1_Other view 1.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Other view 1",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-サンチュール・リヴェルソ-40mm-その他キャンバス-メンズ-ベルト--M0003N_PM1_Other view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Other view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/reverso-40mm-reversible-nvprod710195v",
+      "material": "AUTRES TOILES",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 120,
+        "unitText": "cm"
+      },
+      "highEndTemplate": false,
+      "sizeDisplayName": "120 CM",
+      "productId": "nvprod710195v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-ACC-907_blanc.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>幅：40 mm</li><li>素材：モノグラム･キャンバス、カーフレザー（皮革の種類：牛革）</li><li>金具（色：シルバー）</li><li>バックルのサイドにLVシグネチャーの刻印</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories;Sunglasses"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-1cyoz77",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/accessories/_/N-1d0iakb",
+          "alternateName": "accessories",
+          "name": "アクセサリー",
+          "identifier": "m-category-cat10052"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/accessories/belts/_/N-1bp0rlo",
+          "alternateName": "belts",
+          "name": "メンズ ベルト",
+          "identifier": "m-category-cat1410153"
+        }
+      ],
+      "disclaimers": {
+        "value": "shipping_warning_bo",
+        "popInContent": "global_backorder_info_popin_content",
+        "popInTitle": "global_backorder_info_popin_title"
+      },
+      "color": "ブロン",
+      "@context": "http://schema.org",
+      "identifier": "M0003N"
+    },
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/M0003Q/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod710195v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/M0003Q"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/M0003Q/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod710195v/M0003Q/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ホワイト",
+      "@type": "ProductModel",
+      "name": "サンチュール・リヴェルソ 40MM ",
+      "mainMaterial2": "COATED CANVAS",
+      "width": {
+        "@type": "QuantitativeValue",
+        "value": 4,
+        "unitText": "cm"
+      },
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 72600
+        },
+        "@type": "Offer",
+        "price": "¥72,600"
+      },
+      "disambiguatingDescription": "「リヴェルソ」のバックルを再解釈し、ホワイトのモノグラム･キャンバスで仕上げた「サンチュール･リヴェルソ 40MM」。強い存在感を放つステートメントアイテムです。夏らしいホワイトとカジュアルなネイビーの2色で、リバーシブルでお使いいただけます。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-サンチュール・リヴェルソ-40mm-その他キャンバス-メンズ-ベルト--M0003Q_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-サンチュール・リヴェルソ-40mm-その他キャンバス-メンズ-ベルト--M0003Q_PM1_Worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Worn view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-サンチュール・リヴェルソ-40mm-その他キャンバス-メンズ-ベルト--M0003Q_PM1_Other view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Other view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-サンチュール・リヴェルソ-40mm-その他キャンバス-メンズ-ベルト--M0003Q_PM1_Other view 1.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Other view 1",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-サンチュール・リヴェルソ-40mm-その他キャンバス-メンズ-ベルト--M0003Q_PM1_Other view4.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Other view4",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/reverso-40mm-reversible-nvprod710195v",
+      "material": "AUTRES TOILES",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 110,
+        "unitText": "cm"
+      },
+      "highEndTemplate": false,
+      "sizeDisplayName": "110 CM",
+      "productId": "nvprod710195v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-ACC-907_blanc.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>幅：40 mm</li><li>素材：モノグラム･キャンバス、カーフレザー（皮革の種類：牛革）</li><li>金具（色：シルバー）</li><li>バックルのサイドにLVシグネチャーの刻印</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories;Sunglasses"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-1cyoz77",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/accessories/_/N-1d0iakb",
+          "alternateName": "accessories",
+          "name": "アクセサリー",
+          "identifier": "m-category-cat10052"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/accessories/belts/_/N-1bp0rlo",
+          "alternateName": "belts",
+          "name": "メンズ ベルト",
+          "identifier": "m-category-cat1410153"
+        }
+      ],
+      "disclaimers": {
+        "value": "shipping_warning_bo",
+        "popInContent": "global_backorder_info_popin_content",
+        "popInTitle": "global_backorder_info_popin_title"
+      },
+      "color": "ブロン",
+      "@context": "http://schema.org",
+      "identifier": "M0003Q"
+    },
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/M0003T/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod710195v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/M0003T"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/M0003T/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod710195v/M0003T/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ホワイト",
+      "@type": "ProductModel",
+      "name": "サンチュール・リヴェルソ 40MM ",
+      "mainMaterial2": "COATED CANVAS",
+      "width": {
+        "@type": "QuantitativeValue",
+        "value": 4,
+        "unitText": "cm"
+      },
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 72600
+        },
+        "@type": "Offer",
+        "price": "¥72,600"
+      },
+      "disambiguatingDescription": "「リヴェルソ」のバックルを再解釈し、ホワイトのモノグラム･キャンバスで仕上げた「サンチュール･リヴェルソ 40MM」。強い存在感を放つステートメントアイテムです。夏らしいホワイトとカジュアルなネイビーの2色で、リバーシブルでお使いいただけます。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-サンチュール・リヴェルソ-40mm-その他キャンバス-メンズ-ベルト--M0003T_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-サンチュール・リヴェルソ-40mm-その他キャンバス-メンズ-ベルト--M0003T_PM1_Worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Worn view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-サンチュール・リヴェルソ-40mm-その他キャンバス-メンズ-ベルト--M0003T_PM1_Other view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Other view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-サンチュール・リヴェルソ-40mm-その他キャンバス-メンズ-ベルト--M0003T_PM1_Other view4.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Other view4",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/reverso-40mm-reversible-nvprod710195v",
+      "material": "AUTRES TOILES",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 95,
+        "unitText": "cm"
+      },
+      "highEndTemplate": false,
+      "sizeDisplayName": "95 CM",
+      "productId": "nvprod710195v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-ACC-907_blanc.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>幅：40 mm</li><li>素材：モノグラム･キャンバス、カーフレザー（皮革の種類：牛革）</li><li>金具（色：シルバー）</li><li>バックルのサイドにLVシグネチャーの刻印</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories;Sunglasses"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-1cyoz77",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/accessories/_/N-1d0iakb",
+          "alternateName": "accessories",
+          "name": "アクセサリー",
+          "identifier": "m-category-cat10052"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/accessories/belts/_/N-1bp0rlo",
+          "alternateName": "belts",
+          "name": "メンズ ベルト",
+          "identifier": "m-category-cat1410153"
+        }
+      ],
+      "disclaimers": {
+        "value": "shipping_warning_bo",
+        "popInContent": "global_backorder_info_popin_content",
+        "popInTitle": "global_backorder_info_popin_title"
+      },
+      "color": "ブロン",
+      "@context": "http://schema.org",
+      "identifier": "M0003T"
+    },
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/M0003U/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod710195v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/M0003U"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/M0003U/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod710195v/M0003U/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ホワイト",
+      "@type": "ProductModel",
+      "name": "サンチュール・リヴェルソ 40MM ",
+      "mainMaterial2": "COATED CANVAS",
+      "width": {
+        "@type": "QuantitativeValue",
+        "value": 4,
+        "unitText": "cm"
+      },
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 72600
+        },
+        "@type": "Offer",
+        "price": "¥72,600"
+      },
+      "disambiguatingDescription": "「リヴェルソ」のバックルを再解釈し、ホワイトのモノグラム･キャンバスで仕上げた「サンチュール･リヴェルソ 40MM」。強い存在感を放つステートメントアイテムです。夏らしいホワイトとカジュアルなネイビーの2色で、リバーシブルでお使いいただけます。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-サンチュール・リヴェルソ-40mm-その他キャンバス-メンズ-ベルト--M0003U_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-サンチュール・リヴェルソ-40mm-その他キャンバス-メンズ-ベルト--M0003U_PM1_Worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Worn view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-サンチュール・リヴェルソ-40mm-その他キャンバス-メンズ-ベルト--M0003U_PM1_Other view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Other view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-サンチュール・リヴェルソ-40mm-その他キャンバス-メンズ-ベルト--M0003U_PM1_Other view 1.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Other view 1",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-サンチュール・リヴェルソ-40mm-その他キャンバス-メンズ-ベルト--M0003U_PM1_Other view4.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Other view4",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/reverso-40mm-reversible-nvprod710195v",
+      "material": "AUTRES TOILES",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 90,
+        "unitText": "cm"
+      },
+      "highEndTemplate": false,
+      "sizeDisplayName": "90 CM",
+      "productId": "nvprod710195v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-ACC-907_blanc.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>幅：40 mm</li><li>素材：モノグラム･キャンバス、カーフレザー（皮革の種類：牛革）</li><li>金具（色：シルバー）</li><li>バックルのサイドにLVシグネチャーの刻印</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories;Sunglasses"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-1cyoz77",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/accessories/_/N-1d0iakb",
+          "alternateName": "accessories",
+          "name": "アクセサリー",
+          "identifier": "m-category-cat10052"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/accessories/belts/_/N-1bp0rlo",
+          "alternateName": "belts",
+          "name": "メンズ ベルト",
+          "identifier": "m-category-cat1410153"
+        }
+      ],
+      "disclaimers": {
+        "value": "shipping_warning_bo",
+        "popInContent": "global_backorder_info_popin_content",
+        "popInTitle": "global_backorder_info_popin_title"
+      },
+      "color": "ブロン",
+      "@context": "http://schema.org",
+      "identifier": "M0003U"
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "/api/catalog/jpn-jp/product/nvprod710195v"
+    },
+    "push": {
+      "href": "/api/catalog/jpn-jp/product-push/nvprod710195v"
+    },
+    "care-link": {
+      "href": "/api/catalog/jpn-jp/care-link/nvprod710195v"
+    },
+    "size-guide": {
+      "href": "/api/catalog/jpn-jp/size-guide/nvprod710195v"
+    },
+    "availability": {
+      "href": "/api/catalog/jpn-jp/availability/nvprod710195v"
+    }
+  },
+  "@type": "Product",
+  "sku": "M0003U",
+  "isSimilarTo": [],
+  "productTips": [],
+  "url": "/jpn-jp/products/reverso-40mm-reversible-nvprod710195v",
+  "material": "その他キャンバス",
+  "category": [
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/_/N-1cyoz77",
+      "alternateName": "men",
+      "name": "メンズ",
+      "identifier": "homme"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/accessories/_/N-1d0iakb",
+      "alternateName": "accessories",
+      "name": "アクセサリー",
+      "identifier": "m-category-cat10052"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/accessories/belts/_/N-1bp0rlo",
+      "alternateName": "belts",
+      "name": "メンズ ベルト",
+      "identifier": "m-category-cat1410153"
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "hidePrice",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "subType",
+      "value": "product"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "materialIconURL",
+      "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--AEL-LG-G19_autres_toiles_monogram.jpg"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "sizeGuide",
+      "value": true
+    }
+  ],
+  "name": "サンチュール・リヴェルソ 40MM ",
+  "isRelatedTo": [],
+  "@context": "http://schema.org",
+  "identifier": "nvprod710195v"
+}

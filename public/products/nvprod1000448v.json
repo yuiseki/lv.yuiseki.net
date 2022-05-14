@@ -1,0 +1,622 @@
+{
+  "model": [
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/M0078W/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod1000448v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/M0078W"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/M0078W/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod1000448v/M0078W/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ブラック",
+      "@type": "ProductModel",
+      "name": "サンチュール・LV ニュー ウェーブ 35MM ",
+      "mainMaterial2": "CALF",
+      "width": {
+        "@type": "QuantitativeValue",
+        "value": 35,
+        "unitText": "cm"
+      },
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 90200
+        },
+        "@type": "Offer",
+        "price": "¥90,200"
+      },
+      "disambiguatingDescription": "ルイ･ヴィトンのシグネチャーをモダンに再解釈した「サンチュール･LV ニュー ウェーブ 35MM」。浮き出したレリーフ風の遊び心あるテクスチャーに仕上げ、ゴールドカラーのメタルのバックルをあしらいました。メゾンを象徴するクラフツマンシップの伝統と熟練の技を体現したベルトです。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-サンチュール・lv-ニュー-ウェーブ-35mm-その他レザー-ベルト--M0078W_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-サンチュール・lv-ニュー-ウェーブ-35mm-その他レザー-ベルト--M0078W_PM1_Worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Worn view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-サンチュール・lv-ニュー-ウェーブ-35mm-その他レザー-ベルト--M0078W_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-サンチュール・lv-ニュー-ウェーブ-35mm-その他レザー-ベルト--M0078W_PM1_Other view2.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Other view2",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-サンチュール・lv-ニュー-ウェーブ-35mm-その他レザー-ベルト--M0078W_PM1_Other view3.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Other view3",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/lv-new-wave-35mm-belt-other-leathers-nvprod1000448v",
+      "material": "CALF",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 80,
+        "unitText": "cm"
+      },
+      "highEndTemplate": false,
+      "sizeDisplayName": "80 CM",
+      "productId": "nvprod1000448v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-ACC-980_black.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>幅：35mm</li><li>素材：デボス加工を施したプリント・カーフレザー（皮革の種類：牛革）、カーフレザー（皮革の種類：牛革）</li><li>LVバックル金具（色：ゴールド）</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories;Sunglasses"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/_/N-1q5sgib",
+          "alternateName": "women",
+          "name": "ウィメンズ",
+          "identifier": "femme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/accessories/_/N-1oyzg8c",
+          "alternateName": "accessories",
+          "name": "アクセサリー",
+          "identifier": "w-category-cat10155"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/accessories/belts/_/N-1iz2cb5",
+          "alternateName": "belts",
+          "name": "ベルト",
+          "identifier": "w-category-cat1410417"
+        }
+      ],
+      "disclaimers": {
+        "value": "shipping_warning_bo",
+        "popInContent": "global_backorder_info_popin_content",
+        "popInTitle": "global_backorder_info_popin_title"
+      },
+      "color": "ノワール",
+      "@context": "http://schema.org",
+      "identifier": "M0078W"
+    },
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/M0078V/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod1000448v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/M0078V"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/M0078V/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod1000448v/M0078V/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ブラック",
+      "@type": "ProductModel",
+      "name": "サンチュール・LV ニュー ウェーブ 35MM ",
+      "mainMaterial2": "CALF",
+      "width": {
+        "@type": "QuantitativeValue",
+        "value": 35,
+        "unitText": "cm"
+      },
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 90200
+        },
+        "@type": "Offer",
+        "price": "¥90,200"
+      },
+      "disambiguatingDescription": "ルイ･ヴィトンのシグネチャーをモダンに再解釈した「サンチュール･LV ニュー ウェーブ 35MM」。浮き出したレリーフ風の遊び心あるテクスチャーに仕上げ、ゴールドカラーのメタルのバックルをあしらいました。メゾンを象徴するクラフツマンシップの伝統と熟練の技を体現したベルトです。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-サンチュール・lv-ニュー-ウェーブ-35mm-その他レザー-ベルト--M0078V_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-サンチュール・lv-ニュー-ウェーブ-35mm-その他レザー-ベルト--M0078V_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-サンチュール・lv-ニュー-ウェーブ-35mm-その他レザー-ベルト--M0078V_PM1_Other view2.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Other view2",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-サンチュール・lv-ニュー-ウェーブ-35mm-その他レザー-ベルト--M0078V_PM1_Other view3.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Other view3",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/lv-new-wave-35mm-belt-other-leathers-nvprod1000448v",
+      "material": "CALF",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 85,
+        "unitText": "cm"
+      },
+      "highEndTemplate": false,
+      "sizeDisplayName": "85 CM",
+      "productId": "nvprod1000448v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-ACC-980_black.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>幅：35mm</li><li>素材：デボス加工を施したプリント・カーフレザー（皮革の種類：牛革）、カーフレザー（皮革の種類：牛革）</li><li>LVバックル金具（色：ゴールド）</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories;Sunglasses"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/_/N-1q5sgib",
+          "alternateName": "women",
+          "name": "ウィメンズ",
+          "identifier": "femme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/accessories/_/N-1oyzg8c",
+          "alternateName": "accessories",
+          "name": "アクセサリー",
+          "identifier": "w-category-cat10155"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/accessories/belts/_/N-1iz2cb5",
+          "alternateName": "belts",
+          "name": "ベルト",
+          "identifier": "w-category-cat1410417"
+        }
+      ],
+      "disclaimers": {
+        "value": "shipping_warning_bo",
+        "popInContent": "global_backorder_info_popin_content",
+        "popInTitle": "global_backorder_info_popin_title"
+      },
+      "color": "ノワール",
+      "@context": "http://schema.org",
+      "identifier": "M0078V"
+    },
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/M0078U/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod1000448v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/M0078U"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/M0078U/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod1000448v/M0078U/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ブラック",
+      "@type": "ProductModel",
+      "name": "サンチュール・LV ニュー ウェーブ 35MM ",
+      "mainMaterial2": "CALF",
+      "width": {
+        "@type": "QuantitativeValue",
+        "value": 35,
+        "unitText": "cm"
+      },
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 90200
+        },
+        "@type": "Offer",
+        "price": "¥90,200"
+      },
+      "disambiguatingDescription": "ルイ･ヴィトンのシグネチャーをモダンに再解釈した「サンチュール･LV ニュー ウェーブ 35MM」。浮き出したレリーフ風の遊び心あるテクスチャーに仕上げ、ゴールドカラーのメタルのバックルをあしらいました。メゾンを象徴するクラフツマンシップの伝統と熟練の技を体現したベルトです。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-サンチュール・lv-ニュー-ウェーブ-35mm-その他レザー-ベルト--M0078U_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-サンチュール・lv-ニュー-ウェーブ-35mm-その他レザー-ベルト--M0078U_PM1_Worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Worn view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-サンチュール・lv-ニュー-ウェーブ-35mm-その他レザー-ベルト--M0078U_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-サンチュール・lv-ニュー-ウェーブ-35mm-その他レザー-ベルト--M0078U_PM1_Other view2.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Other view2",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-サンチュール・lv-ニュー-ウェーブ-35mm-その他レザー-ベルト--M0078U_PM1_Other view3.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Other view3",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/lv-new-wave-35mm-belt-other-leathers-nvprod1000448v",
+      "material": "CALF",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 90,
+        "unitText": "cm"
+      },
+      "highEndTemplate": false,
+      "sizeDisplayName": "90 CM",
+      "productId": "nvprod1000448v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-ACC-980_black.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>幅：35mm</li><li>素材：デボス加工を施したプリント・カーフレザー（皮革の種類：牛革）、カーフレザー（皮革の種類：牛革）</li><li>LVバックル金具（色：ゴールド）</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories;Sunglasses"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/_/N-1q5sgib",
+          "alternateName": "women",
+          "name": "ウィメンズ",
+          "identifier": "femme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/accessories/_/N-1oyzg8c",
+          "alternateName": "accessories",
+          "name": "アクセサリー",
+          "identifier": "w-category-cat10155"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/accessories/belts/_/N-1iz2cb5",
+          "alternateName": "belts",
+          "name": "ベルト",
+          "identifier": "w-category-cat1410417"
+        }
+      ],
+      "disclaimers": {
+        "value": "shipping_warning_bo",
+        "popInContent": "global_backorder_info_popin_content",
+        "popInTitle": "global_backorder_info_popin_title"
+      },
+      "color": "ノワール",
+      "@context": "http://schema.org",
+      "identifier": "M0078U"
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "/api/catalog/jpn-jp/product/nvprod1000448v"
+    },
+    "push": {
+      "href": "/api/catalog/jpn-jp/product-push/nvprod1000448v"
+    },
+    "care-link": {
+      "href": "/api/catalog/jpn-jp/care-link/nvprod1000448v"
+    },
+    "size-guide": {
+      "href": "/api/catalog/jpn-jp/size-guide/nvprod1000448v"
+    },
+    "availability": {
+      "href": "/api/catalog/jpn-jp/availability/nvprod1000448v"
+    }
+  },
+  "@type": "Product",
+  "sku": "M0078U",
+  "isSimilarTo": [],
+  "productTips": [],
+  "url": "/jpn-jp/products/lv-new-wave-35mm-belt-other-leathers-nvprod1000448v",
+  "material": "その他レザー",
+  "category": [
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/women/_/N-1q5sgib",
+      "alternateName": "women",
+      "name": "ウィメンズ",
+      "identifier": "femme"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/women/accessories/_/N-1oyzg8c",
+      "alternateName": "accessories",
+      "name": "アクセサリー",
+      "identifier": "w-category-cat10155"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/women/accessories/belts/_/N-1iz2cb5",
+      "alternateName": "belts",
+      "name": "ベルト",
+      "identifier": "w-category-cat1410417"
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "hidePrice",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "subType",
+      "value": "product"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "materialIconURL",
+      "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MATAEL-LG-Other_Leathers.jpg"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "sizeGuide",
+      "value": true
+    }
+  ],
+  "name": "サンチュール・LV ニュー ウェーブ 35MM ",
+  "isRelatedTo": [],
+  "@context": "http://schema.org",
+  "identifier": "nvprod1000448v"
+}

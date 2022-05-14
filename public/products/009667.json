@@ -1,0 +1,466 @@
+{
+  "model": [
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/N99546/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/009667"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/N99546"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/N99546/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/009667/N99546/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "グレー",
+      "@type": "ProductModel",
+      "height": {
+        "@type": "QuantitativeValue",
+        "value": 12.5,
+        "unitText": "cm"
+      },
+      "name": "プティット・マル",
+      "mainMaterial2": "ALLIGATOR MISSISSIPIENSIS",
+      "width": {
+        "@type": "QuantitativeValue",
+        "value": 5,
+        "unitText": "cm"
+      },
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 2541000
+        },
+        "@type": "Offer",
+        "price": "¥2,541,000"
+      },
+      "disambiguatingDescription": "ニコラ･ジェスキエールがメゾンならではのアイコニックなトランクを再解釈したバッグ「プティット･マル」。貴重なクロコダイルレザーを使用した「小さなトランク」は、デイタイムからイブニングシーンまであらゆる装いに彩りを添えます。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-プティット・マル-クロコダイル・ブリリアント-バッグ--N99546_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-プティット・マル-クロコダイル・ブリリアント-バッグ--N99546_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-プティット・マル-クロコダイル・ブリリアント-バッグ--N99546_PM1_Interior view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Interior view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-プティット・マル-クロコダイル・ブリリアント-バッグ--N99546_PM1_Back view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Back view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/petite-malle-crocodilien-brillant-009667",
+      "material": "クロコダイル・ブリリアント",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 20,
+        "unitText": "cm"
+      },
+      "highEndTemplate": false,
+      "productId": "009667",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-LG-9GO_gris_orage.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>素材：アリゲーター（皮革の種類：ワニ革）</li><li>トリミング：アリゲーター（皮革の種類：ワニ革）</li><li>ライニング：ラムレザー（皮革の種類：羊革、マルタージュプリント入り）</li><li>金具（色：シルバー）</li><li>アイコニックなSロック</li><li>マグネット開閉式</li><li>ストラップ：取り外し可能, 調整可能</li><li>ストラップの頂点からバッグ上部までの長さ(最短)：50.0 cm</li><li>ストラップの頂点からバッグ上部までの長さ(最長)：55.0 cm</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "hotstampable",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z01"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/_/N-1q5sgib",
+          "alternateName": "women",
+          "name": "ウィメンズ",
+          "identifier": "femme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/handbags/_/N-tatseh",
+          "alternateName": "handbags",
+          "name": "バッグ",
+          "identifier": "w-category-cat10070"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/handbags/exotic-leather-bags/_/N-msghc8",
+          "alternateName": "exotic-leather-bags",
+          "name": "ウィメンズ エキゾチックレザーバッグ",
+          "identifier": "nvcat940057v"
+        }
+      ],
+      "disclaimers": {
+        "value": "shipping_warning_bo",
+        "popInContent": "global_backorder_info_popin_content",
+        "popInTitle": "global_backorder_info_popin_title"
+      },
+      "color": "グリオラージュ",
+      "@context": "http://schema.org",
+      "identifier": "N99546"
+    },
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/N98998/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/009667"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/N98998"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/N98998/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/009667/N98998/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "マロン",
+      "@type": "ProductModel",
+      "height": {
+        "@type": "QuantitativeValue",
+        "value": 12.5,
+        "unitText": "cm"
+      },
+      "name": "プティット・マル",
+      "mainMaterial2": "ALLIGATOR MISSISSIPIENSIS",
+      "width": {
+        "@type": "QuantitativeValue",
+        "value": 5,
+        "unitText": "cm"
+      },
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 2541000
+        },
+        "@type": "Offer",
+        "price": "¥2,541,000"
+      },
+      "disambiguatingDescription": "ニコラ･ジェスキエールがメゾンならではのアイコニックなトランクを再解釈したバッグ「プティット･マル」。貴重なクロコダイルレザーを使用した「小さなトランク」は、デイタイムからイブニングシーンまであらゆる装いに彩りを添えます。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-プティット・マル-クロコダイル・ブリリアント-バッグ--N98998_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-プティット・マル-クロコダイル・ブリリアント-バッグ--N98998_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-プティット・マル-クロコダイル・ブリリアント-バッグ--N98998_PM1_Interior view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Interior view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-プティット・マル-クロコダイル・ブリリアント-バッグ--N98998_PM1_Back view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Back view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/petite-malle-crocodilien-brillant-009667",
+      "material": "クロコダイル・ブリリアント",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 20,
+        "unitText": "cm"
+      },
+      "highEndTemplate": false,
+      "productId": "009667",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-LG-939_ebony.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>素材：アリゲーター（皮革の種類：ワニ革）</li><li>トリミング：アリゲーター（皮革の種類：ワニ革）</li><li>ライニング：ラムレザー（皮革の種類：羊革、マルタージュプリント入り）</li><li>金具（色：ゴールド）</li><li>アイコニックなSロック</li><li>マグネット開閉式</li><li>ストラップ：取り外し可能, 調整可能</li><li>ストラップの頂点からバッグ上部までの長さ(最短)：50.0 cm</li><li>ストラップの頂点からバッグ上部までの長さ(最長)：55.0 cm</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "hotstampable",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z01"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/_/N-1q5sgib",
+          "alternateName": "women",
+          "name": "ウィメンズ",
+          "identifier": "femme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/handbags/_/N-tatseh",
+          "alternateName": "handbags",
+          "name": "バッグ",
+          "identifier": "w-category-cat10070"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/handbags/exotic-leather-bags/_/N-msghc8",
+          "alternateName": "exotic-leather-bags",
+          "name": "ウィメンズ エキゾチックレザーバッグ",
+          "identifier": "nvcat940057v"
+        }
+      ],
+      "disclaimers": {
+        "value": "shipping_warning_bo",
+        "popInContent": "global_backorder_info_popin_content",
+        "popInTitle": "global_backorder_info_popin_title"
+      },
+      "color": "ノワゼット",
+      "@context": "http://schema.org",
+      "identifier": "N98998"
+    }
+  ],
+  "panelInformations": [
+    {
+      "@type": "ProductCare",
+      "title": "素材とお手入れ方法、修理",
+      "description": "<ul><li>研磨剤や目の粗い表面との接触を避けてください。特に、レザートリミング部分についてはご注意ください。</li><li>\n本製品は風通しの悪い場所での保管･放置を避け、風通しの良い乾燥した場所に保管してください。また、高温になる場所(暖房器具のそば、直射日光が当たる車内など)には短時間でも保管･放置しないでください。保管の際は、付属の布袋をご使用ください。</li><li>\n油性の製品（グリースや化粧品、ハンドクリームなど）やアルコールを含んだ製品（アルコール消毒ジェル、アルコール消毒スプレー、香水、マニキュア、除光液、ベンジンなど）、色移りの原因となる素材(雑誌、カラーレザーなど)との接触は避けてください。化粧品やアルコールを含んだ製品、香水などをご使用の際には5-10分ほど時間をおき、手指や肌が完全に乾いてから、製品に触れていただきますようお願い申しあげます。</li><li>\n水との接触は避けてください。表面が濡れたり汚れたりした場合は、毛羽立ちや糸くずなどがない、白い吸水性に優れた布で拭き取ってください。石鹸や溶剤は決して使わないでください。</li><li>\nレザー部分が汚れたり、ライニング部分にシミがついた場合は、柔らかい白い布で拭き取るようにしてください。石鹸や溶剤は決して使わないでください。</li><li>\n保管の際は、付属の布袋をご使用ください。温度や湿度が高く、風通しの悪い場所での保管･放置は避けてください。</li><li>\nエキゾチックレザーはワシントン条約（CITES：絶滅のおそれのある野生動植物の種の国際取引に関する条約）によって保護されており、製品には輸出に必要なCITESが同梱されています。</li></ul>\n<p><u>リペアサービスのご案内：</u><br>\nルイ・ヴィトンでは、製品を末永くご愛用いただけるようリペアサービスを承っております。\nお客様のご要望をお伺いした上で、パリのアトリエと同じパーツを使用し、熟練した職人が真心を込めて、1点1点丁寧に修理いたします。ご利用方法は、「<a href=\"http://jp.louisvuitton.com/jpnjp/startthejourney\">ヘルプ</a>」セクション内の「<a href=\"http://jp.louisvuitton.com/jpnjp/repair\">リペアサービス</a>」をご覧ください。<br>\nまた、お問合せ・ご相談はクライアントサービスおよび全国のルイ・ヴィトン ストアまでお気軽にご連絡ください(阪急梅田店、阪急メンズ店、LOUIS VUITTON DOVER STREET MARKET GINZA店は除く)。</p>",
+      "introduction": "<div class=\"popinHeader uppercase\">エキゾチックレザーの注意点をお読みいただき、製品の特性をあらかじめご理解いただいた上で、末永くご愛用くださいますようお願い申しあげます。</div>"
+    }
+  ],
+  "disambiguatingDescription": "<BR>",
+  "_links": {
+    "self": {
+      "href": "/api/catalog/jpn-jp/product/009667"
+    },
+    "push": {
+      "href": "/api/catalog/jpn-jp/product-push/009667"
+    },
+    "care-link": {
+      "href": "/api/catalog/jpn-jp/care-link/009667"
+    },
+    "availability": {
+      "href": "/api/catalog/jpn-jp/availability/009667"
+    }
+  },
+  "@type": "Product",
+  "sku": "N99546",
+  "isSimilarTo": [],
+  "productTips": [],
+  "url": "/jpn-jp/products/petite-malle-crocodilien-brillant-009667",
+  "material": "クロコダイル・ブリリアント",
+  "category": [
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/women/_/N-1q5sgib",
+      "alternateName": "women",
+      "name": "ウィメンズ",
+      "identifier": "femme"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/women/handbags/_/N-tatseh",
+      "alternateName": "handbags",
+      "name": "バッグ",
+      "identifier": "w-category-cat10070"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/women/handbags/exotic-leather-bags/_/N-msghc8",
+      "alternateName": "exotic-leather-bags",
+      "name": "ウィメンズ エキゾチックレザーバッグ",
+      "identifier": "nvcat940057v"
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "hidePrice",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "subType",
+      "value": "product"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "materialIconURL",
+      "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--AEL-LG-L02_crocodilien_brillant.jpg"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "hotStampable",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "careLink",
+      "value": "MATAEL-LG-X01"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "sizeGuide",
+      "value": false
+    }
+  ],
+  "name": "プティット・マル",
+  "isRelatedTo": [],
+  "@context": "http://schema.org",
+  "identifier": "009667"
+}

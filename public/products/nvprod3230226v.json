@@ -1,0 +1,249 @@
+{
+  "model": [
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/GI0730/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod3230226v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/GI0730"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/GI0730/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod3230226v/GI0730/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "イエロー",
+      "@type": "ProductModel",
+      "height": {
+        "@type": "QuantitativeValue",
+        "value": 9,
+        "unitText": "cm"
+      },
+      "name": "セット4 ゴブレ",
+      "mainMaterial2": "CERAMIC",
+      "width": {
+        "@type": "QuantitativeValue",
+        "value": 9,
+        "unitText": "cm"
+      },
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 126500
+        },
+        "@type": "Offer",
+        "price": "¥126,500"
+      },
+      "disambiguatingDescription": "ヴァージル･アブローとNIGO®がコラボレーションした「ルイ･ヴィトン LV スクエアード」コレクションの2つの異なるデザインを採用した「セット4 ゴブレ」。磁器製のカップには、日本人デザイナー NIGO®のハート、ダック、タイガーのモチーフが描かれています。温かい飲み物にも冷たい飲み物にも合うカップです。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-セット4-ゴブレ-モノグラム-ホーム--GI0730_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-セット4-ゴブレ-モノグラム-ホーム--GI0730_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-セット4-ゴブレ-モノグラム-ホーム--GI0730_PM1_Detail view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Detail view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/cups-set-monogram-nvprod3230226v",
+      "material": "CERAMIC",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 9,
+        "unitText": "cm"
+      },
+      "highEndTemplate": false,
+      "productId": "nvprod3230226v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-ACC-962_yellow.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>サイズ：9 x 9 x 9 cm</li><li>素材：磁器</li><li>LV MADE シグネチャー</li><li>食洗器の使用可</li><li>電子レンジ使用不可</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories;Sunglasses"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/art-of-living/_/N-kmf9ty",
+          "alternateName": "art-of-living",
+          "name": "ライフスタイル",
+          "identifier": "nvcat1840004v"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/art-of-living/home/_/N-1181e7i",
+          "alternateName": "home",
+          "name": "ホーム",
+          "identifier": "nvcat1840008v"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/art-of-living/home/objects-of-decoration/_/N-jsv3lk",
+          "alternateName": "objects-of-decoration",
+          "name": "ホーム デコレーション",
+          "identifier": "nvcat1840021v"
+        }
+      ],
+      "disclaimers": {
+        "value": "pre_order_disclaimer",
+        "popInContent": "pre_order_disclaimer_info_popin_content",
+        "popInTitle": "pre_order_disclaimer_info_popin_title"
+      },
+      "color": "ジョーヌ",
+      "@context": "http://schema.org",
+      "identifier": "GI0730"
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "/api/catalog/jpn-jp/product/nvprod3230226v"
+    },
+    "push": {
+      "href": "/api/catalog/jpn-jp/product-push/nvprod3230226v"
+    },
+    "care-link": {
+      "href": "/api/catalog/jpn-jp/care-link/nvprod3230226v"
+    },
+    "availability": {
+      "href": "/api/catalog/jpn-jp/availability/nvprod3230226v"
+    }
+  },
+  "@type": "Product",
+  "sku": "GI0730",
+  "isSimilarTo": [],
+  "productTips": [],
+  "url": "/jpn-jp/products/cups-set-monogram-nvprod3230226v",
+  "material": "モノグラム",
+  "category": [
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/art-of-living/_/N-kmf9ty",
+      "alternateName": "art-of-living",
+      "name": "ライフスタイル",
+      "identifier": "nvcat1840004v"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/art-of-living/home/_/N-1181e7i",
+      "alternateName": "home",
+      "name": "ホーム",
+      "identifier": "nvcat1840008v"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/art-of-living/home/objects-of-decoration/_/N-jsv3lk",
+      "alternateName": "objects-of-decoration",
+      "name": "ホーム デコレーション",
+      "identifier": "nvcat1840021v"
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "hidePrice",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "subType",
+      "value": "product"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "materialIconURL",
+      "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--AEL-LG-G00_monogram.jpg"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "sizeGuide",
+      "value": false
+    }
+  ],
+  "name": "カップセット セット4 ゴブレ",
+  "isRelatedTo": [],
+  "@context": "http://schema.org",
+  "identifier": "nvprod3230226v"
+}

@@ -1,0 +1,216 @@
+{
+  "model": [
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/M65216/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/004973"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/M65216"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/M65216/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/004973/M65216/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ゴールド",
+      "@type": "ProductModel",
+      "name": "ポルト クレ・LV ファセット",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 37400
+        },
+        "@type": "Offer",
+        "price": "¥37,400"
+      },
+      "disambiguatingDescription": "LVロゴが施された飾りがキュートなキーリング兼バッグチャーム「ポルト クレ・LV ファセット」。ルイ・ヴィトンのバッグと相性抜群です。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ポルト-クレ・lv-ファセット-s00-キーケース、キーホルダー、バッグチャーム--M65216_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/lv-facettes-bag-charm-key-holder-s00-004973",
+      "material": "METAL",
+      "highEndTemplate": false,
+      "productId": "004973",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-ACC-937_dore.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>素材：メタル</li><li>キーリングとスナップフック（「Louis Vuitton」のシグネチャー入り）<BR></li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "hotstampable",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/_/N-1q5sgib",
+          "alternateName": "women",
+          "name": "ウィメンズ",
+          "identifier": "femme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/accessories/_/N-1oyzg8c",
+          "alternateName": "accessories",
+          "name": "アクセサリー",
+          "identifier": "w-category-cat10155"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/accessories/key-holders-and-bag-charms/_/N-1yhphkv",
+          "alternateName": "key-holders-and-more",
+          "name": "キーケース、キーホルダー、バッグチャーム",
+          "identifier": "w-category-cat1410416"
+        }
+      ],
+      "disclaimers": {
+        "value": "pre_order_disclaimer",
+        "popInContent": "pre_order_disclaimer_info_popin_content",
+        "popInTitle": "pre_order_disclaimer_info_popin_title"
+      },
+      "color": "ドレ",
+      "@context": "http://schema.org",
+      "identifier": "M65216"
+    }
+  ],
+  "disambiguatingDescription": "LVロゴが施された飾りがキュートなキーリング兼バッグチャーム「ポルト クレ・LV ファセット」。ルイ・ヴィトンのバッグと相性抜群です。",
+  "_links": {
+    "self": {
+      "href": "/api/catalog/jpn-jp/product/004973"
+    },
+    "push": {
+      "href": "/api/catalog/jpn-jp/product-push/004973"
+    },
+    "care-link": {
+      "href": "/api/catalog/jpn-jp/care-link/004973"
+    },
+    "availability": {
+      "href": "/api/catalog/jpn-jp/availability/004973"
+    }
+  },
+  "@type": "Product",
+  "sku": "M65216",
+  "isSimilarTo": [],
+  "productTips": [],
+  "url": "/jpn-jp/products/lv-facettes-bag-charm-key-holder-s00-004973",
+  "material": "NOT APPLICABLE ACC",
+  "category": [
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/women/_/N-1q5sgib",
+      "alternateName": "women",
+      "name": "ウィメンズ",
+      "identifier": "femme"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/women/accessories/_/N-1oyzg8c",
+      "alternateName": "accessories",
+      "name": "アクセサリー",
+      "identifier": "w-category-cat10155"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/women/accessories/key-holders-and-bag-charms/_/N-1yhphkv",
+      "alternateName": "key-holders-and-more",
+      "name": "キーケース、キーホルダー、バッグチャーム",
+      "identifier": "w-category-cat1410416"
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "hidePrice",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "subType",
+      "value": "product"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "hotStampable",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "sizeGuide",
+      "value": false
+    }
+  ],
+  "name": "ポルト クレ・LV ファセット",
+  "isRelatedTo": [],
+  "@context": "http://schema.org",
+  "identifier": "004973"
+}

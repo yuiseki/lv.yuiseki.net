@@ -1,0 +1,228 @@
+{
+  "model": [
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/M68100/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/011935"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/M68100"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/M68100/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/011935/M68100/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "シルバー",
+      "@type": "ProductModel",
+      "name": "カフリンクス・LVサークル",
+      "mainMaterial2": "BRASS",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 58300
+        },
+        "@type": "Offer",
+        "price": "¥58,300"
+      },
+      "disambiguatingDescription": "アイコニックなLVロゴを施した、ビジネスシーンにもカジュアルな装いにも幅広く活躍する「カフリンクス・LVサークル」。洗練されたディテールがルイ･ヴィトンならではのクラフツマンシップを彷彿させます。<BR>※実際の製品とはロゴの向きが異なりますのでご了承ください。詳しくはクライアントサービス(Tel.0120-00-1854)までお問合せください。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-カフリンクス・lvサークル-s00-メンズ-ファッションジュエリー--M68100_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-カフリンクス・lvサークル-s00-メンズ-ファッションジュエリー--M68100_PM1_Worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Worn view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/travel-key-lv-circle-cufflinks-s00-011935",
+      "material": "METAL",
+      "highEndTemplate": false,
+      "productId": "011935",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-LG-9PL_palladium.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>カフリンク</li><li>サイズ：1x1cm</li><li>金具（色：シルバー）LVロゴ入り</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "hotstampable",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories;Sunglasses"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-1cyoz77",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/accessories/_/N-1d0iakb",
+          "alternateName": "accessories",
+          "name": "アクセサリー",
+          "identifier": "m-category-cat10052"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/accessories/fashion-jewellery/_/N-qv1g01",
+          "alternateName": "fashion-jewellery",
+          "name": "メンズ ファッションジュエリー",
+          "identifier": "m-fashionjewelry"
+        }
+      ],
+      "disclaimers": {
+        "value": "shipping_warning_bo",
+        "popInContent": "global_backorder_info_popin_content",
+        "popInTitle": "global_backorder_info_popin_title"
+      },
+      "color": "パラジウム",
+      "@context": "http://schema.org",
+      "identifier": "M68100"
+    }
+  ],
+  "disambiguatingDescription": "アイコニックなＬＶロゴを施した、ビジネスシーンにもカジュアルな装いにも幅広く活躍する「カフリンクス・LVサークル」。洗練されたディテールがルイヴィトンならではのクラフツマンシップを彷彿させます。",
+  "_links": {
+    "self": {
+      "href": "/api/catalog/jpn-jp/product/011935"
+    },
+    "push": {
+      "href": "/api/catalog/jpn-jp/product-push/011935"
+    },
+    "care-link": {
+      "href": "/api/catalog/jpn-jp/care-link/011935"
+    },
+    "availability": {
+      "href": "/api/catalog/jpn-jp/availability/011935"
+    }
+  },
+  "@type": "Product",
+  "sku": "M68100",
+  "isSimilarTo": [],
+  "productTips": [],
+  "url": "/jpn-jp/products/travel-key-lv-circle-cufflinks-s00-011935",
+  "material": "NOT APPLICABLE ACC",
+  "category": [
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/_/N-1cyoz77",
+      "alternateName": "men",
+      "name": "メンズ",
+      "identifier": "homme"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/accessories/_/N-1d0iakb",
+      "alternateName": "accessories",
+      "name": "アクセサリー",
+      "identifier": "m-category-cat10052"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/accessories/fashion-jewellery/_/N-qv1g01",
+      "alternateName": "fashion-jewellery",
+      "name": "メンズ ファッションジュエリー",
+      "identifier": "m-fashionjewelry"
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "hidePrice",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "subType",
+      "value": "product"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "hotStampable",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "sizeGuide",
+      "value": false
+    }
+  ],
+  "name": "カフリンクス・LVサークル",
+  "isRelatedTo": [],
+  "@context": "http://schema.org",
+  "identifier": "011935"
+}

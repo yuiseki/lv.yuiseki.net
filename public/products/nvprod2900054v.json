@@ -1,0 +1,255 @@
+{
+  "model": [
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/GI0597/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod2900054v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/GI0597"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/GI0597/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod2900054v/GI0597/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ホワイト",
+      "@type": "ProductModel",
+      "height": {
+        "@type": "QuantitativeValue",
+        "value": 25,
+        "unitText": "cm"
+      },
+      "name": "ヴェース・ポーセリン",
+      "mainMaterial2": "CERAMIC",
+      "width": {
+        "@type": "QuantitativeValue",
+        "value": 18,
+        "unitText": "cm"
+      },
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 279400
+        },
+        "@type": "Offer",
+        "price": "¥279,400"
+      },
+      "disambiguatingDescription": "バッグ「ノエ BB」と完全に同じサイズに仕上げた、磁器製の花瓶「ヴェース・ポーセリン」。メゾンが誇るクラフツマンシップが際立つアイテムです。レザーやキャンバスの柔らかな折り目まで、艶やかで硬質な素材で表現しました。全面にエンボス加工で施したモノグラム･パターンが個性を放ちます。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ヴェース・ポーセリン-モノグラム-注目アイテム--GI0597_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ヴェース・ポーセリン-モノグラム-注目アイテム--GI0597_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ヴェース・ポーセリン-モノグラム-注目アイテム--GI0597_PM1_Back view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Back view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ヴェース・ポーセリン-モノグラム-注目アイテム--GI0597_PM1_Other view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Other view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/vase-monogram-nvprod2900054v",
+      "material": "CERAMIC",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 28,
+        "unitText": "cm"
+      },
+      "highEndTemplate": false,
+      "productId": "nvprod2900054v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-ACC-907_blanc.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>素材：磁器</li><li>ハンドバッグ「ノエ BB」シェイプ</li><li>エンボス加工したモノグラム･パターン</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories;Sunglasses"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/art-of-living/_/N-kmf9ty",
+          "alternateName": "art-of-living",
+          "name": "ライフスタイル",
+          "identifier": "nvcat1840004v"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/art-of-living/highlights/_/N-8g9usv",
+          "alternateName": "highlights",
+          "name": "注目アイテム",
+          "identifier": "nvcat2610009v"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/art-of-living/highlights/art-of-living-campaign/_/N-1fxmcdz",
+          "alternateName": "art-of-living-campaign",
+          "name": "ライフスタイルを彩るコレクション",
+          "identifier": "nvcat2610010v"
+        }
+      ],
+      "disclaimers": {
+        "value": "pre_order_disclaimer",
+        "popInContent": "pre_order_disclaimer_info_popin_content",
+        "popInTitle": "pre_order_disclaimer_info_popin_title"
+      },
+      "color": "ブロン",
+      "@context": "http://schema.org",
+      "identifier": "GI0597"
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "/api/catalog/jpn-jp/product/nvprod2900054v"
+    },
+    "push": {
+      "href": "/api/catalog/jpn-jp/product-push/nvprod2900054v"
+    },
+    "care-link": {
+      "href": "/api/catalog/jpn-jp/care-link/nvprod2900054v"
+    },
+    "availability": {
+      "href": "/api/catalog/jpn-jp/availability/nvprod2900054v"
+    }
+  },
+  "@type": "Product",
+  "sku": "GI0597",
+  "isSimilarTo": [],
+  "productTips": [],
+  "url": "/jpn-jp/products/vase-monogram-nvprod2900054v",
+  "material": "モノグラム",
+  "category": [
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/art-of-living/_/N-kmf9ty",
+      "alternateName": "art-of-living",
+      "name": "ライフスタイル",
+      "identifier": "nvcat1840004v"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/art-of-living/highlights/_/N-8g9usv",
+      "alternateName": "highlights",
+      "name": "注目アイテム",
+      "identifier": "nvcat2610009v"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/art-of-living/highlights/art-of-living-campaign/_/N-1fxmcdz",
+      "alternateName": "art-of-living-campaign",
+      "name": "ライフスタイルを彩るコレクション",
+      "identifier": "nvcat2610010v"
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "hidePrice",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "subType",
+      "value": "product"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "materialIconURL",
+      "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--AEL-LG-G00_monogram.jpg"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "sizeGuide",
+      "value": false
+    }
+  ],
+  "name": "花瓶 ヴェース・ポーセリン",
+  "isRelatedTo": [],
+  "@context": "http://schema.org",
+  "identifier": "nvprod2900054v"
+}

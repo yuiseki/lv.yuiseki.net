@@ -1,0 +1,495 @@
+{
+  "model": [
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/M23006/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod880016v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/M23006"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/M23006/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod880016v/M23006/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ブラック",
+      "@type": "ProductModel",
+      "height": {
+        "@type": "QuantitativeValue",
+        "value": 50,
+        "unitText": "cm"
+      },
+      "name": "ウッス・ホライゾン 50",
+      "width": {
+        "@type": "QuantitativeValue",
+        "value": 20,
+        "unitText": "cm"
+      },
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 37400
+        },
+        "@type": "Offer",
+        "price": "¥37,400"
+      },
+      "disambiguatingDescription": "耐久性に優れたテキスタイルを使用したシンプルなラゲージ用カバー「ウッス･ホライゾン 50」。チェックイン中の「ホライゾン 50」を保護します。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ウッス・ホライゾン-50-その他キャンバス-トラベル--M23006_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ウッス・ホライゾン-50-その他キャンバス-トラベル--M23006_PM1_Closeup view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Closeup view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ウッス・ホライゾン-50-その他キャンバス-トラベル--M23006_PM1_Detail view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Detail view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/housse-horizon-50-nvprod880016v",
+      "material": "AUTRES TOILES",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 35,
+        "unitText": "cm"
+      },
+      "highEndTemplate": false,
+      "productId": "nvprod880016v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-ACC-980_black.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul> \n <li>「ホライゾン 50」専用</li> \n <li>素材：テキスタイル（色：ブラック）</li> \n<li>ハンドル：シングル</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z01"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/_/N-1q5sgib",
+          "alternateName": "women",
+          "name": "ウィメンズ",
+          "identifier": "femme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/travel/_/N-1pk7bz8",
+          "alternateName": "travel",
+          "name": "トラベル",
+          "identifier": "w-category-cat10087"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/new-luggage-collection/_/N-1a709uj",
+          "alternateName": "new-luggage-collection",
+          "name": "ホライゾン･コレクション",
+          "identifier": "w-mtmwt-2016"
+        }
+      ],
+      "disclaimers": {
+        "value": "shipping_warning_bo",
+        "popInContent": "global_backorder_info_popin_content",
+        "popInTitle": "global_backorder_info_popin_title"
+      },
+      "color": "ノワール",
+      "@context": "http://schema.org",
+      "identifier": "M23006"
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "/api/catalog/jpn-jp/product/nvprod880016v"
+    },
+    "push": {
+      "href": "/api/catalog/jpn-jp/product-push/nvprod880016v"
+    },
+    "care-link": {
+      "href": "/api/catalog/jpn-jp/care-link/nvprod880016v"
+    },
+    "availability": {
+      "href": "/api/catalog/jpn-jp/availability/nvprod880016v"
+    }
+  },
+  "@type": "Product",
+  "sku": "M23006",
+  "isSimilarTo": [
+    {
+      "model": [
+        {
+          "productVisible": true,
+          "_links": {
+            "look": {
+              "href": "/api/catalog/jpn-jp/skus/M23007/look"
+            },
+            "parent": {
+              "href": "/api/catalog/jpn-jp/product/nvprod880017v"
+            },
+            "self": {
+              "href": "/api/catalog/jpn-jp/product/M23007"
+            },
+            "perso-details": {
+              "href": "/api/catalog/jpn-jp/skus/M23007/perso-detail"
+            },
+            "/api/rels/jpn-jp/add-to-cart-base/nvprod880017v/M23007/1": {
+              "name": "add-to-cart",
+              "href": "/api/cart/jpn-jp"
+            }
+          },
+          "macroColor": "ブラック",
+          "@type": "ProductModel",
+          "height": {
+            "@type": "QuantitativeValue",
+            "value": 55,
+            "unitText": "cm"
+          },
+          "name": "ウッス・ホライゾン 55",
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": 21,
+            "unitText": "cm"
+          },
+          "offers": {
+            "priceSpecification": {
+              "priceCurrency": "JPY",
+              "price": 37400
+            },
+            "@type": "Offer",
+            "price": "¥37,400"
+          },
+          "disambiguatingDescription": "耐久性に優れたテキスタイルを使用したシンプルなラゲージ用カバー「ウッス･ホライゾン 55」。チェックイン中の「ホライゾン 55」を保護します。",
+          "image": [
+            {
+              "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ウッス・ホライゾン-55-その他キャンバス-トラベル--M23007_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+              "@type": "ImageObject",
+              "name": "Front view",
+              "@context": "http://schema.org"
+            },
+            {
+              "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ウッス・ホライゾン-55-その他キャンバス-トラベル--M23007_PM1_Closeup view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+              "@type": "ImageObject",
+              "name": "Closeup view",
+              "@context": "http://schema.org"
+            },
+            {
+              "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ウッス・ホライゾン-55-その他キャンバス-トラベル--M23007_PM1_Detail view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+              "@type": "ImageObject",
+              "name": "Detail view",
+              "@context": "http://schema.org"
+            }
+          ],
+          "url": "/jpn-jp/products/housse-horizon-55-nvprod880017v",
+          "material": "AUTRES TOILES",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": 39,
+            "unitText": "cm"
+          },
+          "highEndTemplate": false,
+          "productId": "nvprod880017v",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "colorIconURL",
+              "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-ACC-980_black.jpg"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "detailedDescription",
+              "value": "<ul> \n <li>「ホライゾン 55」専用</li> \n <li>素材：テキスタイル（色：ブラック）</li> \n<li>ハンドル：シングル</li></ul>"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "activateEngraving",
+              "value": false
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "sellable",
+              "value": true
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "cscSellable",
+              "value": true
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "mom",
+              "value": false
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "locateInStore",
+              "value": true
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "materialGroupCode",
+              "value": "Z01"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "filterCategories",
+              "value": "Leather_Goods_and_Accessories"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "backOrderDisclaimer",
+              "value": true
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "backOrderFullDeposit",
+              "value": false
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "tryOnEnabled",
+              "value": false
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "isBundle",
+              "value": false
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "360ViewEnabled",
+              "value": false
+            }
+          ],
+          "category": [
+            {
+              "@type": "Thing",
+              "url": "/jpn-jp/women/_/N-1q5sgib",
+              "alternateName": "women",
+              "name": "ウィメンズ",
+              "identifier": "femme"
+            },
+            {
+              "@type": "Thing",
+              "url": "/jpn-jp/women/travel/_/N-1pk7bz8",
+              "alternateName": "travel",
+              "name": "トラベル",
+              "identifier": "w-category-cat10087"
+            },
+            {
+              "@type": "Thing",
+              "url": "/jpn-jp/women/new-luggage-collection/_/N-1a709uj",
+              "alternateName": "new-luggage-collection",
+              "name": "ホライゾン･コレクション",
+              "identifier": "w-mtmwt-2016"
+            }
+          ],
+          "disclaimers": {
+            "value": "shipping_warning_bo",
+            "popInContent": "global_backorder_info_popin_content",
+            "popInTitle": "global_backorder_info_popin_title"
+          },
+          "color": "ノワール",
+          "@context": "http://schema.org",
+          "identifier": "M23007"
+        }
+      ],
+      "_links": {
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/nvprod880017v"
+        },
+        "push": {
+          "href": "/api/catalog/jpn-jp/product-push/nvprod880017v"
+        },
+        "care-link": {
+          "href": "/api/catalog/jpn-jp/care-link/nvprod880017v"
+        },
+        "availability": {
+          "href": "/api/catalog/jpn-jp/availability/nvprod880017v"
+        }
+      },
+      "@type": "Product",
+      "sku": "M23007",
+      "productTips": [],
+      "url": "/jpn-jp/products/housse-horizon-55-nvprod880017v",
+      "material": "その他キャンバス",
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/_/N-1q5sgib",
+          "alternateName": "women",
+          "name": "ウィメンズ",
+          "identifier": "femme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/travel/_/N-1pk7bz8",
+          "alternateName": "travel",
+          "name": "トラベル",
+          "identifier": "w-category-cat10087"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/new-luggage-collection/_/N-1a709uj",
+          "alternateName": "new-luggage-collection",
+          "name": "ホライゾン･コレクション",
+          "identifier": "w-mtmwt-2016"
+        }
+      ],
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "hidePrice",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "subType",
+          "value": "product"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--AEL-LG-K37_autres_toiles.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sizeGuide",
+          "value": false
+        }
+      ],
+      "name": "ウッス・ホライゾン 55",
+      "@context": "http://schema.org",
+      "identifier": "nvprod880017v"
+    }
+  ],
+  "productTips": [],
+  "url": "/jpn-jp/products/housse-horizon-50-nvprod880016v",
+  "material": "その他キャンバス",
+  "category": [
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/women/_/N-1q5sgib",
+      "alternateName": "women",
+      "name": "ウィメンズ",
+      "identifier": "femme"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/women/travel/_/N-1pk7bz8",
+      "alternateName": "travel",
+      "name": "トラベル",
+      "identifier": "w-category-cat10087"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/women/new-luggage-collection/_/N-1a709uj",
+      "alternateName": "new-luggage-collection",
+      "name": "ホライゾン･コレクション",
+      "identifier": "w-mtmwt-2016"
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "hidePrice",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "subType",
+      "value": "product"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "materialIconURL",
+      "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--AEL-LG-K37_autres_toiles.jpg"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "sizeGuide",
+      "value": false
+    }
+  ],
+  "name": "ウッス・ホライゾン 50",
+  "isRelatedTo": [],
+  "@context": "http://schema.org",
+  "identifier": "nvprod880016v"
+}

@@ -1,0 +1,959 @@
+{
+  "model": [
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/1A5VIW/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod1780323v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/1A5VIW"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/1A5VIW/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod1780323v/1A5VIW/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ホワイト",
+      "@type": "ProductModel",
+      "name": "フーディ",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 114400
+        },
+        "@type": "Offer",
+        "price": "¥114,400"
+      },
+      "disambiguatingDescription": "定番のカジュアルアイテムをルーズなシルエットで表現したフーディ。目の詰まったコットンをゆったりと仕立て、取外し可能なルイ･ヴィトン ステープルズ エディションを象徴するラベルをあしらいました。背面に添えたインサイドアウトの雰囲気を演出するラベルや、フロント部分のカンガルーポケットにあしらった刻印入りのステープルといったディテールが、メゾンならではの個性を放ちます。<p>ご不明な点がございましたら、クライアントサービスまでお気軽にお問合せください。専任のクライアントアドバイザーが、素材やサイズなどの製品詳細、モデル着用イメージや関連アイテムのご案内など、お客様のご要望に合わせたスタイリング・アドバイスをご提供いたします。</p><p>また、サイズ違いなどによる返品・交換のご相談も承ります。詳細は<a href='https://jp.louisvuitton.com/jpn-jp/legal-privacy'><b>こちら。</b></a></p>",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-フーディ-プレタポルテ（洋服）--HIY48WNPH002_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "playerType": "freecaster",
+          "contentUrl": "https://player.louisvuitton.com/embed/1321500",
+          "@type": "ImageObject",
+          "name": "freecaster media",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-フーディ-プレタポルテ（洋服）--HIY48WNPH002_PM1_Worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Worn view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-フーディ-プレタポルテ（洋服）--HIY48WNPH002_PM1_Closeup view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Closeup view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-フーディ-プレタポルテ（洋服）--HIY48WNPH002_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-フーディ-プレタポルテ（洋服）--HIY48WNPH002_PM1_Detail view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Detail view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/hoodie-nvprod1780323v",
+      "highEndTemplate": false,
+      "sizeDisplayName": "XS",
+      "productId": "nvprod1780323v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-LG-Blanc.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>本体：コットン 100%</li><li>ルーズフィット</li><li>モデル着用Mサイズ</li><li>モデル：胸囲 82cm、身長 183cm</li><li>イタリア製</li><li>REF：HIY48WNPH</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z05"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Ready_To_Wear_Men"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-1cyoz77",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/ready-to-wear/_/N-1lpb5id",
+          "alternateName": "ready-to-wear",
+          "name": "プレタポルテ（洋服）",
+          "identifier": "m-readytowear"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/ready-to-wear/all-ready-to-wear/_/N-dphk1r",
+          "alternateName": "all-ready-to-wear",
+          "name": "すべてのメンズプレタポルテ（洋服）",
+          "identifier": "nvcat910171v"
+        }
+      ],
+      "disclaimers": {
+        "value": "pre_order_disclaimer",
+        "popInContent": "pre_order_disclaimer_info_popin_content",
+        "popInTitle": "pre_order_disclaimer_info_popin_title"
+      },
+      "color": "ブロン",
+      "@context": "http://schema.org",
+      "identifier": "1A5VIW"
+    },
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/1A5VIX/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod1780323v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/1A5VIX"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/1A5VIX/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod1780323v/1A5VIX/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ホワイト",
+      "@type": "ProductModel",
+      "name": "フーディ",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 114400
+        },
+        "@type": "Offer",
+        "price": "¥114,400"
+      },
+      "disambiguatingDescription": "定番のカジュアルアイテムをルーズなシルエットで表現したフーディ。目の詰まったコットンをゆったりと仕立て、取外し可能なルイ･ヴィトン ステープルズ エディションを象徴するラベルをあしらいました。背面に添えたインサイドアウトの雰囲気を演出するラベルや、フロント部分のカンガルーポケットにあしらった刻印入りのステープルといったディテールが、メゾンならではの個性を放ちます。<p>ご不明な点がございましたら、クライアントサービスまでお気軽にお問合せください。専任のクライアントアドバイザーが、素材やサイズなどの製品詳細、モデル着用イメージや関連アイテムのご案内など、お客様のご要望に合わせたスタイリング・アドバイスをご提供いたします。</p><p>また、サイズ違いなどによる返品・交換のご相談も承ります。詳細は<a href='https://jp.louisvuitton.com/jpn-jp/legal-privacy'><b>こちら。</b></a></p>",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-フーディ-プレタポルテ（洋服）--HIY48WNPH002_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "playerType": "freecaster",
+          "contentUrl": "https://player.louisvuitton.com/embed/1321500",
+          "@type": "ImageObject",
+          "name": "freecaster media",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-フーディ-プレタポルテ（洋服）--HIY48WNPH002_PM1_Worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Worn view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-フーディ-プレタポルテ（洋服）--HIY48WNPH002_PM1_Closeup view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Closeup view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-フーディ-プレタポルテ（洋服）--HIY48WNPH002_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-フーディ-プレタポルテ（洋服）--HIY48WNPH002_PM1_Detail view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Detail view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/hoodie-nvprod1780323v",
+      "highEndTemplate": false,
+      "sizeDisplayName": "S0",
+      "productId": "nvprod1780323v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-LG-Blanc.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>本体：コットン 100%</li><li>ルーズフィット</li><li>モデル着用Mサイズ</li><li>モデル：胸囲 82cm、身長 183cm</li><li>イタリア製</li><li>REF：HIY48WNPH</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z05"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Ready_To_Wear_Men"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-1cyoz77",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/ready-to-wear/_/N-1lpb5id",
+          "alternateName": "ready-to-wear",
+          "name": "プレタポルテ（洋服）",
+          "identifier": "m-readytowear"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/ready-to-wear/all-ready-to-wear/_/N-dphk1r",
+          "alternateName": "all-ready-to-wear",
+          "name": "すべてのメンズプレタポルテ（洋服）",
+          "identifier": "nvcat910171v"
+        }
+      ],
+      "disclaimers": {
+        "value": "pre_order_disclaimer",
+        "popInContent": "pre_order_disclaimer_info_popin_content",
+        "popInTitle": "pre_order_disclaimer_info_popin_title"
+      },
+      "color": "ブロン",
+      "@context": "http://schema.org",
+      "identifier": "1A5VIX"
+    },
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/1A5VIY/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod1780323v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/1A5VIY"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/1A5VIY/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod1780323v/1A5VIY/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ホワイト",
+      "@type": "ProductModel",
+      "name": "フーディ",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 114400
+        },
+        "@type": "Offer",
+        "price": "¥114,400"
+      },
+      "disambiguatingDescription": "定番のカジュアルアイテムをルーズなシルエットで表現したフーディ。目の詰まったコットンをゆったりと仕立て、取外し可能なルイ･ヴィトン ステープルズ エディションを象徴するラベルをあしらいました。背面に添えたインサイドアウトの雰囲気を演出するラベルや、フロント部分のカンガルーポケットにあしらった刻印入りのステープルといったディテールが、メゾンならではの個性を放ちます。<p>ご不明な点がございましたら、クライアントサービスまでお気軽にお問合せください。専任のクライアントアドバイザーが、素材やサイズなどの製品詳細、モデル着用イメージや関連アイテムのご案内など、お客様のご要望に合わせたスタイリング・アドバイスをご提供いたします。</p><p>また、サイズ違いなどによる返品・交換のご相談も承ります。詳細は<a href='https://jp.louisvuitton.com/jpn-jp/legal-privacy'><b>こちら。</b></a></p>",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-フーディ-プレタポルテ（洋服）--HIY48WNPH002_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "playerType": "freecaster",
+          "contentUrl": "https://player.louisvuitton.com/embed/1321500",
+          "@type": "ImageObject",
+          "name": "freecaster media",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-フーディ-プレタポルテ（洋服）--HIY48WNPH002_PM1_Worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Worn view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-フーディ-プレタポルテ（洋服）--HIY48WNPH002_PM1_Closeup view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Closeup view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-フーディ-プレタポルテ（洋服）--HIY48WNPH002_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-フーディ-プレタポルテ（洋服）--HIY48WNPH002_PM1_Detail view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Detail view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/hoodie-nvprod1780323v",
+      "highEndTemplate": false,
+      "sizeDisplayName": "M0",
+      "productId": "nvprod1780323v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-LG-Blanc.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>本体：コットン 100%</li><li>ルーズフィット</li><li>モデル着用Mサイズ</li><li>モデル：胸囲 82cm、身長 183cm</li><li>イタリア製</li><li>REF：HIY48WNPH</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z05"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Ready_To_Wear_Men"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-1cyoz77",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/ready-to-wear/_/N-1lpb5id",
+          "alternateName": "ready-to-wear",
+          "name": "プレタポルテ（洋服）",
+          "identifier": "m-readytowear"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/ready-to-wear/all-ready-to-wear/_/N-dphk1r",
+          "alternateName": "all-ready-to-wear",
+          "name": "すべてのメンズプレタポルテ（洋服）",
+          "identifier": "nvcat910171v"
+        }
+      ],
+      "disclaimers": {
+        "value": "pre_order_disclaimer",
+        "popInContent": "pre_order_disclaimer_info_popin_content",
+        "popInTitle": "pre_order_disclaimer_info_popin_title"
+      },
+      "color": "ブロン",
+      "@context": "http://schema.org",
+      "identifier": "1A5VIY"
+    },
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/1A5VIZ/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod1780323v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/1A5VIZ"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/1A5VIZ/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod1780323v/1A5VIZ/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ホワイト",
+      "@type": "ProductModel",
+      "name": "フーディ",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 114400
+        },
+        "@type": "Offer",
+        "price": "¥114,400"
+      },
+      "disambiguatingDescription": "定番のカジュアルアイテムをルーズなシルエットで表現したフーディ。目の詰まったコットンをゆったりと仕立て、取外し可能なルイ･ヴィトン ステープルズ エディションを象徴するラベルをあしらいました。背面に添えたインサイドアウトの雰囲気を演出するラベルや、フロント部分のカンガルーポケットにあしらった刻印入りのステープルといったディテールが、メゾンならではの個性を放ちます。<p>ご不明な点がございましたら、クライアントサービスまでお気軽にお問合せください。専任のクライアントアドバイザーが、素材やサイズなどの製品詳細、モデル着用イメージや関連アイテムのご案内など、お客様のご要望に合わせたスタイリング・アドバイスをご提供いたします。</p><p>また、サイズ違いなどによる返品・交換のご相談も承ります。詳細は<a href='https://jp.louisvuitton.com/jpn-jp/legal-privacy'><b>こちら。</b></a></p>",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-フーディ-プレタポルテ（洋服）--HIY48WNPH002_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "playerType": "freecaster",
+          "contentUrl": "https://player.louisvuitton.com/embed/1321500",
+          "@type": "ImageObject",
+          "name": "freecaster media",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-フーディ-プレタポルテ（洋服）--HIY48WNPH002_PM1_Worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Worn view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-フーディ-プレタポルテ（洋服）--HIY48WNPH002_PM1_Closeup view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Closeup view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-フーディ-プレタポルテ（洋服）--HIY48WNPH002_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-フーディ-プレタポルテ（洋服）--HIY48WNPH002_PM1_Detail view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Detail view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/hoodie-nvprod1780323v",
+      "highEndTemplate": false,
+      "sizeDisplayName": "L0",
+      "productId": "nvprod1780323v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-LG-Blanc.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>本体：コットン 100%</li><li>ルーズフィット</li><li>モデル着用Mサイズ</li><li>モデル：胸囲 82cm、身長 183cm</li><li>イタリア製</li><li>REF：HIY48WNPH</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z05"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Ready_To_Wear_Men"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-1cyoz77",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/ready-to-wear/_/N-1lpb5id",
+          "alternateName": "ready-to-wear",
+          "name": "プレタポルテ（洋服）",
+          "identifier": "m-readytowear"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/ready-to-wear/all-ready-to-wear/_/N-dphk1r",
+          "alternateName": "all-ready-to-wear",
+          "name": "すべてのメンズプレタポルテ（洋服）",
+          "identifier": "nvcat910171v"
+        }
+      ],
+      "disclaimers": {
+        "value": "shipping_warning_bo",
+        "popInContent": "global_backorder_info_popin_content",
+        "popInTitle": "global_backorder_info_popin_title"
+      },
+      "color": "ブロン",
+      "@context": "http://schema.org",
+      "identifier": "1A5VIZ"
+    },
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/1A5VJ5/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod1780323v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/1A5VJ5"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/1A5VJ5/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod1780323v/1A5VJ5/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ブラック",
+      "@type": "ProductModel",
+      "name": "フーディ",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 114400
+        },
+        "@type": "Offer",
+        "price": "¥114,400"
+      },
+      "disambiguatingDescription": "定番のカジュアルアイテムをルーズなシルエットで表現したフーディ。目の詰まったコットンをゆったりと仕立て、取外し可能なルイ･ヴィトン ステープルズ エディションを象徴するラベルをあしらいました。背面に添えたインサイドアウトの雰囲気を演出するラベルや、フロント部分のカンガルーポケットにあしらった刻印入りのステープルといったディテールが、メゾンならではの個性を放ちます。<p>ご不明な点がございましたら、クライアントサービスまでお気軽にお問合せください。専任のクライアントアドバイザーが、素材やサイズなどの製品詳細、モデル着用イメージや関連アイテムのご案内など、お客様のご要望に合わせたスタイリング・アドバイスをご提供いたします。</p><p>また、サイズ違いなどによる返品・交換のご相談も承ります。詳細は<a href='https://jp.louisvuitton.com/jpn-jp/legal-privacy'><b>こちら。</b></a></p>",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-フーディ-プレタポルテ（洋服）--HIY48WNPH900_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "playerType": "freecaster",
+          "contentUrl": "https://player.louisvuitton.com/embed/1321505",
+          "@type": "ImageObject",
+          "name": "freecaster media",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-フーディ-プレタポルテ（洋服）--HIY48WNPH900_PM1_Worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Worn view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-フーディ-プレタポルテ（洋服）--HIY48WNPH900_PM1_Closeup view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Closeup view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-フーディ-プレタポルテ（洋服）--HIY48WNPH900_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/hoodie-nvprod1780323v",
+      "highEndTemplate": false,
+      "sizeDisplayName": "S0",
+      "productId": "nvprod1780323v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-SHO-980_noir.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>本体：コットン 100%</li><li>ルーズフィット</li><li>モデル着用Mサイズ</li><li>モデル：胸囲 86.5cm、身長 186cm</li><li>イタリア製</li><li>REF：HIY48WNPH</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z05"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Ready_To_Wear_Men"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-1cyoz77",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/ready-to-wear/_/N-1lpb5id",
+          "alternateName": "ready-to-wear",
+          "name": "プレタポルテ（洋服）",
+          "identifier": "m-readytowear"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/ready-to-wear/all-ready-to-wear/_/N-dphk1r",
+          "alternateName": "all-ready-to-wear",
+          "name": "すべてのメンズプレタポルテ（洋服）",
+          "identifier": "nvcat910171v"
+        }
+      ],
+      "disclaimers": {
+        "value": "pre_order_disclaimer",
+        "popInContent": "pre_order_disclaimer_info_popin_content",
+        "popInTitle": "pre_order_disclaimer_info_popin_title"
+      },
+      "color": "ノワール",
+      "@context": "http://schema.org",
+      "identifier": "1A5VJ5"
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "/api/catalog/jpn-jp/product/nvprod1780323v"
+    },
+    "push": {
+      "href": "/api/catalog/jpn-jp/product-push/nvprod1780323v"
+    },
+    "care-link": {
+      "href": "/api/catalog/jpn-jp/care-link/nvprod1780323v"
+    },
+    "size-guide": {
+      "href": "/api/catalog/jpn-jp/size-guide/nvprod1780323v"
+    },
+    "availability": {
+      "href": "/api/catalog/jpn-jp/availability/nvprod1780323v"
+    }
+  },
+  "@type": "Product",
+  "sku": "1A5VIZ",
+  "isSimilarTo": [],
+  "productTips": [],
+  "url": "/jpn-jp/products/hoodie-nvprod1780323v",
+  "category": [
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/_/N-1cyoz77",
+      "alternateName": "men",
+      "name": "メンズ",
+      "identifier": "homme"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/ready-to-wear/_/N-1lpb5id",
+      "alternateName": "ready-to-wear",
+      "name": "プレタポルテ（洋服）",
+      "identifier": "m-readytowear"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/ready-to-wear/all-ready-to-wear/_/N-dphk1r",
+      "alternateName": "all-ready-to-wear",
+      "name": "すべてのメンズプレタポルテ（洋服）",
+      "identifier": "nvcat910171v"
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "hidePrice",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "subType",
+      "value": "product"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "sizeGuide",
+      "value": true
+    }
+  ],
+  "name": "フーディ",
+  "isRelatedTo": [],
+  "@context": "http://schema.org",
+  "identifier": "nvprod1780323v"
+}

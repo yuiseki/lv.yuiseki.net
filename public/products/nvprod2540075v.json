@@ -1,0 +1,447 @@
+{
+  "model": [
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/GI0501/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod2540075v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/GI0501"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/GI0501/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod2540075v/GI0501/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ベージュ",
+      "@type": "ProductModel",
+      "height": {
+        "@type": "QuantitativeValue",
+        "value": 66,
+        "unitText": "cm"
+      },
+      "name": "エクササイズ マット",
+      "width": {
+        "@type": "QuantitativeValue",
+        "value": 0.45,
+        "unitText": "cm"
+      },
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 279400
+        },
+        "@type": "Offer",
+        "price": "¥279,400"
+      },
+      "disambiguatingDescription": "メディテーションに相応しいなめらかな構造で仕上げた、ルイ･ヴィトンならではのエクササイズ マット。ヌメ革のディテール、モノグラム･キャンバスのストラップとカードホルダーなど、ラグジュアリーなメゾンのシグネチャーが魅力です。マットはしなやかな素材を使用し、滑り止めを施して安全性を高めました。 ",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-エクササイズ-マット-スポーツ-ライフスタイル--GI0501_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-エクササイズ-マット-スポーツ-ライフスタイル--GI0501_PM1_Worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Worn view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-エクササイズ-マット-スポーツ-ライフスタイル--GI0501_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-エクササイズ-マット-スポーツ-ライフスタイル--GI0501_PM1_Detail view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Detail view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-エクササイズ-マット-スポーツ-ライフスタイル--GI0501_PM1_Other view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Other view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-エクササイズ-マット-スポーツ-ライフスタイル--GI0501_PM1_Other view4.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Other view4",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/exercise-mat-nvprod2540075v",
+      "material": "OTHER",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 178,
+        "unitText": "cm"
+      },
+      "highEndTemplate": false,
+      "productId": "nvprod2540075v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-ACC-906_beige.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>マット本体サイズ：66 x 178 x 0.5 cm </li><li>マットホルダーサイズ：66 x 14 x 16 cm</li><li>ホルダー素材：レザー（皮革の種類：牛革）、モノグラム・キャンバス</li><li>金具（色：ゴールド）</li><li>モノグラム・パターン</li><li>ネームタグ</li><li>カードホルダー</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories;Sunglasses"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/art-of-living/_/N-kmf9ty",
+          "alternateName": "art-of-living",
+          "name": "ライフスタイル",
+          "identifier": "nvcat1840004v"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/art-of-living/sport-and-lifestyle/_/N-1nxn7wx",
+          "alternateName": "sport-and-lifestyle",
+          "name": "スポーツ&ライフスタイル",
+          "identifier": "nvcat1840007v"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/art-of-living/sport-and-lifestyle/sporting-goods/_/N-y76ouw",
+          "alternateName": "sporting-goods",
+          "name": "スポーツ",
+          "identifier": "nvcat1840017v"
+        }
+      ],
+      "disclaimers": {
+        "value": "pre_order_disclaimer",
+        "popInContent": "pre_order_disclaimer_info_popin_content",
+        "popInTitle": "pre_order_disclaimer_info_popin_title"
+      },
+      "color": "ベージュ",
+      "@context": "http://schema.org",
+      "identifier": "GI0501"
+    },
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/GI0675/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod2540075v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/GI0675"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/GI0675/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod2540075v/GI0675/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "グリーン",
+      "@type": "ProductModel",
+      "height": {
+        "@type": "QuantitativeValue",
+        "value": 66,
+        "unitText": "cm"
+      },
+      "name": "エクササイズ マットホルダー",
+      "width": {
+        "@type": "QuantitativeValue",
+        "value": 0.45,
+        "unitText": "cm"
+      },
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 279400
+        },
+        "@type": "Offer",
+        "price": "¥279,400"
+      },
+      "disambiguatingDescription": "メディテーションに相応しいなめらかな構造で仕上げた、ルイ･ヴィトンならではの「エクササイズ マットホルダー」。ヌメ革のディテール、モノグラム･キャンバスのストラップとカードホルダーなど、ラグジュアリーなメゾンのシグネチャーが魅力です。マットはしなやかな素材を使用し、滑り止めを施して安全性を高めました。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-エクササイズ-マットホルダー-スポーツ-ライフスタイル--GI0675_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-エクササイズ-マットホルダー-スポーツ-ライフスタイル--GI0675_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-エクササイズ-マットホルダー-スポーツ-ライフスタイル--GI0675_PM1_Detail view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Detail view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-エクササイズ-マットホルダー-スポーツ-ライフスタイル--GI0675_PM1_Other view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Other view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/exercise-mat-nvprod2540075v",
+      "material": "OTHER",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 178,
+        "unitText": "cm"
+      },
+      "highEndTemplate": false,
+      "productId": "nvprod2540075v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-ACC-966_kaki.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>サイズ：178 x 66 x 0.45 cm</li><li>素材：モノグラム･キャンバス、レザー（皮革の種類：牛革）</li><li>金具（色：ゴールド）</li><li>調節可能なショルダーストラップ</li><li>トップハンドル</li><li>ネームタグ、カードホルダー</li><li>モノグラム･パターン</li><li>ハンドルにLouis Vuittonシグネチャー</li><li>マットにLouis Vuitton Parisシグネチャー</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories;Sunglasses"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/art-of-living/_/N-kmf9ty",
+          "alternateName": "art-of-living",
+          "name": "ライフスタイル",
+          "identifier": "nvcat1840004v"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/art-of-living/sport-and-lifestyle/_/N-1nxn7wx",
+          "alternateName": "sport-and-lifestyle",
+          "name": "スポーツ&ライフスタイル",
+          "identifier": "nvcat1840007v"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/art-of-living/sport-and-lifestyle/sporting-goods/_/N-y76ouw",
+          "alternateName": "sporting-goods",
+          "name": "スポーツ",
+          "identifier": "nvcat1840017v"
+        }
+      ],
+      "disclaimers": {
+        "value": "pre_order_disclaimer",
+        "popInContent": "pre_order_disclaimer_info_popin_content",
+        "popInTitle": "pre_order_disclaimer_info_popin_title"
+      },
+      "color": "カーキ",
+      "@context": "http://schema.org",
+      "identifier": "GI0675"
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "/api/catalog/jpn-jp/product/nvprod2540075v"
+    },
+    "push": {
+      "href": "/api/catalog/jpn-jp/product-push/nvprod2540075v"
+    },
+    "care-link": {
+      "href": "/api/catalog/jpn-jp/care-link/nvprod2540075v"
+    },
+    "availability": {
+      "href": "/api/catalog/jpn-jp/availability/nvprod2540075v"
+    }
+  },
+  "@type": "Product",
+  "sku": "GI0675",
+  "isSimilarTo": [],
+  "productTips": [],
+  "url": "/jpn-jp/products/exercise-mat-nvprod2540075v",
+  "material": "ファッション小物",
+  "category": [
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/art-of-living/_/N-kmf9ty",
+      "alternateName": "art-of-living",
+      "name": "ライフスタイル",
+      "identifier": "nvcat1840004v"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/art-of-living/sport-and-lifestyle/_/N-1nxn7wx",
+      "alternateName": "sport-and-lifestyle",
+      "name": "スポーツ&ライフスタイル",
+      "identifier": "nvcat1840007v"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/art-of-living/sport-and-lifestyle/sporting-goods/_/N-y76ouw",
+      "alternateName": "sporting-goods",
+      "name": "スポーツ",
+      "identifier": "nvcat1840017v"
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "hidePrice",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "subType",
+      "value": "product"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "materialIconURL",
+      "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--AEL-LG-N00_sans_ligne_esthetique.jpg"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "sizeGuide",
+      "value": false
+    }
+  ],
+  "name": "エクササイズ マットホルダー",
+  "isRelatedTo": [],
+  "@context": "http://schema.org",
+  "identifier": "nvprod2540075v"
+}

@@ -1,0 +1,575 @@
+{
+  "model": [
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/M77700/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod3630028v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/M77700"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/M77700/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod3630028v/M77700/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "マロン",
+      "@type": "ProductModel",
+      "height": {
+        "@type": "QuantitativeValue",
+        "value": 8,
+        "unitText": "cm"
+      },
+      "name": "バンドー・ミックス アンド ストラップ",
+      "mainMaterial2": "SILK",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 30800
+        },
+        "@type": "Offer",
+        "price": "¥30,800"
+      },
+      "disambiguatingDescription": "ラグジュアリーなシルク100％の生地にフレッシュなプリントを施し、エレガントに仕上げた「バンドー･ミックス アンド ストラップ」。アイコニックなモノグラム･パターンに、ストラップやチェーン、タッセルなどメゾンが誇るレザーグッズ･コレクションから着想を得たモチーフを散りばめました。コントラストカラーのボーダーや「Louis Vuitton」シグネチャーなどのアイキャッチなディテールも魅力です。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-バンドー・ミックス-アンド-ストラップ-s00-新作アクセサリー--M77700_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-バンドー・ミックス-アンド-ストラップ-s00-新作アクセサリー--M77700_PM1_Closeup view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Closeup view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-バンドー・ミックス-アンド-ストラップ-s00-新作アクセサリー--M77700_PM1_Back view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Back view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/mix-and-straps-bandeau-s00-nvprod3630028v",
+      "material": "SILK",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 120,
+        "unitText": "cm"
+      },
+      "highEndTemplate": false,
+      "productId": "nvprod3630028v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-WAT-Z15_brown.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>素材：シルク 100%</li><li>インクジェットプリント</li><li>モノグラム･パターン</li><li>ストラップ、チェーンのモチーフ</li><li>Louis Vuittonシグネチャー</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories;Sunglasses"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/_/N-1q5sgib",
+          "alternateName": "women",
+          "name": "ウィメンズ",
+          "identifier": "femme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/accessories/_/N-1oyzg8c",
+          "alternateName": "accessories",
+          "name": "アクセサリー",
+          "identifier": "w-category-cat10155"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/accessories/new-this-season/_/N-gw7rul",
+          "alternateName": "new-this-season",
+          "name": "新作アクセサリー",
+          "identifier": "nvcat1280022v"
+        }
+      ],
+      "disclaimers": {
+        "value": "shipping_warning_bo",
+        "popInContent": "global_backorder_info_popin_content",
+        "popInTitle": "global_backorder_info_popin_title"
+      },
+      "color": "marron",
+      "@context": "http://schema.org",
+      "identifier": "M77700"
+    },
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/M77698/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod3630028v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/M77698"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/M77698/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod3630028v/M77698/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ベージュ",
+      "@type": "ProductModel",
+      "height": {
+        "@type": "QuantitativeValue",
+        "value": 8,
+        "unitText": "cm"
+      },
+      "name": "バンドー・ミックス アンド ストラップ",
+      "mainMaterial2": "SILK",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 30800
+        },
+        "@type": "Offer",
+        "price": "¥30,800"
+      },
+      "disambiguatingDescription": "ラグジュアリーなシルク100％の生地にフレッシュなプリントを施し、エレガントに仕上げた「バンドー･ミックス アンド ストラップ」。アイコニックなモノグラム･パターンに、ストラップやチェーン、タッセルなどメゾンが誇るレザーグッズ･コレクションから着想を得たモチーフを散りばめました。コントラストカラーのボーダーや「Louis Vuitton」シグネチャーなどのアイキャッチなディテールも魅力です。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-バンドー・ミックス-アンド-ストラップ-s00-新作アクセサリー--M77698_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-バンドー・ミックス-アンド-ストラップ-s00-新作アクセサリー--M77698_PM1_Closeup view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Closeup view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-バンドー・ミックス-アンド-ストラップ-s00-新作アクセサリー--M77698_PM1_Back view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Back view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/mix-and-straps-bandeau-s00-nvprod3630028v",
+      "material": "SILK",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 120,
+        "unitText": "cm"
+      },
+      "highEndTemplate": false,
+      "productId": "nvprod3630028v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--BEIGE.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>素材：シルク 100%</li><li>インクジェットプリント</li><li>モノグラム･パターン</li><li>ストラップ、チェーンのモチーフ</li><li>Louis Vuittonシグネチャー</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories;Sunglasses"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/_/N-1q5sgib",
+          "alternateName": "women",
+          "name": "ウィメンズ",
+          "identifier": "femme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/accessories/_/N-1oyzg8c",
+          "alternateName": "accessories",
+          "name": "アクセサリー",
+          "identifier": "w-category-cat10155"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/accessories/new-this-season/_/N-gw7rul",
+          "alternateName": "new-this-season",
+          "name": "新作アクセサリー",
+          "identifier": "nvcat1280022v"
+        }
+      ],
+      "disclaimers": {
+        "value": "shipping_warning_bo",
+        "popInContent": "global_backorder_info_popin_content",
+        "popInTitle": "global_backorder_info_popin_title"
+      },
+      "color": "ベージュ",
+      "@context": "http://schema.org",
+      "identifier": "M77698"
+    },
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/M77699/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod3630028v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/M77699"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/M77699/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod3630028v/M77699/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ピンク",
+      "@type": "ProductModel",
+      "height": {
+        "@type": "QuantitativeValue",
+        "value": 8,
+        "unitText": "cm"
+      },
+      "name": "バンドー・ミックス アンド ストラップ",
+      "mainMaterial2": "SILK",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 30800
+        },
+        "@type": "Offer",
+        "price": "¥30,800"
+      },
+      "disambiguatingDescription": "ラグジュアリーなシルク100％の生地にフレッシュなプリントを施し、エレガントに仕上げた「バンドー･ミックス アンド ストラップ」。アイコニックなモノグラム･パターンに、ストラップやチェーン、タッセルなどメゾンが誇るレザーグッズ･コレクションから着想を得たモチーフを散りばめました。コントラストカラーのボーダーや「Louis Vuitton」シグネチャーなどのアイキャッチなディテールも魅力です。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-バンドー・ミックス-アンド-ストラップ-s00-新作アクセサリー--M77699_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-バンドー・ミックス-アンド-ストラップ-s00-新作アクセサリー--M77699_PM1_Back view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Back view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/mix-and-straps-bandeau-s00-nvprod3630028v",
+      "material": "SILK",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 120,
+        "unitText": "cm"
+      },
+      "highEndTemplate": false,
+      "productId": "nvprod3630028v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-RTW-501_rose.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>素材：シルク 100%</li><li>インクジェットプリント</li><li>モノグラム･パターン</li><li>ストラップ、チェーンのモチーフ</li><li>Louis Vuittonシグネチャー</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories;Sunglasses"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/_/N-1q5sgib",
+          "alternateName": "women",
+          "name": "ウィメンズ",
+          "identifier": "femme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/accessories/_/N-1oyzg8c",
+          "alternateName": "accessories",
+          "name": "アクセサリー",
+          "identifier": "w-category-cat10155"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/accessories/new-this-season/_/N-gw7rul",
+          "alternateName": "new-this-season",
+          "name": "新作アクセサリー",
+          "identifier": "nvcat1280022v"
+        }
+      ],
+      "disclaimers": {
+        "value": "shipping_warning_bo",
+        "popInContent": "global_backorder_info_popin_content",
+        "popInTitle": "global_backorder_info_popin_title"
+      },
+      "color": "ローズ",
+      "@context": "http://schema.org",
+      "identifier": "M77699"
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "/api/catalog/jpn-jp/product/nvprod3630028v"
+    },
+    "push": {
+      "href": "/api/catalog/jpn-jp/product-push/nvprod3630028v"
+    },
+    "care-link": {
+      "href": "/api/catalog/jpn-jp/care-link/nvprod3630028v"
+    },
+    "availability": {
+      "href": "/api/catalog/jpn-jp/availability/nvprod3630028v"
+    }
+  },
+  "@type": "Product",
+  "sku": "M77699",
+  "isSimilarTo": [],
+  "productTips": [],
+  "url": "/jpn-jp/products/mix-and-straps-bandeau-s00-nvprod3630028v",
+  "material": "NOT APPLICABLE ACC",
+  "category": [
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/women/_/N-1q5sgib",
+      "alternateName": "women",
+      "name": "ウィメンズ",
+      "identifier": "femme"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/women/accessories/_/N-1oyzg8c",
+      "alternateName": "accessories",
+      "name": "アクセサリー",
+      "identifier": "w-category-cat10155"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/women/accessories/new-this-season/_/N-gw7rul",
+      "alternateName": "new-this-season",
+      "name": "新作アクセサリー",
+      "identifier": "nvcat1280022v"
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "hidePrice",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "subType",
+      "value": "product"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "sizeGuide",
+      "value": false
+    }
+  ],
+  "name": "バンドー・ミックス アンド ストラップ",
+  "isRelatedTo": [],
+  "@context": "http://schema.org",
+  "identifier": "nvprod3630028v"
+}

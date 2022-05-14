@@ -1,0 +1,241 @@
+{
+  "model": [
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/R08279/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/015601"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/R08279"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/R08279/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/015601/R08279/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "@type": "ProductModel",
+      "name": "ファッション・アイ カリフォルニア",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 6270
+        },
+        "@type": "Offer",
+        "price": "¥6,270"
+      },
+      "disambiguatingDescription": "「ルイ･ヴィトン ファッション アイ」は、ファッションフォトグラファーたちが自らの「Eye(アイ)」＝視点を通じて街や地域、国を捉えます。「ファッション アイ」は新しい才能や、経験豊かなフォトグラファーたち、そして伝説的なファッション写真の対話の場でもあります。この写真集は、カナダ出身のフォトグラファー、コートニー･ロイの作品を通じて、カリフォルニアの一風変わった姿を写し出します。彼女は自画像のモデルであり職人でもあり、ファンタジーに満ちたポーズを自らカメラの前で演出します。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ファッション・アイ-カリフォルニア-トラベル--R08279_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ファッション・アイ-カリフォルニア-トラベル--R08279_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ファッション・アイ-カリフォルニア-トラベル--R08279_PM1_Interior view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Interior view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ファッション・アイ-カリフォルニア-トラベル--R08279_PM1_Detail view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Detail view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ファッション・アイ-カリフォルニア-トラベル--R08279_PM1_Back view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Back view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ファッション・アイ-カリフォルニア-トラベル--R08279_PM1_Other view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Other view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/fashion-eye-california-015601",
+      "highEndTemplate": false,
+      "productId": "015601",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>Kourtney Roy (1981-)はファッション雑誌Numéro、 Vogue、Japan、GQ France、Esquire UKなどとコラボレーションを果たしている有能なフォトグラファーです</li><li>編集者：Patrick Rémy</li><li>仏語と英語のバイリンガル版</li><li>アーティストの略歴やエッセー、50～100のフォトとそのキャプションを掲載した一冊</li><li>シルクスクリーンプリントを施した布地のバインディング</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "hotstampable",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Books;Writing"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-1cyoz77",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/travel/_/N-6i5cqv",
+          "alternateName": "travel",
+          "name": "トラベル",
+          "identifier": "m-category-cat10013"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/travel/travel-books/_/N-kk0xar",
+          "alternateName": "travel-books",
+          "name": "トラベルブック",
+          "identifier": "nvcat940052v"
+        }
+      ],
+      "disclaimers": {
+        "value": "shipping_warning_bo",
+        "popInContent": "global_backorder_info_popin_content",
+        "popInTitle": "global_backorder_info_popin_title"
+      },
+      "@context": "http://schema.org",
+      "identifier": "R08279"
+    }
+  ],
+  "disambiguatingDescription": "「ルイ･ヴィトン ファッション アイ」は、ファッションフォトグラファーたちが自らの「Eye(アイ)」＝視点を通じて街や地域、国を捉えます。「ファッション アイ」は新しい才能や、経験豊かなフォトグラファーたち、そして伝説的なファッション写真の対話の場でもあります。この写真集は、カナダ出身のフォトグラファー、コートニー･ロイの作品を通じて、カリフォルニアの一風変わった姿を写し出します。彼女は自画像のモデルであり職人でもあり、ファンタジーに満ちたポーズを自らカメラの前で演出します。",
+  "_links": {
+    "self": {
+      "href": "/api/catalog/jpn-jp/product/015601"
+    },
+    "push": {
+      "href": "/api/catalog/jpn-jp/product-push/015601"
+    },
+    "care-link": {
+      "href": "/api/catalog/jpn-jp/care-link/015601"
+    },
+    "availability": {
+      "href": "/api/catalog/jpn-jp/availability/015601"
+    }
+  },
+  "@type": "Product",
+  "sku": "R08279",
+  "isSimilarTo": [],
+  "productTips": [],
+  "url": "/jpn-jp/products/fashion-eye-california-015601",
+  "category": [
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/_/N-1cyoz77",
+      "alternateName": "men",
+      "name": "メンズ",
+      "identifier": "homme"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/travel/_/N-6i5cqv",
+      "alternateName": "travel",
+      "name": "トラベル",
+      "identifier": "m-category-cat10013"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/travel/travel-books/_/N-kk0xar",
+      "alternateName": "travel-books",
+      "name": "トラベルブック",
+      "identifier": "nvcat940052v"
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "hidePrice",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "subType",
+      "value": "product"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "hotStampable",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "sizeGuide",
+      "value": false
+    }
+  ],
+  "name": "ファッション・アイ カリフォルニア",
+  "isRelatedTo": [],
+  "@context": "http://schema.org",
+  "identifier": "015601"
+}

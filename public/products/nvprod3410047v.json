@@ -1,0 +1,262 @@
+{
+  "model": [
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/M81221/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod3410047v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/M81221"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/M81221/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod3410047v/M81221/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ブルー",
+      "@type": "ProductModel",
+      "height": {
+        "@type": "QuantitativeValue",
+        "value": 19.5,
+        "unitText": "cm"
+      },
+      "name": "サックプラ XS",
+      "mainMaterial2": "TAURILLON",
+      "width": {
+        "@type": "QuantitativeValue",
+        "value": 5.5,
+        "unitText": "cm"
+      },
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 326700
+        },
+        "@type": "Offer",
+        "price": "¥326,700"
+      },
+      "disambiguatingDescription": "モノグラム･パターンをエンボス加工したトリヨンレザーで仕立てた「サック･プラ XS」。メゾンを象徴する「サック･プラ」を、ヴァージル･アブローならではのスタイルでミニチュアサイズにアップデートしました。レザーにエアブラシで吹き付けたかのような、2色のネオンカラーのグラデーションが魅力です。トップハンドルと取外し & 調節可能なストラップ付き。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-サックプラ-xs-その他レザー-バッグ--M81221_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-サックプラ-xs-その他レザー-バッグ--M81221_PM1_Worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Worn view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-サックプラ-xs-その他レザー-バッグ--M81221_PM1_Closeup view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Closeup view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/sac-plat-xs-other-leathers-nvprod3410047v",
+      "material": "トリヨン",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 16,
+        "unitText": "cm"
+      },
+      "highEndTemplate": false,
+      "productId": "nvprod3410047v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-ACC-9B2_bleu_vert.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>素材：トリヨンレザー（皮革の種類：牛革）</li><li>ライニング：テキスタイル</li><li>トリミング：レザー（皮革の種類：牛革）</li><li>金具（色：シルバー）</li><li>コンパートメント</li><li>ストラップ：取り外し可能, 調整可能</li><li>ストラップの頂点からバッグ上部までの長さ(最短)：35.0 cm</li><li>ストラップの頂点からバッグ上部までの長さ(最長)：46.0 cm</li><li>ハンドル：ダブル</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z01"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-1cyoz77",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/bags/_/N-1t1tgex",
+          "alternateName": "bags",
+          "name": "バッグ",
+          "identifier": "m-category-cat10001"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/bags/small-bags-and-belt-bags/_/N-17baay6",
+          "alternateName": "small-bags-and-belt-bags",
+          "name": "メンズ クラッチ＆ボディバッグ",
+          "identifier": "nvcat1080050v"
+        }
+      ],
+      "disclaimers": {
+        "value": "pre_order_disclaimer",
+        "popInContent": "pre_order_disclaimer_info_popin_content",
+        "popInTitle": "pre_order_disclaimer_info_popin_title"
+      },
+      "color": "ブルー ヴェール",
+      "@context": "http://schema.org",
+      "identifier": "M81221"
+    }
+  ],
+  "panelInformations": [
+    {
+      "@type": "ProductCare",
+      "title": "素材とお手入れ方法、修理",
+      "description": "<ul><li>研磨剤や目の粗い表面との接触を避けてください。特に、レザートリミング部分についてはご注意ください。</li><li>\n本製品は風通しの悪い場所での保管･放置を避け、風通しの良い乾燥した場所に保管してください。また、高温になる場所(暖房器具のそば、直射日光が当たる車内など)には短時間でも保管･放置しないでください。保管の際は、付属の布袋をご使用ください。</li><li>\n油性の製品（グリースや化粧品、ハンドクリームなど）やアルコールを含んだ製品（アルコール消毒ジェル、アルコール消毒スプレー、香水、マニキュア、除光液、ベンジンなど）、色移りの原因となる素材(雑誌、カラーレザーなど)との接触は避けてください。化粧品やアルコールを含んだ製品、香水などをご使用の際には5-10分ほど時間をおき、手指や肌が完全に乾いてから、製品に触れていただきますようお願い申しあげます。</li><li>\n水との接触は避けてください。表面が濡れたり汚れたりした場合は、毛羽立ちや糸くずなどがない、白い吸水性に優れた布で拭き取ってください。石鹸や溶剤は決して使わないでください。</li><li>\nレザー部分が汚れたり、ライニング部分にシミがついた場合は、柔らかい白い布で拭き取るようにしてください。石鹸や溶剤は決して使わないでください。</li><li>\n保管の際は、付属の布袋をご使用ください。温度や湿度が高く、風通しの悪い場所での保管･放置は避けてください。</li></ul>\n<p><u>リペアサービスのご案内：</u><br>\nルイ・ヴィトンでは、製品を末永くご愛用いただけるようリペアサービスを承っております。\nお客様のご要望をお伺いした上で、パリのアトリエと同じパーツを使用し、熟練した職人が真心を込めて、1点1点丁寧に修理いたします。ご利用方法は、「<a href=\"http://jp.louisvuitton.com/jpnjp/startthejourney\">ヘルプ</a>」セクション内の「<a href=\"http://jp.louisvuitton.com/jpnjp/repair\">リペアサービス</a>」をご覧ください。<br>\nまた、お問合せ・ご相談はクライアントサービスおよび全国のルイ・ヴィトン ストアまでお気軽にご連絡ください(阪急梅田店、阪急メンズ店、LOUIS VUITTON DOVER STREET MARKET GINZA店は除く)。</p>",
+      "introduction": "<div class=\"popinHeader uppercase\">トリヨンレザーの注意点をお読みいただき、製品の特性をあらかじめご理解いただいた上で、末永くご愛用くださいますようお願い申しあげます。</div>"
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "/api/catalog/jpn-jp/product/nvprod3410047v"
+    },
+    "push": {
+      "href": "/api/catalog/jpn-jp/product-push/nvprod3410047v"
+    },
+    "care-link": {
+      "href": "/api/catalog/jpn-jp/care-link/nvprod3410047v"
+    },
+    "availability": {
+      "href": "/api/catalog/jpn-jp/availability/nvprod3410047v"
+    }
+  },
+  "@type": "Product",
+  "sku": "M81221",
+  "isSimilarTo": [],
+  "productTips": [],
+  "url": "/jpn-jp/products/sac-plat-xs-other-leathers-nvprod3410047v",
+  "material": "その他レザー",
+  "category": [
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/_/N-1cyoz77",
+      "alternateName": "men",
+      "name": "メンズ",
+      "identifier": "homme"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/bags/_/N-1t1tgex",
+      "alternateName": "bags",
+      "name": "バッグ",
+      "identifier": "m-category-cat10001"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/bags/small-bags-and-belt-bags/_/N-17baay6",
+      "alternateName": "small-bags-and-belt-bags",
+      "name": "メンズ クラッチ＆ボディバッグ",
+      "identifier": "nvcat1080050v"
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "hidePrice",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "subType",
+      "value": "product"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "materialIconURL",
+      "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MATAEL-LG-Other_Leathers.jpg"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "careLink",
+      "value": "MATAE-LG-T01"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "sizeGuide",
+      "value": false
+    }
+  ],
+  "name": "サックプラ XS",
+  "isRelatedTo": [],
+  "@context": "http://schema.org",
+  "identifier": "nvprod3410047v"
+}

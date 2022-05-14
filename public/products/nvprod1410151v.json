@@ -1,0 +1,994 @@
+{
+  "model": [
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/R98507/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod1410151v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/R98507"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/R98507/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod1410151v/R98507/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ホワイト",
+      "@type": "ProductModel",
+      "height": {
+        "@type": "QuantitativeValue",
+        "value": 45,
+        "unitText": "cm"
+      },
+      "name": "Blossom Stool By Tokujin Yoshioka",
+      "width": {
+        "@type": "QuantitativeValue",
+        "value": 45,
+        "unitText": "cm"
+      },
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 1419000
+        },
+        "@type": "Offer",
+        "price": "¥1,419,000"
+      },
+      "disambiguatingDescription": "アートや建築、デザインの領域で革新を続ける吉岡徳仁がテーマとして選好してきた自然のフォルムを表現した「Blossom Stool」。「ルイ･ヴィトン オブジェ･ノマド コレクション」のために作られたアイテムです。4枚の合板で作り上げられた「花びら」は柔らかいカーフレザーでライニングされ、目を引く渦のデザインへと昇華していきます。そのフォルムはルイ･ヴィトンのモノグラム･フラワーを想起させます。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-blossom-stool-by-tokujin-yoshioka-アッシュ-ウッド-ホーム--R98507_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-blossom-stool-by-tokujin-yoshioka-アッシュ-ウッド-ホーム--R98507_PM1_Closeup view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Closeup view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-blossom-stool-by-tokujin-yoshioka-アッシュ-ウッド-ホーム--R98507__PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "PM1",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-blossom-stool-by-tokujin-yoshioka-アッシュ-ウッド-ホーム--R98507_PM1_Interior view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Interior view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-blossom-stool-by-tokujin-yoshioka-アッシュ-ウッド-ホーム--R98507_PM1_Ambiance view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Ambiance view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/blossom-stool-by-tokujin-yoshioka-ash-wood-nvprod1410151v",
+      "material": "WOOD",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 45,
+        "unitText": "cm"
+      },
+      "highEndTemplate": false,
+      "productId": "nvprod1410151v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-LG-97D_milk.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>サイズ：46 x　Ø 44 cm</li><li>オブジェ･ノマド コレクション</li><li>重さ：6 kg</li><li>素材：アッシュウッド、カーフレザー（皮革の種類：牛革）</li><li>エッジ部分に洗練されたパイピング</li><li>強固な多層合板</li><li>金具のロゴ</li><li>耐荷重：100 kg</li><li>各1000色限定</li><li>イタリア製</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z01"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/art-of-living/_/N-kmf9ty",
+          "alternateName": "art-of-living",
+          "name": "ライフスタイル",
+          "identifier": "nvcat1840004v"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/art-of-living/home/_/N-1181e7i",
+          "alternateName": "home",
+          "name": "ホーム",
+          "identifier": "nvcat1840008v"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/art-of-living/home/furniture/_/N-lpzrtm",
+          "alternateName": "furniture",
+          "name": "ファニチャー",
+          "identifier": "nvcat1840019v"
+        }
+      ],
+      "disclaimers": {
+        "value": "shipping_warning_bo",
+        "popInContent": "global_backorder_info_popin_content",
+        "popInTitle": "global_backorder_info_popin_title"
+      },
+      "color": "Milk",
+      "@context": "http://schema.org",
+      "identifier": "R98507"
+    },
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/R98817/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod1410151v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/R98817"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/R98817/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod1410151v/R98817/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "グレー",
+      "@type": "ProductModel",
+      "name": "Blossom Stool By Tokujin Yoshioka",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 1419000
+        },
+        "@type": "Offer",
+        "price": "¥1,419,000"
+      },
+      "disambiguatingDescription": "アートや建築、デザインの領域で革新を続ける吉岡徳仁がテーマとして選好してきた自然のフォルムを表現した「Blossom Stool」。「ルイ･ヴィトン オブジェ･ノマド コレクション」のために作られたアイテムです。4枚の合板で作り上げられた「花びら」は柔らかいカーフレザーでライニングされ、目を引く渦のデザインへと昇華していきます。そのフォルムはルイ･ヴィトンのモノグラム･フラワーを想起させます。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-blossom-stool-by-tokujin-yoshioka-アッシュ-ウッド-ホーム--R98817_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/blossom-stool-by-tokujin-yoshioka-ash-wood-nvprod1410151v",
+      "material": "WOOD",
+      "highEndTemplate": false,
+      "productId": "nvprod1410151v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-RTW-901_anthracite.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>サイズ：46 x　Ø 44 cm</li><li>オブジェ･ノマド コレクション</li><li>重さ：6 kg</li><li>素材：アッシュウッド、カーフレザー（皮革の種類：牛革）</li><li>エッジ部分に洗練されたパイピング</li><li>強固な多層合板</li><li>金具のロゴ</li><li>耐荷重：100 kg</li><li>各1000色限定</li><li>イタリア製</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z01"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/art-of-living/_/N-kmf9ty",
+          "alternateName": "art-of-living",
+          "name": "ライフスタイル",
+          "identifier": "nvcat1840004v"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/art-of-living/home/_/N-1181e7i",
+          "alternateName": "home",
+          "name": "ホーム",
+          "identifier": "nvcat1840008v"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/art-of-living/home/furniture/_/N-lpzrtm",
+          "alternateName": "furniture",
+          "name": "ファニチャー",
+          "identifier": "nvcat1840019v"
+        }
+      ],
+      "disclaimers": {
+        "value": "shipping_warning_bo",
+        "popInContent": "global_backorder_info_popin_content",
+        "popInTitle": "global_backorder_info_popin_title"
+      },
+      "color": "Anthracite",
+      "@context": "http://schema.org",
+      "identifier": "R98817"
+    },
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/R99456/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod1410151v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/R99456"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/R99456/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod1410151v/R99456/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ブラック",
+      "@type": "ProductModel",
+      "height": {
+        "@type": "QuantitativeValue",
+        "value": 46,
+        "unitText": "cm"
+      },
+      "name": "Blossom Stool By Tokujin Yoshioka",
+      "mainMaterial2": "WOOD",
+      "width": {
+        "@type": "QuantitativeValue",
+        "value": 43,
+        "unitText": "cm"
+      },
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 1419000
+        },
+        "@type": "Offer",
+        "price": "¥1,419,000"
+      },
+      "disambiguatingDescription": "アートや建築、デザインの領域で革新を続ける吉岡徳仁がテーマとして選好してきた自然のフォルムを表現した「Blossom Stool」。「ルイ･ヴィトン オブジェ･ノマド コレクション」のために作られたアイテムです。4枚の合板で作り上げられた「花びら」は柔らかいカーフレザーでライニングされ、目を引く渦のデザインへと昇華していきます。そのフォルムはルイ･ヴィトンのモノグラム･フラワーを想起させます。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-blossom-stool-by-tokujin-yoshioka-アッシュ-ウッド-ホーム--R99456_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-blossom-stool-by-tokujin-yoshioka-アッシュ-ウッド-ホーム--R99456_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-blossom-stool-by-tokujin-yoshioka-アッシュ-ウッド-ホーム--R99456_PM1_Ambiance view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Ambiance view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/blossom-stool-by-tokujin-yoshioka-ash-wood-nvprod1410151v",
+      "material": "WOOD",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 45,
+        "unitText": "cm"
+      },
+      "highEndTemplate": false,
+      "productId": "nvprod1410151v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-ACC-93L_black_.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>サイズ：46 x　Ø 44 cm</li><li>オブジェ･ノマド コレクション</li><li>重さ：6 kg</li><li>素材：アッシュウッド、カーフレザー（皮革の種類：牛革）</li><li>エッジ部分に洗練されたパイピング</li><li>強固な多層合板</li><li>金具のロゴ</li><li>耐荷重：100 kg</li><li>各1000色限定</li><li>イタリア製</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z01"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/art-of-living/_/N-kmf9ty",
+          "alternateName": "art-of-living",
+          "name": "ライフスタイル",
+          "identifier": "nvcat1840004v"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/art-of-living/home/_/N-1181e7i",
+          "alternateName": "home",
+          "name": "ホーム",
+          "identifier": "nvcat1840008v"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/art-of-living/home/furniture/_/N-lpzrtm",
+          "alternateName": "furniture",
+          "name": "ファニチャー",
+          "identifier": "nvcat1840019v"
+        }
+      ],
+      "disclaimers": {
+        "value": "shipping_warning_bo",
+        "popInContent": "global_backorder_info_popin_content",
+        "popInTitle": "global_backorder_info_popin_title"
+      },
+      "color": "ノワール",
+      "@context": "http://schema.org",
+      "identifier": "R99456"
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "/api/catalog/jpn-jp/product/nvprod1410151v"
+    },
+    "push": {
+      "href": "/api/catalog/jpn-jp/product-push/nvprod1410151v"
+    },
+    "care-link": {
+      "href": "/api/catalog/jpn-jp/care-link/nvprod1410151v"
+    },
+    "availability": {
+      "href": "/api/catalog/jpn-jp/availability/nvprod1410151v"
+    }
+  },
+  "@type": "Product",
+  "sku": "R98507",
+  "isSimilarTo": [],
+  "productTips": [],
+  "url": "/jpn-jp/products/blossom-stool-by-tokujin-yoshioka-ash-wood-nvprod1410151v",
+  "material": "アッシュ ウッド",
+  "category": [
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/art-of-living/_/N-kmf9ty",
+      "alternateName": "art-of-living",
+      "name": "ライフスタイル",
+      "identifier": "nvcat1840004v"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/art-of-living/home/_/N-1181e7i",
+      "alternateName": "home",
+      "name": "ホーム",
+      "identifier": "nvcat1840008v"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/art-of-living/home/furniture/_/N-lpzrtm",
+      "alternateName": "furniture",
+      "name": "ファニチャー",
+      "identifier": "nvcat1840019v"
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "hidePrice",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "subType",
+      "value": "product"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "materialIconURL",
+      "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MATAEL-ON-Ash_wood.jpg"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "sizeGuide",
+      "value": false
+    }
+  ],
+  "name": "Blossom Stool By Tokujin Yoshioka",
+  "isRelatedTo": [
+    {
+      "model": [
+        {
+          "productVisible": true,
+          "_links": {
+            "look": {
+              "href": "/api/catalog/jpn-jp/skus/R96193/look"
+            },
+            "parent": {
+              "href": "/api/catalog/jpn-jp/product/nvprod1250273v"
+            },
+            "self": {
+              "href": "/api/catalog/jpn-jp/product/R96193"
+            },
+            "perso-details": {
+              "href": "/api/catalog/jpn-jp/skus/R96193/perso-detail"
+            },
+            "/api/rels/jpn-jp/add-to-cart-base/nvprod1250273v/R96193/1": {
+              "name": "add-to-cart",
+              "href": "/api/cart/jpn-jp"
+            }
+          },
+          "macroColor": "マロン",
+          "@type": "ProductModel",
+          "height": {
+            "@type": "QuantitativeValue",
+            "value": 45,
+            "unitText": "cm"
+          },
+          "name": "Blossom Stool Metal By Tokujin Yoshioka",
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": 45,
+            "unitText": "cm"
+          },
+          "offers": {
+            "priceSpecification": {
+              "priceCurrency": "JPY",
+              "price": 2706000
+            },
+            "@type": "Offer",
+            "price": "¥2,706,000"
+          },
+          "disambiguatingDescription": "メゾンが誇る卓越したクラフツマンシップと建築的なエレガンスが結晶した「Blossom Stool Metal By Tokujin Yoshioka」。世界的に著名な日本人アーティストのデザインによる逸品は、アイコニックなモノグラム･フラワーから着想を得た、花びらのようなシェイプが特徴です。 ",
+          "image": [
+            {
+              "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-blossom-stool-metal-by-tokujin-yoshioka-カーボンファイバー-ホーム--R96193_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+              "@type": "ImageObject",
+              "name": "Front view",
+              "@context": "http://schema.org"
+            },
+            {
+              "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-blossom-stool-metal-by-tokujin-yoshioka-カーボンファイバー-ホーム--R96193_PM1_Closeup view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+              "@type": "ImageObject",
+              "name": "Closeup view",
+              "@context": "http://schema.org"
+            },
+            {
+              "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-blossom-stool-metal-by-tokujin-yoshioka-カーボンファイバー-ホーム--R96193_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+              "@type": "ImageObject",
+              "name": "Side view",
+              "@context": "http://schema.org"
+            }
+          ],
+          "url": "/jpn-jp/products/blossom-stool-by-tokujin-yoshioka-carbon-fiber-nvprod1250273v",
+          "material": "OTHER",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": 45,
+            "unitText": "cm"
+          },
+          "highEndTemplate": false,
+          "productId": "nvprod1250273v",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "colorIconURL",
+              "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-RTW-Cuivre.jpg"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "detailedDescription",
+              "value": "<ul><li>直径：44 cm</li><li>高さ：46 cm</li><li>重さ：100 kg</li><li>素材：カーボンファイバー 80%、ガラス繊維 10%、ラッカー 10%</li><li>LVイニシャル</li><li>各300点限定</li></ul>"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "activateEngraving",
+              "value": false
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "sellable",
+              "value": false
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "cscSellable",
+              "value": false
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "mom",
+              "value": false
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "locateInStore",
+              "value": true
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "materialGroupCode",
+              "value": "Z01"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "filterCategories",
+              "value": "Leather_Goods_and_Accessories"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "backOrderDisclaimer",
+              "value": true
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "backOrderFullDeposit",
+              "value": false
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "tryOnEnabled",
+              "value": false
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "isBundle",
+              "value": false
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "360ViewEnabled",
+              "value": false
+            }
+          ],
+          "category": [
+            {
+              "@type": "Thing",
+              "url": "/jpn-jp/art-of-living/_/N-kmf9ty",
+              "alternateName": "art-of-living",
+              "name": "ライフスタイル",
+              "identifier": "nvcat1840004v"
+            },
+            {
+              "@type": "Thing",
+              "url": "/jpn-jp/art-of-living/home/_/N-1181e7i",
+              "alternateName": "home",
+              "name": "ホーム",
+              "identifier": "nvcat1840008v"
+            },
+            {
+              "@type": "Thing",
+              "url": "/jpn-jp/art-of-living/home/furniture/_/N-lpzrtm",
+              "alternateName": "furniture",
+              "name": "ファニチャー",
+              "identifier": "nvcat1840019v"
+            }
+          ],
+          "disclaimers": {
+            "value": "shipping_warning_bo",
+            "popInContent": "global_backorder_info_popin_content",
+            "popInTitle": "global_backorder_info_popin_title"
+          },
+          "color": "キュイーブル",
+          "@context": "http://schema.org",
+          "identifier": "R96193"
+        },
+        {
+          "productVisible": true,
+          "_links": {
+            "look": {
+              "href": "/api/catalog/jpn-jp/skus/R96192/look"
+            },
+            "parent": {
+              "href": "/api/catalog/jpn-jp/product/nvprod1250273v"
+            },
+            "self": {
+              "href": "/api/catalog/jpn-jp/product/R96192"
+            },
+            "perso-details": {
+              "href": "/api/catalog/jpn-jp/skus/R96192/perso-detail"
+            },
+            "/api/rels/jpn-jp/add-to-cart-base/nvprod1250273v/R96192/1": {
+              "name": "add-to-cart",
+              "href": "/api/cart/jpn-jp"
+            }
+          },
+          "macroColor": "シルバー",
+          "@type": "ProductModel",
+          "height": {
+            "@type": "QuantitativeValue",
+            "value": 45,
+            "unitText": "cm"
+          },
+          "name": "Blossom Stool Metal By Tokujin Yoshioka",
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": 45,
+            "unitText": "cm"
+          },
+          "offers": {
+            "priceSpecification": {
+              "priceCurrency": "JPY",
+              "price": 2706000
+            },
+            "@type": "Offer",
+            "price": "¥2,706,000"
+          },
+          "disambiguatingDescription": "メゾンが誇る卓越したクラフツマンシップと建築的なエレガンスが結晶した「Blossom Stool Metal By Tokujin Yoshioka」。世界的に著名な日本人アーティストのデザインによる逸品は、アイコニックなモノグラム･フラワーから着想を得た、花びらのようなシェイプが特徴です。",
+          "image": [
+            {
+              "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-blossom-stool-metal-by-tokujin-yoshioka-カーボンファイバー-ホーム--R96192_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+              "@type": "ImageObject",
+              "name": "Front view",
+              "@context": "http://schema.org"
+            }
+          ],
+          "url": "/jpn-jp/products/blossom-stool-by-tokujin-yoshioka-carbon-fiber-nvprod1250273v",
+          "material": "OTHER",
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": 45,
+            "unitText": "cm"
+          },
+          "highEndTemplate": false,
+          "productId": "nvprod1250273v",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "colorIconURL",
+              "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-ACC-904_argent.jpg"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "detailedDescription",
+              "value": "<ul><li>直径：44 cm</li><li>高さ：46 cm</li><li>重さ：100 kg</li><li>素材：カーボンファイバー 80%、ガラス繊維 10%、ラッカー 10%</li><li>LVイニシャル</li><li>各300点限定</li></ul>"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "activateEngraving",
+              "value": false
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "sellable",
+              "value": false
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "cscSellable",
+              "value": false
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "mom",
+              "value": false
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "locateInStore",
+              "value": true
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "materialGroupCode",
+              "value": "Z01"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "filterCategories",
+              "value": "Leather_Goods_and_Accessories"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "backOrderDisclaimer",
+              "value": true
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "backOrderFullDeposit",
+              "value": false
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "tryOnEnabled",
+              "value": false
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "isBundle",
+              "value": false
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "360ViewEnabled",
+              "value": false
+            }
+          ],
+          "category": [
+            {
+              "@type": "Thing",
+              "url": "/jpn-jp/art-of-living/_/N-kmf9ty",
+              "alternateName": "art-of-living",
+              "name": "ライフスタイル",
+              "identifier": "nvcat1840004v"
+            },
+            {
+              "@type": "Thing",
+              "url": "/jpn-jp/art-of-living/home/_/N-1181e7i",
+              "alternateName": "home",
+              "name": "ホーム",
+              "identifier": "nvcat1840008v"
+            },
+            {
+              "@type": "Thing",
+              "url": "/jpn-jp/art-of-living/home/furniture/_/N-lpzrtm",
+              "alternateName": "furniture",
+              "name": "ファニチャー",
+              "identifier": "nvcat1840019v"
+            }
+          ],
+          "disclaimers": {
+            "value": "shipping_warning_bo",
+            "popInContent": "global_backorder_info_popin_content",
+            "popInTitle": "global_backorder_info_popin_title"
+          },
+          "color": "アルジャン",
+          "@context": "http://schema.org",
+          "identifier": "R96192"
+        }
+      ],
+      "_links": {
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/nvprod1250273v"
+        },
+        "push": {
+          "href": "/api/catalog/jpn-jp/product-push/nvprod1250273v"
+        },
+        "care-link": {
+          "href": "/api/catalog/jpn-jp/care-link/nvprod1250273v"
+        },
+        "availability": {
+          "href": "/api/catalog/jpn-jp/availability/nvprod1250273v"
+        }
+      },
+      "@type": "Product",
+      "sku": "R96193",
+      "productTips": [],
+      "url": "/jpn-jp/products/blossom-stool-by-tokujin-yoshioka-carbon-fiber-nvprod1250273v",
+      "material": "カーボンファイバー",
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/art-of-living/_/N-kmf9ty",
+          "alternateName": "art-of-living",
+          "name": "ライフスタイル",
+          "identifier": "nvcat1840004v"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/art-of-living/home/_/N-1181e7i",
+          "alternateName": "home",
+          "name": "ホーム",
+          "identifier": "nvcat1840008v"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/art-of-living/home/furniture/_/N-lpzrtm",
+          "alternateName": "furniture",
+          "name": "ファニチャー",
+          "identifier": "nvcat1840019v"
+        }
+      ],
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "hidePrice",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "subType",
+          "value": "product"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MATEAL-ON-Carbon_fiber.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sizeGuide",
+          "value": false
+        }
+      ],
+      "name": "Blossom Stool By Tokujin Yoshioka",
+      "@context": "http://schema.org",
+      "identifier": "nvprod1250273v"
+    }
+  ],
+  "@context": "http://schema.org",
+  "identifier": "nvprod1410151v"
+}

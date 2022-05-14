@@ -1,0 +1,222 @@
+{
+  "model": [
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/M00550/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod3230200v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/M00550"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/M00550/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod3230200v/M00550/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ブルー",
+      "@type": "ProductModel",
+      "name": "ポルト クレ・LVシール",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 100100
+        },
+        "@type": "Offer",
+        "price": "¥100,100"
+      },
+      "disambiguatingDescription": "精緻なディテールとラグジュアリーな質感が魅力の、愛らしいバッグチャーム兼キーホルダー「ポルト クレ・LVシール」。ミンクファーとレザーで精緻に仕立てたアザラシが、アイコニックなミニチュアサイズのバッグ「カンヌ」を手に持っています。「LV アニマル」コレクションに新たに加わった、キーホルダーとしても、遊び心溢れるバッグチャームとしてもお楽しみいただけるアイテムです。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ポルト-クレ・lvシール-s00-キーケース、キーホルダー、バッグチャーム--M00550_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ポルト-クレ・lvシール-s00-キーケース、キーホルダー、バッグチャーム--M00550_PM1_Back view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Back view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/lv-seal-bag-charm-and-key-holder-s00-nvprod3230200v",
+      "material": "MINK",
+      "highEndTemplate": false,
+      "productId": "nvprod3230200v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-ACC-908_bleu.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>長さ：11.5 cm</li><li>素材：レザー（皮革の種類：牛革）、ミンクファー</li><li>カンヌのチャーム付きシール･チャーム</li><li>バッグチャーム兼キーホルダー</li><li>フックとリングにLouis Vuittonシグネチャーの刻印</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories;Sunglasses"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/_/N-1q5sgib",
+          "alternateName": "women",
+          "name": "ウィメンズ",
+          "identifier": "femme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/accessories/_/N-1oyzg8c",
+          "alternateName": "accessories",
+          "name": "アクセサリー",
+          "identifier": "w-category-cat10155"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/accessories/key-holders-and-bag-charms/_/N-1yhphkv",
+          "alternateName": "key-holders-and-more",
+          "name": "キーケース、キーホルダー、バッグチャーム",
+          "identifier": "w-category-cat1410416"
+        }
+      ],
+      "disclaimers": {
+        "value": "shipping_warning_bo",
+        "popInContent": "global_backorder_info_popin_content",
+        "popInTitle": "global_backorder_info_popin_title"
+      },
+      "color": "ブルー",
+      "@context": "http://schema.org",
+      "identifier": "M00550"
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "/api/catalog/jpn-jp/product/nvprod3230200v"
+    },
+    "push": {
+      "href": "/api/catalog/jpn-jp/product-push/nvprod3230200v"
+    },
+    "care-link": {
+      "href": "/api/catalog/jpn-jp/care-link/nvprod3230200v"
+    },
+    "availability": {
+      "href": "/api/catalog/jpn-jp/availability/nvprod3230200v"
+    }
+  },
+  "@type": "Product",
+  "sku": "M00550",
+  "isSimilarTo": [],
+  "productTips": [],
+  "url": "/jpn-jp/products/lv-seal-bag-charm-and-key-holder-s00-nvprod3230200v",
+  "material": "NOT APPLICABLE ACC",
+  "category": [
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/women/_/N-1q5sgib",
+      "alternateName": "women",
+      "name": "ウィメンズ",
+      "identifier": "femme"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/women/accessories/_/N-1oyzg8c",
+      "alternateName": "accessories",
+      "name": "アクセサリー",
+      "identifier": "w-category-cat10155"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/women/accessories/key-holders-and-bag-charms/_/N-1yhphkv",
+      "alternateName": "key-holders-and-more",
+      "name": "キーケース、キーホルダー、バッグチャーム",
+      "identifier": "w-category-cat1410416"
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "hidePrice",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "subType",
+      "value": "product"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "sizeGuide",
+      "value": false
+    }
+  ],
+  "name": "ポルト クレ・LVシール",
+  "isRelatedTo": [],
+  "@context": "http://schema.org",
+  "identifier": "nvprod3230200v"
+}

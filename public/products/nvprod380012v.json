@@ -1,0 +1,237 @@
+{
+  "model": [
+    {
+      "diamondColor": "FG",
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/Q95561/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod380012v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/Q95561"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/Q95561/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod380012v/Q95561/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "@type": "ProductModel",
+      "name": "Idylle Blossom LV Bracelet, Yellow gold and diamond",
+      "mainMaterial2": "PAVAGE",
+      "diamondClarity": "VVS",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 283800
+        },
+        "@type": "Offer",
+        "price": "¥283,800"
+      },
+      "centerStoneCut": "ROUND BRILLIANT CUT",
+      "disambiguatingDescription": "The two iconic LV initials meet the Idylle Blossom flowers to recreate the legendary Monogram canvas. Identifiable, feminine and playful, the collection enlivens the Monogram flowers, created in 1896 by Georges-Louis Vuitton. Idylle Blossom creations reveal the free-spirited Louis Vuitton woman attitude.",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-idylle-blossom-lv-bracelet-yellow-gold-and-diamond-jewelry--Q95561_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-idylle-blossom-lv-bracelet-yellow-gold-and-diamond-jewelry--Q95561_PM1_Worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Worn view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-idylle-blossom-lv-bracelet-yellow-gold-and-diamond-jewelry--Q95561_PM1_Other view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Other view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/idylle-blossom-lv-bracelet-yellow-gold-and-diamond-nvprod380012v",
+      "highEndTemplate": false,
+      "sizeDisplayName": "NSA",
+      "productId": "nvprod380012v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-LG-924_camel.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul>\n  <li>Yellow gold (18 kt) </li>\n  <li>1 diamond, ~ 0.03 ct</li>\n  <li>Motif: ~ 7.5 mm</li>\n  <li>Length: ~ 17.5 cm with adjustable links at ~ 16.5 cm and ~ 15.5 cm</li>\n</ul>\n<p>For any question regarding the Louis Vuitton Fine Jewelry care instructions, you can refer to <a href=\"https://www.louisvuitton.com/documents/user-guides/joaillerie_generique\" rel=\"noopener noreferrer\"><strong>the Fine Jewelry leaflet.</strong></a></p>\n<p>Each piece from Louis Vuitton jewelry and watch creations is unique. Caratage and metal weight information is given for information only and may vary slightly from one piece to another.</p>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z07"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Jewelry"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isDiamond",
+          "value": true
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/_/N-1q5sgib",
+          "alternateName": "women",
+          "name": "Women",
+          "identifier": "femme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/jewelry/_/N-5ta07b",
+          "alternateName": "jewelry",
+          "name": "Jewelry",
+          "identifier": "nvcat30005v"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/fine-jewellery/_/N-a0rp25",
+          "alternateName": "all-fine-jewelry",
+          "name": "All Fine Jewelry",
+          "identifier": "w-category-cat10148"
+        }
+      ],
+      "disclaimers": {
+        "value": "pre_order_disclaimer",
+        "popInContent": "pre_order_disclaimer_info_popin_content",
+        "popInTitle": "pre_order_disclaimer_info_popin_title"
+      },
+      "color": "ゴールド",
+      "@context": "http://schema.org",
+      "identifier": "Q95561"
+    }
+  ],
+  "panelInformations": [
+    {
+      "@type": "Sustainability",
+      "title": "Sustainability",
+      "description": "All of the precious metals and diamonds used in our fine jewelry collections have been certified by the Responsible Jewellery Council. This certification guarantees that each of the steps in the extraction, transformation, and marketing processes respect sustainable development standards. Our diamonds are also Kimberly Process-certified, meaning the stones we use do not come from areas of armed conflict."
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "/api/catalog/jpn-jp/product/nvprod380012v"
+    },
+    "push": {
+      "href": "/api/catalog/jpn-jp/product-push/nvprod380012v"
+    },
+    "care-link": {
+      "href": "/api/catalog/jpn-jp/care-link/nvprod380012v"
+    },
+    "availability": {
+      "href": "/api/catalog/jpn-jp/availability/nvprod380012v"
+    }
+  },
+  "@type": "Product",
+  "sku": "Q95561",
+  "isSimilarTo": [],
+  "productTips": [],
+  "url": "/jpn-jp/products/idylle-blossom-lv-bracelet-yellow-gold-and-diamond-nvprod380012v",
+  "category": [
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/women/_/N-1q5sgib",
+      "alternateName": "women",
+      "name": "Women",
+      "identifier": "femme"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/women/jewelry/_/N-5ta07b",
+      "alternateName": "jewelry",
+      "name": "Jewelry",
+      "identifier": "nvcat30005v"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/women/fine-jewellery/_/N-a0rp25",
+      "alternateName": "all-fine-jewelry",
+      "name": "All Fine Jewelry",
+      "identifier": "w-category-cat10148"
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "hidePrice",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "subType",
+      "value": "product"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "sizeGuide",
+      "value": false
+    }
+  ],
+  "name": "Idylle Blossom LV Bracelet, Yellow gold and diamond",
+  "isRelatedTo": [],
+  "@context": "http://schema.org",
+  "identifier": "nvprod380012v"
+}

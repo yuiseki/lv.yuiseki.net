@@ -1,0 +1,69 @@
+{
+  "model": [],
+  "_links": {
+    "self": {
+      "href": "/api/catalog/jpn-jp/product/nvprod3210121v"
+    },
+    "push": {
+      "href": "/api/catalog/jpn-jp/product-push/nvprod3210121v"
+    },
+    "care-link": {
+      "href": "/api/catalog/jpn-jp/care-link/nvprod3210121v"
+    },
+    "size-guide": {
+      "href": "/api/catalog/jpn-jp/size-guide/nvprod3210121v"
+    },
+    "availability": {
+      "href": "/api/catalog/jpn-jp/availability/nvprod3210121v"
+    }
+  },
+  "@type": "Product",
+  "sku": "1A9M7T",
+  "isSimilarTo": [],
+  "productTips": [],
+  "url": "/jpn-jp/products/jacquard-damier-fleece-blouson-nvprod3210121v",
+  "category": [
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/_/N-1cyoz77",
+      "alternateName": "men",
+      "name": "Men",
+      "identifier": "homme"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/ready-to-wear/_/N-1lpb5id",
+      "alternateName": "ready-to-wear",
+      "name": "Ready to Wear",
+      "identifier": "m-readytowear"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/ready-to-wear/outerwear-and-coats/_/N-iz1a8z",
+      "alternateName": "outerwear-and-coats",
+      "name": "Outerwear and Coats",
+      "identifier": "nvcat160001v"
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "hidePrice",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "subType",
+      "value": "product"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "sizeGuide",
+      "value": true
+    }
+  ],
+  "name": "Jacquard Damier Fleece Blouson",
+  "isRelatedTo": [],
+  "@context": "http://schema.org",
+  "identifier": "nvprod3210121v"
+}

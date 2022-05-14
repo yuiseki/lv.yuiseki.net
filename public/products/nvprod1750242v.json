@@ -1,0 +1,938 @@
+{
+  "model": [
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/1A5NNR/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod1750242v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/1A5NNR"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/1A5NNR/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod1750242v/1A5NNR/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ブラック",
+      "@type": "ProductModel",
+      "name": "ローリエート・ライン ブーツ",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 192500
+        },
+        "@type": "Offer",
+        "price": "¥192,500"
+      },
+      "disambiguatingDescription": "アクセサリーやレザーグッズでも展開する「LV ジャングル」カプセル･コレクションの1つ「ローリエート･ライン ブーツ」。柔らかいスエードカーフレザーを使用し、大胆なレオパード･プリントを施したポニースタイル カーフレザーやLV イニシャルのディテールを散りばめました。モノグラム･キャンバスをあしらい、メゾンならではのデザインに仕上げた1足です。<p>ご不明な点がございましたら、クライアントサービスまでお気軽にお問合せください。専任のクライアントアドバイザーが、素材やサイズなどの製品詳細、モデル着用イメージや関連アイテムのご案内など、お客様のご要望に合わせたスタイリング・アドバイスをご提供いたします。</p><p>また、サイズ違いなどによる返品・交換のご相談も承ります。詳細は<a href='https://jp.louisvuitton.com/jpn-jp/legal-privacy'><b>こちら。</b></a></p>",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ローリエート・ライン-ブーツ-シューズ--AH8U4BSC02_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ローリエート・ライン-ブーツ-シューズ--AH8U4BSC02_PM1_Closeup view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Closeup view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ローリエート・ライン-ブーツ-シューズ--AH8U4BSC02_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ローリエート・ライン-ブーツ-シューズ--AH8U4BSC02_PM1_Interior2 view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Interior2 view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ローリエート・ライン-ブーツ-シューズ--AH8U4BSC02_PM1_Detail view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Detail view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/laureate-platform-desert-boot-nvprod1750242v",
+      "highEndTemplate": false,
+      "sizeDisplayName": "35.0",
+      "productId": "nvprod1750242v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-SHO-02_noir.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>素材：スエードカーフレザー（皮革の種類：牛革）</li><li>アウトソール：トレッド付きラバー</li><li>ヒール：5cmのプラットフォーム</li><li>イタリア製</li><li>REF：AH8U4BSC</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z04"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Shoe_Women"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/_/N-1q5sgib",
+          "alternateName": "women",
+          "name": "ウィメンズ",
+          "identifier": "femme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/shoes/_/N-1ud2sg9",
+          "alternateName": "shoes",
+          "name": "シューズ",
+          "identifier": "w-category-cat10132"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/shoes/boots-and-ankle-boots/_/N-f6346z",
+          "alternateName": "boots-and-ankle-boots",
+          "name": "ウィメンズ ブーツ＆アンクルブーツ",
+          "identifier": "nvcat60002v-3"
+        }
+      ],
+      "disclaimers": {
+        "value": "shipping_warning_bo",
+        "popInContent": "global_backorder_info_popin_content",
+        "popInTitle": "global_backorder_info_popin_title"
+      },
+      "color": "ノワール",
+      "@context": "http://schema.org",
+      "identifier": "1A5NNR"
+    },
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/1A5NNT/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod1750242v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/1A5NNT"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/1A5NNT/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod1750242v/1A5NNT/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ブラック",
+      "@type": "ProductModel",
+      "name": "ローリエート・ライン ブーツ",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 192500
+        },
+        "@type": "Offer",
+        "price": "¥192,500"
+      },
+      "disambiguatingDescription": "アクセサリーやレザーグッズでも展開する「LV ジャングル」カプセル･コレクションの1つ「ローリエート･ライン ブーツ」。柔らかいスエードカーフレザーを使用し、大胆なレオパード･プリントを施したポニースタイル カーフレザーやLV イニシャルのディテールを散りばめました。モノグラム･キャンバスをあしらい、メゾンならではのデザインに仕上げた1足です。<p>ご不明な点がございましたら、クライアントサービスまでお気軽にお問合せください。専任のクライアントアドバイザーが、素材やサイズなどの製品詳細、モデル着用イメージや関連アイテムのご案内など、お客様のご要望に合わせたスタイリング・アドバイスをご提供いたします。</p><p>また、サイズ違いなどによる返品・交換のご相談も承ります。詳細は<a href='https://jp.louisvuitton.com/jpn-jp/legal-privacy'><b>こちら。</b></a></p>",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ローリエート・ライン-ブーツ-シューズ--AH8U4BSC02_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ローリエート・ライン-ブーツ-シューズ--AH8U4BSC02_PM1_Closeup view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Closeup view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ローリエート・ライン-ブーツ-シューズ--AH8U4BSC02_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ローリエート・ライン-ブーツ-シューズ--AH8U4BSC02_PM1_Interior2 view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Interior2 view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ローリエート・ライン-ブーツ-シューズ--AH8U4BSC02_PM1_Detail view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Detail view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/laureate-platform-desert-boot-nvprod1750242v",
+      "highEndTemplate": false,
+      "sizeDisplayName": "36.0",
+      "productId": "nvprod1750242v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-SHO-02_noir.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>素材：スエードカーフレザー（皮革の種類：牛革）</li><li>アウトソール：トレッド付きラバー</li><li>ヒール：5cmのプラットフォーム</li><li>イタリア製</li><li>REF：AH8U4BSC</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z04"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Shoe_Women"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/_/N-1q5sgib",
+          "alternateName": "women",
+          "name": "ウィメンズ",
+          "identifier": "femme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/shoes/_/N-1ud2sg9",
+          "alternateName": "shoes",
+          "name": "シューズ",
+          "identifier": "w-category-cat10132"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/shoes/boots-and-ankle-boots/_/N-f6346z",
+          "alternateName": "boots-and-ankle-boots",
+          "name": "ウィメンズ ブーツ＆アンクルブーツ",
+          "identifier": "nvcat60002v-3"
+        }
+      ],
+      "disclaimers": {
+        "value": "shipping_warning_bo",
+        "popInContent": "global_backorder_info_popin_content",
+        "popInTitle": "global_backorder_info_popin_title"
+      },
+      "color": "ノワール",
+      "@context": "http://schema.org",
+      "identifier": "1A5NNT"
+    },
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/1A5NNV/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod1750242v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/1A5NNV"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/1A5NNV/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod1750242v/1A5NNV/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ブラック",
+      "@type": "ProductModel",
+      "name": "ローリエート・ライン ブーツ",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 192500
+        },
+        "@type": "Offer",
+        "price": "¥192,500"
+      },
+      "disambiguatingDescription": "アクセサリーやレザーグッズでも展開する「LV ジャングル」カプセル･コレクションの1つ「ローリエート･ライン ブーツ」。柔らかいスエードカーフレザーを使用し、大胆なレオパード･プリントを施したポニースタイル カーフレザーやLV イニシャルのディテールを散りばめました。モノグラム･キャンバスをあしらい、メゾンならではのデザインに仕上げた1足です。<p>ご不明な点がございましたら、クライアントサービスまでお気軽にお問合せください。専任のクライアントアドバイザーが、素材やサイズなどの製品詳細、モデル着用イメージや関連アイテムのご案内など、お客様のご要望に合わせたスタイリング・アドバイスをご提供いたします。</p><p>また、サイズ違いなどによる返品・交換のご相談も承ります。詳細は<a href='https://jp.louisvuitton.com/jpn-jp/legal-privacy'><b>こちら。</b></a></p>",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ローリエート・ライン-ブーツ-シューズ--AH8U4BSC02_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ローリエート・ライン-ブーツ-シューズ--AH8U4BSC02_PM1_Closeup view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Closeup view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ローリエート・ライン-ブーツ-シューズ--AH8U4BSC02_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ローリエート・ライン-ブーツ-シューズ--AH8U4BSC02_PM1_Interior2 view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Interior2 view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ローリエート・ライン-ブーツ-シューズ--AH8U4BSC02_PM1_Detail view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Detail view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/laureate-platform-desert-boot-nvprod1750242v",
+      "highEndTemplate": false,
+      "sizeDisplayName": "37.0",
+      "productId": "nvprod1750242v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-SHO-02_noir.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>素材：スエードカーフレザー（皮革の種類：牛革）</li><li>アウトソール：トレッド付きラバー</li><li>ヒール：5cmのプラットフォーム</li><li>イタリア製</li><li>REF：AH8U4BSC</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z04"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Shoe_Women"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/_/N-1q5sgib",
+          "alternateName": "women",
+          "name": "ウィメンズ",
+          "identifier": "femme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/shoes/_/N-1ud2sg9",
+          "alternateName": "shoes",
+          "name": "シューズ",
+          "identifier": "w-category-cat10132"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/shoes/boots-and-ankle-boots/_/N-f6346z",
+          "alternateName": "boots-and-ankle-boots",
+          "name": "ウィメンズ ブーツ＆アンクルブーツ",
+          "identifier": "nvcat60002v-3"
+        }
+      ],
+      "disclaimers": {
+        "value": "shipping_warning_bo",
+        "popInContent": "global_backorder_info_popin_content",
+        "popInTitle": "global_backorder_info_popin_title"
+      },
+      "color": "ノワール",
+      "@context": "http://schema.org",
+      "identifier": "1A5NNV"
+    },
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/1A5NNW/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod1750242v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/1A5NNW"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/1A5NNW/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod1750242v/1A5NNW/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ブラック",
+      "@type": "ProductModel",
+      "name": "ローリエート・ライン ブーツ",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 192500
+        },
+        "@type": "Offer",
+        "price": "¥192,500"
+      },
+      "disambiguatingDescription": "アクセサリーやレザーグッズでも展開する「LV ジャングル」カプセル･コレクションの1つ「ローリエート･ライン ブーツ」。柔らかいスエードカーフレザーを使用し、大胆なレオパード･プリントを施したポニースタイル カーフレザーやLV イニシャルのディテールを散りばめました。モノグラム･キャンバスをあしらい、メゾンならではのデザインに仕上げた1足です。<p>ご不明な点がございましたら、クライアントサービスまでお気軽にお問合せください。専任のクライアントアドバイザーが、素材やサイズなどの製品詳細、モデル着用イメージや関連アイテムのご案内など、お客様のご要望に合わせたスタイリング・アドバイスをご提供いたします。</p><p>また、サイズ違いなどによる返品・交換のご相談も承ります。詳細は<a href='https://jp.louisvuitton.com/jpn-jp/legal-privacy'><b>こちら。</b></a></p>",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ローリエート・ライン-ブーツ-シューズ--AH8U4BSC02_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ローリエート・ライン-ブーツ-シューズ--AH8U4BSC02_PM1_Closeup view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Closeup view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ローリエート・ライン-ブーツ-シューズ--AH8U4BSC02_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ローリエート・ライン-ブーツ-シューズ--AH8U4BSC02_PM1_Interior2 view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Interior2 view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ローリエート・ライン-ブーツ-シューズ--AH8U4BSC02_PM1_Detail view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Detail view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/laureate-platform-desert-boot-nvprod1750242v",
+      "highEndTemplate": false,
+      "sizeDisplayName": "37.5",
+      "productId": "nvprod1750242v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-SHO-02_noir.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>素材：スエードカーフレザー（皮革の種類：牛革）</li><li>アウトソール：トレッド付きラバー</li><li>ヒール：5cmのプラットフォーム</li><li>イタリア製</li><li>REF：AH8U4BSC</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z04"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Shoe_Women"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/_/N-1q5sgib",
+          "alternateName": "women",
+          "name": "ウィメンズ",
+          "identifier": "femme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/shoes/_/N-1ud2sg9",
+          "alternateName": "shoes",
+          "name": "シューズ",
+          "identifier": "w-category-cat10132"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/shoes/boots-and-ankle-boots/_/N-f6346z",
+          "alternateName": "boots-and-ankle-boots",
+          "name": "ウィメンズ ブーツ＆アンクルブーツ",
+          "identifier": "nvcat60002v-3"
+        }
+      ],
+      "disclaimers": {
+        "value": "shipping_warning_bo",
+        "popInContent": "global_backorder_info_popin_content",
+        "popInTitle": "global_backorder_info_popin_title"
+      },
+      "color": "ノワール",
+      "@context": "http://schema.org",
+      "identifier": "1A5NNW"
+    },
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/1A5NNX/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod1750242v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/1A5NNX"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/1A5NNX/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod1750242v/1A5NNX/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ブラック",
+      "@type": "ProductModel",
+      "name": "ローリエート・ライン ブーツ",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 192500
+        },
+        "@type": "Offer",
+        "price": "¥192,500"
+      },
+      "disambiguatingDescription": "アクセサリーやレザーグッズでも展開する「LV ジャングル」カプセル･コレクションの1つ「ローリエート･ライン ブーツ」。柔らかいスエードカーフレザーを使用し、大胆なレオパード･プリントを施したポニースタイル カーフレザーやLV イニシャルのディテールを散りばめました。モノグラム･キャンバスをあしらい、メゾンならではのデザインに仕上げた1足です。<p>ご不明な点がございましたら、クライアントサービスまでお気軽にお問合せください。専任のクライアントアドバイザーが、素材やサイズなどの製品詳細、モデル着用イメージや関連アイテムのご案内など、お客様のご要望に合わせたスタイリング・アドバイスをご提供いたします。</p><p>また、サイズ違いなどによる返品・交換のご相談も承ります。詳細は<a href='https://jp.louisvuitton.com/jpn-jp/legal-privacy'><b>こちら。</b></a></p>",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ローリエート・ライン-ブーツ-シューズ--AH8U4BSC02_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ローリエート・ライン-ブーツ-シューズ--AH8U4BSC02_PM1_Closeup view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Closeup view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ローリエート・ライン-ブーツ-シューズ--AH8U4BSC02_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ローリエート・ライン-ブーツ-シューズ--AH8U4BSC02_PM1_Interior2 view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Interior2 view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ローリエート・ライン-ブーツ-シューズ--AH8U4BSC02_PM1_Detail view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Detail view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/laureate-platform-desert-boot-nvprod1750242v",
+      "highEndTemplate": false,
+      "sizeDisplayName": "38.0",
+      "productId": "nvprod1750242v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-SHO-02_noir.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>素材：スエードカーフレザー（皮革の種類：牛革）</li><li>アウトソール：トレッド付きラバー</li><li>ヒール：5cmのプラットフォーム</li><li>イタリア製</li><li>REF：AH8U4BSC</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z04"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Shoe_Women"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/_/N-1q5sgib",
+          "alternateName": "women",
+          "name": "ウィメンズ",
+          "identifier": "femme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/shoes/_/N-1ud2sg9",
+          "alternateName": "shoes",
+          "name": "シューズ",
+          "identifier": "w-category-cat10132"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/shoes/boots-and-ankle-boots/_/N-f6346z",
+          "alternateName": "boots-and-ankle-boots",
+          "name": "ウィメンズ ブーツ＆アンクルブーツ",
+          "identifier": "nvcat60002v-3"
+        }
+      ],
+      "disclaimers": {
+        "value": "shipping_warning_bo",
+        "popInContent": "global_backorder_info_popin_content",
+        "popInTitle": "global_backorder_info_popin_title"
+      },
+      "color": "ノワール",
+      "@context": "http://schema.org",
+      "identifier": "1A5NNX"
+    }
+  ],
+  "panelInformations": [
+    {
+      "@type": "ProductCare",
+      "title": "素材とお手入れ方法、修理",
+      "description": "<ul><li>シューズを履く際は、必ず靴べらをお使いください。</li><li>\nレザーの保護のため、2日以上連続してのご着用は避けてください。</li><li>\nご使用後はシューツリーを入れて保管してください。</li><li>\n付属の2つの布袋に片足ずつ入れ、低温で乾燥した風通しの良い場所に保管してください。</li><li>\nベルベットのような質感を保つため、柔らかいブラシで丁寧に汚れを落としてください。表面の汚れはクレープブラシで落とせる場合もあります。</li><li>\n初めてご使用いただく前に無色の防水スプレーを塗布し、必要に応じてスプレーし直すことをおすすめします。</li><li>\n水分やアルコールを含む製品(香水、除光液など)や油分を含む製品(化粧品など)に直接触れないようご注意ください。また研磨剤のご使用はお控えください。化粧品やアルコールを含んだ製品、香水などをご使用の際には5-10分ほど時間をおき、手指や肌が完全に乾いてから、製品に触れていただきますようお願い申しあげます。シューズが水に濡れた場合は、シューツリーを入れて充分に乾かしてから、あらゆる熱源から遠ざけた状態でお手入れしてください。</li></ul>",
+      "introduction": "<div class=\"popinHeader uppercase\">下記の注意点をお読みいただき、末永くご愛用くださいますようお願い申し上げます。</div>"
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "/api/catalog/jpn-jp/product/nvprod1750242v"
+    },
+    "push": {
+      "href": "/api/catalog/jpn-jp/product-push/nvprod1750242v"
+    },
+    "care-link": {
+      "href": "/api/catalog/jpn-jp/care-link/nvprod1750242v"
+    },
+    "size-guide": {
+      "href": "/api/catalog/jpn-jp/size-guide/nvprod1750242v"
+    },
+    "availability": {
+      "href": "/api/catalog/jpn-jp/availability/nvprod1750242v"
+    }
+  },
+  "@type": "Product",
+  "sku": "1A5NNV",
+  "isSimilarTo": [],
+  "productTips": [],
+  "url": "/jpn-jp/products/laureate-platform-desert-boot-nvprod1750242v",
+  "category": [
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/women/_/N-1q5sgib",
+      "alternateName": "women",
+      "name": "ウィメンズ",
+      "identifier": "femme"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/women/shoes/_/N-1ud2sg9",
+      "alternateName": "shoes",
+      "name": "シューズ",
+      "identifier": "w-category-cat10132"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/women/shoes/boots-and-ankle-boots/_/N-f6346z",
+      "alternateName": "boots-and-ankle-boots",
+      "name": "ウィメンズ ブーツ＆アンクルブーツ",
+      "identifier": "nvcat60002v-3"
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "hidePrice",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "subType",
+      "value": "product"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "sizeGuide",
+      "value": true
+    }
+  ],
+  "name": "ローリエート・ライン ブーツ",
+  "isRelatedTo": [],
+  "@context": "http://schema.org",
+  "identifier": "nvprod1750242v"
+}

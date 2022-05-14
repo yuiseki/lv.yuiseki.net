@@ -1,0 +1,463 @@
+{
+  "model": [
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/LS0169/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod980002v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/LS0169"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/LS0169/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod980002v/LS0169/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ピンク",
+      "@type": "ProductModel",
+      "name": "トラベルケース（200ML）",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 93500
+        },
+        "@type": "Offer",
+        "price": "¥93,500"
+      },
+      "disambiguatingDescription": "大切な物を守り、持ち運ぶケースを作るべく、独自のサヴォアフェール(匠の技)とカスタムデザインを駆使するルイ･ヴィトン。「トラベルケース（200ML）」は、200MLのフレグランスボトルを収納でき、バックルがあなたのフレグランスをしっかりと守ります。バッグの中に忍ばせて、あらゆるシーンで香りをお楽しみいただけます。お好みのイニシャルを刻印してパーソナライズすることもできます。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-トラベルケース（200ml）-エピ-パーソナライゼーション--LS0169_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-トラベルケース（200ml）-エピ-パーソナライゼーション--LS0169_PM1_Other view3.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Other view3",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/200ml-travel-case-epi-nvprod980002v",
+      "material": "エピ",
+      "highEndTemplate": false,
+      "productId": "nvprod980002v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-ACC-994_light_pink.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul> \n <li>LVフレグランス専用トラベルケース（200mlスプレー専用）</li> \n <li>金具（色：ゴールド）</li> \n <li>ライニング：マイクロファイバー</li> \n</ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "hotstampable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z01"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/_/N-1q5sgib",
+          "alternateName": "women",
+          "name": "ウィメンズ",
+          "identifier": "femme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/personalization/_/N-1oc1mga",
+          "alternateName": "personalization",
+          "name": "パーソナライゼーション",
+          "identifier": "w-category-catmom0000"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/personalisation/hotstamping/_/N-ddphie",
+          "alternateName": "hot-stamping",
+          "name": "イニシャルホットスタンピング",
+          "identifier": "nvcat120019v"
+        }
+      ],
+      "disclaimers": {
+        "value": "shipping_warning_bo",
+        "popInContent": "global_backorder_info_popin_content",
+        "popInTitle": "global_backorder_info_popin_title"
+      },
+      "color": "ライトピンク",
+      "@context": "http://schema.org",
+      "identifier": "LS0169"
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "/api/catalog/jpn-jp/product/nvprod980002v"
+    },
+    "push": {
+      "href": "/api/catalog/jpn-jp/product-push/nvprod980002v"
+    },
+    "care-link": {
+      "href": "/api/catalog/jpn-jp/care-link/nvprod980002v"
+    },
+    "availability": {
+      "href": "/api/catalog/jpn-jp/availability/nvprod980002v"
+    }
+  },
+  "@type": "Product",
+  "sku": "LS0169",
+  "isSimilarTo": [
+    {
+      "model": [
+        {
+          "productVisible": true,
+          "_links": {
+            "look": {
+              "href": "/api/catalog/jpn-jp/skus/LS0219/look"
+            },
+            "parent": {
+              "href": "/api/catalog/jpn-jp/product/nvprod980001v"
+            },
+            "self": {
+              "href": "/api/catalog/jpn-jp/product/LS0219"
+            },
+            "perso-details": {
+              "href": "/api/catalog/jpn-jp/skus/LS0219/perso-detail"
+            },
+            "/api/rels/jpn-jp/add-to-cart-base/nvprod980001v/LS0219/1": {
+              "name": "add-to-cart",
+              "href": "/api/cart/jpn-jp"
+            }
+          },
+          "macroColor": "ピンク",
+          "@type": "ProductModel",
+          "name": "トラベルケース（100ML）",
+          "offers": {
+            "priceSpecification": {
+              "priceCurrency": "JPY",
+              "price": 81400
+            },
+            "@type": "Offer",
+            "price": "¥81,400"
+          },
+          "disambiguatingDescription": "大切な物を守り、持ち運ぶケースを作るべく、独自のサヴォアフェール(匠の技)とカスタムデザインを駆使するルイ･ヴィトン。「トラベルケース（100ML）」は、100MLのフレグランスボトルを収納でき、バックルがあなたのフレグランスをしっかりと守ります。バッグの中に忍ばせて、あらゆるシーンで香りをお楽しみいただけます。お好みのイニシャルを刻印してパーソナライズすることもできます。",
+          "image": [
+            {
+              "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-トラベルケース（100ml）-エピ-パーソナライゼーション--LS0219_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+              "@type": "ImageObject",
+              "name": "Front view",
+              "@context": "http://schema.org"
+            },
+            {
+              "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-トラベルケース（100ml）-エピ-パーソナライゼーション--LS0219_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+              "@type": "ImageObject",
+              "name": "Side view",
+              "@context": "http://schema.org"
+            }
+          ],
+          "url": "/jpn-jp/products/100ml-travel-case-epi-nvprod980001v",
+          "material": "エピ",
+          "highEndTemplate": false,
+          "productId": "nvprod980001v",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "colorIconURL",
+              "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-ACC-994_light_pink.jpg"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "detailedDescription",
+              "value": "<ul> \n <li>LVフレグランス専用トラベルケース（100mlスプレー専用）</li> \n <li>金具（色：ゴールド）</li> \n <li>ライニング：マイクロファイバー</li> \n</ul>"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "hotstampable",
+              "value": true
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "sellable",
+              "value": true
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "cscSellable",
+              "value": true
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "mom",
+              "value": false
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "locateInStore",
+              "value": true
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "materialGroupCode",
+              "value": "Z01"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "filterCategories",
+              "value": "Leather_Goods_and_Accessories"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "backOrderDisclaimer",
+              "value": true
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "backOrderFullDeposit",
+              "value": false
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "tryOnEnabled",
+              "value": false
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "isBundle",
+              "value": false
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "360ViewEnabled",
+              "value": false
+            }
+          ],
+          "category": [
+            {
+              "@type": "Thing",
+              "url": "/jpn-jp/women/_/N-1q5sgib",
+              "alternateName": "women",
+              "name": "ウィメンズ",
+              "identifier": "femme"
+            },
+            {
+              "@type": "Thing",
+              "url": "/jpn-jp/women/personalization/_/N-1oc1mga",
+              "alternateName": "personalization",
+              "name": "パーソナライゼーション",
+              "identifier": "w-category-catmom0000"
+            },
+            {
+              "@type": "Thing",
+              "url": "/jpn-jp/women/personalisation/hotstamping/_/N-ddphie",
+              "alternateName": "hot-stamping",
+              "name": "イニシャルホットスタンピング",
+              "identifier": "nvcat120019v"
+            }
+          ],
+          "disclaimers": {
+            "value": "shipping_warning_bo",
+            "popInContent": "global_backorder_info_popin_content",
+            "popInTitle": "global_backorder_info_popin_title"
+          },
+          "color": "ライトピンク",
+          "@context": "http://schema.org",
+          "identifier": "LS0219"
+        }
+      ],
+      "_links": {
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/nvprod980001v"
+        },
+        "push": {
+          "href": "/api/catalog/jpn-jp/product-push/nvprod980001v"
+        },
+        "care-link": {
+          "href": "/api/catalog/jpn-jp/care-link/nvprod980001v"
+        },
+        "availability": {
+          "href": "/api/catalog/jpn-jp/availability/nvprod980001v"
+        }
+      },
+      "@type": "Product",
+      "sku": "LS0219",
+      "productTips": [],
+      "url": "/jpn-jp/products/100ml-travel-case-epi-nvprod980001v",
+      "material": "エピ",
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/_/N-1q5sgib",
+          "alternateName": "women",
+          "name": "ウィメンズ",
+          "identifier": "femme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/personalization/_/N-1oc1mga",
+          "alternateName": "personalization",
+          "name": "パーソナライゼーション",
+          "identifier": "w-category-catmom0000"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/personalisation/hotstamping/_/N-ddphie",
+          "alternateName": "hot-stamping",
+          "name": "イニシャルホットスタンピング",
+          "identifier": "nvcat120019v"
+        }
+      ],
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "hidePrice",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "subType",
+          "value": "product"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--AEL-LG-A00_Epi.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "hotStampable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sizeGuide",
+          "value": false
+        }
+      ],
+      "name": "トラベルケース（100ML）",
+      "@context": "http://schema.org",
+      "identifier": "nvprod980001v"
+    }
+  ],
+  "productTips": [],
+  "url": "/jpn-jp/products/200ml-travel-case-epi-nvprod980002v",
+  "material": "エピ",
+  "category": [
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/women/_/N-1q5sgib",
+      "alternateName": "women",
+      "name": "ウィメンズ",
+      "identifier": "femme"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/women/personalization/_/N-1oc1mga",
+      "alternateName": "personalization",
+      "name": "パーソナライゼーション",
+      "identifier": "w-category-catmom0000"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/women/personalisation/hotstamping/_/N-ddphie",
+      "alternateName": "hot-stamping",
+      "name": "イニシャルホットスタンピング",
+      "identifier": "nvcat120019v"
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "hidePrice",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "subType",
+      "value": "product"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "materialIconURL",
+      "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--AEL-LG-A00_Epi.jpg"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "hotStampable",
+      "value": true
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "sizeGuide",
+      "value": false
+    }
+  ],
+  "name": "トラベルケース（200ML）",
+  "isRelatedTo": [],
+  "@context": "http://schema.org",
+  "identifier": "nvprod980002v"
+}

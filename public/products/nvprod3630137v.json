@@ -1,0 +1,239 @@
+{
+  "model": [
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/M77624/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod3630137v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/M77624"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/M77624/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod3630137v/M77624/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ブルー",
+      "@type": "ProductModel",
+      "height": {
+        "@type": "QuantitativeValue",
+        "value": 45,
+        "unitText": "cm"
+      },
+      "name": "カプーシュ・LV グラフィカル",
+      "mainMaterial2": "COTTON",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 123200
+        },
+        "@type": "Offer",
+        "price": "¥123,200"
+      },
+      "disambiguatingDescription": "タオルコットン生地の「カプーシュ･LV グラフィカル」。泳いだ後に着用するのにぴったりな、鮮やかなアイテムです。全面の大胆なストライプ･パターンに、LV イニシャルとモノグラム･フラワー モチーフのパッチを添えた大ぶりのフードとポケットをあしらいました。エッジ部分はトーナルなグログランリボンで仕上げています。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-カプーシュ・lv-グラフィカル-s00-メンズ-マフラー、ストール、その他テキスタイル--M77624_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-カプーシュ・lv-グラフィカル-s00-メンズ-マフラー、ストール、その他テキスタイル--M77624_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-カプーシュ・lv-グラフィカル-s00-メンズ-マフラー、ストール、その他テキスタイル--M77624_PM1_Back view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Back view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/lv-graphical-hood-s00-nvprod3630137v",
+      "material": "COTTON",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 200,
+        "unitText": "cm"
+      },
+      "highEndTemplate": false,
+      "productId": "nvprod3630137v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-ACC-94B_blue.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>1サイズのみの展開</li><li>素材：コットン 100%</li><li>LV イニシャル</li><li>モノグラム・フラワー モチーフ</li><li>ポケット</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories;Sunglasses"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-1cyoz77",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/accessories/_/N-1d0iakb",
+          "alternateName": "accessories",
+          "name": "アクセサリー",
+          "identifier": "m-category-cat10052"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/accessories/scarves/_/N-a4qie5",
+          "alternateName": "scarves",
+          "name": "メンズ マフラー、ストール、その他テキスタイル",
+          "identifier": "m-category-cattexm"
+        }
+      ],
+      "disclaimers": {
+        "value": "shipping_warning_bo",
+        "popInContent": "global_backorder_info_popin_content",
+        "popInTitle": "global_backorder_info_popin_title"
+      },
+      "color": "ブルー",
+      "@context": "http://schema.org",
+      "identifier": "M77624"
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "/api/catalog/jpn-jp/product/nvprod3630137v"
+    },
+    "push": {
+      "href": "/api/catalog/jpn-jp/product-push/nvprod3630137v"
+    },
+    "care-link": {
+      "href": "/api/catalog/jpn-jp/care-link/nvprod3630137v"
+    },
+    "availability": {
+      "href": "/api/catalog/jpn-jp/availability/nvprod3630137v"
+    }
+  },
+  "@type": "Product",
+  "sku": "M77624",
+  "isSimilarTo": [],
+  "productTips": [],
+  "url": "/jpn-jp/products/lv-graphical-hood-s00-nvprod3630137v",
+  "material": "NOT APPLICABLE ACC",
+  "category": [
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/_/N-1cyoz77",
+      "alternateName": "men",
+      "name": "メンズ",
+      "identifier": "homme"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/accessories/_/N-1d0iakb",
+      "alternateName": "accessories",
+      "name": "アクセサリー",
+      "identifier": "m-category-cat10052"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/accessories/scarves/_/N-a4qie5",
+      "alternateName": "scarves",
+      "name": "メンズ マフラー、ストール、その他テキスタイル",
+      "identifier": "m-category-cattexm"
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "hidePrice",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "subType",
+      "value": "product"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "sizeGuide",
+      "value": false
+    }
+  ],
+  "name": "カプーシュ・LV グラフィカル",
+  "isRelatedTo": [],
+  "@context": "http://schema.org",
+  "identifier": "nvprod3630137v"
+}

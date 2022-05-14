@@ -1,0 +1,616 @@
+{
+  "model": [
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/M77290/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod2540112v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/M77290"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/M77290/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod2540112v/M77290/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ベージュ",
+      "@type": "ProductModel",
+      "height": {
+        "@type": "QuantitativeValue",
+        "value": 25,
+        "unitText": "cm"
+      },
+      "name": "ボネ・LVビーニー",
+      "mainMaterial2": "WOOL",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 60500
+        },
+        "@type": "Offer",
+        "price": "¥60,500"
+      },
+      "disambiguatingDescription": "あらゆる冬の装いにエレガントな印象を添える「ボネ・LVビーニー」。モノグラム･キャンバスとレザーを組み合わせたタグと、そこにあしらわれたLV イニシャルがメゾンならではの個性を放ち、光沢感のあるスタッズがルイ･ヴィトンのトランク作りの伝統を彷彿させます。ウール100％の素材で、ラグジュアリーな風合いに仕上げました。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ボネ・lvビーニー-s00-帽子＆手袋--M77290_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ボネ・lvビーニー-s00-帽子＆手袋--M77290_PM1_Worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Worn view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ボネ・lvビーニー-s00-帽子＆手袋--M77290_PM1_Closeup view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Closeup view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ボネ・lvビーニー-s00-帽子＆手袋--M77290_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ボネ・lvビーニー-s00-帽子＆手袋--M77290_PM1_Interior view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Interior view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/lv-beanie-s00-nvprod2540112v",
+      "material": "WOOL",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 25,
+        "unitText": "cm"
+      },
+      "highEndTemplate": false,
+      "productId": "nvprod2540112v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-ACC-906_beige.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>1サイズのみの展開</li><li>素材：ウール 100%</li><li>モノグラム･キャンバスのタグ</li><li>ドライクリーニングのみ</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories;Sunglasses"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/_/N-1q5sgib",
+          "alternateName": "women",
+          "name": "ウィメンズ",
+          "identifier": "femme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/accessories/_/N-1oyzg8c",
+          "alternateName": "accessories",
+          "name": "アクセサリー",
+          "identifier": "w-category-cat10155"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/accessories/hats-and-gloves/_/N-p76np",
+          "alternateName": "hats-and-gloves",
+          "name": "帽子＆手袋",
+          "identifier": "nvcat1710020v"
+        }
+      ],
+      "disclaimers": {
+        "value": "shipping_warning_bo",
+        "popInContent": "global_backorder_info_popin_content",
+        "popInTitle": "global_backorder_info_popin_title"
+      },
+      "color": "ベージュ",
+      "@context": "http://schema.org",
+      "identifier": "M77290"
+    },
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/M76707/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod2540112v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/M76707"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/M76707/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod2540112v/M76707/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ホワイト",
+      "@type": "ProductModel",
+      "height": {
+        "@type": "QuantitativeValue",
+        "value": 25,
+        "unitText": "cm"
+      },
+      "name": "ボネ・LVビーニー",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 60500
+        },
+        "@type": "Offer",
+        "price": "¥60,500"
+      },
+      "disambiguatingDescription": "あらゆる冬の装いにエレガントな印象を添える「ボネ・LVビーニー」。モノグラム･キャンバスとレザーを組み合わせたタグと、そこにあしらわれたLV イニシャルがメゾンならではの個性を放ち、光沢感のあるスタッズがルイ･ヴィトンのトランク作りの伝統を彷彿させます。ウール100％の素材で、ラグジュアリーな風合いに仕上げました。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ボネ・lvビーニー-s00-帽子＆手袋--M76707_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ボネ・lvビーニー-s00-帽子＆手袋--M76707_PM1_Worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Worn view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ボネ・lvビーニー-s00-帽子＆手袋--M76707_PM1_Closeup view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Closeup view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ボネ・lvビーニー-s00-帽子＆手袋--M76707_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ボネ・lvビーニー-s00-帽子＆手袋--M76707_PM1_Interior view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Interior view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/lv-beanie-s00-nvprod2540112v",
+      "material": "WOOL",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 25,
+        "unitText": "cm"
+      },
+      "highEndTemplate": false,
+      "productId": "nvprod2540112v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-ACC-907_blanc.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>素材：ウール 100%</li><li>モノグラム・キャンバスとレザーのタグ</li><li>スタッズの装飾</li><li>LVイニシャル</li><li>ドライクリーニングのみ</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories;Sunglasses"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/_/N-1q5sgib",
+          "alternateName": "women",
+          "name": "ウィメンズ",
+          "identifier": "femme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/accessories/_/N-1oyzg8c",
+          "alternateName": "accessories",
+          "name": "アクセサリー",
+          "identifier": "w-category-cat10155"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/accessories/hats-and-gloves/_/N-p76np",
+          "alternateName": "hats-and-gloves",
+          "name": "帽子＆手袋",
+          "identifier": "nvcat1710020v"
+        }
+      ],
+      "disclaimers": {
+        "value": "shipping_warning_bo",
+        "popInContent": "global_backorder_info_popin_content",
+        "popInTitle": "global_backorder_info_popin_title"
+      },
+      "color": "ブロン",
+      "@context": "http://schema.org",
+      "identifier": "M76707"
+    },
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/M76706/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod2540112v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/M76706"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/M76706/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod2540112v/M76706/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ブラック",
+      "@type": "ProductModel",
+      "height": {
+        "@type": "QuantitativeValue",
+        "value": 25,
+        "unitText": "cm"
+      },
+      "name": "ボネ・LVビーニー",
+      "mainMaterial2": "WOOL",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 60500
+        },
+        "@type": "Offer",
+        "price": "¥60,500"
+      },
+      "disambiguatingDescription": "あらゆる冬の装いにエレガントな印象を添える「ボネ・LVビーニー」。モノグラム･キャンバスとレザーを組み合わせたタグと、そこにあしらわれたLV イニシャルがメゾンならではの個性を放ち、光沢感のあるスタッズがルイ･ヴィトンのトランク作りの伝統を彷彿させます。ウール100％の素材で、ラグジュアリーな風合いに仕上げました。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ボネ・lvビーニー-s00-帽子＆手袋--M76706_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ボネ・lvビーニー-s00-帽子＆手袋--M76706_PM1_Worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Worn view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ボネ・lvビーニー-s00-帽子＆手袋--M76706_PM1_Closeup view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Closeup view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ボネ・lvビーニー-s00-帽子＆手袋--M76706_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ボネ・lvビーニー-s00-帽子＆手袋--M76706_PM1_Interior view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Interior view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/lv-beanie-s00-nvprod2540112v",
+      "material": "WOOL",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 25,
+        "unitText": "cm"
+      },
+      "highEndTemplate": false,
+      "productId": "nvprod2540112v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-LG-980_noir.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>素材：ウール 100%</li><li>モノグラム・キャンバスとレザーのタグ</li><li>スタッズの装飾</li><li>LVイニシャル</li><li>ドライクリーニングのみ</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories;Sunglasses"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/_/N-1q5sgib",
+          "alternateName": "women",
+          "name": "ウィメンズ",
+          "identifier": "femme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/accessories/_/N-1oyzg8c",
+          "alternateName": "accessories",
+          "name": "アクセサリー",
+          "identifier": "w-category-cat10155"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/accessories/hats-and-gloves/_/N-p76np",
+          "alternateName": "hats-and-gloves",
+          "name": "帽子＆手袋",
+          "identifier": "nvcat1710020v"
+        }
+      ],
+      "disclaimers": {
+        "value": "shipping_warning_bo",
+        "popInContent": "global_backorder_info_popin_content",
+        "popInTitle": "global_backorder_info_popin_title"
+      },
+      "color": "ノワール",
+      "@context": "http://schema.org",
+      "identifier": "M76706"
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "/api/catalog/jpn-jp/product/nvprod2540112v"
+    },
+    "push": {
+      "href": "/api/catalog/jpn-jp/product-push/nvprod2540112v"
+    },
+    "care-link": {
+      "href": "/api/catalog/jpn-jp/care-link/nvprod2540112v"
+    },
+    "availability": {
+      "href": "/api/catalog/jpn-jp/availability/nvprod2540112v"
+    }
+  },
+  "@type": "Product",
+  "sku": "M77290",
+  "isSimilarTo": [],
+  "productTips": [],
+  "url": "/jpn-jp/products/lv-beanie-s00-nvprod2540112v",
+  "material": "NOT APPLICABLE ACC",
+  "category": [
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/women/_/N-1q5sgib",
+      "alternateName": "women",
+      "name": "ウィメンズ",
+      "identifier": "femme"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/women/accessories/_/N-1oyzg8c",
+      "alternateName": "accessories",
+      "name": "アクセサリー",
+      "identifier": "w-category-cat10155"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/women/accessories/hats-and-gloves/_/N-p76np",
+      "alternateName": "hats-and-gloves",
+      "name": "帽子＆手袋",
+      "identifier": "nvcat1710020v"
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "hidePrice",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "subType",
+      "value": "product"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "sizeGuide",
+      "value": false
+    }
+  ],
+  "name": "ボネ・LVビーニー",
+  "isRelatedTo": [],
+  "@context": "http://schema.org",
+  "identifier": "nvprod2540112v"
+}

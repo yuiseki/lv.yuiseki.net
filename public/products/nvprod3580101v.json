@@ -1,0 +1,244 @@
+{
+  "model": [
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/GI0755/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod3580101v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/GI0755"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/GI0755/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod3580101v/GI0755/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "マルチカラー",
+      "@type": "ProductModel",
+      "height": {
+        "@type": "QuantitativeValue",
+        "value": 106,
+        "unitText": "cm"
+      },
+      "name": "スキムボード",
+      "mainMaterial2": "WOOD",
+      "width": {
+        "@type": "QuantitativeValue",
+        "value": 1,
+        "unitText": "cm"
+      },
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 279400
+        },
+        "@type": "Offer",
+        "price": "¥279,400"
+      },
+      "disambiguatingDescription": "ビーチで春の雰囲気を演出する、カラフルな「スキムボード」。片面はウッドの背景にLV イニシャルをあしらい、まるで波に浸かっているようなデザインに仕上げました。もう片面は、2022春夏コレクションに共通する色鮮やかなパステルカラーのグラデーションを背景に、大ぶりのモノグラム･モチーフが彩りを添えます。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-スキムボード-s00-スポーツ-ライフスタイル--GI0755_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-スキムボード-s00-スポーツ-ライフスタイル--GI0755_PM1_Detail view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Detail view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-スキムボード-s00-スポーツ-ライフスタイル--GI0755_PM1_Back view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Back view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/skimboard-s00-nvprod3580101v",
+      "material": "WOOD",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 49,
+        "unitText": "cm"
+      },
+      "highEndTemplate": false,
+      "productId": "nvprod3580101v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-LG-986_orange.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>素材：ウッド</li><li>LV イニシャル</li><li>モノグラムのディテール</li><li>特製フェルトバッグ</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories;Sunglasses"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/art-of-living/_/N-kmf9ty",
+          "alternateName": "art-of-living",
+          "name": "ライフスタイル",
+          "identifier": "nvcat1840004v"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/art-of-living/sport-and-lifestyle/_/N-1nxn7wx",
+          "alternateName": "sport-and-lifestyle",
+          "name": "スポーツ&ライフスタイル",
+          "identifier": "nvcat1840007v"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/art-of-living/sport-and-lifestyle/sporting-goods/_/N-y76ouw",
+          "alternateName": "sporting-goods",
+          "name": "スポーツ",
+          "identifier": "nvcat1840017v"
+        }
+      ],
+      "disclaimers": {
+        "value": "shipping_warning_bo",
+        "popInContent": "global_backorder_info_popin_content",
+        "popInTitle": "global_backorder_info_popin_title"
+      },
+      "color": "サンライズ",
+      "@context": "http://schema.org",
+      "identifier": "GI0755"
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "/api/catalog/jpn-jp/product/nvprod3580101v"
+    },
+    "push": {
+      "href": "/api/catalog/jpn-jp/product-push/nvprod3580101v"
+    },
+    "care-link": {
+      "href": "/api/catalog/jpn-jp/care-link/nvprod3580101v"
+    },
+    "availability": {
+      "href": "/api/catalog/jpn-jp/availability/nvprod3580101v"
+    }
+  },
+  "@type": "Product",
+  "sku": "GI0755",
+  "isSimilarTo": [],
+  "productTips": [],
+  "url": "/jpn-jp/products/skimboard-s00-nvprod3580101v",
+  "material": "NOT APPLICABLE ACC",
+  "category": [
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/art-of-living/_/N-kmf9ty",
+      "alternateName": "art-of-living",
+      "name": "ライフスタイル",
+      "identifier": "nvcat1840004v"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/art-of-living/sport-and-lifestyle/_/N-1nxn7wx",
+      "alternateName": "sport-and-lifestyle",
+      "name": "スポーツ&ライフスタイル",
+      "identifier": "nvcat1840007v"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/art-of-living/sport-and-lifestyle/sporting-goods/_/N-y76ouw",
+      "alternateName": "sporting-goods",
+      "name": "スポーツ",
+      "identifier": "nvcat1840017v"
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "hidePrice",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "subType",
+      "value": "product"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "sizeGuide",
+      "value": false
+    }
+  ],
+  "name": "スキムボード",
+  "isRelatedTo": [],
+  "@context": "http://schema.org",
+  "identifier": "nvprod3580101v"
+}

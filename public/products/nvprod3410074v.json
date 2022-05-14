@@ -1,0 +1,238 @@
+{
+  "model": [
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/MP3304/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod3410074v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/MP3304"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/MP3304/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod3410074v/MP3304/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "レッド",
+      "@type": "ProductModel",
+      "height": {
+        "@type": "QuantitativeValue",
+        "value": 140,
+        "unitText": "cm"
+      },
+      "name": "プレッド・ダミエ チェック",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 259600
+        },
+        "@type": "Offer",
+        "price": "¥259,600"
+      },
+      "disambiguatingDescription": "2022春夏プレタポルテ･コレクションに登場したパターンが際立つ、ジオメトリカルなデザインのブランケット「プレッド･ダミエ チェック」。アイコニックなダミエ･パターンの整然とした四角形をジャカード･パターンで巧みに表現し、エッジ部分は精緻なステッチで仕上げました。同カプセル･コレクションには、お揃いのクッションもご用意しています。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-プレッド・ダミエ-チェック-s00-ホーム--MP3304_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-プレッド・ダミエ-チェック-s00-ホーム--MP3304_PM1_Worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Worn view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-プレッド・ダミエ-チェック-s00-ホーム--MP3304_PM1_Back view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Back view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/damier-checks-blanket-s00-nvprod3410074v",
+      "material": "WOOL",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 180,
+        "unitText": "cm"
+      },
+      "highEndTemplate": false,
+      "productId": "nvprod3410074v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-ACC-90A_red_nm.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>素材：ウール 62%、ナイロン 38%</li><li>ダミエ･パターンのプリント</li><li>ステッチ仕上げ</li><li>ドライクリーニングのみ</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories;Sunglasses"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/art-of-living/_/N-kmf9ty",
+          "alternateName": "art-of-living",
+          "name": "ライフスタイル",
+          "identifier": "nvcat1840004v"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/art-of-living/home/_/N-1181e7i",
+          "alternateName": "home",
+          "name": "ホーム",
+          "identifier": "nvcat1840008v"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/art-of-living/home/objects-of-decoration/_/N-jsv3lk",
+          "alternateName": "objects-of-decoration",
+          "name": "ホーム デコレーション",
+          "identifier": "nvcat1840021v"
+        }
+      ],
+      "disclaimers": {
+        "value": "pre_order_disclaimer",
+        "popInContent": "pre_order_disclaimer_info_popin_content",
+        "popInTitle": "pre_order_disclaimer_info_popin_title"
+      },
+      "color": "ルージュ",
+      "@context": "http://schema.org",
+      "identifier": "MP3304"
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "/api/catalog/jpn-jp/product/nvprod3410074v"
+    },
+    "push": {
+      "href": "/api/catalog/jpn-jp/product-push/nvprod3410074v"
+    },
+    "care-link": {
+      "href": "/api/catalog/jpn-jp/care-link/nvprod3410074v"
+    },
+    "availability": {
+      "href": "/api/catalog/jpn-jp/availability/nvprod3410074v"
+    }
+  },
+  "@type": "Product",
+  "sku": "MP3304",
+  "isSimilarTo": [],
+  "productTips": [],
+  "url": "/jpn-jp/products/damier-checks-blanket-s00-nvprod3410074v",
+  "material": "NOT APPLICABLE ACC",
+  "category": [
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/art-of-living/_/N-kmf9ty",
+      "alternateName": "art-of-living",
+      "name": "ライフスタイル",
+      "identifier": "nvcat1840004v"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/art-of-living/home/_/N-1181e7i",
+      "alternateName": "home",
+      "name": "ホーム",
+      "identifier": "nvcat1840008v"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/art-of-living/home/objects-of-decoration/_/N-jsv3lk",
+      "alternateName": "objects-of-decoration",
+      "name": "ホーム デコレーション",
+      "identifier": "nvcat1840021v"
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "hidePrice",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "subType",
+      "value": "product"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "sizeGuide",
+      "value": false
+    }
+  ],
+  "name": "プレッド・ダミエ チェック",
+  "isRelatedTo": [],
+  "@context": "http://schema.org",
+  "identifier": "nvprod3410074v"
+}

@@ -1,0 +1,186 @@
+{
+  "model": [
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/nvsku3020048v/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod3410225v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/nvsku3020048v"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/nvsku3020048v/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod3410225v/nvsku3020048v/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "@type": "ProductModel",
+      "name": "Wardrobe - Look 04",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton--Men_Wardrobe_LOOK04_VISUAL4.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "LOOK04",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/wardrobe-look-04-nvprod3410225v",
+      "highEndTemplate": false,
+      "productId": "nvprod3410225v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-1cyoz77",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/ready-to-wear/_/N-1lpb5id",
+          "alternateName": "ready-to-wear",
+          "name": "プレタポルテ（洋服）",
+          "identifier": "m-readytowear"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/ready-to-wear/view-by-look/_/N-1ui6ldg",
+          "alternateName": "view-by-look",
+          "name": "ルックブック",
+          "identifier": "nvcat450010v"
+        }
+      ],
+      "disclaimers": {
+        "value": "shipping_warning_bo",
+        "popInContent": "global_backorder_info_popin_content",
+        "popInTitle": "global_backorder_info_popin_title"
+      },
+      "@context": "http://schema.org",
+      "identifier": "nvsku3020048v"
+    }
+  ],
+  "readyToWearSKUs": [],
+  "disambiguatingDescription": "アイコニックなモノグラム･パターンを今シーズンならではの2つのテーマで表現した、都会的なルック。異素材を組み合わせたジャケットは、レザーのボディ部分全面に散りばめたデボス加工のモノグラム･パターンが個性を放ちます。今季のグラフィカルなモノグラム･フラワー タイル パターンで再解釈した、スウェットシャツ風のトップスとコーディネートしています。ゆったりとしたウール素材のパンツと軽量のタートルネックセーターも魅力です。\n\n",
+  "_links": {
+    "self": {
+      "href": "/api/catalog/jpn-jp/product/nvprod3410225v"
+    },
+    "push": {
+      "href": "/api/catalog/jpn-jp/product-push/nvprod3410225v"
+    },
+    "care-link": {
+      "href": "/api/catalog/jpn-jp/care-link/nvprod3410225v"
+    },
+    "availability": {
+      "href": "/api/catalog/jpn-jp/availability/nvprod3410225v"
+    }
+  },
+  "@type": "Product",
+  "sku": "nvsku3020048v",
+  "isSimilarTo": [],
+  "productTips": [],
+  "url": "/jpn-jp/products/wardrobe-look-04-nvprod3410225v",
+  "accessoriesSKUs": [],
+  "category": [
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/_/N-1cyoz77",
+      "alternateName": "men",
+      "name": "メンズ",
+      "identifier": "homme"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/ready-to-wear/_/N-1lpb5id",
+      "alternateName": "ready-to-wear",
+      "name": "プレタポルテ（洋服）",
+      "identifier": "m-readytowear"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/ready-to-wear/view-by-look/_/N-1ui6ldg",
+      "alternateName": "view-by-look",
+      "name": "ルックブック",
+      "identifier": "nvcat450010v"
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "hidePrice",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "subType",
+      "value": "product"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "sizeGuide",
+      "value": false
+    }
+  ],
+  "name": "Wardrobe - Look 04",
+  "isRelatedTo": [],
+  "@context": "http://schema.org",
+  "identifier": "nvprod3410225v"
+}

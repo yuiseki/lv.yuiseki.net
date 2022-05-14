@@ -1,0 +1,247 @@
+{
+  "model": [
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/R97269/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod2210024v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/R97269"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/R97269/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod2210024v/R97269/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ホワイト",
+      "@type": "ProductModel",
+      "height": {
+        "@type": "QuantitativeValue",
+        "value": 92,
+        "unitText": "cm"
+      },
+      "name": "Babyfoot Leather",
+      "width": {
+        "@type": "QuantitativeValue",
+        "value": 116,
+        "unitText": "cm"
+      },
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 10274000
+        },
+        "@type": "Offer",
+        "price": "¥10,274,000"
+      },
+      "disambiguatingDescription": "クラシカルなテーブル･フットボールのテーブルにエレガントなひねりを加えた「Babyfoot」。ハンドペイントを施した人形や、カウハイドレザーでコーティングしたハンドルなど、あらゆるディテールに精緻なクラフツマンシップが際立ちます。インパクトのあるデザインに、モノグラム･フラワーから着想を得たカウント用コインや「Louis Vuitton」シグネチャーの刻印など、メゾンのシンボルをさりげなく散りばめました。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-babyfoot-leather-スポーツ-ライフスタイル--R97269_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-babyfoot-leather-スポーツ-ライフスタイル--R97269_PM1_Other view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Other view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/babyfoot-leather-nvprod2210024v",
+      "material": "COWHIDE",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 159,
+        "unitText": "cm"
+      },
+      "highEndTemplate": false,
+      "productId": "nvprod2210024v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-ON-Caramel_White.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>サイズ：H 93 x W 159 x D 74 cm</li><li>素材：レザー（皮革の種類：牛革） 80%、ウール 10%、金具 7%、ラバー 3%</li><li>金具（色：シルバー）</li><li>ハンドペイント仕上げの選手</li><li>エナメルのコイン</li><li>Louis Vuittonシグネチャーの刻印</li><li>屋内使用のみ</li><li>フランス製</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z01"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/art-of-living/_/N-kmf9ty",
+          "alternateName": "art-of-living",
+          "name": "ライフスタイル",
+          "identifier": "nvcat1840004v"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/art-of-living/sport-and-lifestyle/_/N-1nxn7wx",
+          "alternateName": "sport-and-lifestyle",
+          "name": "スポーツ&ライフスタイル",
+          "identifier": "nvcat1840007v"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/art-of-living/sport-and-lifestyle/games-billiard-and-football-tables/_/N-1hai10z",
+          "alternateName": "games-billiard-and-football-tables",
+          "name": "ゲーム、ビリヤード&フットボールテーブル",
+          "identifier": "nvcat1840016v"
+        }
+      ],
+      "disclaimers": {
+        "value": "shipping_warning_bo",
+        "popInContent": "global_backorder_info_popin_content",
+        "popInTitle": "global_backorder_info_popin_title"
+      },
+      "color": "Caramel White",
+      "@context": "http://schema.org",
+      "identifier": "R97269"
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "/api/catalog/jpn-jp/product/nvprod2210024v"
+    },
+    "push": {
+      "href": "/api/catalog/jpn-jp/product-push/nvprod2210024v"
+    },
+    "care-link": {
+      "href": "/api/catalog/jpn-jp/care-link/nvprod2210024v"
+    },
+    "availability": {
+      "href": "/api/catalog/jpn-jp/availability/nvprod2210024v"
+    }
+  },
+  "@type": "Product",
+  "sku": "R97269",
+  "isSimilarTo": [],
+  "productTips": [],
+  "url": "/jpn-jp/products/babyfoot-leather-nvprod2210024v",
+  "material": "ファッション小物",
+  "category": [
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/art-of-living/_/N-kmf9ty",
+      "alternateName": "art-of-living",
+      "name": "ライフスタイル",
+      "identifier": "nvcat1840004v"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/art-of-living/sport-and-lifestyle/_/N-1nxn7wx",
+      "alternateName": "sport-and-lifestyle",
+      "name": "スポーツ&ライフスタイル",
+      "identifier": "nvcat1840007v"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/art-of-living/sport-and-lifestyle/games-billiard-and-football-tables/_/N-1hai10z",
+      "alternateName": "games-billiard-and-football-tables",
+      "name": "ゲーム、ビリヤード&フットボールテーブル",
+      "identifier": "nvcat1840016v"
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "hidePrice",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "subType",
+      "value": "product"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "materialIconURL",
+      "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--AEL-LG-N00_sans_ligne_esthetique.jpg"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "careLink",
+      "value": "MATAEL-LG-K25"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "sizeGuide",
+      "value": false
+    }
+  ],
+  "name": "Babyfoot Leather",
+  "isRelatedTo": [],
+  "@context": "http://schema.org",
+  "identifier": "nvprod2210024v"
+}

@@ -1,0 +1,223 @@
+{
+  "model": [
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/M00657/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod3570142v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/M00657"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/M00657/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod3570142v/M00657/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ブルー",
+      "@type": "ProductModel",
+      "name": "ブックル・LVサンライズ",
+      "mainMaterial2": "BRASS",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 58300
+        },
+        "@type": "Offer",
+        "price": "¥58,300"
+      },
+      "disambiguatingDescription": "陽気な色使いとフレッシュなモノグラム･フラワー モチーフが、新たなシーズンの到来を告げる「ブックル･LVサンライズ」。エナメルを施した2つのピアスにストラスをあしらいました。セットで両耳に付けても、モダンな雰囲気を求めて他のアイテムとのミックス & マッチもお楽しみいただけます。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ブックル・lvサンライズ-s00-メンズ-ファッションジュエリー--M00657_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ブックル・lvサンライズ-s00-メンズ-ファッションジュエリー--M00657_PM1_Back view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Back view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/lv-sunrise-earrings-s00-nvprod3570142v",
+      "material": "COTTON",
+      "highEndTemplate": false,
+      "productId": "nvprod3570142v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-ACC-9B2_bleu_vert.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>ピアス</li><li>サイズ：3 cm</li><li>金具（色：シルバー）</li><li>ラッカー</li><li>モノグラム･フラワー モチーフ</li><li>イタリア製</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories;Sunglasses"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-1cyoz77",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/accessories/_/N-1d0iakb",
+          "alternateName": "accessories",
+          "name": "アクセサリー",
+          "identifier": "m-category-cat10052"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/accessories/fashion-jewellery/_/N-qv1g01",
+          "alternateName": "fashion-jewellery",
+          "name": "メンズ ファッションジュエリー",
+          "identifier": "m-fashionjewelry"
+        }
+      ],
+      "disclaimers": {
+        "value": "shipping_warning_bo",
+        "popInContent": "global_backorder_info_popin_content",
+        "popInTitle": "global_backorder_info_popin_title"
+      },
+      "color": "ブルー ヴェール",
+      "@context": "http://schema.org",
+      "identifier": "M00657"
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "/api/catalog/jpn-jp/product/nvprod3570142v"
+    },
+    "push": {
+      "href": "/api/catalog/jpn-jp/product-push/nvprod3570142v"
+    },
+    "care-link": {
+      "href": "/api/catalog/jpn-jp/care-link/nvprod3570142v"
+    },
+    "availability": {
+      "href": "/api/catalog/jpn-jp/availability/nvprod3570142v"
+    }
+  },
+  "@type": "Product",
+  "sku": "M00657",
+  "isSimilarTo": [],
+  "productTips": [],
+  "url": "/jpn-jp/products/lv-sunrise-earrings-s00-nvprod3570142v",
+  "material": "NOT APPLICABLE ACC",
+  "category": [
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/_/N-1cyoz77",
+      "alternateName": "men",
+      "name": "メンズ",
+      "identifier": "homme"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/accessories/_/N-1d0iakb",
+      "alternateName": "accessories",
+      "name": "アクセサリー",
+      "identifier": "m-category-cat10052"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/accessories/fashion-jewellery/_/N-qv1g01",
+      "alternateName": "fashion-jewellery",
+      "name": "メンズ ファッションジュエリー",
+      "identifier": "m-fashionjewelry"
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "hidePrice",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "subType",
+      "value": "product"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "sizeGuide",
+      "value": false
+    }
+  ],
+  "name": "ブックル・LVサンライズ",
+  "isRelatedTo": [],
+  "@context": "http://schema.org",
+  "identifier": "nvprod3570142v"
+}

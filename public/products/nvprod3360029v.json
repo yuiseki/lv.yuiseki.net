@@ -1,0 +1,710 @@
+{
+  "model": [
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/1A9L3E/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod3360029v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/1A9L3E"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/1A9L3E/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod3360029v/1A9L3E/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ブラック",
+      "@type": "ProductModel",
+      "name": "グラフィックスキージャケット",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 632500
+        },
+        "@type": "Offer",
+        "price": "¥632,500"
+      },
+      "disambiguatingDescription": "高い耐久性を誇るテクニカルなアイテムに、シックかつモダンなデザインでひねりを加えたスキージャケット。軽量なストレッチラバーで保温性と柔軟性を高めた、ウィンタースポーツに特化した一着です。フィット感のあるフードにモノグラム･パターンを散りばめた暖かいフリースのライニングを施し、ポケットには使いやすいファスナー引き手をあしらいました。コントラストカラーのLV サークルとメタリックなカラーブロックがグラフィカルな雰囲気を放ちます。<p>ご不明な点がございましたら、クライアントサービスまでお気軽にお問合せください。専任のクライアントアドバイザーが、素材やサイズなどの製品詳細、モデル着用イメージや関連アイテムのご案内など、お客様のご要望に合わせたスタイリング・アドバイスをご提供いたします。</p><p>また、サイズ違いなどによる返品・交換のご相談も承ります。詳細は<a href=\"https://jp.louisvuitton.com/jpn-jp/legal-privacy\"><b>こちら。</b></a></p>",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-グラフィックスキージャケット-プレタポルテ（洋服）--FMOW30HX4900_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-グラフィックスキージャケット-プレタポルテ（洋服）--FMOW30HX4900_PM1_Worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Worn view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-グラフィックスキージャケット-プレタポルテ（洋服）--FMOW30HX4900_PM1_Closeup view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Closeup view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/graphic-ski-jacket-nvprod3360029v",
+      "highEndTemplate": false,
+      "sizeDisplayName": "34",
+      "productId": "nvprod3360029v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-RTW-900_noir.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>表地：ナイロン 78%、ポリウレタン 22%</li><li>その他：コットン 85%、ナイロン 11%、ポリウレタン 4%</li><li>裏地：アクリル 26%、ウール 25%、ポリエステル 25%、ナイロン 20%、ポリウレタン 4%</li><li>レギュラーフィット</li><li>イタリア製</li><li>家庭での洗濯禁止</li><li>塩素系および酸素系漂白剤の使用禁止</li><li>タンブル乾燥禁止</li><li>アイロン仕上げ禁止</li><li>石油系溶剤による弱いドライクリーニング可</li><li>REF：FMOW30HX4</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z05"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Ready_To_Wear_Women"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/_/N-1q5sgib",
+          "alternateName": "women",
+          "name": "ウィメンズ",
+          "identifier": "femme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/ready-to-wear/_/N-1nzqmbe",
+          "alternateName": "ready-to-wear",
+          "name": "プレタポルテ（洋服）",
+          "identifier": "w-readytowear"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/ready-to-wear/coats-and-jackets/_/N-1448ga7",
+          "alternateName": "coats-and-jackets",
+          "name": "ウィメンズ コート＆ジャケット",
+          "identifier": "w-jacketsandcoats-w"
+        }
+      ],
+      "disclaimers": {
+        "value": "shipping_warning_bo",
+        "popInContent": "global_backorder_info_popin_content",
+        "popInTitle": "global_backorder_info_popin_title"
+      },
+      "color": "ノワール",
+      "@context": "http://schema.org",
+      "identifier": "1A9L3E"
+    },
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/1A9L3F/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod3360029v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/1A9L3F"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/1A9L3F/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod3360029v/1A9L3F/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ブラック",
+      "@type": "ProductModel",
+      "name": "グラフィックスキージャケット",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 632500
+        },
+        "@type": "Offer",
+        "price": "¥632,500"
+      },
+      "disambiguatingDescription": "高い耐久性を誇るテクニカルなアイテムに、シックかつモダンなデザインでひねりを加えたスキージャケット。軽量なストレッチラバーで保温性と柔軟性を高めた、ウィンタースポーツに特化した一着です。フィット感のあるフードにモノグラム･パターンを散りばめた暖かいフリースのライニングを施し、ポケットには使いやすいファスナー引き手をあしらいました。コントラストカラーのLV サークルとメタリックなカラーブロックがグラフィカルな雰囲気を放ちます。<p>ご不明な点がございましたら、クライアントサービスまでお気軽にお問合せください。専任のクライアントアドバイザーが、素材やサイズなどの製品詳細、モデル着用イメージや関連アイテムのご案内など、お客様のご要望に合わせたスタイリング・アドバイスをご提供いたします。</p><p>また、サイズ違いなどによる返品・交換のご相談も承ります。詳細は<a href=\"https://jp.louisvuitton.com/jpn-jp/legal-privacy\"><b>こちら。</b></a></p>",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-グラフィックスキージャケット-プレタポルテ（洋服）--FMOW30HX4900_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-グラフィックスキージャケット-プレタポルテ（洋服）--FMOW30HX4900_PM1_Worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Worn view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-グラフィックスキージャケット-プレタポルテ（洋服）--FMOW30HX4900_PM1_Closeup view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Closeup view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/graphic-ski-jacket-nvprod3360029v",
+      "highEndTemplate": false,
+      "sizeDisplayName": "36",
+      "productId": "nvprod3360029v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-RTW-900_noir.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>表地：ナイロン 78%、ポリウレタン 22%</li><li>その他：コットン 85%、ナイロン 11%、ポリウレタン 4%</li><li>裏地：アクリル 26%、ウール 25%、ポリエステル 25%、ナイロン 20%、ポリウレタン 4%</li><li>レギュラーフィット</li><li>イタリア製</li><li>家庭での洗濯禁止</li><li>塩素系および酸素系漂白剤の使用禁止</li><li>タンブル乾燥禁止</li><li>アイロン仕上げ禁止</li><li>石油系溶剤による弱いドライクリーニング可</li><li>REF：FMOW30HX4</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z05"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Ready_To_Wear_Women"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/_/N-1q5sgib",
+          "alternateName": "women",
+          "name": "ウィメンズ",
+          "identifier": "femme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/ready-to-wear/_/N-1nzqmbe",
+          "alternateName": "ready-to-wear",
+          "name": "プレタポルテ（洋服）",
+          "identifier": "w-readytowear"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/ready-to-wear/coats-and-jackets/_/N-1448ga7",
+          "alternateName": "coats-and-jackets",
+          "name": "ウィメンズ コート＆ジャケット",
+          "identifier": "w-jacketsandcoats-w"
+        }
+      ],
+      "disclaimers": {
+        "value": "shipping_warning_bo",
+        "popInContent": "global_backorder_info_popin_content",
+        "popInTitle": "global_backorder_info_popin_title"
+      },
+      "color": "ノワール",
+      "@context": "http://schema.org",
+      "identifier": "1A9L3F"
+    },
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/1A9L3G/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod3360029v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/1A9L3G"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/1A9L3G/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod3360029v/1A9L3G/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ブラック",
+      "@type": "ProductModel",
+      "name": "グラフィックスキージャケット",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 632500
+        },
+        "@type": "Offer",
+        "price": "¥632,500"
+      },
+      "disambiguatingDescription": "高い耐久性を誇るテクニカルなアイテムに、シックかつモダンなデザインでひねりを加えたスキージャケット。軽量なストレッチラバーで保温性と柔軟性を高めた、ウィンタースポーツに特化した一着です。フィット感のあるフードにモノグラム･パターンを散りばめた暖かいフリースのライニングを施し、ポケットには使いやすいファスナー引き手をあしらいました。コントラストカラーのLV サークルとメタリックなカラーブロックがグラフィカルな雰囲気を放ちます。<p>ご不明な点がございましたら、クライアントサービスまでお気軽にお問合せください。専任のクライアントアドバイザーが、素材やサイズなどの製品詳細、モデル着用イメージや関連アイテムのご案内など、お客様のご要望に合わせたスタイリング・アドバイスをご提供いたします。</p><p>また、サイズ違いなどによる返品・交換のご相談も承ります。詳細は<a href=\"https://jp.louisvuitton.com/jpn-jp/legal-privacy\"><b>こちら。</b></a></p>",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-グラフィックスキージャケット-プレタポルテ（洋服）--FMOW30HX4900_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-グラフィックスキージャケット-プレタポルテ（洋服）--FMOW30HX4900_PM1_Worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Worn view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-グラフィックスキージャケット-プレタポルテ（洋服）--FMOW30HX4900_PM1_Closeup view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Closeup view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/graphic-ski-jacket-nvprod3360029v",
+      "highEndTemplate": false,
+      "sizeDisplayName": "38",
+      "productId": "nvprod3360029v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-RTW-900_noir.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>表地：ナイロン 78%、ポリウレタン 22%</li><li>その他：コットン 85%、ナイロン 11%、ポリウレタン 4%</li><li>裏地：アクリル 26%、ウール 25%、ポリエステル 25%、ナイロン 20%、ポリウレタン 4%</li><li>レギュラーフィット</li><li>イタリア製</li><li>家庭での洗濯禁止</li><li>塩素系および酸素系漂白剤の使用禁止</li><li>タンブル乾燥禁止</li><li>アイロン仕上げ禁止</li><li>石油系溶剤による弱いドライクリーニング可</li><li>REF：FMOW30HX4</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z05"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Ready_To_Wear_Women"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/_/N-1q5sgib",
+          "alternateName": "women",
+          "name": "ウィメンズ",
+          "identifier": "femme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/ready-to-wear/_/N-1nzqmbe",
+          "alternateName": "ready-to-wear",
+          "name": "プレタポルテ（洋服）",
+          "identifier": "w-readytowear"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/ready-to-wear/coats-and-jackets/_/N-1448ga7",
+          "alternateName": "coats-and-jackets",
+          "name": "ウィメンズ コート＆ジャケット",
+          "identifier": "w-jacketsandcoats-w"
+        }
+      ],
+      "disclaimers": {
+        "value": "shipping_warning_bo",
+        "popInContent": "global_backorder_info_popin_content",
+        "popInTitle": "global_backorder_info_popin_title"
+      },
+      "color": "ノワール",
+      "@context": "http://schema.org",
+      "identifier": "1A9L3G"
+    },
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/1A9L3H/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod3360029v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/1A9L3H"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/1A9L3H/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod3360029v/1A9L3H/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ブラック",
+      "@type": "ProductModel",
+      "name": "グラフィックスキージャケット",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 632500
+        },
+        "@type": "Offer",
+        "price": "¥632,500"
+      },
+      "disambiguatingDescription": "高い耐久性を誇るテクニカルなアイテムに、シックかつモダンなデザインでひねりを加えたスキージャケット。軽量なストレッチラバーで保温性と柔軟性を高めた、ウィンタースポーツに特化した一着です。フィット感のあるフードにモノグラム･パターンを散りばめた暖かいフリースのライニングを施し、ポケットには使いやすいファスナー引き手をあしらいました。コントラストカラーのLV サークルとメタリックなカラーブロックがグラフィカルな雰囲気を放ちます。<p>ご不明な点がございましたら、クライアントサービスまでお気軽にお問合せください。専任のクライアントアドバイザーが、素材やサイズなどの製品詳細、モデル着用イメージや関連アイテムのご案内など、お客様のご要望に合わせたスタイリング・アドバイスをご提供いたします。</p><p>また、サイズ違いなどによる返品・交換のご相談も承ります。詳細は<a href=\"https://jp.louisvuitton.com/jpn-jp/legal-privacy\"><b>こちら。</b></a></p>",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-グラフィックスキージャケット-プレタポルテ（洋服）--FMOW30HX4900_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-グラフィックスキージャケット-プレタポルテ（洋服）--FMOW30HX4900_PM1_Worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Worn view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-グラフィックスキージャケット-プレタポルテ（洋服）--FMOW30HX4900_PM1_Closeup view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Closeup view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/graphic-ski-jacket-nvprod3360029v",
+      "highEndTemplate": false,
+      "sizeDisplayName": "40",
+      "productId": "nvprod3360029v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-RTW-900_noir.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>表地：ナイロン 78%、ポリウレタン 22%</li><li>その他：コットン 85%、ナイロン 11%、ポリウレタン 4%</li><li>裏地：アクリル 26%、ウール 25%、ポリエステル 25%、ナイロン 20%、ポリウレタン 4%</li><li>レギュラーフィット</li><li>イタリア製</li><li>家庭での洗濯禁止</li><li>塩素系および酸素系漂白剤の使用禁止</li><li>タンブル乾燥禁止</li><li>アイロン仕上げ禁止</li><li>石油系溶剤による弱いドライクリーニング可</li><li>REF：FMOW30HX4</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z05"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Ready_To_Wear_Women"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/_/N-1q5sgib",
+          "alternateName": "women",
+          "name": "ウィメンズ",
+          "identifier": "femme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/ready-to-wear/_/N-1nzqmbe",
+          "alternateName": "ready-to-wear",
+          "name": "プレタポルテ（洋服）",
+          "identifier": "w-readytowear"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/ready-to-wear/coats-and-jackets/_/N-1448ga7",
+          "alternateName": "coats-and-jackets",
+          "name": "ウィメンズ コート＆ジャケット",
+          "identifier": "w-jacketsandcoats-w"
+        }
+      ],
+      "disclaimers": {
+        "value": "shipping_warning_bo",
+        "popInContent": "global_backorder_info_popin_content",
+        "popInTitle": "global_backorder_info_popin_title"
+      },
+      "color": "ノワール",
+      "@context": "http://schema.org",
+      "identifier": "1A9L3H"
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "/api/catalog/jpn-jp/product/nvprod3360029v"
+    },
+    "push": {
+      "href": "/api/catalog/jpn-jp/product-push/nvprod3360029v"
+    },
+    "care-link": {
+      "href": "/api/catalog/jpn-jp/care-link/nvprod3360029v"
+    },
+    "size-guide": {
+      "href": "/api/catalog/jpn-jp/size-guide/nvprod3360029v"
+    },
+    "availability": {
+      "href": "/api/catalog/jpn-jp/availability/nvprod3360029v"
+    }
+  },
+  "@type": "Product",
+  "sku": "1A9L3F",
+  "isSimilarTo": [],
+  "productTips": [],
+  "url": "/jpn-jp/products/graphic-ski-jacket-nvprod3360029v",
+  "category": [
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/women/_/N-1q5sgib",
+      "alternateName": "women",
+      "name": "ウィメンズ",
+      "identifier": "femme"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/women/ready-to-wear/_/N-1nzqmbe",
+      "alternateName": "ready-to-wear",
+      "name": "プレタポルテ（洋服）",
+      "identifier": "w-readytowear"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/women/ready-to-wear/coats-and-jackets/_/N-1448ga7",
+      "alternateName": "coats-and-jackets",
+      "name": "ウィメンズ コート＆ジャケット",
+      "identifier": "w-jacketsandcoats-w"
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "hidePrice",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "subType",
+      "value": "product"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "sizeGuide",
+      "value": true
+    }
+  ],
+  "name": "グラフィックスキージャケット",
+  "isRelatedTo": [],
+  "@context": "http://schema.org",
+  "identifier": "nvprod3360029v"
+}

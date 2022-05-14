@@ -1,0 +1,242 @@
+{
+  "model": [
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/M10047/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod2800277v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/M10047"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/M10047/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod2800277v/M10047/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "マロン",
+      "@type": "ProductModel",
+      "height": {
+        "@type": "QuantitativeValue",
+        "value": 34,
+        "unitText": "cm"
+      },
+      "name": "ボワット・リュネット",
+      "width": {
+        "@type": "QuantitativeValue",
+        "value": 16.5,
+        "unitText": "cm"
+      },
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 3168000
+        },
+        "@type": "Offer",
+        "price": "¥3,168,000"
+      },
+      "disambiguatingDescription": "ジョニー･コカが手掛けたルイ･ヴィトン初のアイウェア･コレクションに相応しく、モノグラム･キャンバスで仕立てたハードケース「ボワット･リュネット」。メゾンを象徴する「マル･コワフューズ」をモダンに再解釈したデザインです。内側には、眼鏡やサングラスが収納できる12のコンパートメントと4つのアクセサリー用の引き出しを配しました。コンパクトかつフェミニンなアイテムは、旅先はもちろん、ドレッサーに置いてもお楽しみいただけます。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ボワット・リュネット-モノグラム-トランク-トラベル--M10047_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ボワット・リュネット-モノグラム-トランク-トラベル--M10047_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/boite-lunettes-monogram-nvprod2800277v",
+      "material": "モノグラム",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 41.5,
+        "unitText": "cm"
+      },
+      "highEndTemplate": false,
+      "productId": "nvprod2800277v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-ACC-977_monogram.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>素材：モノグラム･キャンバス</li><li>ライニング：マイクロファイバー</li><li>金具（色：ゴールド）</li><li>バックルx2を加えたロック開閉式</li><li>眼鏡、サングラス用アクリル樹脂製の引き出しx12</li><li>アクセサリー用の引き出しx4</li><li>蓋にミラー</li><li>ハンドル：シングル</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z01"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/art-of-living/_/N-kmf9ty",
+          "alternateName": "art-of-living",
+          "name": "ライフスタイル",
+          "identifier": "nvcat1840004v"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/art-of-living/trunks-and-travel/_/N-1ooeusx",
+          "alternateName": "trunks-and-travel",
+          "name": "トランク & トラベル",
+          "identifier": "nvcat1840005v"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/art-of-living/trunks-and-travel/boxes/_/N-19vfppv",
+          "alternateName": "boxes",
+          "name": "ボックス",
+          "identifier": "nvcat2670001v"
+        }
+      ],
+      "disclaimers": {
+        "value": "shipping_warning_bo",
+        "popInContent": "global_backorder_info_popin_content",
+        "popInTitle": "global_backorder_info_popin_title"
+      },
+      "color": "モノグラム",
+      "@context": "http://schema.org",
+      "identifier": "M10047"
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "/api/catalog/jpn-jp/product/nvprod2800277v"
+    },
+    "push": {
+      "href": "/api/catalog/jpn-jp/product-push/nvprod2800277v"
+    },
+    "care-link": {
+      "href": "/api/catalog/jpn-jp/care-link/nvprod2800277v"
+    },
+    "availability": {
+      "href": "/api/catalog/jpn-jp/availability/nvprod2800277v"
+    }
+  },
+  "@type": "Product",
+  "sku": "M10047",
+  "isSimilarTo": [],
+  "productTips": [],
+  "url": "/jpn-jp/products/boite-lunettes-monogram-nvprod2800277v",
+  "material": "モノグラム",
+  "category": [
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/art-of-living/_/N-kmf9ty",
+      "alternateName": "art-of-living",
+      "name": "ライフスタイル",
+      "identifier": "nvcat1840004v"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/art-of-living/trunks-and-travel/_/N-1ooeusx",
+      "alternateName": "trunks-and-travel",
+      "name": "トランク & トラベル",
+      "identifier": "nvcat1840005v"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/art-of-living/trunks-and-travel/boxes/_/N-19vfppv",
+      "alternateName": "boxes",
+      "name": "ボックス",
+      "identifier": "nvcat2670001v"
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "hidePrice",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "subType",
+      "value": "product"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "materialIconURL",
+      "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--AEL-LG-G00_monogram.jpg"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "sizeGuide",
+      "value": false
+    }
+  ],
+  "name": "ボワット・リュネット",
+  "isRelatedTo": [],
+  "@context": "http://schema.org",
+  "identifier": "nvprod2800277v"
+}

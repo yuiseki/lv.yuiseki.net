@@ -1,0 +1,414 @@
+{
+  "model": [
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/1A9A25/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod3140037v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/1A9A25"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/1A9A25/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod3140037v/1A9A25/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ホワイト",
+      "@type": "ProductModel",
+      "name": "アップサイクルレギュラーシャツ",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 129800
+        },
+        "@type": "Offer",
+        "price": "¥129,800"
+      },
+      "disambiguatingDescription": "アップサイクルされた素材にルイ･ヴィトンのシグネチャーを散りばめたシャツ。コットン100％の生地をレギュラーフィットに仕立て、LV イニシャルとモノグラム･フラワー モチーフの刺繍仕立てのパッチを襟元にあしらいました。胸元を彩るフィルクーペの技法で描いた手書き風の「Louis Vuitton」シグネチャーも魅力です。特徴的な切り詰めたカラーチップがスタイルを完成させます。<p>ご不明な点がございましたら、クライアントサービスまでお気軽にお問合せください。専任のクライアントアドバイザーが、素材やサイズなどの製品詳細、モデル着用イメージや関連アイテムのご案内など、お客様のご要望に合わせたスタイリング・アドバイスをご提供いたします。</p><p>また、サイズ違いなどによる返品・交換のご相談も承ります。詳細は<a href='https://jp.louisvuitton.com/jpn-jp/legal-privacy'><b>こちら。</b></a></p>",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-アップサイクルレギュラーシャツ-プレタポルテ（洋服）--HLS27WXFI001_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-アップサイクルレギュラーシャツ-プレタポルテ（洋服）--HLS27WXFI001_PM1_Worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Worn view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-アップサイクルレギュラーシャツ-プレタポルテ（洋服）--HLS27WXFI001_PM1_Closeup view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Closeup view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-アップサイクルレギュラーシャツ-プレタポルテ（洋服）--HLS27WXFI001_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-アップサイクルレギュラーシャツ-プレタポルテ（洋服）--HLS27WXFI001_PM1_Detail view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Detail view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/upcycled-regular-shirt-nvprod3140037v",
+      "highEndTemplate": false,
+      "sizeDisplayName": "M0",
+      "productId": "nvprod3140037v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-RTW-001_blanc.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>本体：コットン 100%</li><li>レギュラーフィット</li><li>モデル着用Mサイズ</li><li>モデル：胸囲 86cm、身長 191cm</li><li>フランス製</li><li>REF：HLS27WXFI</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z05"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Ready_To_Wear_Men"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-1cyoz77",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/ready-to-wear/_/N-1lpb5id",
+          "alternateName": "ready-to-wear",
+          "name": "プレタポルテ（洋服）",
+          "identifier": "m-readytowear"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/ready-to-wear/shirts/_/N-1da2uut",
+          "alternateName": "shirts",
+          "name": "メンズ シャツ",
+          "identifier": "m-shirts-mrtw"
+        }
+      ],
+      "disclaimers": {
+        "value": "shipping_warning_bo",
+        "popInContent": "global_backorder_info_popin_content",
+        "popInTitle": "global_backorder_info_popin_title"
+      },
+      "color": "ブロン",
+      "@context": "http://schema.org",
+      "identifier": "1A9A25"
+    },
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/1A9A29/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod3140037v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/1A9A29"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/1A9A29/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod3140037v/1A9A29/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ホワイト",
+      "@type": "ProductModel",
+      "name": "アップサイクルレギュラーシャツ",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 129800
+        },
+        "@type": "Offer",
+        "price": "¥129,800"
+      },
+      "disambiguatingDescription": "アップサイクルされた素材にルイ･ヴィトンのシグネチャーを散りばめたシャツ。コットン100％の生地をレギュラーフィットに仕立て、LV イニシャルとモノグラム･フラワー モチーフの刺繍仕立てのパッチを襟元にあしらいました。胸元を彩るフィルクーペの技法で描いた手書き風の「Louis Vuitton」シグネチャーも魅力です。特徴的な切り詰めたカラーチップがスタイルを完成させます。<p>ご不明な点がございましたら、クライアントサービスまでお気軽にお問合せください。専任のクライアントアドバイザーが、素材やサイズなどの製品詳細、モデル着用イメージや関連アイテムのご案内など、お客様のご要望に合わせたスタイリング・アドバイスをご提供いたします。</p><p>また、サイズ違いなどによる返品・交換のご相談も承ります。詳細は<a href='https://jp.louisvuitton.com/jpn-jp/legal-privacy'><b>こちら。</b></a></p>",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-アップサイクルレギュラーシャツ-プレタポルテ（洋服）--HLS27WXFI001_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-アップサイクルレギュラーシャツ-プレタポルテ（洋服）--HLS27WXFI001_PM1_Worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Worn view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-アップサイクルレギュラーシャツ-プレタポルテ（洋服）--HLS27WXFI001_PM1_Closeup view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Closeup view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-アップサイクルレギュラーシャツ-プレタポルテ（洋服）--HLS27WXFI001_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-アップサイクルレギュラーシャツ-プレタポルテ（洋服）--HLS27WXFI001_PM1_Detail view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Detail view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/upcycled-regular-shirt-nvprod3140037v",
+      "highEndTemplate": false,
+      "sizeDisplayName": "4L",
+      "productId": "nvprod3140037v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-RTW-001_blanc.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>本体：コットン 100%</li><li>レギュラーフィット</li><li>モデル着用Mサイズ</li><li>モデル：胸囲 86cm、身長 191cm</li><li>フランス製</li><li>REF：HLS27WXFI</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z05"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Ready_To_Wear_Men"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-1cyoz77",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/ready-to-wear/_/N-1lpb5id",
+          "alternateName": "ready-to-wear",
+          "name": "プレタポルテ（洋服）",
+          "identifier": "m-readytowear"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/ready-to-wear/shirts/_/N-1da2uut",
+          "alternateName": "shirts",
+          "name": "メンズ シャツ",
+          "identifier": "m-shirts-mrtw"
+        }
+      ],
+      "disclaimers": {
+        "value": "shipping_warning_bo",
+        "popInContent": "global_backorder_info_popin_content",
+        "popInTitle": "global_backorder_info_popin_title"
+      },
+      "color": "ブロン",
+      "@context": "http://schema.org",
+      "identifier": "1A9A29"
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "/api/catalog/jpn-jp/product/nvprod3140037v"
+    },
+    "push": {
+      "href": "/api/catalog/jpn-jp/product-push/nvprod3140037v"
+    },
+    "care-link": {
+      "href": "/api/catalog/jpn-jp/care-link/nvprod3140037v"
+    },
+    "size-guide": {
+      "href": "/api/catalog/jpn-jp/size-guide/nvprod3140037v"
+    },
+    "availability": {
+      "href": "/api/catalog/jpn-jp/availability/nvprod3140037v"
+    }
+  },
+  "@type": "Product",
+  "sku": "1A9A25",
+  "isSimilarTo": [],
+  "productTips": [],
+  "url": "/jpn-jp/products/upcycled-regular-shirt-nvprod3140037v",
+  "category": [
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/_/N-1cyoz77",
+      "alternateName": "men",
+      "name": "メンズ",
+      "identifier": "homme"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/ready-to-wear/_/N-1lpb5id",
+      "alternateName": "ready-to-wear",
+      "name": "プレタポルテ（洋服）",
+      "identifier": "m-readytowear"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/ready-to-wear/shirts/_/N-1da2uut",
+      "alternateName": "shirts",
+      "name": "メンズ シャツ",
+      "identifier": "m-shirts-mrtw"
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "hidePrice",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "subType",
+      "value": "product"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "sizeGuide",
+      "value": true
+    }
+  ],
+  "name": "アップサイクルレギュラーシャツ",
+  "isRelatedTo": [],
+  "@context": "http://schema.org",
+  "identifier": "nvprod3140037v"
+}

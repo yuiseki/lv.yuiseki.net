@@ -1,0 +1,234 @@
+{
+  "model": [
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/M73469/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod1640029v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/M73469"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/M73469/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod1640029v/M73469/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "グレー",
+      "@type": "ProductModel",
+      "height": {
+        "@type": "QuantitativeValue",
+        "value": 20,
+        "unitText": "cm"
+      },
+      "name": "ボネ マイ・モノグラム・エクリプス",
+      "mainMaterial2": "WOOL",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 44000
+        },
+        "@type": "Offer",
+        "price": "¥44,000"
+      },
+      "disambiguatingDescription": "特徴的なジャカード技法を用いて仕立てた帽子「ボネ マイ・モノグラム・エクリプス」。マスキュリンなデザインの縁取りと、裾に刺繍した「Louis Vuitton」シグネチャーが上品なアクセントを添えます。モノグラム･エクリプス パターンを再解釈したウール100%の一品です。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ボネ-マイ・モノグラム・エクリプス-s00-メンズ-帽子＆手袋--M73469_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ボネ-マイ・モノグラム・エクリプス-s00-メンズ-帽子＆手袋--M73469_PM1_Worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Worn view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ボネ-マイ・モノグラム・エクリプス-s00-メンズ-帽子＆手袋--M73469_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/my-monogram-eclipse-hat-s00-nvprod1640029v",
+      "material": "WOOL",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 20,
+        "unitText": "cm"
+      },
+      "highEndTemplate": false,
+      "productId": "nvprod1640029v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-ACC-9C5_grey.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>素材：ウール 100%</li><li>ジャカード織り</li><li>コントラストの効いたLouis Vuittonシグネチャーの刺繍</li><li>コントラストの効いたエッジ</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-1cyoz77",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/accessories/_/N-1d0iakb",
+          "alternateName": "accessories",
+          "name": "アクセサリー",
+          "identifier": "m-category-cat10052"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/accessories/hats-and-gloves/_/N-16oxck6",
+          "alternateName": "hats-and-gloves",
+          "name": "メンズ 帽子＆手袋",
+          "identifier": "nvcat1690008v"
+        }
+      ],
+      "disclaimers": {
+        "value": "shipping_warning_bo",
+        "popInContent": "global_backorder_info_popin_content",
+        "popInTitle": "global_backorder_info_popin_title"
+      },
+      "color": "グレー",
+      "@context": "http://schema.org",
+      "identifier": "M73469"
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "/api/catalog/jpn-jp/product/nvprod1640029v"
+    },
+    "push": {
+      "href": "/api/catalog/jpn-jp/product-push/nvprod1640029v"
+    },
+    "care-link": {
+      "href": "/api/catalog/jpn-jp/care-link/nvprod1640029v"
+    },
+    "availability": {
+      "href": "/api/catalog/jpn-jp/availability/nvprod1640029v"
+    }
+  },
+  "@type": "Product",
+  "sku": "M73469",
+  "isSimilarTo": [],
+  "productTips": [],
+  "url": "/jpn-jp/products/my-monogram-eclipse-hat-s00-nvprod1640029v",
+  "material": "NOT APPLICABLE ACC",
+  "category": [
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/_/N-1cyoz77",
+      "alternateName": "men",
+      "name": "メンズ",
+      "identifier": "homme"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/accessories/_/N-1d0iakb",
+      "alternateName": "accessories",
+      "name": "アクセサリー",
+      "identifier": "m-category-cat10052"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/accessories/hats-and-gloves/_/N-16oxck6",
+      "alternateName": "hats-and-gloves",
+      "name": "メンズ 帽子＆手袋",
+      "identifier": "nvcat1690008v"
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "hidePrice",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "subType",
+      "value": "product"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "sizeGuide",
+      "value": false
+    }
+  ],
+  "name": "ボネ マイ・モノグラム・エクリプス",
+  "isRelatedTo": [],
+  "@context": "http://schema.org",
+  "identifier": "nvprod1640029v"
+}
