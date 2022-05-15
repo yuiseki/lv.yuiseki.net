@@ -9,7 +9,15 @@ const ModelCell: React.FC<{ productId: string; model: any }> = React.memo(
   ({ productId, model }) => {
     return (
       <a
-        title={productId + " / " + model.name + " / " + model.offers.price}
+        title={
+          productId +
+          " / " +
+          model.name +
+          " / " +
+          model.offers.price +
+          "\n" +
+          model.disambiguatingDescription
+        }
         tabIndex={0}
         href={
           "https://jp.louisvuitton.com" + model.url + "/" + model.identifier
