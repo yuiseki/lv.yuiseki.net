@@ -32,12 +32,12 @@ const ModelCell: React.FC<{ productId: string; model: any }> = React.memo(
         }}
       >
         <img
-          width="280"
-          height="280"
+          width="380"
+          height="380"
           loading="lazy"
           src={model.image[0]?.contentUrl
-            .replace("{IMG_WIDTH}", "280")
-            .replace("{IMG_HEIGHT}", "280")}
+            .replace("{IMG_WIDTH}", "380")
+            .replace("{IMG_HEIGHT}", "380")}
         />
         <span
           style={{
@@ -274,7 +274,13 @@ function App() {
         <input
           type="text"
           placeholder={"Search " + products.length + " items..."}
-          style={{ fontSize: "2em", padding: "10px", borderRadius: "3px" }}
+          style={{
+            maxWidth: "90%",
+            fontSize: "2em",
+            padding: "10px",
+            border: "1px solid gray",
+            borderRadius: "3px",
+          }}
           value={query}
           onChange={(e) => {
             setQuery(e.target.value);
@@ -289,7 +295,7 @@ function App() {
           width: "100%",
           display: "grid",
           justifyContent: "center",
-          gridTemplateColumns: "repeat(auto-fill, 300px)",
+          gridTemplateColumns: "repeat(auto-fill, 400px)",
           columnGap: "20px",
           rowGap: "20px",
         }}
