@@ -27,7 +27,7 @@ const ModelCell: React.FC<{ productId: string; model: any }> = React.memo(
           width="280"
           height="280"
           loading="lazy"
-          src={model.image[0].contentUrl
+          src={model.image[0]?.contentUrl
             .replace("{IMG_WIDTH}", "280")
             .replace("{IMG_HEIGHT}", "280")}
         />
