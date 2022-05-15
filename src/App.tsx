@@ -38,6 +38,8 @@ const ProductCell: React.FC<{ productId: string }> = ({ productId }) => {
       {productData && (
         <div
           title={
+            productId +
+            " / " +
             productData.model[0].name +
             " / " +
             productData.model[0].offers.price
@@ -156,7 +158,7 @@ function App() {
     (async () => {
       const res = await fetch("/products.txt");
       const text = await res.text();
-      setProducts(text.split("\n"));
+      setProducts(text.split("\n").reverse());
     })();
   }, []);
 
