@@ -189,15 +189,29 @@ const ProductCell: React.FC<{ productId: string; query: string }> = React.memo(
     return (
       <>
         {productData &&
-          productData.model.map((model) => {
-            return (
-              <ModelCell
-                key={model.identifier}
-                productId={productId}
-                model={model}
-              />
-            );
-          })}
+          productData.model
+            .filter((model, idx) => {
+              if (idx === 0) {
+                return true;
+              } else {
+                if (model.macroColor !== productData.model[0].macroColor) {
+                  return true;
+                } else {
+                  if (model.sizeDisplayName) {
+                    return false;
+                  }
+                }
+              }
+            })
+            .map((model) => {
+              return (
+                <ModelCell
+                  key={model.identifier}
+                  productId={productId}
+                  model={model}
+                />
+              );
+            })}
       </>
     );
   }
