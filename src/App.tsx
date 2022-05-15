@@ -4,6 +4,133 @@ import { useIntersectionObserver } from "./intersectionObserver";
 
 const fetcher = (url: string) => fetch(url).then((r) => r.json());
 
+const ModelCell: React.FC<{ productId: string; model: any }> = ({
+  productId,
+  model,
+}) => {
+  return (
+    <a
+      title={productId + " / " + model.name + " / " + model.offers.price}
+      tabIndex={0}
+      href={"https://jp.louisvuitton.com" + model.url + "/" + model.identifier}
+      target="_blank"
+      style={{
+        display: "flex",
+        flexDirection: "column",
+        alignItems: "center",
+        textDecoration: "none",
+        color: "black",
+      }}
+    >
+      <img
+        width="280"
+        height="280"
+        loading="lazy"
+        src={model.image[0].contentUrl
+          .replace("{IMG_WIDTH}", "280")
+          .replace("{IMG_HEIGHT}", "280")}
+      />
+      <span
+        style={{
+          width: "80%",
+        }}
+      >
+        {model.name}
+      </span>
+      <span
+        style={{
+          whiteSpace: "nowrap",
+          width: "80%",
+          overflow: "hidden",
+          textOverflow: "ellipsis",
+        }}
+      >
+        {model.offers.price}
+      </span>
+      {model.height && (
+        <span
+          style={{
+            width: "80%",
+            paddingTop: "5px",
+            fontSize: "0.8em",
+          }}
+        >
+          Height: {model.height.value}
+          {model.height.unitText}
+        </span>
+      )}
+      {model.width && (
+        <span
+          style={{
+            width: "80%",
+            paddingTop: "5px",
+            fontSize: "0.8em",
+          }}
+        >
+          Width: {model.width.value}
+          {model.width.unitText}
+        </span>
+      )}
+      {model.depth && (
+        <span
+          style={{
+            width: "80%",
+            paddingTop: "5px",
+            fontSize: "0.8em",
+          }}
+        >
+          Depth: {model.depth.value}
+          {model.depth.unitText}
+        </span>
+      )}
+      {model.sizeDisplayName && (
+        <span
+          style={{
+            width: "80%",
+            paddingTop: "5px",
+            fontSize: "0.8em",
+          }}
+        >
+          Size: {model.sizeDisplayName}
+        </span>
+      )}
+      {model.macroColor && (
+        <span
+          style={{
+            width: "80%",
+            paddingTop: "5px",
+            fontSize: "0.8em",
+          }}
+        >
+          Color: {model.macroColor}
+        </span>
+      )}
+      <span
+        style={{
+          width: "80%",
+          paddingTop: "10px",
+          fontSize: "0.6em",
+        }}
+      >
+        {model.disambiguatingDescription?.slice(0, 100)}…
+      </span>
+      <span
+        style={{
+          width: "80%",
+          paddingTop: "10px",
+          fontSize: "0.6em",
+        }}
+      >
+        {model.category
+          .map((cat) => {
+            return cat.name;
+          })
+          .join(", ")}
+      </span>
+    </a>
+  );
+};
+
 const ProductCell: React.FC<{ productId: string; query: string }> = ({
   productId,
   query,
@@ -60,116 +187,10 @@ const ProductCell: React.FC<{ productId: string; query: string }> = ({
 
   return (
     <>
-      {productData && (
-        <a
-          title={
-            productId +
-            " / " +
-            productData.model[0].name +
-            " / " +
-            productData.model[0].offers.price
-          }
-          tabIndex={0}
-          href={
-            "https://jp.louisvuitton.com" +
-            productData.model[0].url +
-            "/" +
-            productData.model[0].identifier
-          }
-          target="_blank"
-          style={{
-            display: "flex",
-            flexDirection: "column",
-            alignItems: "center",
-            textDecoration: "none",
-            color: "black",
-          }}
-        >
-          <img
-            width="280"
-            height="280"
-            loading="lazy"
-            src={productData.model[0].image[0].contentUrl
-              .replace("{IMG_WIDTH}", "280")
-              .replace("{IMG_HEIGHT}", "280")}
-          />
-          <span
-            style={{
-              width: "80%",
-            }}
-          >
-            {productData.model[0].name}
-          </span>
-          <span
-            style={{
-              whiteSpace: "nowrap",
-              width: "80%",
-              overflow: "hidden",
-              textOverflow: "ellipsis",
-            }}
-          >
-            {productData.model[0].offers.price}
-          </span>
-          {productData.model[0].height && (
-            <span
-              style={{
-                width: "80%",
-                paddingTop: "5px",
-                fontSize: "0.8em",
-              }}
-            >
-              Height: {productData.model[0].height.value}
-              {productData.model[0].height.unitText}
-            </span>
-          )}
-          {productData.model[0].width && (
-            <span
-              style={{
-                width: "80%",
-                paddingTop: "5px",
-                fontSize: "0.8em",
-              }}
-            >
-              Width: {productData.model[0].width.value}
-              {productData.model[0].width.unitText}
-            </span>
-          )}
-          {productData.model[0].depth && (
-            <span
-              style={{
-                width: "80%",
-                paddingTop: "5px",
-                fontSize: "0.8em",
-              }}
-            >
-              Depth: {productData.model[0].depth.value}
-              {productData.model[0].depth.unitText}
-            </span>
-          )}
-          <span
-            style={{
-              width: "80%",
-              paddingTop: "10px",
-              fontSize: "0.6em",
-            }}
-          >
-            {productData.model[0].disambiguatingDescription?.slice(0, 100)}…
-          </span>
-          <span
-            style={{
-              width: "80%",
-              paddingTop: "10px",
-              fontSize: "0.6em",
-            }}
-          >
-            {productData.model[0].category
-              .map((cat) => {
-                return cat.name;
-              })
-              .join(", ")}
-          </span>
-        </a>
-      )}
+      {productData &&
+        productData.model.map((model) => {
+          return <ModelCell productId={productId} model={model} />;
+        })}
     </>
   );
 };
