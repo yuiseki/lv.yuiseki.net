@@ -11,7 +11,12 @@ const ProductCell: React.FC<{ productId: string; query: string }> = ({
   const [shouldFetch, setShouldFetch] = useState(false);
   const { data: productData } = useSWR(
     shouldFetch ? `/products/${productId}.json` : null,
-    fetcher
+    fetcher,
+    {
+      revalidateIfStale: false,
+      revalidateOnFocus: false,
+      revalidateOnReconnect: false,
+    }
   );
   const ref = useRef<HTMLAnchorElement>(null);
 
