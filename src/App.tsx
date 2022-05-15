@@ -209,7 +209,7 @@ function App() {
       >
         <input
           type="text"
-          placeholder="Search..."
+          placeholder={"Search " + products.length + " items..."}
           style={{ fontSize: "2em" }}
           value={query}
           onChange={(e) => {
