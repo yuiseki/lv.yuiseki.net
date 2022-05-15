@@ -1,18 +1,22 @@
 import { useCallback, useEffect, useRef, useState } from "react";
+import useSWR from "swr";
 import { useIntersectionObserver } from "./intersectionObserver";
 
-const ProductCell: React.FC<{ productId: string }> = ({ productId }) => {
-  const [productData, setProductData] = useState(undefined);
+const fetcher = (url: string) => fetch(url).then((r) => r.json());
+
+const ProductCell: React.FC<{ productId: string; query: string }> = ({
+  productId,
+  query,
+}) => {
+  const [shouldFetch, setShouldFetch] = useState(false);
+  const { data: productData } = useSWR(
+    shouldFetch ? `/products/${productId}.json` : null,
+    fetcher
+  );
   const ref = useRef<HTMLAnchorElement>(null);
 
   const loadData = useCallback(async () => {
-    try {
-      const res = await fetch(`/products/${productId}.json`);
-      const json = await res.json();
-      setProductData(json);
-    } catch (error) {
-      setProductData({});
-    }
+    setShouldFetch(true);
   }, []);
   useIntersectionObserver(ref, loadData);
 
@@ -33,6 +37,20 @@ const ProductCell: React.FC<{ productId: string }> = ({ productId }) => {
   ) {
     console.log(productData);
     return null;
+  }
+
+  if (query.length > 0) {
+    if (
+      productData.model[0].name.indexOf(query) === -1 &&
+      productData.model[0].disambiguatingDescription.indexOf(query) === -1 &&
+      productData.model[0].category
+        .map((cat) => {
+          return cat.name;
+        })
+        .indexOf(query) === -1
+    ) {
+      return null;
+    }
   }
 
   return (
@@ -153,12 +171,20 @@ const ProductCell: React.FC<{ productId: string }> = ({ productId }) => {
 
 function App() {
   const [products, setProducts] = useState<string[] | undefined>(undefined);
+  const [query, setQuery] = useState("");
 
   useEffect(() => {
     (async () => {
       const res = await fetch("/products.txt");
       const text = await res.text();
-      setProducts(text.split("\n").reverse());
+      setProducts(
+        text
+          .split("\n")
+          .filter((line) => {
+            return line.length > 0;
+          })
+          .reverse()
+      );
     })();
   }, []);
 
@@ -178,13 +204,17 @@ function App() {
           paddingTop: "15px",
           justifyContent: "center",
           width: "100%",
-          display: "none",
+          display: "flex",
         }}
       >
         <input
           type="text"
           placeholder="Search..."
           style={{ fontSize: "2em" }}
+          value={query}
+          onChange={(e) => {
+            setQuery(e.target.value);
+          }}
         />
       </div>
       <div
@@ -198,7 +228,9 @@ function App() {
         }}
       >
         {products.map((productId) => {
-          return <ProductCell key={productId} productId={productId} />;
+          return (
+            <ProductCell key={productId} productId={productId} query={query} />
+          );
         })}
       </div>
     </div>
