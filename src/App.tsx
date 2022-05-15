@@ -1,20 +1,25 @@
-import { useEffect, useState } from "react";
+import { useCallback, useEffect, useRef, useState } from "react";
+import { useIntersectionObserver } from "./intersectionObserver";
 
 const ProductCell: React.FC<{ productId: string }> = ({ productId }) => {
   const [productData, setProductData] = useState(undefined);
+  const ref = useRef<HTMLDivElement>(null);
 
-  useEffect(() => {
-    (async () => {
-      try {
-        const res = await fetch(`/products/${productId}.json`);
-        const json = await res.json();
-        setProductData(json);
-      } catch (error) {}
-    })();
+  const loadData = useCallback(async () => {
+    try {
+      const res = await fetch(`/products/${productId}.json`);
+      const json = await res.json();
+      setProductData(json);
+    } catch (error) {}
   }, []);
+  useIntersectionObserver(ref, loadData);
 
   if (!productData) {
-    return null;
+    return (
+      <div ref={ref} style={{ height: "200px" }}>
+        {productId}
+      </div>
+    );
   }
 
   if (
