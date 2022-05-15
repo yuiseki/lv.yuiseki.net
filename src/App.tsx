@@ -10,7 +10,9 @@ const ProductCell: React.FC<{ productId: string }> = ({ productId }) => {
       const res = await fetch(`/products/${productId}.json`);
       const json = await res.json();
       setProductData(json);
-    } catch (error) {}
+    } catch (error) {
+      setProductData({});
+    }
   }, []);
   useIntersectionObserver(ref, loadData);
 
