@@ -1,2 +1,2 @@
 
-ls ./public/collections/*.json | xargs jq -r '.searchResults.recordList[].productId' | sort | uniq > ./public/products.txt
+ls -v -1 public/products/*.json | cut -d '/' -f 3 | sed -e 's/\.json//' > ./public/products.txt
