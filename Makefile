@@ -1,6 +1,8 @@
 
 all: fetch_homepage fetch_collections extract_product_id fetch_products
 
+clean:
+	rm ./tmp/homepage.html
 
 .PHONY: fetch_homepage
 fetch_homepage:

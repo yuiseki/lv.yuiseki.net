@@ -1,5 +1,5 @@
 
-outfile="./public/homepage.html"
+outfile="./tmp/homepage.html"
 if [ ! -e $outfile ]; then
   curl \
     -s \
