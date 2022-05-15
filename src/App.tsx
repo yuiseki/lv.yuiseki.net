@@ -41,10 +41,10 @@ const ProductCell: React.FC<{ productId: string; query: string }> = ({
 
   if (query.length > 0) {
     if (
-      productData.model[0].name.indexOf(query) === -1 &&
-      productData.model[0].disambiguatingDescription.indexOf(query) === -1 &&
+      productData.model[0].name?.indexOf(query) === -1 &&
+      productData.model[0].disambiguatingDescription?.indexOf(query) === -1 &&
       productData.model[0].category
-        .map((cat) => {
+        ?.map((cat) => {
           return cat.name;
         })
         .indexOf(query) === -1
