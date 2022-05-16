@@ -1,5 +1,5 @@
 
-collections=`cat ./public/collections.txt`
+collections=`cat ./tmp/collections.txt`
 
 IFS=$'\n'
 for collection in $collections; do
