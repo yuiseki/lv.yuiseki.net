@@ -142,10 +142,7 @@ const ModelCell: React.FC<{ productId: string; model: any }> = React.memo(
 );
 ModelCell.displayName = "ModelCell";
 
-const ProductCell: React.FC<{ productId: string; query: string }> = ({
-  productId,
-  query,
-}) => {
+const ProductCell: React.FC<{ productId: string }> = ({ productId }) => {
   const [shouldFetch, setShouldFetch] = useState(false);
   const { data: productData } = useSWR(
     shouldFetch ? `/products/${productId}.json` : null,
@@ -180,26 +177,6 @@ const ProductCell: React.FC<{ productId: string; query: string }> = ({
   ) {
     console.log(productData);
     return null;
-  }
-
-  if (query.length > 0) {
-    if (
-      !productData.model[0].name ||
-      !productData.model[0].disambiguatingDescription
-    ) {
-      return null;
-    }
-    if (
-      productData.model[0].name?.indexOf(query) === -1 &&
-      productData.model[0].disambiguatingDescription?.indexOf(query) === -1 &&
-      productData.model[0].category
-        ?.map((cat) => {
-          return cat.name;
-        })
-        .indexOf(query) === -1
-    ) {
-      return null;
-    }
   }
 
   return (
@@ -240,19 +217,29 @@ function App() {
     (async () => {
       const res = await fetch("/search.csv");
       const text = await res.text();
-      setProducts(
-        text
-          .split("\n")
-          .filter((line) => {
-            return line.length > 0;
-          })
-          .reverse()
-          .map((line) => {
-            return line.split(",")[0].replaceAll('"', "");
-          })
-      );
+      const allProducts = text
+        .split("\n")
+        .filter((line) => {
+          if (line.length === 0) {
+            return false;
+          }
+          if (
+            debouncedQuery &&
+            debouncedQuery.length > 0 &&
+            line.indexOf(debouncedQuery) === -1
+          ) {
+            return false;
+          }
+          return true;
+        })
+        .reverse()
+        .map((line) => {
+          return line.split(",")[0].replaceAll('"', "");
+        });
+      const uniqProducts = [...new Set(allProducts)];
+      setProducts(uniqProducts);
     })();
-  }, []);
+  }, [debouncedQuery]);
 
   if (!products) {
     return <div>Loading...</div>;
@@ -304,13 +291,7 @@ function App() {
         }}
       >
         {products.map((productId) => {
-          return (
-            <ProductCell
-              key={productId}
-              productId={productId}
-              query={debouncedQuery}
-            />
-          );
+          return <ProductCell key={productId} productId={productId} />;
         })}
       </div>
     </div>
