@@ -223,9 +223,6 @@ function App() {
           if (line.length === 0) {
             return false;
           }
-          if (line.length > 100) {
-            return false;
-          }
           if (
             debouncedQuery &&
             debouncedQuery.length > 0 &&
@@ -238,6 +235,9 @@ function App() {
         .reverse()
         .map((line) => {
           return line.split(",")[0].replaceAll('"', "");
+        })
+        .filter((line) => {
+          return line.length < 25;
         });
       const uniqProducts = [...new Set(allProducts)];
       setProducts(uniqProducts);
