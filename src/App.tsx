@@ -223,6 +223,9 @@ function App() {
           if (line.length === 0) {
             return false;
           }
+          if (line.length > 100) {
+            return false;
+          }
           if (
             debouncedQuery &&
             debouncedQuery.length > 0 &&
