@@ -238,7 +238,7 @@ function App() {
 
   useEffect(() => {
     (async () => {
-      const res = await fetch("/products.txt");
+      const res = await fetch("/search.csv");
       const text = await res.text();
       setProducts(
         text
@@ -247,6 +247,9 @@ function App() {
             return line.length > 0;
           })
           .reverse()
+          .map((line) => {
+            return line.split(",")[0].replaceAll('"', "");
+          })
       );
     })();
   }, []);
