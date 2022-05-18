@@ -244,6 +244,19 @@ function App() {
     })();
   }, [debouncedQuery]);
 
+  const shuffle = () => {
+    if (!products) {
+      return;
+    }
+    setProducts(undefined);
+    const shuffledProducts = [
+      ...products.sort(() => {
+        return Math.random() - 0.5;
+      }),
+    ];
+    setProducts(shuffledProducts);
+  };
+
   if (!products) {
     return <div>Loading...</div>;
   }
@@ -285,6 +298,26 @@ function App() {
       </div>
       <div
         style={{
+          paddingTop: "15px",
+          justifyContent: "center",
+          width: "100%",
+          display: "flex",
+          marginBottom: "20px",
+        }}
+      >
+        <input
+          type="button"
+          value="Shuffle"
+          style={{
+            fontSize: "1.5em",
+            marginLeft: "10px",
+            padding: "10px",
+          }}
+          onClick={shuffle}
+        />
+      </div>
+      <div
+        style={{
           width: "100%",
           display: "grid",
           justifyContent: "center",
@@ -292,6 +325,7 @@ function App() {
           columnGap: "20px",
           rowGap: "20px",
         }}
+        key={products[0]}
       >
         {products.map((productId) => {
           return <ProductCell key={productId} productId={productId} />;
