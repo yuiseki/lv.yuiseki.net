@@ -1,215 +1,11 @@
-import React, { useCallback, useEffect, useRef, useState } from "react";
-import useSWR from "swr";
-import { useDebounce } from "./debounce";
-import { useIntersectionObserver } from "./intersectionObserver";
+import { useEffect, useState } from "react";
+import { ProductCell } from "./components/ProductCell";
+import { useDebounce } from "./hooks/debounce";
 
-const fetcher = (url: string) => fetch(url).then((r) => r.json());
-
-const ModelCell: React.FC<{ productId: string; model: any }> = React.memo(
-  ({ productId, model }) => {
-    return (
-      <a
-        title={
-          productId +
-          " / " +
-          model.name +
-          " / " +
-          model.offers.price +
-          "\n" +
-          model.disambiguatingDescription
-        }
-        tabIndex={0}
-        href={
-          "https://jp.louisvuitton.com" + model.url + "/" + model.identifier
-        }
-        target="_blank"
-        style={{
-          display: "flex",
-          flexDirection: "column",
-          alignItems: "center",
-          textDecoration: "none",
-          color: "black",
-        }}
-      >
-        <img
-          width="380"
-          height="380"
-          loading="lazy"
-          src={model.image[0]?.contentUrl
-            .replace("{IMG_WIDTH}", "380")
-            .replace("{IMG_HEIGHT}", "380")}
-        />
-        <span
-          style={{
-            width: "80%",
-          }}
-        >
-          {model.name}
-        </span>
-        <span
-          style={{
-            whiteSpace: "nowrap",
-            width: "80%",
-            overflow: "hidden",
-            textOverflow: "ellipsis",
-          }}
-        >
-          {model.offers.price}
-        </span>
-        {model.height && (
-          <span
-            style={{
-              width: "80%",
-              paddingTop: "5px",
-              fontSize: "0.8em",
-            }}
-          >
-            Height: {model.height.value}
-            {model.height.unitText}
-          </span>
-        )}
-        {model.width && (
-          <span
-            style={{
-              width: "80%",
-              paddingTop: "5px",
-              fontSize: "0.8em",
-            }}
-          >
-            Width: {model.width.value}
-            {model.width.unitText}
-          </span>
-        )}
-        {model.depth && (
-          <span
-            style={{
-              width: "80%",
-              paddingTop: "5px",
-              fontSize: "0.8em",
-            }}
-          >
-            Depth: {model.depth.value}
-            {model.depth.unitText}
-          </span>
-        )}
-        {model.sizeDisplayName && (
-          <span
-            style={{
-              width: "80%",
-              paddingTop: "5px",
-              fontSize: "0.8em",
-            }}
-          >
-            Size: {model.sizeDisplayName}
-          </span>
-        )}
-        {model.macroColor && (
-          <span
-            style={{
-              width: "80%",
-              paddingTop: "5px",
-              fontSize: "0.8em",
-            }}
-          >
-            Color: {model.macroColor}
-          </span>
-        )}
-        <span
-          style={{
-            width: "80%",
-            paddingTop: "10px",
-            fontSize: "0.6em",
-          }}
-        >
-          {model.disambiguatingDescription?.slice(0, 100)}…
-        </span>
-        <span
-          style={{
-            width: "80%",
-            paddingTop: "10px",
-            fontSize: "0.6em",
-          }}
-        >
-          {model.category
-            .map((cat) => {
-              return cat.name;
-            })
-            .join(", ")}
-        </span>
-      </a>
-    );
-  }
-);
-ModelCell.displayName = "ModelCell";
-
-const ProductCell: React.FC<{ productId: string }> = ({ productId }) => {
-  const [shouldFetch, setShouldFetch] = useState(false);
-  const { data: productData } = useSWR(
-    shouldFetch ? `/products/${productId}.json` : null,
-    fetcher,
-    {
-      revalidateIfStale: false,
-      revalidateOnFocus: false,
-      revalidateOnReconnect: false,
-    }
-  );
-  const ref = useRef<HTMLAnchorElement>(null);
-
-  const loadData = useCallback(async () => {
-    setShouldFetch(true);
-  }, []);
-  useIntersectionObserver(ref, loadData);
-
-  if (!productData) {
-    return (
-      <a ref={ref} style={{ height: "200px" }}>
-        {productId}
-      </a>
-    );
-  }
-
-  if (
-    !productData.model ||
-    !productData.model[0] ||
-    !productData.model[0].image ||
-    !productData.model[0].image[0] ||
-    !productData.model[0].offers
-  ) {
-    console.log(productData);
-    return null;
-  }
-
-  return (
-    <>
-      {productData &&
-        productData.model
-          .filter((model, idx) => {
-            if (idx === 0) {
-              return true;
-            } else {
-              if (model.sizeDisplayName) {
-                return false;
-              }
-              if (model.macroColor !== productData.model[0].macroColor) {
-                return true;
-              }
-            }
-          })
-          .map((model) => {
-            return (
-              <ModelCell
-                key={model.identifier}
-                productId={productId}
-                model={model}
-              />
-            );
-          })}
-    </>
-  );
-};
 function App() {
   const [products, setProducts] = useState<string[] | undefined>(undefined);
   const [query, setQuery] = useState("");
+  const [maxPrice, setMaxPrice] = useState(10000000);
   const [debouncedQuery, setDebouncedQuery] = useState("");
   const debounce = useDebounce(500);
 
@@ -232,6 +28,13 @@ function App() {
           }
           return true;
         })
+        .filter((line) => {
+          const price = parseInt(line.split(",")[3]);
+          if (maxPrice < price) {
+            return false;
+          }
+          return true;
+        })
         .reverse()
         .map((line) => {
           return line.split(",")[0].replaceAll('"', "");
@@ -242,7 +45,7 @@ function App() {
       const uniqProducts = [...new Set(allProducts)];
       setProducts(uniqProducts);
     })();
-  }, [debouncedQuery]);
+  }, [debouncedQuery, maxPrice]);
 
   const shuffle = () => {
     if (!products) {
@@ -268,6 +71,45 @@ function App() {
         width: "100%",
       }}
     >
+      {/*
+      <div
+        style={{
+          paddingTop: "15px",
+          justifyContent: "center",
+          width: "80%",
+          display: "flex",
+          flexDirection: "column",
+          margin: "0px auto 20px",
+        }}
+      >
+        <div
+          style={{
+            display: "grid",
+            padding: "1rem",
+          }}
+        >
+          <input
+            style={{
+              gridColumn: 1,
+              gridRow: 2,
+            }}
+            type="range"
+            name="maxPrice"
+            id="maxPrice"
+            value={maxPrice}
+            min="0"
+            max="1000000"
+            step="10000"
+            onChange={(e) => {
+              setMaxPrice(parseInt(e.target.value));
+            }}
+          />
+        </div>
+        <div>
+          <span>{0}</span>～<span>{maxPrice.toLocaleString()}円</span>
+        </div>
+      </div>
+       */}
       <div
         style={{
           paddingTop: "15px",
