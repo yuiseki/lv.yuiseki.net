@@ -166,14 +166,13 @@ function App() {
       style={{
         marginTop: "30px",
         width: "100%",
+        minHeight: "110vh",
         display: "flex",
         flexDirection: "column",
-        justifyContent: "center",
+        justifyContent: "flexStart",
         alignItems: "center",
       }}
     >
-      {/*
-       */}
       <div
         style={{
           justifyContent: "center",
