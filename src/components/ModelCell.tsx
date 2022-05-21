@@ -24,19 +24,36 @@ export const ModelCell: React.FC<{ productId: string; model: any }> =
           alignItems: "center",
           textDecoration: "none",
           color: "black",
+          backgroundColor: "transparent",
         }}
       >
-        <img
-          width="380"
-          height="380"
-          loading="lazy"
-          src={model.image[0]?.contentUrl
-            .replace("{IMG_WIDTH}", "380")
-            .replace("{IMG_HEIGHT}", "380")}
-        />
+        <picture
+          style={{
+            width: "100%",
+            backgroundColor: "#f6f5f3",
+          }}
+        >
+          <img
+            loading="lazy"
+            sizes="656px"
+            style={{
+              height: "100%",
+              width: "100%",
+              backgroundColor: "transparent",
+            }}
+            srcSet={
+              model.image[0]?.contentUrl
+                .replace("{IMG_WIDTH}", "656")
+                .replace("{IMG_HEIGHT}", "656")
+                .replace(" ", "%20")
+                .replace("jpg", "png") + " 656w"
+            }
+          />
+        </picture>
         <span
           style={{
-            width: "80%",
+            marginTop: "10px",
+            width: "100%",
           }}
         >
           {model.name}
@@ -44,7 +61,7 @@ export const ModelCell: React.FC<{ productId: string; model: any }> =
         <span
           style={{
             whiteSpace: "nowrap",
-            width: "80%",
+            width: "100%",
             overflow: "hidden",
             textOverflow: "ellipsis",
           }}
@@ -54,7 +71,7 @@ export const ModelCell: React.FC<{ productId: string; model: any }> =
         {model.height && (
           <span
             style={{
-              width: "80%",
+              width: "100%",
               paddingTop: "5px",
               fontSize: "0.8em",
             }}
@@ -66,7 +83,7 @@ export const ModelCell: React.FC<{ productId: string; model: any }> =
         {model.width && (
           <span
             style={{
-              width: "80%",
+              width: "100%",
               paddingTop: "5px",
               fontSize: "0.8em",
             }}
@@ -78,7 +95,7 @@ export const ModelCell: React.FC<{ productId: string; model: any }> =
         {model.depth && (
           <span
             style={{
-              width: "80%",
+              width: "100%",
               paddingTop: "5px",
               fontSize: "0.8em",
             }}
@@ -90,7 +107,7 @@ export const ModelCell: React.FC<{ productId: string; model: any }> =
         {model.sizeDisplayName && (
           <span
             style={{
-              width: "80%",
+              width: "100%",
               paddingTop: "5px",
               fontSize: "0.8em",
             }}
@@ -101,7 +118,7 @@ export const ModelCell: React.FC<{ productId: string; model: any }> =
         {model.macroColor && (
           <span
             style={{
-              width: "80%",
+              width: "100%",
               paddingTop: "5px",
               fontSize: "0.8em",
             }}
@@ -111,7 +128,7 @@ export const ModelCell: React.FC<{ productId: string; model: any }> =
         )}
         <span
           style={{
-            width: "80%",
+            width: "100%",
             paddingTop: "10px",
             fontSize: "0.6em",
           }}
@@ -120,7 +137,7 @@ export const ModelCell: React.FC<{ productId: string; model: any }> =
         </span>
         <span
           style={{
-            width: "80%",
+            width: "100%",
             paddingTop: "10px",
             fontSize: "0.6em",
           }}
