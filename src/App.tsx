@@ -24,8 +24,8 @@ const PriceRangeInput: React.FC<{ onChange: (value: number) => void }> = ({
           id="maxPrice"
           value={maxPrice}
           min="0"
-          max="1000000"
-          step="10000"
+          max="20000000"
+          step="100000"
           onChange={(e) => {
             setMaxPrice(parseInt(e.target.value));
             onChange(parseInt(e.target.value));
