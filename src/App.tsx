@@ -5,7 +5,7 @@ import { useDebounce } from "./hooks/debounce";
 const PriceRangeInput: React.FC<{ onChange: (value: number) => void }> = ({
   onChange,
 }) => {
-  const [maxPrice, setMaxPrice] = useState(20000000);
+  const [maxPrice, setMaxPrice] = useState(15000000);
   return (
     <>
       <div
@@ -24,8 +24,8 @@ const PriceRangeInput: React.FC<{ onChange: (value: number) => void }> = ({
           id="maxPrice"
           value={maxPrice}
           min="0"
-          max="20000000"
-          step="100000"
+          max="15000000"
+          step="50000"
           onChange={(e) => {
             setMaxPrice(parseInt(e.target.value));
             onChange(parseInt(e.target.value));
@@ -143,7 +143,7 @@ function App() {
         style={{
           justifyContent: "center",
           maxWidth: "90%",
-          minWidth: "30%",
+          minWidth: "90%",
           display: "flex",
           flexDirection: "column",
           marginBottom: "30px",
