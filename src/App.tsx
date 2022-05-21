@@ -110,12 +110,16 @@ function App() {
           if (line.length === 0) {
             return false;
           }
-          if (
-            debouncedQuery &&
-            debouncedQuery.length > 0 &&
-            line.indexOf(debouncedQuery) === -1
-          ) {
-            return false;
+          if (debouncedQuery && debouncedQuery.length > 0) {
+            const isMatch = debouncedQuery
+              .split(/[\x20\u3000]/)
+              .map((q) => {
+                return q.length === 0 || line.indexOf(q) > 0;
+              })
+              .reduce((prev, current) => {
+                return prev && current;
+              });
+            return isMatch;
           }
           return true;
         })
