@@ -69,6 +69,10 @@ function App() {
       style={{
         marginTop: "20px",
         width: "100%",
+        display: "flex",
+        flexDirection: "column",
+        justifyContent: "center",
+        alignItems: "center",
       }}
     >
       {/*
@@ -124,10 +128,11 @@ function App() {
           placeholder={"Search " + products.length + " items..."}
           style={{
             maxWidth: "90%",
-            fontSize: "2em",
+            minWidth: "30%",
+            fontSize: "1.5em",
             padding: "10px",
-            border: "1px solid gray",
-            borderRadius: "3px",
+            backgroundColor: "#f6f5f3",
+            border: "none",
           }}
           value={query}
           onChange={(e) => {
@@ -142,18 +147,25 @@ function App() {
         style={{
           paddingTop: "15px",
           justifyContent: "center",
+          alignItems: "center",
           width: "100%",
           display: "flex",
           marginBottom: "20px",
+          maxWidth: "21.25rem",
         }}
       >
         <input
           type="button"
           value="Shuffle"
           style={{
-            fontSize: "1.5em",
-            marginLeft: "10px",
-            padding: "10px",
+            fontSize: "1em",
+            lineHeight: "1",
+            backgroundColor: "black",
+            color: "white",
+            border: "none",
+            borderRadius: "0px",
+            padding: "1rem 1.5rem",
+            width: "100%",
           }}
           onClick={shuffle}
         />
