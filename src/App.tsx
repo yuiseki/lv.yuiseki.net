@@ -2,10 +2,14 @@ import { useEffect, useState } from "react";
 import { ProductCell } from "./components/ProductCell";
 import { useDebounce } from "./hooks/debounce";
 
-const PriceRangeInput: React.FC<{ onChange: (value: number) => void }> = ({
-  onChange,
-}) => {
-  const [maxPrice, setMaxPrice] = useState(15000000);
+const PRICE_LIMIT = 15000000;
+const PRICE_STEP = 50000;
+const PriceRangeInput: React.FC<{
+  onChangeMinPrice: (value: number) => void;
+  onChangeMaxPrice: (value: number) => void;
+}> = ({ onChangeMinPrice, onChangeMaxPrice }) => {
+  const [minPrice, setMinPrice] = useState(0);
+  const [maxPrice, setMaxPrice] = useState(PRICE_LIMIT);
   return (
     <>
       <div
@@ -22,18 +26,42 @@ const PriceRangeInput: React.FC<{ onChange: (value: number) => void }> = ({
           type="range"
           name="maxPrice"
           id="maxPrice"
+          value={minPrice}
+          min="0"
+          max={PRICE_LIMIT}
+          step={PRICE_STEP}
+          onChange={(e) => {
+            const newMinPrice = parseInt(e.target.value);
+            if (newMinPrice < maxPrice) {
+              setMinPrice(newMinPrice);
+              onChangeMinPrice(newMinPrice);
+            }
+          }}
+        />
+        <input
+          style={{
+            gridColumn: 2,
+            gridRow: 2,
+          }}
+          type="range"
+          name="maxPrice"
+          id="maxPrice"
           value={maxPrice}
           min="0"
-          max="15000000"
-          step="50000"
+          max={PRICE_LIMIT}
+          step={PRICE_STEP}
           onChange={(e) => {
-            setMaxPrice(parseInt(e.target.value));
-            onChange(parseInt(e.target.value));
+            const newMaxPrice = parseInt(e.target.value);
+            if (minPrice < newMaxPrice) {
+              setMaxPrice(newMaxPrice);
+              onChangeMaxPrice(newMaxPrice);
+            }
           }}
         />
       </div>
       <div style={{ textAlign: "center" }}>
-        <span>{0}円</span> ～ <span>{maxPrice.toLocaleString()}円</span>
+        <span>{minPrice.toLocaleString()}円</span> ～{" "}
+        <span>{maxPrice.toLocaleString()}円</span>
       </div>
     </>
   );
@@ -67,6 +95,7 @@ const SearchQueryInput: React.FC<{ onChange: (value: string) => void }> = ({
 
 function App() {
   const [products, setProducts] = useState<string[] | undefined>(undefined);
+  const [debouncedMinPrice, setDebouncedMinPrice] = useState(0);
   const [debouncedMaxPrice, setDebouncedMaxPrice] = useState(20000000);
   const [debouncedQuery, setDebouncedQuery] = useState("");
   const debounce = useDebounce(200);
@@ -92,6 +121,12 @@ function App() {
         })
         .filter((line) => {
           const price = parseInt(line.split(",")[3]);
+          if (Number.isNaN(price)) {
+            return false;
+          }
+          if (price < debouncedMinPrice) {
+            return false;
+          }
           if (debouncedMaxPrice < price) {
             return false;
           }
@@ -107,7 +142,7 @@ function App() {
       const uniqProducts = [...new Set(allProducts)];
       setProducts(uniqProducts);
     })();
-  }, [debouncedQuery, debouncedMaxPrice]);
+  }, [debouncedQuery, debouncedMinPrice, debouncedMaxPrice]);
 
   const shuffle = () => {
     if (!products) {
@@ -150,7 +185,12 @@ function App() {
         }}
       >
         <PriceRangeInput
-          onChange={(value) => {
+          onChangeMinPrice={(value) => {
+            debounce(() => {
+              setDebouncedMinPrice(value);
+            });
+          }}
+          onChangeMaxPrice={(value) => {
             debounce(() => {
               setDebouncedMaxPrice(value);
             });
