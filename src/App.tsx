@@ -197,6 +197,13 @@ function App() {
         </div>
         <div
           style={{
+            marginBottom: "30px",
+          }}
+        >
+          {products.length} items
+        </div>
+        <div
+          style={{
             width: "100%",
             display: "grid",
             justifyContent: "center",
