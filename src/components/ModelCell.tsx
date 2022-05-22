@@ -1,12 +1,19 @@
-import React from "react";
+import React, { useCallback, useContext } from "react";
+import { FilterFavContext } from "../context/FilterFavContext";
 import { useLocalStorage } from "../hooks/localStorage";
 
 export const ModelCell: React.FC<{ productId: string; model: any }> =
   React.memo(({ productId, model }) => {
     const [fav, setFav] = useLocalStorage(
-      "fav-" + productId + "-" + model.identifier,
+      "lv-fav-" + productId + "-" + model.identifier,
       false
     );
+
+    const filterFav = useContext(FilterFavContext);
+    if (filterFav && !fav) {
+      return null;
+    }
+
     return (
       <a
         title={
@@ -39,37 +46,21 @@ export const ModelCell: React.FC<{ productId: string; model: any }> =
             backgroundColor: "#f6f5f3",
           }}
         >
-          {fav ? (
-            <span
-              style={{
-                position: "absolute",
-                right: "10px",
-                top: "10px",
-                fontSize: "1em",
-              }}
-              onClick={(e) => {
-                e.preventDefault();
-                e.stopPropagation();
-                setFav(!fav);
-              }}
-              className="fa-solid fa-heart"
-            ></span>
-          ) : (
-            <span
-              style={{
-                position: "absolute",
-                right: "10px",
-                top: "10px",
-                fontSize: "1em",
-              }}
-              onClick={(e) => {
-                e.preventDefault();
-                e.stopPropagation();
-                setFav(!fav);
-              }}
-              className="fa-regular fa-heart"
-            ></span>
-          )}
+          <span
+            style={{
+              position: "absolute",
+              right: "10px",
+              top: "10px",
+              fontSize: "1em",
+              padding: "10px",
+            }}
+            onClick={(e) => {
+              e.preventDefault();
+              e.stopPropagation();
+              setFav(!fav);
+            }}
+            className={fav ? "fa-solid fa-heart" : "fa-regular fa-heart"}
+          ></span>
           <picture
             style={{
               width: "100%",
