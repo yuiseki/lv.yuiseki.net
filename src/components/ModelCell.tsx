@@ -1,7 +1,12 @@
 import React from "react";
+import { useLocalStorage } from "../hooks/localStorage";
 
 export const ModelCell: React.FC<{ productId: string; model: any }> =
   React.memo(({ productId, model }) => {
+    const [fav, setFav] = useLocalStorage(
+      "fav-" + productId + "-" + model.identifier,
+      false
+    );
     return (
       <a
         title={
@@ -27,29 +32,68 @@ export const ModelCell: React.FC<{ productId: string; model: any }> =
           backgroundColor: "transparent",
         }}
       >
-        <picture
+        <div
           style={{
+            position: "relative",
             width: "100%",
             backgroundColor: "#f6f5f3",
           }}
         >
-          <img
-            loading="lazy"
-            sizes="656px"
+          {fav ? (
+            <span
+              style={{
+                position: "absolute",
+                right: "10px",
+                top: "10px",
+                fontSize: "1em",
+              }}
+              onClick={(e) => {
+                e.preventDefault();
+                e.stopPropagation();
+                setFav(!fav);
+              }}
+              className="fa-solid fa-heart"
+            ></span>
+          ) : (
+            <span
+              style={{
+                position: "absolute",
+                right: "10px",
+                top: "10px",
+                fontSize: "1em",
+              }}
+              onClick={(e) => {
+                e.preventDefault();
+                e.stopPropagation();
+                setFav(!fav);
+              }}
+              className="fa-regular fa-heart"
+            ></span>
+          )}
+          <picture
             style={{
-              height: "100%",
               width: "100%",
               backgroundColor: "transparent",
             }}
-            srcSet={
-              model.image[0]?.contentUrl
-                .replace("{IMG_WIDTH}", "656")
-                .replace("{IMG_HEIGHT}", "656")
-                .replace(" ", "%20")
-                .replace("jpg", "png") + " 656w"
-            }
-          />
-        </picture>
+          >
+            <img
+              loading="lazy"
+              sizes="656px"
+              style={{
+                height: "100%",
+                width: "100%",
+                backgroundColor: "transparent",
+              }}
+              srcSet={
+                model.image[0]?.contentUrl
+                  .replace("{IMG_WIDTH}", "656")
+                  .replace("{IMG_HEIGHT}", "656")
+                  .replace(" ", "%20")
+                  .replace("jpg", "png") + " 656w"
+              }
+            />
+          </picture>
+        </div>
         <span
           style={{
             marginTop: "10px",
