@@ -177,7 +177,7 @@ function App() {
           />
           <input
             type="button"
-            value={filterFav ? "Filtering fav..." : "Filter fav"}
+            value={filterFav ? "Filtering only likes..." : "Filter only likes"}
             style={{
               display: "inline-block",
               fontSize: "1em",
