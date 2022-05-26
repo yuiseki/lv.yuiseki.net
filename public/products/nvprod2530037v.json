@@ -1,0 +1,260 @@
+{
+  "model": [
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/J02496/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod2530037v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/J02496"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/J02496/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod2530037v/J02496/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ブラック",
+      "@type": "ProductModel",
+      "height": {
+        "@type": "QuantitativeValue",
+        "value": 0.2,
+        "unitText": "cm"
+      },
+      "name": "ショルダーストラップ（調整可能、幅5CM）",
+      "width": {
+        "@type": "QuantitativeValue",
+        "value": 5,
+        "unitText": "cm"
+      },
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 80300
+        },
+        "@type": "Offer",
+        "price": "¥80,300"
+      },
+      "disambiguatingDescription": "ジャカード織りの技法で表現した「Louis Vuitton」のロゴが大胆な印象を放つ、スポーティに再解釈された「ショルダーストラップ」。調節可能なストラップが、快適な持ち運びを実現します。シンプルなスナップフックで取付けや取外しも簡単です。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ショルダーストラップ（調整可能、幅5cm）-その他キャンバス-財布＆小物--J02496_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ショルダーストラップ（調整可能、幅5cm）-その他キャンバス-財布＆小物--J02496_PM1_Closeup view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Closeup view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ショルダーストラップ（調整可能、幅5cm）-その他キャンバス-財布＆小物--J02496_PM1_Back view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Back view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/bandouliere-nvprod2530037v",
+      "material": "AUTRES TOILES",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 11.9,
+        "unitText": "cm"
+      },
+      "highEndTemplate": false,
+      "productId": "nvprod2530037v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-ACC-980_black.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>素材：ナイロン</li><li>ライニング：ナイロン</li><li>金具（色：シルバー）</li><li>スナップフックx2</li><li>フックタブx2</li><li>ストラップ：取り外し不可, 調整可能</li><li>ストラップの頂点からバッグ上部までの長さ(最短)：82.5 cm</li><li>ストラップの頂点からバッグ上部までの長さ(最長)：118.5 cm</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z01"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-1cyoz77",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/wallets-and-small-leather-goods/_/N-14n6l30",
+          "alternateName": "wallets-and-small-leather-goods",
+          "name": "財布＆小物",
+          "identifier": "m-category-cat10021"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/wallets-and-small-leather-goods/all-wallets-and-small-leather-goods/_/N-1pfkmaq",
+          "alternateName": "all-wallets-and-small-leather-goods",
+          "name": "すべてのメンズ財布＆小物",
+          "identifier": "m-allcollections-mslg"
+        }
+      ],
+      "disclaimers": {
+        "value": "pre_order_disclaimer",
+        "popInContent": "pre_order_disclaimer_info_popin_content",
+        "popInTitle": "pre_order_disclaimer_info_popin_title"
+      },
+      "color": "ノワール",
+      "@context": "http://schema.org",
+      "identifier": "J02496"
+    }
+  ],
+  "panelInformations": [
+    {
+      "@type": "Sustainability",
+      "title": "サステナビリティ",
+      "description": "本製品に使用されているレザーは、LWG(レザー･ワーキング･グループ)の監査および認証を受け、鞣(なめ)し工程に関する最高の環境基準を満たした工場において加工されています。この基準は、鞣(なめ)し工場で消費される水やエネルギーだけでなく、潜在的に有害性を有し得る物質の量を減らすことも目的として定められています。ルイ･ヴィトンと取引きのあるパートナーの鞣(なめ)し工場はヨーロッパ各地にあり、責任ある外部調達や継続的な改善(材料のトレーサビリティシステムの推進、森林伐採の慣例への対策)に協力して取組んでいます。"
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "/api/catalog/jpn-jp/product/nvprod2530037v"
+    },
+    "push": {
+      "href": "/api/catalog/jpn-jp/product-push/nvprod2530037v"
+    },
+    "care-link": {
+      "href": "/api/catalog/jpn-jp/care-link/nvprod2530037v"
+    },
+    "availability": {
+      "href": "/api/catalog/jpn-jp/availability/nvprod2530037v"
+    }
+  },
+  "@type": "Product",
+  "sku": "J02496",
+  "isSimilarTo": [],
+  "productTips": [],
+  "url": "/jpn-jp/products/bandouliere-nvprod2530037v",
+  "material": "その他キャンバス",
+  "category": [
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/_/N-1cyoz77",
+      "alternateName": "men",
+      "name": "メンズ",
+      "identifier": "homme"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/wallets-and-small-leather-goods/_/N-14n6l30",
+      "alternateName": "wallets-and-small-leather-goods",
+      "name": "財布＆小物",
+      "identifier": "m-category-cat10021"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/wallets-and-small-leather-goods/all-wallets-and-small-leather-goods/_/N-1pfkmaq",
+      "alternateName": "all-wallets-and-small-leather-goods",
+      "name": "すべてのメンズ財布＆小物",
+      "identifier": "m-allcollections-mslg"
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "hidePrice",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "subType",
+      "value": "product"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "materialIconURL",
+      "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--AEL-LG-K37_autres_toiles.jpg"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "sizeGuide",
+      "value": false
+    }
+  ],
+  "name": "ショルダーストラップ（調整可能、幅5CM）",
+  "isRelatedTo": [],
+  "@context": "http://schema.org",
+  "identifier": "nvprod2530037v"
+}

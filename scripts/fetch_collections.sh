@@ -6,7 +6,7 @@ for collection in $collections; do
   echo "----- -----"
   echo $collection
 
-  firstoutfile="./public/collections/$collection-0-50.json"
+  firstoutfile="./tmp/collections/$collection-0-50.json"
   if [ ! -e $firstoutfile ]; then
     sleep 1
 
@@ -22,7 +22,7 @@ for collection in $collections; do
     i=51
     while [ "$i" -le $total ]; do
       echo $i
-      outfile="./public/collections/$collection-$i-$(($i+49)).json"
+      outfile="./tmp/collections/$collection-$i-$(($i+49)).json"
       echo $outfile
       if [ ! -e $outfile ]; then
         sleep 1

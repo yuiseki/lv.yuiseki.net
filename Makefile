@@ -1,12 +1,12 @@
 
-all: fetch_homepage fetch_collections extract_product_id fetch_products
+all: fetch_homepage fetch_collections extract_product_id fetch_products build_product_csv
 
 clean:
 	rm ./tmp/homepage.html
 
 .PHONY: clean-all
 clean-all: clean
-	rm ./public/collections/*
+	rm ./tmp/collections/*
 
 .PHONY: fetch_homepage
 fetch_homepage:
@@ -24,5 +24,7 @@ extract_product_id:
 fetch_products:
 	bash ./scripts/fetch_products.sh
 
-
+.PHONY: build_product_csv
+build_product_csv:
+	bash ./scripts/build_product_csv.sh
 
