@@ -1,0 +1,908 @@
+{
+  "model": [
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/1A8Z5B/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod2800248v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/1A8Z5B"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/1A8Z5B/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod2800248v/1A8Z5B/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ピンク",
+      "@type": "ProductModel",
+      "name": "LV トレイナー・ライン スニーカー",
+      "mainMaterial2": "CALF",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 154000
+        },
+        "@type": "Offer",
+        "price": "¥154,000"
+      },
+      "disambiguatingDescription": "ネオンカラーのモノグラム･パターンをエンボス加工で施したヌバックカーフレザーとブラウンのモノグラム･デニムのトリミングを組み合わせた「LV トレイナー･ライン スニーカー」。ルイ･ヴィトンの2021秋冬メンズ･コレクションのキーテーマである「フルオ」ならではのネオンカラーを採用しました。メンズ アーティスティック･ディレクター ヴァージル･アブローがデザインしたこのカルト的人気を誇るスタイルは、ヴィンテージのバスケットボールシューズから着想を得ています。<p>ご不明な点がございましたら、クライアントサービスまでお気軽にお問合せください。専任のクライアントアドバイザーが、素材やサイズなどの製品詳細、モデル着用イメージや関連アイテムのご案内など、お客様のご要望に合わせたスタイリング･アドバイスをご提供いたします。</p><p>また、サイズ違いなどによる返品･交換のご相談も承ります。詳細は<a href=\"https://jp.louisvuitton.com/jpn-jp/legal-privacy\"><b>こちら。</b></a></p>",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-トレイナー・ライン-スニーカー-シューズ--BL9U2PMI14_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-トレイナー・ライン-スニーカー-シューズ--BL9U2PMI14_PM1_Closeup view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Closeup view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-トレイナー・ライン-スニーカー-シューズ--BL9U2PMI14_PM1_Detail view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Detail view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/lv-trainer-sneaker-nvprod2800248v",
+      "highEndTemplate": false,
+      "sizeDisplayName": "06.5",
+      "productId": "nvprod2800248v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-SHO-14_rose.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>素材：モノグラム･パターンをエンボス加工したヌバックカーフレザー（皮革の種類：牛革）、テキスタイル</li><li>1足7時間かけて仕上げたステッチ</li><li>アウトソール：ラバー</li><li>シュータン、背面、サイドにLVイニシャル</li><li>アウトソールにモノグラム･フラワー</li><li>イタリア製</li><li>イギリスサイズ</li><li>REF：BL9U2PMI</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z04"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Shoe_Men"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-1cyoz77",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/shoes/_/N-i84cx3",
+          "alternateName": "shoes",
+          "name": "シューズ",
+          "identifier": "m-category-cat10037"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/shoes/sneakers/_/N-1ox4tnl",
+          "alternateName": "sneakers",
+          "name": "メンズ スニーカー",
+          "identifier": "nvcat60002v-11"
+        }
+      ],
+      "disclaimers": {
+        "value": "pre_order_disclaimer",
+        "popInContent": "pre_order_disclaimer_info_popin_content",
+        "popInTitle": "pre_order_disclaimer_info_popin_title"
+      },
+      "color": "ローズ",
+      "@context": "http://schema.org",
+      "identifier": "1A8Z5B"
+    },
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/1A8Z5C/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod2800248v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/1A8Z5C"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/1A8Z5C/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod2800248v/1A8Z5C/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ピンク",
+      "@type": "ProductModel",
+      "name": "LV トレイナー・ライン スニーカー",
+      "mainMaterial2": "CALF",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 154000
+        },
+        "@type": "Offer",
+        "price": "¥154,000"
+      },
+      "disambiguatingDescription": "ネオンカラーのモノグラム･パターンをエンボス加工で施したヌバックカーフレザーとブラウンのモノグラム･デニムのトリミングを組み合わせた「LV トレイナー･ライン スニーカー」。ルイ･ヴィトンの2021秋冬メンズ･コレクションのキーテーマである「フルオ」ならではのネオンカラーを採用しました。メンズ アーティスティック･ディレクター ヴァージル･アブローがデザインしたこのカルト的人気を誇るスタイルは、ヴィンテージのバスケットボールシューズから着想を得ています。<p>ご不明な点がございましたら、クライアントサービスまでお気軽にお問合せください。専任のクライアントアドバイザーが、素材やサイズなどの製品詳細、モデル着用イメージや関連アイテムのご案内など、お客様のご要望に合わせたスタイリング･アドバイスをご提供いたします。</p><p>また、サイズ違いなどによる返品･交換のご相談も承ります。詳細は<a href=\"https://jp.louisvuitton.com/jpn-jp/legal-privacy\"><b>こちら。</b></a></p>",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-トレイナー・ライン-スニーカー-シューズ--BL9U2PMI14_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-トレイナー・ライン-スニーカー-シューズ--BL9U2PMI14_PM1_Closeup view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Closeup view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-トレイナー・ライン-スニーカー-シューズ--BL9U2PMI14_PM1_Detail view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Detail view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/lv-trainer-sneaker-nvprod2800248v",
+      "highEndTemplate": false,
+      "sizeDisplayName": "07.0",
+      "productId": "nvprod2800248v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-SHO-14_rose.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>素材：モノグラム･パターンをエンボス加工したヌバックカーフレザー（皮革の種類：牛革）、テキスタイル</li><li>1足7時間かけて仕上げたステッチ</li><li>アウトソール：ラバー</li><li>シュータン、背面、サイドにLVイニシャル</li><li>アウトソールにモノグラム･フラワー</li><li>イタリア製</li><li>イギリスサイズ</li><li>REF：BL9U2PMI</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z04"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Shoe_Men"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-1cyoz77",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/shoes/_/N-i84cx3",
+          "alternateName": "shoes",
+          "name": "シューズ",
+          "identifier": "m-category-cat10037"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/shoes/sneakers/_/N-1ox4tnl",
+          "alternateName": "sneakers",
+          "name": "メンズ スニーカー",
+          "identifier": "nvcat60002v-11"
+        }
+      ],
+      "disclaimers": {
+        "value": "pre_order_disclaimer",
+        "popInContent": "pre_order_disclaimer_info_popin_content",
+        "popInTitle": "pre_order_disclaimer_info_popin_title"
+      },
+      "color": "ローズ",
+      "@context": "http://schema.org",
+      "identifier": "1A8Z5C"
+    },
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/1A8Z5E/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod2800248v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/1A8Z5E"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/1A8Z5E/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod2800248v/1A8Z5E/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ピンク",
+      "@type": "ProductModel",
+      "name": "LV トレイナー・ライン スニーカー",
+      "mainMaterial2": "CALF",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 154000
+        },
+        "@type": "Offer",
+        "price": "¥154,000"
+      },
+      "disambiguatingDescription": "ネオンカラーのモノグラム･パターンをエンボス加工で施したヌバックカーフレザーとブラウンのモノグラム･デニムのトリミングを組み合わせた「LV トレイナー･ライン スニーカー」。ルイ･ヴィトンの2021秋冬メンズ･コレクションのキーテーマである「フルオ」ならではのネオンカラーを採用しました。メンズ アーティスティック･ディレクター ヴァージル･アブローがデザインしたこのカルト的人気を誇るスタイルは、ヴィンテージのバスケットボールシューズから着想を得ています。<p>ご不明な点がございましたら、クライアントサービスまでお気軽にお問合せください。専任のクライアントアドバイザーが、素材やサイズなどの製品詳細、モデル着用イメージや関連アイテムのご案内など、お客様のご要望に合わせたスタイリング･アドバイスをご提供いたします。</p><p>また、サイズ違いなどによる返品･交換のご相談も承ります。詳細は<a href=\"https://jp.louisvuitton.com/jpn-jp/legal-privacy\"><b>こちら。</b></a></p>",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-トレイナー・ライン-スニーカー-シューズ--BL9U2PMI14_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-トレイナー・ライン-スニーカー-シューズ--BL9U2PMI14_PM1_Closeup view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Closeup view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-トレイナー・ライン-スニーカー-シューズ--BL9U2PMI14_PM1_Detail view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Detail view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/lv-trainer-sneaker-nvprod2800248v",
+      "highEndTemplate": false,
+      "sizeDisplayName": "08.0",
+      "productId": "nvprod2800248v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-SHO-14_rose.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>素材：モノグラム･パターンをエンボス加工したヌバックカーフレザー（皮革の種類：牛革）、テキスタイル</li><li>1足7時間かけて仕上げたステッチ</li><li>アウトソール：ラバー</li><li>シュータン、背面、サイドにLVイニシャル</li><li>アウトソールにモノグラム･フラワー</li><li>イタリア製</li><li>イギリスサイズ</li><li>REF：BL9U2PMI</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z04"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Shoe_Men"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-1cyoz77",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/shoes/_/N-i84cx3",
+          "alternateName": "shoes",
+          "name": "シューズ",
+          "identifier": "m-category-cat10037"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/shoes/sneakers/_/N-1ox4tnl",
+          "alternateName": "sneakers",
+          "name": "メンズ スニーカー",
+          "identifier": "nvcat60002v-11"
+        }
+      ],
+      "disclaimers": {
+        "value": "shipping_warning_bo",
+        "popInContent": "global_backorder_info_popin_content",
+        "popInTitle": "global_backorder_info_popin_title"
+      },
+      "color": "ローズ",
+      "@context": "http://schema.org",
+      "identifier": "1A8Z5E"
+    },
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/1A8Z5F/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod2800248v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/1A8Z5F"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/1A8Z5F/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod2800248v/1A8Z5F/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ピンク",
+      "@type": "ProductModel",
+      "name": "LV トレイナー・ライン スニーカー",
+      "mainMaterial2": "CALF",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 154000
+        },
+        "@type": "Offer",
+        "price": "¥154,000"
+      },
+      "disambiguatingDescription": "ネオンカラーのモノグラム･パターンをエンボス加工で施したヌバックカーフレザーとブラウンのモノグラム･デニムのトリミングを組み合わせた「LV トレイナー･ライン スニーカー」。ルイ･ヴィトンの2021秋冬メンズ･コレクションのキーテーマである「フルオ」ならではのネオンカラーを採用しました。メンズ アーティスティック･ディレクター ヴァージル･アブローがデザインしたこのカルト的人気を誇るスタイルは、ヴィンテージのバスケットボールシューズから着想を得ています。<p>ご不明な点がございましたら、クライアントサービスまでお気軽にお問合せください。専任のクライアントアドバイザーが、素材やサイズなどの製品詳細、モデル着用イメージや関連アイテムのご案内など、お客様のご要望に合わせたスタイリング･アドバイスをご提供いたします。</p><p>また、サイズ違いなどによる返品･交換のご相談も承ります。詳細は<a href=\"https://jp.louisvuitton.com/jpn-jp/legal-privacy\"><b>こちら。</b></a></p>",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-トレイナー・ライン-スニーカー-シューズ--BL9U2PMI14_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-トレイナー・ライン-スニーカー-シューズ--BL9U2PMI14_PM1_Closeup view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Closeup view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-トレイナー・ライン-スニーカー-シューズ--BL9U2PMI14_PM1_Detail view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Detail view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/lv-trainer-sneaker-nvprod2800248v",
+      "highEndTemplate": false,
+      "sizeDisplayName": "08.5",
+      "productId": "nvprod2800248v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-SHO-14_rose.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>素材：モノグラム･パターンをエンボス加工したヌバックカーフレザー（皮革の種類：牛革）、テキスタイル</li><li>1足7時間かけて仕上げたステッチ</li><li>アウトソール：ラバー</li><li>シュータン、背面、サイドにLVイニシャル</li><li>アウトソールにモノグラム･フラワー</li><li>イタリア製</li><li>イギリスサイズ</li><li>REF：BL9U2PMI</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z04"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Shoe_Men"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-1cyoz77",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/shoes/_/N-i84cx3",
+          "alternateName": "shoes",
+          "name": "シューズ",
+          "identifier": "m-category-cat10037"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/shoes/sneakers/_/N-1ox4tnl",
+          "alternateName": "sneakers",
+          "name": "メンズ スニーカー",
+          "identifier": "nvcat60002v-11"
+        }
+      ],
+      "disclaimers": {
+        "value": "shipping_warning_bo",
+        "popInContent": "global_backorder_info_popin_content",
+        "popInTitle": "global_backorder_info_popin_title"
+      },
+      "color": "ローズ",
+      "@context": "http://schema.org",
+      "identifier": "1A8Z5F"
+    },
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/1A8Z5G/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod2800248v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/1A8Z5G"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/1A8Z5G/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod2800248v/1A8Z5G/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ピンク",
+      "@type": "ProductModel",
+      "name": "LV トレイナー・ライン スニーカー",
+      "mainMaterial2": "CALF",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 154000
+        },
+        "@type": "Offer",
+        "price": "¥154,000"
+      },
+      "disambiguatingDescription": "ネオンカラーのモノグラム･パターンをエンボス加工で施したヌバックカーフレザーとブラウンのモノグラム･デニムのトリミングを組み合わせた「LV トレイナー･ライン スニーカー」。ルイ･ヴィトンの2021秋冬メンズ･コレクションのキーテーマである「フルオ」ならではのネオンカラーを採用しました。メンズ アーティスティック･ディレクター ヴァージル･アブローがデザインしたこのカルト的人気を誇るスタイルは、ヴィンテージのバスケットボールシューズから着想を得ています。<p>ご不明な点がございましたら、クライアントサービスまでお気軽にお問合せください。専任のクライアントアドバイザーが、素材やサイズなどの製品詳細、モデル着用イメージや関連アイテムのご案内など、お客様のご要望に合わせたスタイリング･アドバイスをご提供いたします。</p><p>また、サイズ違いなどによる返品･交換のご相談も承ります。詳細は<a href=\"https://jp.louisvuitton.com/jpn-jp/legal-privacy\"><b>こちら。</b></a></p>",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-トレイナー・ライン-スニーカー-シューズ--BL9U2PMI14_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-トレイナー・ライン-スニーカー-シューズ--BL9U2PMI14_PM1_Closeup view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Closeup view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-トレイナー・ライン-スニーカー-シューズ--BL9U2PMI14_PM1_Detail view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Detail view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/lv-trainer-sneaker-nvprod2800248v",
+      "highEndTemplate": false,
+      "sizeDisplayName": "09.0",
+      "productId": "nvprod2800248v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-SHO-14_rose.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>素材：モノグラム･パターンをエンボス加工したヌバックカーフレザー（皮革の種類：牛革）、テキスタイル</li><li>1足7時間かけて仕上げたステッチ</li><li>アウトソール：ラバー</li><li>シュータン、背面、サイドにLVイニシャル</li><li>アウトソールにモノグラム･フラワー</li><li>イタリア製</li><li>イギリスサイズ</li><li>REF：BL9U2PMI</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z04"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Shoe_Men"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-1cyoz77",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/shoes/_/N-i84cx3",
+          "alternateName": "shoes",
+          "name": "シューズ",
+          "identifier": "m-category-cat10037"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/shoes/sneakers/_/N-1ox4tnl",
+          "alternateName": "sneakers",
+          "name": "メンズ スニーカー",
+          "identifier": "nvcat60002v-11"
+        }
+      ],
+      "disclaimers": {
+        "value": "pre_order_disclaimer",
+        "popInContent": "pre_order_disclaimer_info_popin_content",
+        "popInTitle": "pre_order_disclaimer_info_popin_title"
+      },
+      "color": "ローズ",
+      "@context": "http://schema.org",
+      "identifier": "1A8Z5G"
+    }
+  ],
+  "panelInformations": [
+    {
+      "@type": "ProductCare",
+      "title": "素材とお手入れ方法、修理",
+      "description": "<ul><li>シューズを履く際は、必ず靴べらをお使いください。</li><li>\nレザーの保護のため、2日以上連続してのご着用は避けてください。</li><li>\nご使用後はシューズキーパーを入れて保管してください。</li><li>\n付属の2つの布袋に片足ずつ入れ、低温で乾燥した風通しの良い場所に保管してください。</li><li>\nベルベットのような質感を保つため、柔らかいブラシで丁寧に汚れを落としてください。表面の汚れはクレープブラシで落とせる場合もあります。</li><li>\n初めてご使用いただく前に無色の防水スプレーを塗布し、必要に応じてスプレーし直すことをおすすめします。</li><li>\n水分やアルコールを含む製品(香水、除光液など)や油分を含む製品(化粧品など)に直接触れないようご注意ください。また研磨剤のご使用はお控えください。シューズが水に濡れた場合は、シューツリーを入れて充分に乾かしてから、あらゆる熱源から遠ざけた状態でお手入れしてください。化粧品やアルコールを含んだ製品、香水などをご使用の際には5-10分ほど時間をおき、手指や肌が完全に乾いてから、製品に触れていただきますようお願い申しあげます。</li><li>\nスニーカーには外気を自然に取り込むことが大切です。そのために取外し可能なインソックが使用されています。スニーカーが濡れた場合は、インソックを取外し、低温で乾燥した風通しの良い場所で乾かしてください。そうすることでその次も快適にご使用いただけます。</li></ul>",
+      "introduction": "<div class=\"popinHeader uppercase\">お取扱いに際しては次の注意事項をお読みいただき、製品の特性をあらかじめご理解いただいた上で、末永くご愛用くださいますようお願い申しあげます。</div>"
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "/api/catalog/jpn-jp/product/nvprod2800248v"
+    },
+    "push": {
+      "href": "/api/catalog/jpn-jp/product-push/nvprod2800248v"
+    },
+    "care-link": {
+      "href": "/api/catalog/jpn-jp/care-link/nvprod2800248v"
+    },
+    "size-guide": {
+      "href": "/api/catalog/jpn-jp/size-guide/nvprod2800248v"
+    },
+    "availability": {
+      "href": "/api/catalog/jpn-jp/availability/nvprod2800248v"
+    }
+  },
+  "@type": "Product",
+  "sku": "1A8Z5E",
+  "isSimilarTo": [],
+  "productTips": [],
+  "url": "/jpn-jp/products/lv-trainer-sneaker-nvprod2800248v",
+  "category": [
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/_/N-1cyoz77",
+      "alternateName": "men",
+      "name": "メンズ",
+      "identifier": "homme"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/shoes/_/N-i84cx3",
+      "alternateName": "shoes",
+      "name": "シューズ",
+      "identifier": "m-category-cat10037"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/shoes/sneakers/_/N-1ox4tnl",
+      "alternateName": "sneakers",
+      "name": "メンズ スニーカー",
+      "identifier": "nvcat60002v-11"
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "hidePrice",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "subType",
+      "value": "product"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "sizeGuide",
+      "value": true
+    }
+  ],
+  "name": "LV トレイナー・ライン スニーカー",
+  "isRelatedTo": [],
+  "@context": "http://schema.org",
+  "identifier": "nvprod2800248v"
+}
