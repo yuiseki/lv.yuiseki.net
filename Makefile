@@ -3,9 +3,6 @@ all: fetch_homepage fetch_collections extract_product_id fetch_products build_pr
 
 clean:
 	rm ./tmp/homepage.html
-
-.PHONY: clean-all
-clean-all: clean
 	rm ./tmp/collections/*
 
 .PHONY: fetch_homepage
