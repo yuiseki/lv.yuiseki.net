@@ -62,7 +62,6 @@ function App() {
           }
           return true;
         })
-        .reverse()
         .map((line) => {
           return line.split(",")[0].replaceAll('"', "");
         })

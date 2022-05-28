@@ -16,6 +16,7 @@ for collection in $collections; do
       -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" \
       https://api.louisvuitton.com/api/jpn-jp/catalog/filter/$collection?range=0-50 | jq . > $firstoutfile
   else
+
     total=`cat $firstoutfile | jq -r .totalResult`
     echo $total
 
