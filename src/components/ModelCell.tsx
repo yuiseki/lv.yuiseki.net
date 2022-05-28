@@ -42,7 +42,8 @@ export const ModelCell: React.FC<{ productId: string; model: any }> =
         <div
           style={{
             position: "relative",
-            width: "100%",
+            width: "400px",
+            height: "400px",
             backgroundColor: "#f6f5f3",
           }}
         >
@@ -64,6 +65,7 @@ export const ModelCell: React.FC<{ productId: string; model: any }> =
           <picture
             style={{
               width: "100%",
+              height: "100%",
               backgroundColor: "transparent",
             }}
           >

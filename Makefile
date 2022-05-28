@@ -1,5 +1,5 @@
 
-all: fetch_homepage fetch_collections extract_product_id fetch_products build_product_csv
+all: fetch_homepage fetch_collections extract_product_id fetch_products_json build_product_csv
 
 clean:
 	rm ./tmp/homepage.html
@@ -17,9 +17,13 @@ fetch_collections:
 extract_product_id:
 	bash ./scripts/extract_product_id.sh
 
-.PHONY: fetch_products
-fetch_products:
-	bash ./scripts/fetch_products.sh
+.PHONY: fetch_products_json
+fetch_products_json:
+	bash ./scripts/fetch_products_json.sh
+
+.PHONY: fetch_products_image
+fetch_products_image:
+	bash ./scripts/fetch_products_image.sh
 
 .PHONY: build_product_csv
 build_product_csv:
