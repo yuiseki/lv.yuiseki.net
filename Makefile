@@ -12,6 +12,7 @@ fetch_homepage:
 .PHONY: fetch_collections
 fetch_collections:
 	bash ./scripts/fetch_collections.sh
+	bash ./scripts/fetch_collections.sh
 
 .PHONY: extract_product_id
 extract_product_id:
