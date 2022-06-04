@@ -1,5 +1,4 @@
 
-
 products=`cat ./public/products.txt`
 
 IFS=$'\n'

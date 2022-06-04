@@ -29,4 +29,3 @@ fetch_products_image:
 .PHONY: build_search_csv
 build_search_csv:
 	bash ./scripts/build_search_csv.sh
-

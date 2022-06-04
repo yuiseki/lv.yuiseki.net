@@ -9,4 +9,3 @@ if [ ! -e $outfile ]; then
 
   cat $outfile | htmlq --attribute href a | grep "N-" | rev | cut -d '/' -f 1 | rev | sed -e 's/N-//' > ./tmp/collections.txt
 fi
-
