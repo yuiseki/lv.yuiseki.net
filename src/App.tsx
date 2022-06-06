@@ -5,13 +5,14 @@ import { SearchQueryInput } from "./components/SearchQueryInput";
 import { FilterFavContext } from "./context/FilterFavContext";
 import { useDebounce } from "./hooks/debounce";
 import { useLocalStorage } from "./hooks/localStorage";
+import { PRICE_LIMIT } from "./lib/const";
 
 function App() {
   const [products, setProducts] = useState<string[] | undefined>(undefined);
 
   const debounce = useDebounce(200);
   const [debouncedMinPrice, setDebouncedMinPrice] = useState(0);
-  const [debouncedMaxPrice, setDebouncedMaxPrice] = useState(20000000);
+  const [debouncedMaxPrice, setDebouncedMaxPrice] = useState(PRICE_LIMIT);
   const [debouncedQuery, setDebouncedQuery] = useState("");
   const [filterFav, setFilterFav] = useState(false);
 
