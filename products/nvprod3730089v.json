@@ -1,0 +1,734 @@
+{
+  "model": [
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/1AAB16/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod3730089v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/1AAB16"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/1AAB16/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod3730089v/1AAB16/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ブラック",
+      "@type": "ProductModel",
+      "identifierKey": "34c1234bf783f64d7acd972188d22937",
+      "name": "モノグラムストリップスリーブレスミンクジャケット",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 2007500
+        },
+        "@type": "Offer",
+        "price": "¥2,007,500"
+      },
+      "disambiguatingDescription": "ベルベットのような手触りのミンクで着心地良く仕立てた、シックなスリーブレスジャケット。エンボス加工されたモノグラム･フラワー モチーフとスタッズをあしらったレザーのストリップが、洗練されたモダンなシグネチャーを表現します。フロントのファスナーを飾るメゾンのアイコニックなスナップボタンも魅力です。グラフィカルなモノグラム･パターンのライニングがスタイルを完成させます。<p>ご不明な点がございましたら、クライアントサービスまでお気軽にお問合せください。専任のクライアントアドバイザーが、素材やサイズなどの製品詳細、モデル着用イメージや関連アイテムのご案内など、お客様のご要望に合わせたスタイリング・アドバイスをご提供いたします。</p><p>また、サイズ違いなどによる返品・交換のご相談も承ります。詳細は<a href=\"https://jp.louisvuitton.com/jpn-jp/legal-privacy\"><b>こちら。</b></a></p>",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-モノグラムストリップスリーブレスミンクジャケット-プレタポルテ（洋服）--FNLJ11DIG900_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-モノグラムストリップスリーブレスミンクジャケット-プレタポルテ（洋服）--FNLJ11DIG900_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-モノグラムストリップスリーブレスミンクジャケット-プレタポルテ（洋服）--FNLJ11DIG900_PM1_Back view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Back view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/monogram-strip-sleeveless-mink-jacket-nvprod3730089v",
+      "highEndTemplate": false,
+      "sizeDisplayName": "34",
+      "productId": "nvprod3730089v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-RTW-900_noir.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>表地：ミンク 100%</li><li>裏地：レーヨン 100%</li><li>レギュラーフィット</li><li>フランス製</li><li>家庭での洗濯禁止</li><li>塩素系および酸素系漂白剤の使用禁止</li><li>タンブル乾燥禁止</li><li>アイロン仕上げ禁止</li><li>ドライクリーニング禁止</li><li>REF：FNLJ11DIG</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z05"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Ready_To_Wear_Women"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/_/N-1q5sgib",
+          "alternateName": "women",
+          "name": "ウィメンズ",
+          "identifier": "femme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/ready-to-wear/_/N-1nzqmbe",
+          "alternateName": "ready-to-wear",
+          "name": "プレタポルテ（洋服）",
+          "identifier": "w-readytowear"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/ready-to-wear/coats-and-jackets/_/N-1448ga7",
+          "alternateName": "coats-and-jackets",
+          "name": "ウィメンズ コート＆ジャケット",
+          "identifier": "w-jacketsandcoats-w"
+        }
+      ],
+      "disclaimers": {
+        "value": "shipping_warning_bo",
+        "popInContent": "global_backorder_info_popin_content",
+        "popInTitle": "global_backorder_info_popin_title"
+      },
+      "color": "ノワール",
+      "@context": "http://schema.org",
+      "identifier": "1AAB16"
+    },
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/1AAB17/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod3730089v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/1AAB17"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/1AAB17/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod3730089v/1AAB17/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ブラック",
+      "@type": "ProductModel",
+      "identifierKey": "24bdf0edf4385527a4229271ce74bc98",
+      "name": "モノグラムストリップスリーブレスミンクジャケット",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 2007500
+        },
+        "@type": "Offer",
+        "price": "¥2,007,500"
+      },
+      "disambiguatingDescription": "ベルベットのような手触りのミンクで着心地良く仕立てた、シックなスリーブレスジャケット。エンボス加工されたモノグラム･フラワー モチーフとスタッズをあしらったレザーのストリップが、洗練されたモダンなシグネチャーを表現します。フロントのファスナーを飾るメゾンのアイコニックなスナップボタンも魅力です。グラフィカルなモノグラム･パターンのライニングがスタイルを完成させます。<p>ご不明な点がございましたら、クライアントサービスまでお気軽にお問合せください。専任のクライアントアドバイザーが、素材やサイズなどの製品詳細、モデル着用イメージや関連アイテムのご案内など、お客様のご要望に合わせたスタイリング・アドバイスをご提供いたします。</p><p>また、サイズ違いなどによる返品・交換のご相談も承ります。詳細は<a href=\"https://jp.louisvuitton.com/jpn-jp/legal-privacy\"><b>こちら。</b></a></p>",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-モノグラムストリップスリーブレスミンクジャケット-プレタポルテ（洋服）--FNLJ11DIG900_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-モノグラムストリップスリーブレスミンクジャケット-プレタポルテ（洋服）--FNLJ11DIG900_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-モノグラムストリップスリーブレスミンクジャケット-プレタポルテ（洋服）--FNLJ11DIG900_PM1_Back view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Back view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/monogram-strip-sleeveless-mink-jacket-nvprod3730089v",
+      "highEndTemplate": false,
+      "sizeDisplayName": "36",
+      "productId": "nvprod3730089v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-RTW-900_noir.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>表地：ミンク 100%</li><li>裏地：レーヨン 100%</li><li>レギュラーフィット</li><li>フランス製</li><li>家庭での洗濯禁止</li><li>塩素系および酸素系漂白剤の使用禁止</li><li>タンブル乾燥禁止</li><li>アイロン仕上げ禁止</li><li>ドライクリーニング禁止</li><li>REF：FNLJ11DIG</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z05"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Ready_To_Wear_Women"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/_/N-1q5sgib",
+          "alternateName": "women",
+          "name": "ウィメンズ",
+          "identifier": "femme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/ready-to-wear/_/N-1nzqmbe",
+          "alternateName": "ready-to-wear",
+          "name": "プレタポルテ（洋服）",
+          "identifier": "w-readytowear"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/ready-to-wear/coats-and-jackets/_/N-1448ga7",
+          "alternateName": "coats-and-jackets",
+          "name": "ウィメンズ コート＆ジャケット",
+          "identifier": "w-jacketsandcoats-w"
+        }
+      ],
+      "disclaimers": {
+        "value": "shipping_warning_bo",
+        "popInContent": "global_backorder_info_popin_content",
+        "popInTitle": "global_backorder_info_popin_title"
+      },
+      "color": "ノワール",
+      "@context": "http://schema.org",
+      "identifier": "1AAB17"
+    },
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/1AAB18/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod3730089v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/1AAB18"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/1AAB18/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod3730089v/1AAB18/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ブラック",
+      "@type": "ProductModel",
+      "identifierKey": "bdd56842ee40f91a1060fe604eecb6f2",
+      "name": "モノグラムストリップスリーブレスミンクジャケット",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 2007500
+        },
+        "@type": "Offer",
+        "price": "¥2,007,500"
+      },
+      "disambiguatingDescription": "ベルベットのような手触りのミンクで着心地良く仕立てた、シックなスリーブレスジャケット。エンボス加工されたモノグラム･フラワー モチーフとスタッズをあしらったレザーのストリップが、洗練されたモダンなシグネチャーを表現します。フロントのファスナーを飾るメゾンのアイコニックなスナップボタンも魅力です。グラフィカルなモノグラム･パターンのライニングがスタイルを完成させます。<p>ご不明な点がございましたら、クライアントサービスまでお気軽にお問合せください。専任のクライアントアドバイザーが、素材やサイズなどの製品詳細、モデル着用イメージや関連アイテムのご案内など、お客様のご要望に合わせたスタイリング・アドバイスをご提供いたします。</p><p>また、サイズ違いなどによる返品・交換のご相談も承ります。詳細は<a href=\"https://jp.louisvuitton.com/jpn-jp/legal-privacy\"><b>こちら。</b></a></p>",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-モノグラムストリップスリーブレスミンクジャケット-プレタポルテ（洋服）--FNLJ11DIG900_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-モノグラムストリップスリーブレスミンクジャケット-プレタポルテ（洋服）--FNLJ11DIG900_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-モノグラムストリップスリーブレスミンクジャケット-プレタポルテ（洋服）--FNLJ11DIG900_PM1_Back view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Back view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/monogram-strip-sleeveless-mink-jacket-nvprod3730089v",
+      "highEndTemplate": false,
+      "sizeDisplayName": "38",
+      "productId": "nvprod3730089v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-RTW-900_noir.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>表地：ミンク 100%</li><li>裏地：レーヨン 100%</li><li>レギュラーフィット</li><li>フランス製</li><li>家庭での洗濯禁止</li><li>塩素系および酸素系漂白剤の使用禁止</li><li>タンブル乾燥禁止</li><li>アイロン仕上げ禁止</li><li>ドライクリーニング禁止</li><li>REF：FNLJ11DIG</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z05"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Ready_To_Wear_Women"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/_/N-1q5sgib",
+          "alternateName": "women",
+          "name": "ウィメンズ",
+          "identifier": "femme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/ready-to-wear/_/N-1nzqmbe",
+          "alternateName": "ready-to-wear",
+          "name": "プレタポルテ（洋服）",
+          "identifier": "w-readytowear"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/ready-to-wear/coats-and-jackets/_/N-1448ga7",
+          "alternateName": "coats-and-jackets",
+          "name": "ウィメンズ コート＆ジャケット",
+          "identifier": "w-jacketsandcoats-w"
+        }
+      ],
+      "disclaimers": {
+        "value": "shipping_warning_bo",
+        "popInContent": "global_backorder_info_popin_content",
+        "popInTitle": "global_backorder_info_popin_title"
+      },
+      "color": "ノワール",
+      "@context": "http://schema.org",
+      "identifier": "1AAB18"
+    },
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/1AAB19/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod3730089v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/1AAB19"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/1AAB19/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod3730089v/1AAB19/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ブラック",
+      "@type": "ProductModel",
+      "identifierKey": "814cc0887c9211e58c9c9c5e03aa6537",
+      "name": "モノグラムストリップスリーブレスミンクジャケット",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 2007500
+        },
+        "@type": "Offer",
+        "price": "¥2,007,500"
+      },
+      "disambiguatingDescription": "ベルベットのような手触りのミンクで着心地良く仕立てた、シックなスリーブレスジャケット。エンボス加工されたモノグラム･フラワー モチーフとスタッズをあしらったレザーのストリップが、洗練されたモダンなシグネチャーを表現します。フロントのファスナーを飾るメゾンのアイコニックなスナップボタンも魅力です。グラフィカルなモノグラム･パターンのライニングがスタイルを完成させます。<p>ご不明な点がございましたら、クライアントサービスまでお気軽にお問合せください。専任のクライアントアドバイザーが、素材やサイズなどの製品詳細、モデル着用イメージや関連アイテムのご案内など、お客様のご要望に合わせたスタイリング・アドバイスをご提供いたします。</p><p>また、サイズ違いなどによる返品・交換のご相談も承ります。詳細は<a href=\"https://jp.louisvuitton.com/jpn-jp/legal-privacy\"><b>こちら。</b></a></p>",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-モノグラムストリップスリーブレスミンクジャケット-プレタポルテ（洋服）--FNLJ11DIG900_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-モノグラムストリップスリーブレスミンクジャケット-プレタポルテ（洋服）--FNLJ11DIG900_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-モノグラムストリップスリーブレスミンクジャケット-プレタポルテ（洋服）--FNLJ11DIG900_PM1_Back view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Back view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/monogram-strip-sleeveless-mink-jacket-nvprod3730089v",
+      "highEndTemplate": false,
+      "sizeDisplayName": "40",
+      "productId": "nvprod3730089v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-RTW-900_noir.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>表地：ミンク 100%</li><li>裏地：レーヨン 100%</li><li>レギュラーフィット</li><li>フランス製</li><li>家庭での洗濯禁止</li><li>塩素系および酸素系漂白剤の使用禁止</li><li>タンブル乾燥禁止</li><li>アイロン仕上げ禁止</li><li>ドライクリーニング禁止</li><li>REF：FNLJ11DIG</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z05"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Ready_To_Wear_Women"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/_/N-1q5sgib",
+          "alternateName": "women",
+          "name": "ウィメンズ",
+          "identifier": "femme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/ready-to-wear/_/N-1nzqmbe",
+          "alternateName": "ready-to-wear",
+          "name": "プレタポルテ（洋服）",
+          "identifier": "w-readytowear"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/ready-to-wear/coats-and-jackets/_/N-1448ga7",
+          "alternateName": "coats-and-jackets",
+          "name": "ウィメンズ コート＆ジャケット",
+          "identifier": "w-jacketsandcoats-w"
+        }
+      ],
+      "disclaimers": {
+        "value": "shipping_warning_bo",
+        "popInContent": "global_backorder_info_popin_content",
+        "popInTitle": "global_backorder_info_popin_title"
+      },
+      "color": "ノワール",
+      "@context": "http://schema.org",
+      "identifier": "1AAB19"
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "/api/catalog/jpn-jp/product/nvprod3730089v"
+    },
+    "push": {
+      "href": "/api/catalog/jpn-jp/product-push/nvprod3730089v"
+    },
+    "care-link": {
+      "href": "/api/catalog/jpn-jp/care-link/nvprod3730089v"
+    },
+    "size-guide": {
+      "href": "/api/catalog/jpn-jp/size-guide/nvprod3730089v"
+    },
+    "availability": {
+      "href": "/api/catalog/jpn-jp/availability/nvprod3730089v"
+    }
+  },
+  "@type": "Product",
+  "sku": "1AAB17",
+  "isSimilarTo": [],
+  "productTips": [],
+  "url": "/jpn-jp/products/monogram-strip-sleeveless-mink-jacket-nvprod3730089v",
+  "category": [
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/women/_/N-1q5sgib",
+      "alternateName": "women",
+      "name": "ウィメンズ",
+      "identifier": "femme"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/women/ready-to-wear/_/N-1nzqmbe",
+      "alternateName": "ready-to-wear",
+      "name": "プレタポルテ（洋服）",
+      "identifier": "w-readytowear"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/women/ready-to-wear/coats-and-jackets/_/N-1448ga7",
+      "alternateName": "coats-and-jackets",
+      "name": "ウィメンズ コート＆ジャケット",
+      "identifier": "w-jacketsandcoats-w"
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "hidePrice",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "subType",
+      "value": "product"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "sizeGuide",
+      "value": true
+    }
+  ],
+  "name": "モノグラムストリップスリーブレスミンクジャケット",
+  "isRelatedTo": [],
+  "@context": "http://schema.org",
+  "identifier": "nvprod3730089v"
+}
