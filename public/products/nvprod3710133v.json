@@ -1,0 +1,191 @@
+{
+  "model": [
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/nvsku3240048v/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod3710133v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/nvsku3240048v"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/nvsku3240048v/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod3710133v/nvsku3240048v/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "@type": "ProductModel",
+      "name": "SUMMER STARDUST - LOOK 03",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton--Women_LVStardust_FW22_LOOK03_VISUAL4.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "FW22",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/summer-stardust-look-03-nvprod3710133v",
+      "highEndTemplate": false,
+      "productId": "nvprod3710133v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/_/N-1q5sgib",
+          "alternateName": "women",
+          "name": "ウィメンズ",
+          "identifier": "femme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/ready-to-wear/_/N-1nzqmbe",
+          "alternateName": "ready-to-wear",
+          "name": "プレタポルテ（洋服）",
+          "identifier": "w-readytowear"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/ready-to-wear/view-by-look/_/N-zazi08",
+          "alternateName": "view-by-look",
+          "name": "ルックブック",
+          "identifier": "nvcat460115v"
+        }
+      ],
+      "disclaimers": {
+        "value": "shipping_warning_bo",
+        "popInContent": "global_backorder_info_popin_content",
+        "popInTitle": "global_backorder_info_popin_title"
+      },
+      "@context": "http://schema.org",
+      "identifier": "nvsku3240048v"
+    }
+  ],
+  "readyToWearSKUs": [],
+  "disambiguatingDescription": "遊び心溢れるひねりを効かせたフレッシュなルック。トロンプ･ルイユ(騙し絵)風に仕上げたマキシドレスは、柔らかな光沢感を放つホワイトのシルクサテンクレープを使用した、エフォートレスで夏らしい雰囲気が魅力です。クリーンかつモダンなシルエットを、足首まで下がるエレガントなラップディテールが引き立てます。「サマー･スターダスト」カプセル･コレクションならではのスター･パターンを散りばめたサンダルとコーディネートしました。",
+  "_links": {
+    "self": {
+      "href": "/api/catalog/jpn-jp/product/nvprod3710133v"
+    },
+    "push": {
+      "href": "/api/catalog/jpn-jp/product-push/nvprod3710133v"
+    },
+    "care-link": {
+      "href": "/api/catalog/jpn-jp/care-link/nvprod3710133v"
+    },
+    "availability": {
+      "href": "/api/catalog/jpn-jp/availability/nvprod3710133v"
+    }
+  },
+  "@type": "Product",
+  "sku": "nvsku3240048v",
+  "isSimilarTo": [],
+  "productTips": [],
+  "url": "/jpn-jp/products/summer-stardust-look-03-nvprod3710133v",
+  "accessoriesSKUs": [],
+  "category": [
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/women/_/N-1q5sgib",
+      "alternateName": "women",
+      "name": "ウィメンズ",
+      "identifier": "femme"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/women/ready-to-wear/_/N-1nzqmbe",
+      "alternateName": "ready-to-wear",
+      "name": "プレタポルテ（洋服）",
+      "identifier": "w-readytowear"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/women/ready-to-wear/view-by-look/_/N-zazi08",
+      "alternateName": "view-by-look",
+      "name": "ルックブック",
+      "identifier": "nvcat460115v"
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "hidePrice",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "subType",
+      "value": "product"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "sizeGuide",
+      "value": false
+    }
+  ],
+  "name": "サマー･スターダスト - LOOK 03",
+  "isRelatedTo": [],
+  "@context": "http://schema.org",
+  "identifier": "nvprod3710133v"
+}
