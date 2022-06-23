@@ -10,7 +10,7 @@ for collection in $collections; do
   if [ ! -e $firstoutfile ]; then
     sleep 1
 
-    curl \
+    time curl \
       -s \
       -o - \
       -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" \
@@ -27,7 +27,7 @@ for collection in $collections; do
       echo $outfile
       if [ ! -e $outfile ]; then
         sleep 1
-        curl \
+        time curl \
           -s \
           -o - \
           -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" \
