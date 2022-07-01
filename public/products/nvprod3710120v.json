@@ -1,0 +1,416 @@
+{
+  "model": [
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/M00733/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod3710120v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/M00733"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/M00733/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod3710120v/M00733/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "グリーン",
+      "@type": "ProductModel",
+      "identifierKey": "a18a2fb630e720da9ca795ed729b850e",
+      "name": "ブラスレ・モノグラム チェーン",
+      "mainMaterial2": "STEEL",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 75900
+        },
+        "@type": "Offer",
+        "price": "¥75,900"
+      },
+      "disambiguatingDescription": "環境に優しい素材を使用し、サステナブルなデザインに仕上げたブレスレット「ブラスレ･モノグラム チェーン」。ステンレススティールやリサイクルされたプレキシガラスのリンクを組み合わせ、モノグラム･パターンの刻印でメゾンならではの匠の技を表現しました。微妙に色合いの異なるグリーンのプレキシガラスが、1点1点異なる表情を生み出します。<br />\n<br />\n環境に優しい循環型のクリエイティビティの一環として、サステナブルな素材を70％以上使用し、ルイ･ヴィトンが新たにデザインしたファッションジュエリーです。リサイクルされたステンレススティールで象ったメタルリンクと、リサイクルされた樹脂を使用したレジンリンクを組み合わせました。ランダムに色をミックスする製造工程が、1点1点に唯一無二の表情をプラスします。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ブラスレ・モノグラム-チェーン-s00-メンズ-新作アクセサリー--M00733_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ブラスレ・モノグラム-チェーン-s00-メンズ-新作アクセサリー--M00733_PM1_Worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Worn view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ブラスレ・モノグラム-チェーン-s00-メンズ-新作アクセサリー--M00733_PM1_Interior view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Interior view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ブラスレ・モノグラム-チェーン-s00-メンズ-新作アクセサリー--M00733_PM1_Back view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Back view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/monogram-chain-bracelet-s00-nvprod3710120v",
+      "material": "METAL",
+      "highEndTemplate": false,
+      "sizeDisplayName": "M",
+      "productId": "nvprod3710120v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-ACC-9GN_green_.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>サイズ：M 19cm、L 22cm</li><li>金具（色：シルバー）</li><li>素材：リサイクルプレキシガラス</li><li>モノグラム･パターンの刻印</li><li>イタリア製</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories;Sunglasses"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-t18ui4cq",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/accessories/_/N-t11ae5nz",
+          "alternateName": "accessories",
+          "name": "アクセサリー",
+          "identifier": "m-category-cat10052"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/accessories/new-this-season/_/N-t145xbf8",
+          "alternateName": "new-this-season",
+          "name": "メンズ 新作アクセサリー",
+          "identifier": "nvcat1280021v"
+        }
+      ],
+      "disclaimers": {
+        "value": "shipping_warning_bo",
+        "popInContent": "global_backorder_info_popin_content",
+        "popInTitle": "global_backorder_info_popin_title"
+      },
+      "color": "グリーン",
+      "@context": "http://schema.org",
+      "identifier": "M00733"
+    },
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/M00734/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod3710120v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/M00734"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/M00734/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod3710120v/M00734/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "グリーン",
+      "@type": "ProductModel",
+      "identifierKey": "c44682548d4bda5e07c79271dff24d54",
+      "name": "ブラスレ・モノグラム チェーン",
+      "mainMaterial2": "STEEL",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 75900
+        },
+        "@type": "Offer",
+        "price": "¥75,900"
+      },
+      "disambiguatingDescription": "環境に優しい素材を使用し、サステナブルなデザインに仕上げたブレスレット「ブラスレ･モノグラム チェーン」。ステンレススティールやリサイクルされたプレキシガラスのリンクを組み合わせ、モノグラム･パターンの刻印でメゾンならではの匠の技を表現しました。微妙に色合いの異なるグリーンのプレキシガラスが、1点1点異なる表情を生み出します。<br />\n<br />\n環境に優しい循環型のクリエイティビティの一環として、サステナブルな素材を70％以上使用し、ルイ･ヴィトンが新たにデザインしたファッションジュエリーです。リサイクルされたステンレススティールで象ったメタルリンクと、リサイクルされた樹脂を使用したレジンリンクを組み合わせました。ランダムに色をミックスする製造工程が、1点1点に唯一無二の表情をプラスします。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ブラスレ・モノグラム-チェーン-s00-メンズ-新作アクセサリー--M00734_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ブラスレ・モノグラム-チェーン-s00-メンズ-新作アクセサリー--M00734_PM1_Worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Worn view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ブラスレ・モノグラム-チェーン-s00-メンズ-新作アクセサリー--M00734_PM1_Interior view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Interior view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ブラスレ・モノグラム-チェーン-s00-メンズ-新作アクセサリー--M00734_PM1_Back view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Back view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/monogram-chain-bracelet-s00-nvprod3710120v",
+      "material": "METAL",
+      "highEndTemplate": false,
+      "sizeDisplayName": "L",
+      "productId": "nvprod3710120v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-ACC-9GN_green_.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>サイズ：M 19cm、L 22cm</li><li>金具（色：シルバー）</li><li>素材：リサイクルプレキシガラス</li><li>モノグラム･パターンの刻印</li><li>イタリア製</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories;Sunglasses"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-t18ui4cq",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/accessories/_/N-t11ae5nz",
+          "alternateName": "accessories",
+          "name": "アクセサリー",
+          "identifier": "m-category-cat10052"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/accessories/new-this-season/_/N-t145xbf8",
+          "alternateName": "new-this-season",
+          "name": "メンズ 新作アクセサリー",
+          "identifier": "nvcat1280021v"
+        }
+      ],
+      "disclaimers": {
+        "value": "shipping_warning_bo",
+        "popInContent": "global_backorder_info_popin_content",
+        "popInTitle": "global_backorder_info_popin_title"
+      },
+      "color": "グリーン",
+      "@context": "http://schema.org",
+      "identifier": "M00734"
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "/api/catalog/jpn-jp/product/nvprod3710120v"
+    },
+    "push": {
+      "href": "/api/catalog/jpn-jp/product-push/nvprod3710120v"
+    },
+    "care-link": {
+      "href": "/api/catalog/jpn-jp/care-link/nvprod3710120v"
+    },
+    "availability": {
+      "href": "/api/catalog/jpn-jp/availability/nvprod3710120v"
+    }
+  },
+  "@type": "Product",
+  "sku": "M00733",
+  "isSimilarTo": [],
+  "productTips": [],
+  "url": "/jpn-jp/products/monogram-chain-bracelet-s00-nvprod3710120v",
+  "material": "NOT APPLICABLE ACC",
+  "category": [
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/_/N-t18ui4cq",
+      "alternateName": "men",
+      "name": "メンズ",
+      "identifier": "homme"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/accessories/_/N-t11ae5nz",
+      "alternateName": "accessories",
+      "name": "アクセサリー",
+      "identifier": "m-category-cat10052"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/accessories/new-this-season/_/N-t145xbf8",
+      "alternateName": "new-this-season",
+      "name": "メンズ 新作アクセサリー",
+      "identifier": "nvcat1280021v"
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "hidePrice",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "subType",
+      "value": "product"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "sizeGuide",
+      "value": false
+    }
+  ],
+  "name": "ブラスレ・モノグラム チェーン",
+  "isRelatedTo": [],
+  "@context": "http://schema.org",
+  "identifier": "nvprod3710120v"
+}
