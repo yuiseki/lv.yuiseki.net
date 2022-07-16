@@ -1,0 +1,229 @@
+{
+  "model": [
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/M00826/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod3690028v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/M00826"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/M00826/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod3690028v/M00826/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ブラック",
+      "@type": "ProductModel",
+      "identifierKey": "6e012cafbb258bcaa008578c9c596121",
+      "name": "ポルト クレ・ドラゴンヌ LV リンク",
+      "mainMaterial2": "CALF",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 55000
+        },
+        "@type": "Offer",
+        "price": "¥55,000"
+      },
+      "disambiguatingDescription": "アイコニックなLV シグネチャーを、艶やかなメタルパーツとなめらかなレザーを組み合わせてモダンに再解釈したキーホルダー「ポルト クレ･ドラゴンヌ LV リンク」。コントラストカラーのモノグラム･キャンバスのライニングを施した落ち着いた印象のストラップに、メゾンが誇る卓越したクラフツマンシップが光ります。キーリングの上部には、LV リンクのチャームをあしらいました。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ポルト-クレ・ドラゴンヌ-lv-リンク-s00-新作アクセサリー--M00826_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ポルト-クレ・ドラゴンヌ-lv-リンク-s00-新作アクセサリー--M00826_PM1_Back view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Back view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/lv-link-dragonne-s00-nvprod3690028v",
+      "material": "LEATHER & METAL",
+      "highEndTemplate": false,
+      "productId": "nvprod3690028v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-SHO-980_noir.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>サイズ：14 x 2.5 cm</li><li>素材：レザー（皮革の種類：牛革）</li><li>ライニング：モノグラム･キャンバス</li><li>金具（色：ゴールド）</li><li>LV イニシャル</li><li>キーリングにLouis Vuittonシグネチャーの刻印</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories;Sunglasses"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/_/N-tveguxb",
+          "alternateName": "women",
+          "name": "ウィメンズ",
+          "identifier": "femme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/accessories/_/N-toxp7l2",
+          "alternateName": "accessories",
+          "name": "アクセサリー",
+          "identifier": "w-category-cat10155"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/accessories/new-this-season/_/N-t6m2pj7",
+          "alternateName": "new-this-season",
+          "name": "新作アクセサリー",
+          "identifier": "nvcat1280022v"
+        }
+      ],
+      "disclaimers": {
+        "value": "shipping_warning_bo",
+        "popInContent": "global_backorder_info_popin_content",
+        "popInTitle": "global_backorder_info_popin_title"
+      },
+      "color": "ノワール",
+      "@context": "http://schema.org",
+      "identifier": "M00826"
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "/api/catalog/jpn-jp/product/nvprod3690028v"
+    },
+    "push": {
+      "href": "/api/catalog/jpn-jp/product-push/nvprod3690028v"
+    },
+    "care-link": {
+      "href": "/api/catalog/jpn-jp/care-link/nvprod3690028v"
+    },
+    "availability": {
+      "href": "/api/catalog/jpn-jp/availability/nvprod3690028v"
+    }
+  },
+  "@type": "Product",
+  "sku": "M00826",
+  "isSimilarTo": [],
+  "productTips": [],
+  "url": "/jpn-jp/products/lv-link-dragonne-s00-nvprod3690028v",
+  "material": "NOT APPLICABLE ACC",
+  "category": [
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/women/_/N-tveguxb",
+      "alternateName": "women",
+      "name": "ウィメンズ",
+      "identifier": "femme"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/women/accessories/_/N-toxp7l2",
+      "alternateName": "accessories",
+      "name": "アクセサリー",
+      "identifier": "w-category-cat10155"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/women/accessories/new-this-season/_/N-t6m2pj7",
+      "alternateName": "new-this-season",
+      "name": "新作アクセサリー",
+      "identifier": "nvcat1280022v"
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "hidePrice",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "subType",
+      "value": "product"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "sizeGuide",
+      "value": false
+    }
+  ],
+  "name": "ポルト クレ・ドラゴンヌ LV リンク",
+  "isRelatedTo": [],
+  "@context": "http://schema.org",
+  "identifier": "nvprod3690028v"
+}
