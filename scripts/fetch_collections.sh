@@ -20,6 +20,7 @@ for collection in $collections; do
 
   echo $firstoutfile
   total=`cat $firstoutfile | jq -r .nbPages`
+  total=$((total-1))
   echo $total
 
   i=1
