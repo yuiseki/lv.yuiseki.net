@@ -1,0 +1,908 @@
+{
+  "model": [
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/1AAA02/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod3760128v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/1AAA02"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/1AAA02/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod3760128v/1AAA02/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ホワイト",
+      "@type": "ProductModel",
+      "identifierKey": "8baf39eb93b7412a8935292e5486657c",
+      "name": "フローラルレースシャツ",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 316800
+        },
+        "@type": "Offer",
+        "price": "¥316,800"
+      },
+      "disambiguatingDescription": "ロマンティックなテクスチャーがタイムレスなスタイルを引き立てる、洗練された印象のシャツ。コットンを混紡したフローラル･モチーフのレースにクレープのインサートを重ねることで、フェミニンなルックにモダンな雰囲気をさりげなくプラス。スマートな襟とカフにシックなテーラリング風のエスプリが息づき、エスプリ溢れるアクセントを添えるメタルボタンが生き生きとした個性を添えます。<p>ご不明な点がございましたら、クライアントサービスまでお気軽にお問合せください。専任のクライアントアドバイザーが、素材やサイズなどの製品詳細、モデル着用イメージや関連アイテムのご案内など、お客様のご要望に合わせたスタイリング・アドバイスをご提供いたします。</p><p>また、サイズ違いなどによる返品・交換のご相談も承ります。詳細は<a href='https://jp.louisvuitton.com/jpn-jp/legal-privacy'><b>こちら。</b></a></p>",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-フローラルレースシャツ-プレタポルテ-洋服--FNBL40O86002_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-フローラルレースシャツ-プレタポルテ-洋服--FNBL40O86002_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-フローラルレースシャツ-プレタポルテ-洋服--FNBL40O86002_PM1_Back view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Back view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/floral-lace-shirt-nvprod3760128v",
+      "highEndTemplate": false,
+      "sizeDisplayName": "34",
+      "productId": "nvprod3760128v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-RTW-002_blanc_lait.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>表地：コットン 77%、レーヨン 13%、ナイロン 10%</li><li>裏地：シルク 91%、ポリウレタン 9%</li><li>レギュラーフィット</li><li>イタリア製</li><li>家庭での洗濯禁止</li><li>塩素系および酸素系漂白剤の使用禁止</li><li>タンブル乾燥禁止</li><li>底面温度110℃を限度としてスチームなしでアイロン仕上げ可</li><li>石油系溶剤による弱いドライクリーニング可</li><li>REF：FNBL40O86</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z05"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Ready_To_Wear_Women"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/_/N-tveguxb",
+          "alternateName": "women",
+          "name": "ウィメンズ",
+          "identifier": "femme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/ready-to-wear/_/N-t1kw5dkp",
+          "alternateName": "ready-to-wear",
+          "name": "プレタポルテ(洋服)",
+          "identifier": "w-readytowear"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/ready-to-wear/tops/_/N-t1m1g0yp",
+          "alternateName": "tops",
+          "name": "ウィメンズ トップス",
+          "identifier": "w-tops"
+        }
+      ],
+      "disclaimers": {
+        "value": "shipping_warning_bo",
+        "popInContent": "global_backorder_info_popin_content",
+        "popInTitle": "global_backorder_info_popin_title"
+      },
+      "color": "ブロンレ",
+      "@context": "http://schema.org",
+      "identifier": "1AAA02"
+    },
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/1AAA03/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod3760128v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/1AAA03"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/1AAA03/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod3760128v/1AAA03/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ホワイト",
+      "@type": "ProductModel",
+      "identifierKey": "1854259c22d4db14ecb9a1a5058edaf8",
+      "name": "フローラルレースシャツ",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 316800
+        },
+        "@type": "Offer",
+        "price": "¥316,800"
+      },
+      "disambiguatingDescription": "ロマンティックなテクスチャーがタイムレスなスタイルを引き立てる、洗練された印象のシャツ。コットンを混紡したフローラル･モチーフのレースにクレープのインサートを重ねることで、フェミニンなルックにモダンな雰囲気をさりげなくプラス。スマートな襟とカフにシックなテーラリング風のエスプリが息づき、エスプリ溢れるアクセントを添えるメタルボタンが生き生きとした個性を添えます。<p>ご不明な点がございましたら、クライアントサービスまでお気軽にお問合せください。専任のクライアントアドバイザーが、素材やサイズなどの製品詳細、モデル着用イメージや関連アイテムのご案内など、お客様のご要望に合わせたスタイリング・アドバイスをご提供いたします。</p><p>また、サイズ違いなどによる返品・交換のご相談も承ります。詳細は<a href='https://jp.louisvuitton.com/jpn-jp/legal-privacy'><b>こちら。</b></a></p>",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-フローラルレースシャツ-プレタポルテ-洋服--FNBL40O86002_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-フローラルレースシャツ-プレタポルテ-洋服--FNBL40O86002_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-フローラルレースシャツ-プレタポルテ-洋服--FNBL40O86002_PM1_Back view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Back view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/floral-lace-shirt-nvprod3760128v",
+      "highEndTemplate": false,
+      "sizeDisplayName": "36",
+      "productId": "nvprod3760128v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-RTW-002_blanc_lait.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>表地：コットン 77%、レーヨン 13%、ナイロン 10%</li><li>裏地：シルク 91%、ポリウレタン 9%</li><li>レギュラーフィット</li><li>イタリア製</li><li>家庭での洗濯禁止</li><li>塩素系および酸素系漂白剤の使用禁止</li><li>タンブル乾燥禁止</li><li>底面温度110℃を限度としてスチームなしでアイロン仕上げ可</li><li>石油系溶剤による弱いドライクリーニング可</li><li>REF：FNBL40O86</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z05"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Ready_To_Wear_Women"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/_/N-tveguxb",
+          "alternateName": "women",
+          "name": "ウィメンズ",
+          "identifier": "femme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/ready-to-wear/_/N-t1kw5dkp",
+          "alternateName": "ready-to-wear",
+          "name": "プレタポルテ(洋服)",
+          "identifier": "w-readytowear"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/ready-to-wear/tops/_/N-t1m1g0yp",
+          "alternateName": "tops",
+          "name": "ウィメンズ トップス",
+          "identifier": "w-tops"
+        }
+      ],
+      "disclaimers": {
+        "value": "shipping_warning_bo",
+        "popInContent": "global_backorder_info_popin_content",
+        "popInTitle": "global_backorder_info_popin_title"
+      },
+      "color": "ブロンレ",
+      "@context": "http://schema.org",
+      "identifier": "1AAA03"
+    },
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/1AAA04/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod3760128v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/1AAA04"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/1AAA04/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod3760128v/1AAA04/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ホワイト",
+      "@type": "ProductModel",
+      "identifierKey": "b3c87ba3400fccba4c3d0e8270f45645",
+      "name": "フローラルレースシャツ",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 316800
+        },
+        "@type": "Offer",
+        "price": "¥316,800"
+      },
+      "disambiguatingDescription": "ロマンティックなテクスチャーがタイムレスなスタイルを引き立てる、洗練された印象のシャツ。コットンを混紡したフローラル･モチーフのレースにクレープのインサートを重ねることで、フェミニンなルックにモダンな雰囲気をさりげなくプラス。スマートな襟とカフにシックなテーラリング風のエスプリが息づき、エスプリ溢れるアクセントを添えるメタルボタンが生き生きとした個性を添えます。<p>ご不明な点がございましたら、クライアントサービスまでお気軽にお問合せください。専任のクライアントアドバイザーが、素材やサイズなどの製品詳細、モデル着用イメージや関連アイテムのご案内など、お客様のご要望に合わせたスタイリング・アドバイスをご提供いたします。</p><p>また、サイズ違いなどによる返品・交換のご相談も承ります。詳細は<a href='https://jp.louisvuitton.com/jpn-jp/legal-privacy'><b>こちら。</b></a></p>",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-フローラルレースシャツ-プレタポルテ-洋服--FNBL40O86002_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-フローラルレースシャツ-プレタポルテ-洋服--FNBL40O86002_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-フローラルレースシャツ-プレタポルテ-洋服--FNBL40O86002_PM1_Back view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Back view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/floral-lace-shirt-nvprod3760128v",
+      "highEndTemplate": false,
+      "sizeDisplayName": "38",
+      "productId": "nvprod3760128v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-RTW-002_blanc_lait.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>表地：コットン 77%、レーヨン 13%、ナイロン 10%</li><li>裏地：シルク 91%、ポリウレタン 9%</li><li>レギュラーフィット</li><li>イタリア製</li><li>家庭での洗濯禁止</li><li>塩素系および酸素系漂白剤の使用禁止</li><li>タンブル乾燥禁止</li><li>底面温度110℃を限度としてスチームなしでアイロン仕上げ可</li><li>石油系溶剤による弱いドライクリーニング可</li><li>REF：FNBL40O86</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z05"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Ready_To_Wear_Women"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/_/N-tveguxb",
+          "alternateName": "women",
+          "name": "ウィメンズ",
+          "identifier": "femme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/ready-to-wear/_/N-t1kw5dkp",
+          "alternateName": "ready-to-wear",
+          "name": "プレタポルテ(洋服)",
+          "identifier": "w-readytowear"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/ready-to-wear/tops/_/N-t1m1g0yp",
+          "alternateName": "tops",
+          "name": "ウィメンズ トップス",
+          "identifier": "w-tops"
+        }
+      ],
+      "disclaimers": {
+        "value": "shipping_warning_bo",
+        "popInContent": "global_backorder_info_popin_content",
+        "popInTitle": "global_backorder_info_popin_title"
+      },
+      "color": "ブロンレ",
+      "@context": "http://schema.org",
+      "identifier": "1AAA04"
+    },
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/1AAA05/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod3760128v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/1AAA05"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/1AAA05/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod3760128v/1AAA05/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ホワイト",
+      "@type": "ProductModel",
+      "identifierKey": "002fdeeb9909cd57ee6be1fe948aca36",
+      "name": "フローラルレースシャツ",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 316800
+        },
+        "@type": "Offer",
+        "price": "¥316,800"
+      },
+      "disambiguatingDescription": "ロマンティックなテクスチャーがタイムレスなスタイルを引き立てる、洗練された印象のシャツ。コットンを混紡したフローラル･モチーフのレースにクレープのインサートを重ねることで、フェミニンなルックにモダンな雰囲気をさりげなくプラス。スマートな襟とカフにシックなテーラリング風のエスプリが息づき、エスプリ溢れるアクセントを添えるメタルボタンが生き生きとした個性を添えます。<p>ご不明な点がございましたら、クライアントサービスまでお気軽にお問合せください。専任のクライアントアドバイザーが、素材やサイズなどの製品詳細、モデル着用イメージや関連アイテムのご案内など、お客様のご要望に合わせたスタイリング・アドバイスをご提供いたします。</p><p>また、サイズ違いなどによる返品・交換のご相談も承ります。詳細は<a href='https://jp.louisvuitton.com/jpn-jp/legal-privacy'><b>こちら。</b></a></p>",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-フローラルレースシャツ-プレタポルテ-洋服--FNBL40O86002_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-フローラルレースシャツ-プレタポルテ-洋服--FNBL40O86002_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-フローラルレースシャツ-プレタポルテ-洋服--FNBL40O86002_PM1_Back view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Back view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/floral-lace-shirt-nvprod3760128v",
+      "highEndTemplate": false,
+      "sizeDisplayName": "40",
+      "productId": "nvprod3760128v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-RTW-002_blanc_lait.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>表地：コットン 77%、レーヨン 13%、ナイロン 10%</li><li>裏地：シルク 91%、ポリウレタン 9%</li><li>レギュラーフィット</li><li>イタリア製</li><li>家庭での洗濯禁止</li><li>塩素系および酸素系漂白剤の使用禁止</li><li>タンブル乾燥禁止</li><li>底面温度110℃を限度としてスチームなしでアイロン仕上げ可</li><li>石油系溶剤による弱いドライクリーニング可</li><li>REF：FNBL40O86</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z05"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Ready_To_Wear_Women"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/_/N-tveguxb",
+          "alternateName": "women",
+          "name": "ウィメンズ",
+          "identifier": "femme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/ready-to-wear/_/N-t1kw5dkp",
+          "alternateName": "ready-to-wear",
+          "name": "プレタポルテ(洋服)",
+          "identifier": "w-readytowear"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/ready-to-wear/tops/_/N-t1m1g0yp",
+          "alternateName": "tops",
+          "name": "ウィメンズ トップス",
+          "identifier": "w-tops"
+        }
+      ],
+      "disclaimers": {
+        "value": "shipping_warning_bo",
+        "popInContent": "global_backorder_info_popin_content",
+        "popInTitle": "global_backorder_info_popin_title"
+      },
+      "color": "ブロンレ",
+      "@context": "http://schema.org",
+      "identifier": "1AAA05"
+    },
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/1AAA06/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod3760128v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/1AAA06"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/1AAA06/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod3760128v/1AAA06/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ホワイト",
+      "@type": "ProductModel",
+      "identifierKey": "ad7dd324b4bd07991bf3007453941d8d",
+      "name": "フローラルレースシャツ",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 316800
+        },
+        "@type": "Offer",
+        "price": "¥316,800"
+      },
+      "disambiguatingDescription": "ロマンティックなテクスチャーがタイムレスなスタイルを引き立てる、洗練された印象のシャツ。コットンを混紡したフローラル･モチーフのレースにクレープのインサートを重ねることで、フェミニンなルックにモダンな雰囲気をさりげなくプラス。スマートな襟とカフにシックなテーラリング風のエスプリが息づき、エスプリ溢れるアクセントを添えるメタルボタンが生き生きとした個性を添えます。<p>ご不明な点がございましたら、クライアントサービスまでお気軽にお問合せください。専任のクライアントアドバイザーが、素材やサイズなどの製品詳細、モデル着用イメージや関連アイテムのご案内など、お客様のご要望に合わせたスタイリング・アドバイスをご提供いたします。</p><p>また、サイズ違いなどによる返品・交換のご相談も承ります。詳細は<a href='https://jp.louisvuitton.com/jpn-jp/legal-privacy'><b>こちら。</b></a></p>",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-フローラルレースシャツ-プレタポルテ-洋服--FNBL40O86002_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-フローラルレースシャツ-プレタポルテ-洋服--FNBL40O86002_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-フローラルレースシャツ-プレタポルテ-洋服--FNBL40O86002_PM1_Back view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Back view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/floral-lace-shirt-nvprod3760128v",
+      "highEndTemplate": false,
+      "sizeDisplayName": "42",
+      "productId": "nvprod3760128v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-RTW-002_blanc_lait.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>表地：コットン 77%、レーヨン 13%、ナイロン 10%</li><li>裏地：シルク 91%、ポリウレタン 9%</li><li>レギュラーフィット</li><li>イタリア製</li><li>家庭での洗濯禁止</li><li>塩素系および酸素系漂白剤の使用禁止</li><li>タンブル乾燥禁止</li><li>底面温度110℃を限度としてスチームなしでアイロン仕上げ可</li><li>石油系溶剤による弱いドライクリーニング可</li><li>REF：FNBL40O86</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z05"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Ready_To_Wear_Women"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/_/N-tveguxb",
+          "alternateName": "women",
+          "name": "ウィメンズ",
+          "identifier": "femme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/ready-to-wear/_/N-t1kw5dkp",
+          "alternateName": "ready-to-wear",
+          "name": "プレタポルテ(洋服)",
+          "identifier": "w-readytowear"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/ready-to-wear/tops/_/N-t1m1g0yp",
+          "alternateName": "tops",
+          "name": "ウィメンズ トップス",
+          "identifier": "w-tops"
+        }
+      ],
+      "disclaimers": {
+        "value": "shipping_warning_bo",
+        "popInContent": "global_backorder_info_popin_content",
+        "popInTitle": "global_backorder_info_popin_title"
+      },
+      "color": "ブロンレ",
+      "@context": "http://schema.org",
+      "identifier": "1AAA06"
+    }
+  ],
+  "panelInformations": [
+    {
+      "@type": "ProductCare",
+      "title": "素材とお手入れ方法、修理",
+      "description": "<p>お手入れの際は信頼のおけるクリーニング専門店にご相談ください。</p>",
+      "introduction": "<div class=\"popinHeader uppercase\">本製品はデリケートな素材を使用し、非常に繊細な縫製・加工が施されています。</div>"
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "/api/catalog/jpn-jp/product/nvprod3760128v"
+    },
+    "push": {
+      "href": "/api/catalog/jpn-jp/product-push/nvprod3760128v"
+    },
+    "care-link": {
+      "href": "/api/catalog/jpn-jp/care-link/nvprod3760128v"
+    },
+    "size-guide": {
+      "href": "/api/catalog/jpn-jp/size-guide/nvprod3760128v"
+    },
+    "availability": {
+      "href": "/api/catalog/jpn-jp/availability/nvprod3760128v"
+    }
+  },
+  "@type": "Product",
+  "sku": "1AAA02",
+  "isSimilarTo": [],
+  "productTips": [],
+  "url": "/jpn-jp/products/floral-lace-shirt-nvprod3760128v",
+  "category": [
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/women/_/N-tveguxb",
+      "alternateName": "women",
+      "name": "ウィメンズ",
+      "identifier": "femme"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/women/ready-to-wear/_/N-t1kw5dkp",
+      "alternateName": "ready-to-wear",
+      "name": "プレタポルテ(洋服)",
+      "identifier": "w-readytowear"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/women/ready-to-wear/tops/_/N-t1m1g0yp",
+      "alternateName": "tops",
+      "name": "ウィメンズ トップス",
+      "identifier": "w-tops"
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "hidePrice",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "subType",
+      "value": "product"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "sizeGuide",
+      "value": true
+    }
+  ],
+  "name": "フローラルレースシャツ",
+  "isRelatedTo": [],
+  "@context": "http://schema.org",
+  "identifier": "nvprod3760128v"
+}
