@@ -9,7 +9,7 @@ for collection in $collections; do
 
   firstoutfile="./tmp/collections/$collection-0.json"
   if [ ! -e $firstoutfile ]; then
-    sleep $(($RANDOM % 5))
+    sleep 1.5
 
     time curl \
       -s \
@@ -30,7 +30,7 @@ for collection in $collections; do
     outfile="./tmp/collections/$collection-$i.json"
     echo $outfile
     if [ ! -e $outfile ]; then
-      sleep $(($RANDOM % 5))
+      sleep 1.5
 
       time curl \
         -s \

@@ -11,7 +11,7 @@ for product in $products; do
   outfile="./public/products/$product.json"
   if [ ! -e $outfile ]; then
     date '+%F %T'
-    sleep $(($RANDOM % 5))
+    sleep 1.5
 
     time curl \
       -s \
