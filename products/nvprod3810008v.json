@@ -1,0 +1,576 @@
+{
+  "model": [
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/1AAKWV/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod3810008v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/1AAKWV"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/1AAKWV/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod3810008v/1AAKWV/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "マロン",
+      "@type": "ProductModel",
+      "identifierKey": "87a0fd598bf211159086912c9c36d7f5",
+      "name": "ミックスドマテリアルバイカージャケット",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 532400
+        },
+        "@type": "Offer",
+        "price": "¥532,400"
+      },
+      "disambiguatingDescription": "クラシカルなバイカージャケットのシルエットを、シックな質感と色使いで再解釈したアイテム。フロントとショルダーには軽量なスエードを使用し、背面と袖はカジュアルなコントラストを描くピケニットで仕上げました。グラフィカルな襟とエポレット、袖の内側のファスナーがスタイルを完成させます。さりげない個性をプラスするモノグラム･パターンのライニングも魅力です。<p>ご不明な点がございましたら、クライアントサービスまでお気軽にお問合せください。専任のクライアントアドバイザーが、素材やサイズなどの製品詳細、モデル着用イメージや関連アイテムのご案内など、お客様のご要望に合わせたスタイリング・アドバイスをご提供いたします。</p><p>また、サイズ違いなどによる返品・交換のご相談も承ります。詳細は<a href='https://jp.louisvuitton.com/jpn-jp/legal-privacy'><b>こちら。</b></a></p>",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ミックスドマテリアルバイカージャケット-プレタポルテ-洋服--FNLJ99RR3151_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ミックスドマテリアルバイカージャケット-プレタポルテ-洋服--FNLJ99RR3151_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ミックスドマテリアルバイカージャケット-プレタポルテ-洋服--FNLJ99RR3151_PM1_Back view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Back view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/mixed-material-biker-jacket-nvprod3810008v",
+      "highEndTemplate": false,
+      "sizeDisplayName": "34",
+      "productId": "nvprod3810008v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-LG-90M_taupe.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>本体：ウール 100%</li><li>レギュラーフィット</li><li>イタリア製</li><li>REF：FNLJ99RR3</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z05"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Ready_To_Wear_Women"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/_/N-tveguxb",
+          "alternateName": "women",
+          "name": "ウィメンズ",
+          "identifier": "femme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/ready-to-wear/_/N-t1kw5dkp",
+          "alternateName": "ready-to-wear",
+          "name": "プレタポルテ(洋服)",
+          "identifier": "w-readytowear"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/ready-to-wear/coats-and-jackets/_/N-t12kgz5u",
+          "alternateName": "coats-and-jackets",
+          "name": "ウィメンズ コート＆ジャケット",
+          "identifier": "w-jacketsandcoats-w"
+        }
+      ],
+      "disclaimers": {
+        "value": "shipping_warning_bo",
+        "popInContent": "global_backorder_info_popin_content",
+        "popInTitle": "global_backorder_info_popin_title"
+      },
+      "color": "トープ",
+      "@context": "http://schema.org",
+      "identifier": "1AAKWV"
+    },
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/1AAKWW/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod3810008v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/1AAKWW"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/1AAKWW/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod3810008v/1AAKWW/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "マロン",
+      "@type": "ProductModel",
+      "identifierKey": "9bda2d8320167b7f3fd27acc21747ea2",
+      "name": "ミックスドマテリアルバイカージャケット",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 532400
+        },
+        "@type": "Offer",
+        "price": "¥532,400"
+      },
+      "disambiguatingDescription": "クラシカルなバイカージャケットのシルエットを、シックな質感と色使いで再解釈したアイテム。フロントとショルダーには軽量なスエードを使用し、背面と袖はカジュアルなコントラストを描くピケニットで仕上げました。グラフィカルな襟とエポレット、袖の内側のファスナーがスタイルを完成させます。さりげない個性をプラスするモノグラム･パターンのライニングも魅力です。<p>ご不明な点がございましたら、クライアントサービスまでお気軽にお問合せください。専任のクライアントアドバイザーが、素材やサイズなどの製品詳細、モデル着用イメージや関連アイテムのご案内など、お客様のご要望に合わせたスタイリング・アドバイスをご提供いたします。</p><p>また、サイズ違いなどによる返品・交換のご相談も承ります。詳細は<a href='https://jp.louisvuitton.com/jpn-jp/legal-privacy'><b>こちら。</b></a></p>",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ミックスドマテリアルバイカージャケット-プレタポルテ-洋服--FNLJ99RR3151_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ミックスドマテリアルバイカージャケット-プレタポルテ-洋服--FNLJ99RR3151_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ミックスドマテリアルバイカージャケット-プレタポルテ-洋服--FNLJ99RR3151_PM1_Back view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Back view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/mixed-material-biker-jacket-nvprod3810008v",
+      "highEndTemplate": false,
+      "sizeDisplayName": "36",
+      "productId": "nvprod3810008v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-LG-90M_taupe.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>本体：ウール 100%</li><li>レギュラーフィット</li><li>イタリア製</li><li>REF：FNLJ99RR3</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z05"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Ready_To_Wear_Women"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/_/N-tveguxb",
+          "alternateName": "women",
+          "name": "ウィメンズ",
+          "identifier": "femme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/ready-to-wear/_/N-t1kw5dkp",
+          "alternateName": "ready-to-wear",
+          "name": "プレタポルテ(洋服)",
+          "identifier": "w-readytowear"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/ready-to-wear/coats-and-jackets/_/N-t12kgz5u",
+          "alternateName": "coats-and-jackets",
+          "name": "ウィメンズ コート＆ジャケット",
+          "identifier": "w-jacketsandcoats-w"
+        }
+      ],
+      "disclaimers": {
+        "value": "shipping_warning_bo",
+        "popInContent": "global_backorder_info_popin_content",
+        "popInTitle": "global_backorder_info_popin_title"
+      },
+      "color": "トープ",
+      "@context": "http://schema.org",
+      "identifier": "1AAKWW"
+    },
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/1AAKWX/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod3810008v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/1AAKWX"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/1AAKWX/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod3810008v/1AAKWX/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "マロン",
+      "@type": "ProductModel",
+      "identifierKey": "fb3383eb04246cb8fdccad6da46c9ea7",
+      "name": "ミックスドマテリアルバイカージャケット",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 532400
+        },
+        "@type": "Offer",
+        "price": "¥532,400"
+      },
+      "disambiguatingDescription": "クラシカルなバイカージャケットのシルエットを、シックな質感と色使いで再解釈したアイテム。フロントとショルダーには軽量なスエードを使用し、背面と袖はカジュアルなコントラストを描くピケニットで仕上げました。グラフィカルな襟とエポレット、袖の内側のファスナーがスタイルを完成させます。さりげない個性をプラスするモノグラム･パターンのライニングも魅力です。<p>ご不明な点がございましたら、クライアントサービスまでお気軽にお問合せください。専任のクライアントアドバイザーが、素材やサイズなどの製品詳細、モデル着用イメージや関連アイテムのご案内など、お客様のご要望に合わせたスタイリング・アドバイスをご提供いたします。</p><p>また、サイズ違いなどによる返品・交換のご相談も承ります。詳細は<a href='https://jp.louisvuitton.com/jpn-jp/legal-privacy'><b>こちら。</b></a></p>",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ミックスドマテリアルバイカージャケット-プレタポルテ-洋服--FNLJ99RR3151_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ミックスドマテリアルバイカージャケット-プレタポルテ-洋服--FNLJ99RR3151_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ミックスドマテリアルバイカージャケット-プレタポルテ-洋服--FNLJ99RR3151_PM1_Back view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Back view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/mixed-material-biker-jacket-nvprod3810008v",
+      "highEndTemplate": false,
+      "sizeDisplayName": "38",
+      "productId": "nvprod3810008v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-LG-90M_taupe.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>本体：ウール 100%</li><li>レギュラーフィット</li><li>イタリア製</li><li>REF：FNLJ99RR3</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z05"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Ready_To_Wear_Women"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/_/N-tveguxb",
+          "alternateName": "women",
+          "name": "ウィメンズ",
+          "identifier": "femme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/ready-to-wear/_/N-t1kw5dkp",
+          "alternateName": "ready-to-wear",
+          "name": "プレタポルテ(洋服)",
+          "identifier": "w-readytowear"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/ready-to-wear/coats-and-jackets/_/N-t12kgz5u",
+          "alternateName": "coats-and-jackets",
+          "name": "ウィメンズ コート＆ジャケット",
+          "identifier": "w-jacketsandcoats-w"
+        }
+      ],
+      "disclaimers": {
+        "value": "shipping_warning_bo",
+        "popInContent": "global_backorder_info_popin_content",
+        "popInTitle": "global_backorder_info_popin_title"
+      },
+      "color": "トープ",
+      "@context": "http://schema.org",
+      "identifier": "1AAKWX"
+    }
+  ],
+  "panelInformations": [
+    {
+      "@type": "ProductCare",
+      "title": "素材とお手入れ方法、修理",
+      "description": "<p>We recommend you to handle your jacket with the highest care and to avoid repeated frictions with light color garments. In case of superficial stain we recommend you the use of a dry, soft and light chiffon cloth.</p>",
+      "introduction": "<div class=\"popinHeader uppercase\">This garment is made of velvety suede leather. To keep its aspect it is not treated which makes it susceptible to sun, dust, stain and color pigment release.</div>"
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "/api/catalog/jpn-jp/product/nvprod3810008v"
+    },
+    "push": {
+      "href": "/api/catalog/jpn-jp/product-push/nvprod3810008v"
+    },
+    "care-link": {
+      "href": "/api/catalog/jpn-jp/care-link/nvprod3810008v"
+    },
+    "size-guide": {
+      "href": "/api/catalog/jpn-jp/size-guide/nvprod3810008v"
+    },
+    "availability": {
+      "href": "/api/catalog/jpn-jp/availability/nvprod3810008v"
+    }
+  },
+  "@type": "Product",
+  "sku": "1AAKWW",
+  "isSimilarTo": [],
+  "productTips": [],
+  "url": "/jpn-jp/products/mixed-material-biker-jacket-nvprod3810008v",
+  "category": [
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/women/_/N-tveguxb",
+      "alternateName": "women",
+      "name": "ウィメンズ",
+      "identifier": "femme"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/women/ready-to-wear/_/N-t1kw5dkp",
+      "alternateName": "ready-to-wear",
+      "name": "プレタポルテ(洋服)",
+      "identifier": "w-readytowear"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/women/ready-to-wear/coats-and-jackets/_/N-t12kgz5u",
+      "alternateName": "coats-and-jackets",
+      "name": "ウィメンズ コート＆ジャケット",
+      "identifier": "w-jacketsandcoats-w"
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "hidePrice",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "subType",
+      "value": "product"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "sizeGuide",
+      "value": true
+    }
+  ],
+  "name": "ミックスドマテリアルバイカージャケット",
+  "isRelatedTo": [],
+  "@context": "http://schema.org",
+  "identifier": "nvprod3810008v"
+}
