@@ -11,6 +11,7 @@
   "remoteEnv": {
     "LOCAL_WORKSPACE_FOLDER": "${localWorkspaceFolder}"
   },
+  "postCreateCommand": "npm ci",
   "customizations": {
     "vscode": {
       "settings": {
