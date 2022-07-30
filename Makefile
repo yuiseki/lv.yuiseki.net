@@ -7,6 +7,7 @@ clean:
 
 .PHONY: fetch_homepage
 fetch_homepage:
+	mkdir -p ./tmp/collections
 	bash ./scripts/fetch_homepage.sh
 
 .PHONY: fetch_collections
