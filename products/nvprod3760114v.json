@@ -1,0 +1,1240 @@
+{
+  "model": [
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/1AAGS7/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod3760114v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/1AAGS7"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/1AAGS7/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod3760114v/1AAGS7/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ブルー",
+      "@type": "ProductModel",
+      "identifierKey": "12b446317befdd7be209732648a101ed",
+      "name": "ショートスリーブシャツデニムシャツ",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 183700
+        },
+        "@type": "Offer",
+        "price": "¥183,700"
+      },
+      "disambiguatingDescription": "ややボクシーに仕立てたショートスリーブのデニムシャツ。今シーズンならではのダイヤモンド･ダミエ パターンを抜き染めの技法であしらいました。ダイヤモンドのいくつかにさりげなく組み込んだ「Louis Vuitton」シグネチャーも魅力です。隠しスナップボタンで開閉するスタイルが、グラフィカルなアイテムにシンプルな印象に。<p>ご不明な点がございましたら、クライアントサービスまでお気軽にお問合せください。専任のクライアントアドバイザーが、素材やサイズなどの製品詳細、モデル着用イメージや関連アイテムのご案内など、お客様のご要望に合わせたスタイリング・アドバイスをご提供いたします。</p><p>また、サイズ違いなどによる返品・交換のご相談も承ります。詳細は<a href=\"https://jp.louisvuitton.com/jpn-jp/legal-privacy\"><b>こちら。</b></a></p>",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ショートスリーブシャツデニムシャツ-プレタポルテ-洋服--HNS76WPQ2650_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ショートスリーブシャツデニムシャツ-プレタポルテ-洋服--HNS76WPQ2650_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ショートスリーブシャツデニムシャツ-プレタポルテ-洋服--HNS76WPQ2650_PM1_Back view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Back view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/short-sleeved-denim-shirt-nvprod3760114v",
+      "highEndTemplate": false,
+      "sizeDisplayName": "XS",
+      "productId": "nvprod3760114v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-RTW-650_indigo.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>本体：コットン 98%、ポリウレタン 2%</li><li>レギュラーフィット</li><li>フランス製</li><li>REF：HNS76WPQ2</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z05"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Ready_To_Wear_Men"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-t18ui4cq",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/ready-to-wear/_/N-t1b9f3zb",
+          "alternateName": "ready-to-wear",
+          "name": "プレタポルテ(洋服)",
+          "identifier": "m-readytowear"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/ready-to-wear/shirts/_/N-t1wtp7cj",
+          "alternateName": "shirts",
+          "name": "メンズ シャツ",
+          "identifier": "m-shirts-mrtw"
+        }
+      ],
+      "disclaimers": {
+        "value": "shipping_warning_bo",
+        "popInContent": "global_backorder_info_popin_content",
+        "popInTitle": "global_backorder_info_popin_title"
+      },
+      "color": "Indigo",
+      "@context": "http://schema.org",
+      "identifier": "1AAGS7"
+    },
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/1AAGS8/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod3760114v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/1AAGS8"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/1AAGS8/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod3760114v/1AAGS8/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ブルー",
+      "@type": "ProductModel",
+      "identifierKey": "cb8fe1b27c1e4c9e7b69a098b7053c38",
+      "name": "ショートスリーブシャツデニムシャツ",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 183700
+        },
+        "@type": "Offer",
+        "price": "¥183,700"
+      },
+      "disambiguatingDescription": "ややボクシーに仕立てたショートスリーブのデニムシャツ。今シーズンならではのダイヤモンド･ダミエ パターンを抜き染めの技法であしらいました。ダイヤモンドのいくつかにさりげなく組み込んだ「Louis Vuitton」シグネチャーも魅力です。隠しスナップボタンで開閉するスタイルが、グラフィカルなアイテムにシンプルな印象に。<p>ご不明な点がございましたら、クライアントサービスまでお気軽にお問合せください。専任のクライアントアドバイザーが、素材やサイズなどの製品詳細、モデル着用イメージや関連アイテムのご案内など、お客様のご要望に合わせたスタイリング・アドバイスをご提供いたします。</p><p>また、サイズ違いなどによる返品・交換のご相談も承ります。詳細は<a href=\"https://jp.louisvuitton.com/jpn-jp/legal-privacy\"><b>こちら。</b></a></p>",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ショートスリーブシャツデニムシャツ-プレタポルテ-洋服--HNS76WPQ2650_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ショートスリーブシャツデニムシャツ-プレタポルテ-洋服--HNS76WPQ2650_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ショートスリーブシャツデニムシャツ-プレタポルテ-洋服--HNS76WPQ2650_PM1_Back view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Back view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/short-sleeved-denim-shirt-nvprod3760114v",
+      "highEndTemplate": false,
+      "sizeDisplayName": "S0",
+      "productId": "nvprod3760114v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-RTW-650_indigo.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>本体：コットン 98%、ポリウレタン 2%</li><li>レギュラーフィット</li><li>フランス製</li><li>REF：HNS76WPQ2</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z05"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Ready_To_Wear_Men"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-t18ui4cq",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/ready-to-wear/_/N-t1b9f3zb",
+          "alternateName": "ready-to-wear",
+          "name": "プレタポルテ(洋服)",
+          "identifier": "m-readytowear"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/ready-to-wear/shirts/_/N-t1wtp7cj",
+          "alternateName": "shirts",
+          "name": "メンズ シャツ",
+          "identifier": "m-shirts-mrtw"
+        }
+      ],
+      "disclaimers": {
+        "value": "shipping_warning_bo",
+        "popInContent": "global_backorder_info_popin_content",
+        "popInTitle": "global_backorder_info_popin_title"
+      },
+      "color": "Indigo",
+      "@context": "http://schema.org",
+      "identifier": "1AAGS8"
+    },
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/1AAGS9/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod3760114v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/1AAGS9"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/1AAGS9/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod3760114v/1AAGS9/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ブルー",
+      "@type": "ProductModel",
+      "identifierKey": "ee1ea7a66d707b4358c911b0ecc828c2",
+      "name": "ショートスリーブシャツデニムシャツ",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 183700
+        },
+        "@type": "Offer",
+        "price": "¥183,700"
+      },
+      "disambiguatingDescription": "ややボクシーに仕立てたショートスリーブのデニムシャツ。今シーズンならではのダイヤモンド･ダミエ パターンを抜き染めの技法であしらいました。ダイヤモンドのいくつかにさりげなく組み込んだ「Louis Vuitton」シグネチャーも魅力です。隠しスナップボタンで開閉するスタイルが、グラフィカルなアイテムにシンプルな印象に。<p>ご不明な点がございましたら、クライアントサービスまでお気軽にお問合せください。専任のクライアントアドバイザーが、素材やサイズなどの製品詳細、モデル着用イメージや関連アイテムのご案内など、お客様のご要望に合わせたスタイリング・アドバイスをご提供いたします。</p><p>また、サイズ違いなどによる返品・交換のご相談も承ります。詳細は<a href=\"https://jp.louisvuitton.com/jpn-jp/legal-privacy\"><b>こちら。</b></a></p>",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ショートスリーブシャツデニムシャツ-プレタポルテ-洋服--HNS76WPQ2650_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ショートスリーブシャツデニムシャツ-プレタポルテ-洋服--HNS76WPQ2650_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ショートスリーブシャツデニムシャツ-プレタポルテ-洋服--HNS76WPQ2650_PM1_Back view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Back view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/short-sleeved-denim-shirt-nvprod3760114v",
+      "highEndTemplate": false,
+      "sizeDisplayName": "M0",
+      "productId": "nvprod3760114v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-RTW-650_indigo.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>本体：コットン 98%、ポリウレタン 2%</li><li>レギュラーフィット</li><li>フランス製</li><li>REF：HNS76WPQ2</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z05"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Ready_To_Wear_Men"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-t18ui4cq",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/ready-to-wear/_/N-t1b9f3zb",
+          "alternateName": "ready-to-wear",
+          "name": "プレタポルテ(洋服)",
+          "identifier": "m-readytowear"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/ready-to-wear/shirts/_/N-t1wtp7cj",
+          "alternateName": "shirts",
+          "name": "メンズ シャツ",
+          "identifier": "m-shirts-mrtw"
+        }
+      ],
+      "disclaimers": {
+        "value": "shipping_warning_bo",
+        "popInContent": "global_backorder_info_popin_content",
+        "popInTitle": "global_backorder_info_popin_title"
+      },
+      "color": "Indigo",
+      "@context": "http://schema.org",
+      "identifier": "1AAGS9"
+    },
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/1AAGSA/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod3760114v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/1AAGSA"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/1AAGSA/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod3760114v/1AAGSA/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ブルー",
+      "@type": "ProductModel",
+      "identifierKey": "56e3d9e180388f0c2363d4c796134c3d",
+      "name": "ショートスリーブシャツデニムシャツ",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 183700
+        },
+        "@type": "Offer",
+        "price": "¥183,700"
+      },
+      "disambiguatingDescription": "ややボクシーに仕立てたショートスリーブのデニムシャツ。今シーズンならではのダイヤモンド･ダミエ パターンを抜き染めの技法であしらいました。ダイヤモンドのいくつかにさりげなく組み込んだ「Louis Vuitton」シグネチャーも魅力です。隠しスナップボタンで開閉するスタイルが、グラフィカルなアイテムにシンプルな印象に。<p>ご不明な点がございましたら、クライアントサービスまでお気軽にお問合せください。専任のクライアントアドバイザーが、素材やサイズなどの製品詳細、モデル着用イメージや関連アイテムのご案内など、お客様のご要望に合わせたスタイリング・アドバイスをご提供いたします。</p><p>また、サイズ違いなどによる返品・交換のご相談も承ります。詳細は<a href=\"https://jp.louisvuitton.com/jpn-jp/legal-privacy\"><b>こちら。</b></a></p>",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ショートスリーブシャツデニムシャツ-プレタポルテ-洋服--HNS76WPQ2650_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ショートスリーブシャツデニムシャツ-プレタポルテ-洋服--HNS76WPQ2650_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ショートスリーブシャツデニムシャツ-プレタポルテ-洋服--HNS76WPQ2650_PM1_Back view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Back view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/short-sleeved-denim-shirt-nvprod3760114v",
+      "highEndTemplate": false,
+      "sizeDisplayName": "L0",
+      "productId": "nvprod3760114v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-RTW-650_indigo.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>本体：コットン 98%、ポリウレタン 2%</li><li>レギュラーフィット</li><li>フランス製</li><li>REF：HNS76WPQ2</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z05"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Ready_To_Wear_Men"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-t18ui4cq",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/ready-to-wear/_/N-t1b9f3zb",
+          "alternateName": "ready-to-wear",
+          "name": "プレタポルテ(洋服)",
+          "identifier": "m-readytowear"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/ready-to-wear/shirts/_/N-t1wtp7cj",
+          "alternateName": "shirts",
+          "name": "メンズ シャツ",
+          "identifier": "m-shirts-mrtw"
+        }
+      ],
+      "disclaimers": {
+        "value": "shipping_warning_bo",
+        "popInContent": "global_backorder_info_popin_content",
+        "popInTitle": "global_backorder_info_popin_title"
+      },
+      "color": "Indigo",
+      "@context": "http://schema.org",
+      "identifier": "1AAGSA"
+    },
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/1AAGSB/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod3760114v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/1AAGSB"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/1AAGSB/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod3760114v/1AAGSB/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ブルー",
+      "@type": "ProductModel",
+      "identifierKey": "85ca57ec731242374326fb28d5ce4e22",
+      "name": "ショートスリーブシャツデニムシャツ",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 183700
+        },
+        "@type": "Offer",
+        "price": "¥183,700"
+      },
+      "disambiguatingDescription": "ややボクシーに仕立てたショートスリーブのデニムシャツ。今シーズンならではのダイヤモンド･ダミエ パターンを抜き染めの技法であしらいました。ダイヤモンドのいくつかにさりげなく組み込んだ「Louis Vuitton」シグネチャーも魅力です。隠しスナップボタンで開閉するスタイルが、グラフィカルなアイテムにシンプルな印象に。<p>ご不明な点がございましたら、クライアントサービスまでお気軽にお問合せください。専任のクライアントアドバイザーが、素材やサイズなどの製品詳細、モデル着用イメージや関連アイテムのご案内など、お客様のご要望に合わせたスタイリング・アドバイスをご提供いたします。</p><p>また、サイズ違いなどによる返品・交換のご相談も承ります。詳細は<a href=\"https://jp.louisvuitton.com/jpn-jp/legal-privacy\"><b>こちら。</b></a></p>",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ショートスリーブシャツデニムシャツ-プレタポルテ-洋服--HNS76WPQ2650_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ショートスリーブシャツデニムシャツ-プレタポルテ-洋服--HNS76WPQ2650_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ショートスリーブシャツデニムシャツ-プレタポルテ-洋服--HNS76WPQ2650_PM1_Back view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Back view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/short-sleeved-denim-shirt-nvprod3760114v",
+      "highEndTemplate": false,
+      "sizeDisplayName": "XL",
+      "productId": "nvprod3760114v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-RTW-650_indigo.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>本体：コットン 98%、ポリウレタン 2%</li><li>レギュラーフィット</li><li>フランス製</li><li>REF：HNS76WPQ2</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z05"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Ready_To_Wear_Men"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-t18ui4cq",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/ready-to-wear/_/N-t1b9f3zb",
+          "alternateName": "ready-to-wear",
+          "name": "プレタポルテ(洋服)",
+          "identifier": "m-readytowear"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/ready-to-wear/shirts/_/N-t1wtp7cj",
+          "alternateName": "shirts",
+          "name": "メンズ シャツ",
+          "identifier": "m-shirts-mrtw"
+        }
+      ],
+      "disclaimers": {
+        "value": "shipping_warning_bo",
+        "popInContent": "global_backorder_info_popin_content",
+        "popInTitle": "global_backorder_info_popin_title"
+      },
+      "color": "Indigo",
+      "@context": "http://schema.org",
+      "identifier": "1AAGSB"
+    },
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/1AAGSC/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod3760114v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/1AAGSC"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/1AAGSC/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod3760114v/1AAGSC/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ブルー",
+      "@type": "ProductModel",
+      "identifierKey": "bb4e92e7484355cdfc78403df7f956c6",
+      "name": "ショートスリーブシャツデニムシャツ",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 183700
+        },
+        "@type": "Offer",
+        "price": "¥183,700"
+      },
+      "disambiguatingDescription": "ややボクシーに仕立てたショートスリーブのデニムシャツ。今シーズンならではのダイヤモンド･ダミエ パターンを抜き染めの技法であしらいました。ダイヤモンドのいくつかにさりげなく組み込んだ「Louis Vuitton」シグネチャーも魅力です。隠しスナップボタンで開閉するスタイルが、グラフィカルなアイテムにシンプルな印象に。<p>ご不明な点がございましたら、クライアントサービスまでお気軽にお問合せください。専任のクライアントアドバイザーが、素材やサイズなどの製品詳細、モデル着用イメージや関連アイテムのご案内など、お客様のご要望に合わせたスタイリング・アドバイスをご提供いたします。</p><p>また、サイズ違いなどによる返品・交換のご相談も承ります。詳細は<a href=\"https://jp.louisvuitton.com/jpn-jp/legal-privacy\"><b>こちら。</b></a></p>",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ショートスリーブシャツデニムシャツ-プレタポルテ-洋服--HNS76WPQ2650_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ショートスリーブシャツデニムシャツ-プレタポルテ-洋服--HNS76WPQ2650_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ショートスリーブシャツデニムシャツ-プレタポルテ-洋服--HNS76WPQ2650_PM1_Back view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Back view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/short-sleeved-denim-shirt-nvprod3760114v",
+      "highEndTemplate": false,
+      "sizeDisplayName": "3L",
+      "productId": "nvprod3760114v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-RTW-650_indigo.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>本体：コットン 98%、ポリウレタン 2%</li><li>レギュラーフィット</li><li>フランス製</li><li>REF：HNS76WPQ2</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z05"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Ready_To_Wear_Men"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-t18ui4cq",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/ready-to-wear/_/N-t1b9f3zb",
+          "alternateName": "ready-to-wear",
+          "name": "プレタポルテ(洋服)",
+          "identifier": "m-readytowear"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/ready-to-wear/shirts/_/N-t1wtp7cj",
+          "alternateName": "shirts",
+          "name": "メンズ シャツ",
+          "identifier": "m-shirts-mrtw"
+        }
+      ],
+      "disclaimers": {
+        "value": "shipping_warning_bo",
+        "popInContent": "global_backorder_info_popin_content",
+        "popInTitle": "global_backorder_info_popin_title"
+      },
+      "color": "Indigo",
+      "@context": "http://schema.org",
+      "identifier": "1AAGSC"
+    },
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/1AAGSD/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod3760114v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/1AAGSD"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/1AAGSD/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod3760114v/1AAGSD/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ブルー",
+      "@type": "ProductModel",
+      "identifierKey": "5b45c42bd8533f4a965607e62e2de1e0",
+      "name": "ショートスリーブシャツデニムシャツ",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 183700
+        },
+        "@type": "Offer",
+        "price": "¥183,700"
+      },
+      "disambiguatingDescription": "ややボクシーに仕立てたショートスリーブのデニムシャツ。今シーズンならではのダイヤモンド･ダミエ パターンを抜き染めの技法であしらいました。ダイヤモンドのいくつかにさりげなく組み込んだ「Louis Vuitton」シグネチャーも魅力です。隠しスナップボタンで開閉するスタイルが、グラフィカルなアイテムにシンプルな印象に。<p>ご不明な点がございましたら、クライアントサービスまでお気軽にお問合せください。専任のクライアントアドバイザーが、素材やサイズなどの製品詳細、モデル着用イメージや関連アイテムのご案内など、お客様のご要望に合わせたスタイリング・アドバイスをご提供いたします。</p><p>また、サイズ違いなどによる返品・交換のご相談も承ります。詳細は<a href=\"https://jp.louisvuitton.com/jpn-jp/legal-privacy\"><b>こちら。</b></a></p>",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ショートスリーブシャツデニムシャツ-プレタポルテ-洋服--HNS76WPQ2650_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ショートスリーブシャツデニムシャツ-プレタポルテ-洋服--HNS76WPQ2650_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ショートスリーブシャツデニムシャツ-プレタポルテ-洋服--HNS76WPQ2650_PM1_Back view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Back view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/short-sleeved-denim-shirt-nvprod3760114v",
+      "highEndTemplate": false,
+      "sizeDisplayName": "4L",
+      "productId": "nvprod3760114v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-RTW-650_indigo.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>本体：コットン 98%、ポリウレタン 2%</li><li>レギュラーフィット</li><li>フランス製</li><li>REF：HNS76WPQ2</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z05"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Ready_To_Wear_Men"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "360ViewEnabled",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-t18ui4cq",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/ready-to-wear/_/N-t1b9f3zb",
+          "alternateName": "ready-to-wear",
+          "name": "プレタポルテ(洋服)",
+          "identifier": "m-readytowear"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/ready-to-wear/shirts/_/N-t1wtp7cj",
+          "alternateName": "shirts",
+          "name": "メンズ シャツ",
+          "identifier": "m-shirts-mrtw"
+        }
+      ],
+      "disclaimers": {
+        "value": "shipping_warning_bo",
+        "popInContent": "global_backorder_info_popin_content",
+        "popInTitle": "global_backorder_info_popin_title"
+      },
+      "color": "Indigo",
+      "@context": "http://schema.org",
+      "identifier": "1AAGSD"
+    }
+  ],
+  "panelInformations": [
+    {
+      "@type": "ProductCare",
+      "title": "素材とお手入れ方法、修理",
+      "description": "<ul>\n<li>弱流でドライクリーニング可</li>\n<li>ドライクリーニングの際は、裏返してネットに入れてください</li>\n<li>アイロン掛けの際は、裏返しにしてあて布を使用してください</li>\n</ul>",
+      "introduction": "<div class=\"popinHeader uppercase\">本製品のお手入れに際しては、次の取扱い表示をご確認いただき、末永くご愛用くださいますようお願い申しあげます。</div>"
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "/api/catalog/jpn-jp/product/nvprod3760114v"
+    },
+    "push": {
+      "href": "/api/catalog/jpn-jp/product-push/nvprod3760114v"
+    },
+    "care-link": {
+      "href": "/api/catalog/jpn-jp/care-link/nvprod3760114v"
+    },
+    "size-guide": {
+      "href": "/api/catalog/jpn-jp/size-guide/nvprod3760114v"
+    },
+    "availability": {
+      "href": "/api/catalog/jpn-jp/availability/nvprod3760114v"
+    }
+  },
+  "@type": "Product",
+  "sku": "1AAGS9",
+  "isSimilarTo": [],
+  "productTips": [],
+  "url": "/jpn-jp/products/short-sleeved-denim-shirt-nvprod3760114v",
+  "category": [
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/_/N-t18ui4cq",
+      "alternateName": "men",
+      "name": "メンズ",
+      "identifier": "homme"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/ready-to-wear/_/N-t1b9f3zb",
+      "alternateName": "ready-to-wear",
+      "name": "プレタポルテ(洋服)",
+      "identifier": "m-readytowear"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/ready-to-wear/shirts/_/N-t1wtp7cj",
+      "alternateName": "shirts",
+      "name": "メンズ シャツ",
+      "identifier": "m-shirts-mrtw"
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "hidePrice",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "subType",
+      "value": "product"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "sizeGuide",
+      "value": true
+    }
+  ],
+  "name": "ショートスリーブシャツデニムシャツ",
+  "isRelatedTo": [],
+  "@context": "http://schema.org",
+  "identifier": "nvprod3760114v"
+}
