@@ -7,7 +7,8 @@ RUN apt update && apt install -y \
     htop \
     jq \
     gcc \
-    make
+    make \
+    sqlite3
 
 RUN curl -fsSL https://get.docker.com | sh
 
