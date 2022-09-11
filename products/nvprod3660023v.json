@@ -1,0 +1,595 @@
+{
+  "model": [
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/M0571U/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod3660023v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/M0571U"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/M0571U/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod3660023v/M0571U/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ピンク",
+      "@type": "ProductModel",
+      "identifierKey": "77c27dc921be36fc7fa372018ca728ee",
+      "name": "サンチュール・LV イニシャル 30MM リバーシブル",
+      "mainMaterial2": "COATED CANVAS",
+      "width": {
+        "@type": "QuantitativeValue",
+        "value": 30,
+        "unitText": "cm"
+      },
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 68200
+        },
+        "@type": "Offer",
+        "price": "¥68,200"
+      },
+      "disambiguatingDescription": "片面に上品なパステルピンク、もう片面にはシグネチャーであるダミエ･キャンバスをあしらった「サンチュール･LV イニシャル 30MM リバーシブル」。多用途にお使いいただけるステートメントアイテムです。柔らかいカーフレザーを使用したスリムなベルトは、メゾンのアイコニックなバッグと相性抜群。LV イニシャルのメタルバックルが、タイムレスなシルエットを完成させます。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-サンチュール・lv-イニシャル-30mm-リバーシブル-ダミエ・アズール-新作アクセサリー--M0571U_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-サンチュール・lv-イニシャル-30mm-リバーシブル-ダミエ・アズール-新作アクセサリー--M0571_PM1_Worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Worn view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-サンチュール・lv-イニシャル-30mm-リバーシブル-ダミエ・アズール-新作アクセサリー--M0571_PM1_Cropped worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Cropped worn view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/lv-initiales-30mm-reversible-belt-damier-azur-canvas-nvprod3660023v",
+      "material": "DAMIER AZUR",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 90,
+        "unitText": "cm"
+      },
+      "highEndTemplate": false,
+      "sizeDisplayName": "90 CM",
+      "productId": "nvprod3660023v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>幅：30 mm</li><li>素材：レザー（皮革の種類：牛革）、ダミエ・キャンバス</li><li>バックル金具（色：ポシッリュ仕上げのゴールド）</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories;Sunglasses"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/_/N-tveguxb",
+          "alternateName": "women",
+          "name": "ウィメンズ",
+          "identifier": "femme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/accessories/_/N-toxp7l2",
+          "alternateName": "accessories",
+          "name": "アクセサリー",
+          "identifier": "w-category-cat10155"
+        },
+        {
+          "@type": "Thing",
+          "url": "",
+          "alternateName": "new-this-season",
+          "name": "新作アクセサリー",
+          "identifier": "nvcat1280022v"
+        }
+      ],
+      "disclaimers": {
+        "value": "shipping_warning_bo",
+        "popInContent": "global_backorder_info_popin_content",
+        "popInTitle": "global_backorder_info_popin_title"
+      },
+      "color": "DAMIER AZUR ROSE",
+      "@context": "http://schema.org",
+      "identifier": "M0571U"
+    },
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/M0571V/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod3660023v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/M0571V"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/M0571V/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod3660023v/M0571V/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ピンク",
+      "@type": "ProductModel",
+      "identifierKey": "a0ebfd59c2535b7a36d9f631374838b8",
+      "name": "サンチュール・LV イニシャル 30MM リバーシブル",
+      "mainMaterial2": "COATED CANVAS",
+      "width": {
+        "@type": "QuantitativeValue",
+        "value": 30,
+        "unitText": "cm"
+      },
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 68200
+        },
+        "@type": "Offer",
+        "price": "¥68,200"
+      },
+      "disambiguatingDescription": "片面に上品なパステルピンク、もう片面にはシグネチャーであるダミエ･キャンバスをあしらった「サンチュール･LV イニシャル 30MM リバーシブル」。多用途にお使いいただけるステートメントアイテムです。柔らかいカーフレザーを使用したスリムなベルトは、メゾンのアイコニックなバッグと相性抜群。LV イニシャルのメタルバックルが、タイムレスなシルエットを完成させます。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-サンチュール・lv-イニシャル-30mm-リバーシブル-ダミエ・アズール-新作アクセサリー--M0571V_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-サンチュール・lv-イニシャル-30mm-リバーシブル-ダミエ・アズール-新作アクセサリー--M0571_PM1_Worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Worn view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-サンチュール・lv-イニシャル-30mm-リバーシブル-ダミエ・アズール-新作アクセサリー--M0571_PM1_Cropped worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Cropped worn view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/lv-initiales-30mm-reversible-belt-damier-azur-canvas-nvprod3660023v",
+      "material": "DAMIER AZUR",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 85,
+        "unitText": "cm"
+      },
+      "highEndTemplate": false,
+      "sizeDisplayName": "85 CM",
+      "productId": "nvprod3660023v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>幅：30 mm</li><li>素材：レザー（皮革の種類：牛革）、ダミエ・キャンバス</li><li>バックル金具（色：ポシッリュ仕上げのゴールド）</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories;Sunglasses"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/_/N-tveguxb",
+          "alternateName": "women",
+          "name": "ウィメンズ",
+          "identifier": "femme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/accessories/_/N-toxp7l2",
+          "alternateName": "accessories",
+          "name": "アクセサリー",
+          "identifier": "w-category-cat10155"
+        },
+        {
+          "@type": "Thing",
+          "url": "",
+          "alternateName": "new-this-season",
+          "name": "新作アクセサリー",
+          "identifier": "nvcat1280022v"
+        }
+      ],
+      "disclaimers": {
+        "value": "shipping_warning_bo",
+        "popInContent": "global_backorder_info_popin_content",
+        "popInTitle": "global_backorder_info_popin_title"
+      },
+      "color": "DAMIER AZUR ROSE",
+      "@context": "http://schema.org",
+      "identifier": "M0571V"
+    },
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/M0571W/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod3660023v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/M0571W"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/M0571W/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod3660023v/M0571W/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ピンク",
+      "@type": "ProductModel",
+      "identifierKey": "862aa225c7c6307f237457fb465df76f",
+      "name": "サンチュール・LV イニシャル 30MM リバーシブル",
+      "mainMaterial2": "COATED CANVAS",
+      "width": {
+        "@type": "QuantitativeValue",
+        "value": 30,
+        "unitText": "cm"
+      },
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 68200
+        },
+        "@type": "Offer",
+        "price": "¥68,200"
+      },
+      "disambiguatingDescription": "片面に上品なパステルピンク、もう片面にはシグネチャーであるダミエ･キャンバスをあしらった「サンチュール･LV イニシャル 30MM リバーシブル」。多用途にお使いいただけるステートメントアイテムです。柔らかいカーフレザーを使用したスリムなベルトは、メゾンのアイコニックなバッグと相性抜群。LV イニシャルのメタルバックルが、タイムレスなシルエットを完成させます。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-サンチュール・lv-イニシャル-30mm-リバーシブル-ダミエ・アズール-新作アクセサリー--M0571W_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-サンチュール・lv-イニシャル-30mm-リバーシブル-ダミエ・アズール-新作アクセサリー--M0571_PM1_Worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Worn view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-サンチュール・lv-イニシャル-30mm-リバーシブル-ダミエ・アズール-新作アクセサリー--M0571_PM1_Cropped worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Cropped worn view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/lv-initiales-30mm-reversible-belt-damier-azur-canvas-nvprod3660023v",
+      "material": "DAMIER AZUR",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 80,
+        "unitText": "cm"
+      },
+      "highEndTemplate": false,
+      "sizeDisplayName": "80 CM",
+      "productId": "nvprod3660023v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>幅：30 mm</li><li>素材：レザー（皮革の種類：牛革）、ダミエ・キャンバス</li><li>バックル金具（色：ポシッリュ仕上げのゴールド）</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories;Sunglasses"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/_/N-tveguxb",
+          "alternateName": "women",
+          "name": "ウィメンズ",
+          "identifier": "femme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/accessories/_/N-toxp7l2",
+          "alternateName": "accessories",
+          "name": "アクセサリー",
+          "identifier": "w-category-cat10155"
+        },
+        {
+          "@type": "Thing",
+          "url": "",
+          "alternateName": "new-this-season",
+          "name": "新作アクセサリー",
+          "identifier": "nvcat1280022v"
+        }
+      ],
+      "disclaimers": {
+        "value": "shipping_warning_bo",
+        "popInContent": "global_backorder_info_popin_content",
+        "popInTitle": "global_backorder_info_popin_title"
+      },
+      "color": "DAMIER AZUR ROSE",
+      "@context": "http://schema.org",
+      "identifier": "M0571W"
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "/api/catalog/jpn-jp/product/nvprod3660023v"
+    },
+    "push": {
+      "href": "/api/catalog/jpn-jp/product-push/nvprod3660023v"
+    },
+    "care-link": {
+      "href": "/api/catalog/jpn-jp/care-link/nvprod3660023v"
+    },
+    "size-guide": {
+      "href": "/api/catalog/jpn-jp/size-guide/nvprod3660023v"
+    },
+    "availability": {
+      "href": "/api/catalog/jpn-jp/availability/nvprod3660023v"
+    }
+  },
+  "@type": "Product",
+  "sku": "M0571U",
+  "isSimilarTo": [],
+  "productTips": [],
+  "url": "/jpn-jp/products/lv-initiales-30mm-reversible-belt-damier-azur-canvas-nvprod3660023v",
+  "material": "ダミエ・アズール",
+  "category": [
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/women/_/N-tveguxb",
+      "alternateName": "women",
+      "name": "ウィメンズ",
+      "identifier": "femme"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/women/accessories/_/N-toxp7l2",
+      "alternateName": "accessories",
+      "name": "アクセサリー",
+      "identifier": "w-category-cat10155"
+    },
+    {
+      "@type": "Thing",
+      "url": "",
+      "alternateName": "new-this-season",
+      "name": "新作アクセサリー",
+      "identifier": "nvcat1280022v"
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "hidePrice",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "subType",
+      "value": "product"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "materialIconURL",
+      "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--AEL-LG-D03_damier_azur.jpg"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "sizeGuide",
+      "value": true
+    }
+  ],
+  "name": "サンチュール・LV イニシャル 30MM リバーシブル",
+  "isRelatedTo": [],
+  "@context": "http://schema.org",
+  "identifier": "nvprod3660023v"
+}
