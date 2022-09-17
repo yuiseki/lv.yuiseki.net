@@ -1,0 +1,438 @@
+{
+  "model": [
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/Z1783E/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod3920093v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/Z1783E"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/Z1783E/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod3920093v/Z1783E/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "マロン",
+      "@type": "ProductModel",
+      "identifierKey": "1258548e73848cbbc0b695d139dec086",
+      "name": "サングラス LV グライド・ラウンド",
+      "mainMaterial2": "ACETATE",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 57200
+        },
+        "@type": "Offer",
+        "price": "¥57,200"
+      },
+      "disambiguatingDescription": "<p>「LV グライド」シリーズに新たに登場した「サングラス LV グライド･ラウンド」。エレガントなオーバルスタイルをアセテートで表現した、幅広いスタイリングをお楽しみいただける大胆かつシンプルなシルエットが魅力です。艶やかなメタル素材のヒンジにはLV イニシャルを刻印し、メゾン愛好家の心を掴むデザインに仕上げました。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-サングラス-lv-グライド・ラウンド-s00-メンズ-新作アクセサリー--Z1783E_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-サングラス-lv-グライド・ラウンド-s00-メンズ-新作アクセサリー--Z1783E_PM1_Closeup view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Closeup view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-サングラス-lv-グライド・ラウンド-s00-メンズ-新作アクセサリー--Z1783E_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-サングラス-lv-グライド・ラウンド-s00-メンズ-新作アクセサリー--Z1783E_PM1_Back view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Back view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/lv-glide-round-sunglasses-s00-nvprod3920093v",
+      "material": "ACETATE",
+      "highEndTemplate": false,
+      "sizeDisplayName": "E",
+      "productId": "nvprod3920093v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-ACC-9Z8_dark_brown.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>アセテートフレーム（色：ダークブラウン）</li><li>レンズ（色：グリーン）</li><li>ラウンドシェイプ</li><li>金具（色：シルバー）</li><li>ヒンジにLV イニシャルの刻印</li><li>可視光線透過率：12%</li><li>紫外線カット率：100%</li><li>フィルターカテゴリー：3</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "additionalDescription",
+          "value": "可視光線透過率とレンズフィルターカテゴリーの詳細は<a href=https://www.louisvuitton.com/documents/LensCategories/Sun_Lens_Technical_Focus_JAP target=\"_blank\"><b>こちら</b></a>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories;Sunglasses"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-t18ui4cq",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/accessories/_/N-t11ae5nz",
+          "alternateName": "accessories",
+          "name": "アクセサリー",
+          "identifier": "m-category-cat10052"
+        },
+        {
+          "@type": "Thing",
+          "url": "",
+          "alternateName": "new-this-season",
+          "name": "メンズ 新作アクセサリー",
+          "identifier": "nvcat1280021v"
+        }
+      ],
+      "disclaimers": {
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "color": "ダークブラウン",
+      "@context": "http://schema.org",
+      "identifier": "Z1783E"
+    },
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/Z1784E/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod3920093v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/Z1784E"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/Z1784E/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod3920093v/Z1784E/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ブラック",
+      "@type": "ProductModel",
+      "identifierKey": "7819920545f75e5077a1dbed106838fb",
+      "name": "サングラス LV グライド・ラウンド",
+      "mainMaterial2": "ACETATE",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 57200
+        },
+        "@type": "Offer",
+        "price": "¥57,200"
+      },
+      "disambiguatingDescription": "<p>「LV グライド」シリーズに新たに登場した「サングラス LV グライド･ラウンド」。エレガントなオーバルスタイルをアセテートで表現した、幅広いスタイリングをお楽しみいただける大胆かつシンプルなシルエットが魅力です。艶やかなメタル素材のヒンジにはLV イニシャルを刻印し、メゾン愛好家の心を掴むデザインに仕上げました。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-サングラス-lv-グライド・ラウンド-s00-メンズ-新作アクセサリー--Z1784E_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-サングラス-lv-グライド・ラウンド-s00-メンズ-新作アクセサリー--Z1784E_PM1_Worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Worn view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-サングラス-lv-グライド・ラウンド-s00-メンズ-新作アクセサリー--Z1784E_PM1_Closeup view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Closeup view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-サングラス-lv-グライド・ラウンド-s00-メンズ-新作アクセサリー--Z1784E_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-サングラス-lv-グライド・ラウンド-s00-メンズ-新作アクセサリー--Z1784E_PM1_Back view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Back view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-サングラス-lv-グライド・ラウンド-s00-メンズ-新作アクセサリー--Z1784E_PM1_Cropped worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Cropped worn view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/lv-glide-round-sunglasses-s00-nvprod3920093v",
+      "material": "ACETATE",
+      "highEndTemplate": false,
+      "sizeDisplayName": "E",
+      "productId": "nvprod3920093v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-ACC-93L_black_.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>アセテートフレーム（色：ブラック）</li><li>レンズ（色：ブラック）</li><li>ラウンドシェイプ</li><li>金具（色：シルバー）</li><li>ヒンジにLV イニシャルの刻印</li><li>可視光線透過率：12%</li><li>紫外線カット率：100%</li><li>フィルターカテゴリー：3</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "additionalDescription",
+          "value": "可視光線透過率とレンズフィルターカテゴリーの詳細は<a href=https://www.louisvuitton.com/documents/LensCategories/Sun_Lens_Technical_Focus_JAP target=\"_blank\"><b>こちら</b></a>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories;Sunglasses"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-t18ui4cq",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/accessories/_/N-t11ae5nz",
+          "alternateName": "accessories",
+          "name": "アクセサリー",
+          "identifier": "m-category-cat10052"
+        },
+        {
+          "@type": "Thing",
+          "url": "",
+          "alternateName": "new-this-season",
+          "name": "メンズ 新作アクセサリー",
+          "identifier": "nvcat1280021v"
+        }
+      ],
+      "disclaimers": {
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "color": "ノワール",
+      "@context": "http://schema.org",
+      "identifier": "Z1784E"
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "/api/catalog/jpn-jp/product/nvprod3920093v"
+    },
+    "push": {
+      "href": "/api/catalog/jpn-jp/product-push/nvprod3920093v"
+    },
+    "care-link": {
+      "href": "/api/catalog/jpn-jp/care-link/nvprod3920093v"
+    },
+    "availability": {
+      "href": "/api/catalog/jpn-jp/availability/nvprod3920093v"
+    }
+  },
+  "@type": "Product",
+  "sku": "Z1783E",
+  "isSimilarTo": [],
+  "productTips": [],
+  "url": "/jpn-jp/products/lv-glide-round-sunglasses-s00-nvprod3920093v",
+  "material": "NOT APPLICABLE ACC",
+  "category": [
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/_/N-t18ui4cq",
+      "alternateName": "men",
+      "name": "メンズ",
+      "identifier": "homme"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/accessories/_/N-t11ae5nz",
+      "alternateName": "accessories",
+      "name": "アクセサリー",
+      "identifier": "m-category-cat10052"
+    },
+    {
+      "@type": "Thing",
+      "url": "",
+      "alternateName": "new-this-season",
+      "name": "メンズ 新作アクセサリー",
+      "identifier": "nvcat1280021v"
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "hidePrice",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "subType",
+      "value": "product"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "sizeGuide",
+      "value": false
+    }
+  ],
+  "name": "サングラス LV グライド・ラウンド",
+  "isRelatedTo": [],
+  "@context": "http://schema.org",
+  "identifier": "nvprod3920093v"
+}
