@@ -1,19 +1,14 @@
 FROM ubuntu:22.04
 
-RUN apt update && apt install -y \
-    git \
-    curl \
-    vim \
-    htop \
-    jq \
-    gcc \
-    make \
-    sqlite3
-
-RUN curl -fsSL https://get.docker.com | sh
+RUN apt update
+RUN apt install -y git curl
+RUN apt install -y vim htop make jq
 
 RUN curl -Ls https://deb.nodesource.com/setup_18.x | bash
 RUN apt update && apt install -y nodejs
+RUN npm i -g npm
+
+RUN apt install -y gcc
 
 EXPOSE 30000
 EXPOSE 50000
@@ -32,6 +27,7 @@ RUN cargo install htmlq
 
 USER root
 ARG NONROOT_USER=user
+RUN curl -fsSL https://get.docker.com | sh
 RUN echo "#!/bin/sh\n\
     sudoIf() { if [ \"\$(id -u)\" -ne 0 ]; then sudo \"\$@\"; else \"\$@\"; fi }\n\
     SOCKET_GID=\$(stat -c '%g' /var/run/docker.sock) \n\
