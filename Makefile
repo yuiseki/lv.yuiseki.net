@@ -30,6 +30,7 @@ fetch_homepage:
 
 .PHONY: fetch_collections
 fetch_collections:
+	mkdir -p ./tmp/collections
 	bash ./scripts/fetch_collections.sh
 
 .PHONY: extract_product_id
