@@ -4,14 +4,14 @@
   "forwardPorts": [30000, 50000],
   "remoteUser": "user",
   "runArgs": ["--init"],
+  "overrideCommand": false,
+  "postCreateCommand": "npm ci",
   "mounts": [
     "source=/var/run/docker.sock,target=/var/run/docker.sock,type=bind"
   ],
-  "overrideCommand": false,
   "remoteEnv": {
     "LOCAL_WORKSPACE_FOLDER": "${localWorkspaceFolder}"
   },
-  "postCreateCommand": "npm ci",
   "customizations": {
     "vscode": {
       "settings": {
