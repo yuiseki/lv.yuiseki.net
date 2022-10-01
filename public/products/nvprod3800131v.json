@@ -1,0 +1,422 @@
+{
+  "model": [
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/M77928/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod3800131v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/M77928"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/M77928/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod3800131v/M77928/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ブラック",
+      "@type": "ProductModel",
+      "identifierKey": "0e536e8f332ca10cdb4e5ce12f661d91",
+      "height": {
+        "@type": "QuantitativeValue",
+        "value": 35,
+        "unitText": "cm"
+      },
+      "name": "エシャルプ・LV ヘッドライン",
+      "mainMaterial2": "WOOL",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 102300
+        },
+        "@type": "Offer",
+        "price": "¥102,300"
+      },
+      "disambiguatingDescription": "ラグジュアリーで柔らかなニットに精緻なLV シグネチャーなどのディテールをあしらった、メゾンのクラフツマンシップが光るマフラー「エシャルプ･LV ヘッドライン」。逆サイドのコーナーはモノグラム･フラワー モチーフの刺繍で彩り、エッジはコントラストカラーで仕上げました。寒い季節の装いをカジュアルかつエレガントに引き立てる、ウール100％のアイテムです。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-エシャルプ・lv-ヘッドライン-s00-新作アクセサリー--M77928_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-エシャルプ・lv-ヘッドライン-s00-新作アクセサリー--M77928_PM1_Closeup view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Closeup view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-エシャルプ・lv-ヘッドライン-s00-新作アクセサリー--M77928_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/lv-headline-scarf-s00-nvprod3800131v",
+      "material": "WOOL",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 200,
+        "unitText": "cm"
+      },
+      "highEndTemplate": false,
+      "productId": "nvprod3800131v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-SHO-980_noir.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>素材：ウール 100%</li><li>モノグラム・フラワー モチーフの刺繍</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories;Sunglasses"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/_/N-tveguxb",
+          "alternateName": "women",
+          "name": "ウィメンズ",
+          "identifier": "femme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/accessories/_/N-toxp7l2",
+          "alternateName": "accessories",
+          "name": "アクセサリー",
+          "identifier": "w-category-cat10155"
+        },
+        {
+          "@type": "Thing",
+          "url": "",
+          "alternateName": "new-this-season",
+          "name": "新作アクセサリー",
+          "identifier": "nvcat1280022v"
+        }
+      ],
+      "disclaimers": {
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "color": "ノワール",
+      "@context": "http://schema.org",
+      "identifier": "M77928"
+    },
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/M77927/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod3800131v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/M77927"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/M77927/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod3800131v/M77927/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "マロン",
+      "@type": "ProductModel",
+      "identifierKey": "275d9efb9f72861117e20a3209246b22",
+      "height": {
+        "@type": "QuantitativeValue",
+        "value": 35,
+        "unitText": "cm"
+      },
+      "name": "エシャルプ・LV ヘッドライン",
+      "mainMaterial2": "WOOL",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 102300
+        },
+        "@type": "Offer",
+        "price": "¥102,300"
+      },
+      "disambiguatingDescription": "ラグジュアリーで柔らかなニットに精緻なLV シグネチャーなどのディテールをあしらった、メゾンのクラフツマンシップが光るマフラー「エシャルプ･LV ヘッドライン」。逆サイドのコーナーはモノグラム･フラワー モチーフの刺繍で彩り、エッジはコントラストカラーで仕上げました。寒い季節の装いをカジュアルかつエレガントに引き立てる、ウール100％のアイテムです。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-エシャルプ・lv-ヘッドライン-s00-新作アクセサリー--M77927_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-エシャルプ・lv-ヘッドライン-s00-新作アクセサリー--M77927_PM1_Closeup view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Closeup view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-エシャルプ・lv-ヘッドライン-s00-新作アクセサリー--M77927_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/lv-headline-scarf-s00-nvprod3800131v",
+      "material": "WOOL",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 200,
+        "unitText": "cm"
+      },
+      "highEndTemplate": false,
+      "productId": "nvprod3800131v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-ACC-924_camel.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>素材：ウール 100%</li><li>モノグラム・フラワー モチーフの刺繍</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories;Sunglasses"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/_/N-tveguxb",
+          "alternateName": "women",
+          "name": "ウィメンズ",
+          "identifier": "femme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/accessories/_/N-toxp7l2",
+          "alternateName": "accessories",
+          "name": "アクセサリー",
+          "identifier": "w-category-cat10155"
+        },
+        {
+          "@type": "Thing",
+          "url": "",
+          "alternateName": "new-this-season",
+          "name": "新作アクセサリー",
+          "identifier": "nvcat1280022v"
+        }
+      ],
+      "disclaimers": {
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "color": "キャメル",
+      "@context": "http://schema.org",
+      "identifier": "M77927"
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "/api/catalog/jpn-jp/product/nvprod3800131v"
+    },
+    "push": {
+      "href": "/api/catalog/jpn-jp/product-push/nvprod3800131v"
+    },
+    "care-link": {
+      "href": "/api/catalog/jpn-jp/care-link/nvprod3800131v"
+    },
+    "availability": {
+      "href": "/api/catalog/jpn-jp/availability/nvprod3800131v"
+    }
+  },
+  "@type": "Product",
+  "sku": "M77928",
+  "isSimilarTo": [],
+  "productTips": [],
+  "url": "/jpn-jp/products/lv-headline-scarf-s00-nvprod3800131v",
+  "material": "NOT APPLICABLE ACC",
+  "category": [
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/women/_/N-tveguxb",
+      "alternateName": "women",
+      "name": "ウィメンズ",
+      "identifier": "femme"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/women/accessories/_/N-toxp7l2",
+      "alternateName": "accessories",
+      "name": "アクセサリー",
+      "identifier": "w-category-cat10155"
+    },
+    {
+      "@type": "Thing",
+      "url": "",
+      "alternateName": "new-this-season",
+      "name": "新作アクセサリー",
+      "identifier": "nvcat1280022v"
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "hidePrice",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "subType",
+      "value": "product"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "sizeGuide",
+      "value": false
+    }
+  ],
+  "name": "エシャルプ・LV ヘッドライン",
+  "isRelatedTo": [],
+  "@context": "http://schema.org",
+  "identifier": "nvprod3800131v"
+}

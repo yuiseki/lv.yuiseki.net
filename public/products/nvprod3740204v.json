@@ -1,0 +1,878 @@
+{
+  "model": [
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/M8106E/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod3740204v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/M8106E"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/M8106E/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod3740204v/M8106E/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "レッド",
+      "@type": "ProductModel",
+      "identifierKey": "82815caf83e4ef1a187f2d8f2b86c5de",
+      "name": "ブラスレ・LV アイコニック",
+      "mainMaterial2": "CALF",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 46200
+        },
+        "@type": "Offer",
+        "price": "¥46,200"
+      },
+      "disambiguatingDescription": "2022秋冬コレクションに相応しく、フレッシュな色使いで再解釈したブレスレット「ブラスレ･LV アイコニック」。LV イニシャルや、中心部にコントラストの効いたアクセントを配したモノグラム･フラワー モチーフのスタッズなど、目を引くメタルパーツをなめらかなレザーストラップにあしらったタイムレスなアクセサリーです。異なるカラーで施したライニングが、エレガントな雰囲気を演出します。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ブラスレ・lv-アイコニック-other-leathers-新作アクセサリー--M8106E_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/lv-iconic-leather-bracelet-other-leathers-nvprod3740204v",
+      "material": "CALF",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 19,
+        "unitText": "cm"
+      },
+      "highEndTemplate": false,
+      "sizeDisplayName": "19",
+      "productId": "nvprod3740204v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-RTW-506_rouge.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>ブレスレット</li><li>サイズ：19 cm</li><li>幅：1.2 cm</li><li>金具（色：ゴールド）</li><li>素材：レザー（皮革の種類：牛革）</li><li>LV イニシャル</li><li>モノグラム･フラワー モチーフ</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories;Sunglasses"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/_/N-tveguxb",
+          "alternateName": "women",
+          "name": "ウィメンズ",
+          "identifier": "femme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/accessories/_/N-toxp7l2",
+          "alternateName": "accessories",
+          "name": "アクセサリー",
+          "identifier": "w-category-cat10155"
+        },
+        {
+          "@type": "Thing",
+          "url": "",
+          "alternateName": "new-this-season",
+          "name": "新作アクセサリー",
+          "identifier": "nvcat1280022v"
+        }
+      ],
+      "disclaimers": {
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "color": "ルージュ",
+      "@context": "http://schema.org",
+      "identifier": "M8106E"
+    },
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/M8106F/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod3740204v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/M8106F"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/M8106F/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod3740204v/M8106F/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "レッド",
+      "@type": "ProductModel",
+      "identifierKey": "7e14cbbc04f726d67cd7d94ae80c4878",
+      "name": "ブラスレ・LV アイコニック",
+      "mainMaterial2": "CALF",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 46200
+        },
+        "@type": "Offer",
+        "price": "¥46,200"
+      },
+      "disambiguatingDescription": "2022秋冬コレクションに相応しく、フレッシュな色使いで再解釈したブレスレット「ブラスレ･LV アイコニック」。LV イニシャルや、中心部にコントラストの効いたアクセントを配したモノグラム･フラワー モチーフのスタッズなど、目を引くメタルパーツをなめらかなレザーストラップにあしらったタイムレスなアクセサリーです。異なるカラーで施したライニングが、エレガントな雰囲気を演出します。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ブラスレ・lv-アイコニック-other-leathers-新作アクセサリー--M8106F_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/lv-iconic-leather-bracelet-other-leathers-nvprod3740204v",
+      "material": "CALF",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 17,
+        "unitText": "cm"
+      },
+      "highEndTemplate": false,
+      "sizeDisplayName": "17",
+      "productId": "nvprod3740204v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-RTW-506_rouge.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>ブレスレット</li><li>サイズ：17 cm</li><li>幅：1.2 cm</li><li>金具（色：ゴールド）</li><li>素材：レザー（皮革の種類：牛革）</li><li>LV イニシャル</li><li>モノグラム･フラワー モチーフ</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories;Sunglasses"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/_/N-tveguxb",
+          "alternateName": "women",
+          "name": "ウィメンズ",
+          "identifier": "femme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/accessories/_/N-toxp7l2",
+          "alternateName": "accessories",
+          "name": "アクセサリー",
+          "identifier": "w-category-cat10155"
+        },
+        {
+          "@type": "Thing",
+          "url": "",
+          "alternateName": "new-this-season",
+          "name": "新作アクセサリー",
+          "identifier": "nvcat1280022v"
+        }
+      ],
+      "disclaimers": {
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "color": "ルージュ",
+      "@context": "http://schema.org",
+      "identifier": "M8106F"
+    },
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/M8104F/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod3740204v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/M8104F"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/M8104F/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod3740204v/M8104F/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ブルー",
+      "@type": "ProductModel",
+      "identifierKey": "81dcbbd29d529bb7c2633af75c7680d2",
+      "name": "ブラスレ・LV アイコニック",
+      "mainMaterial2": "CALF",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 46200
+        },
+        "@type": "Offer",
+        "price": "¥46,200"
+      },
+      "disambiguatingDescription": "2022秋冬コレクションに相応しく、フレッシュな色使いで再解釈したブレスレット「ブラスレ･LV アイコニック」。LV イニシャルや、中心部にコントラストの効いたアクセントを配したモノグラム･フラワー モチーフのスタッズなど、目を引くメタルパーツをなめらかなレザーストラップにあしらったタイムレスなアクセサリーです。異なるカラーで施したライニングが、エレガントな雰囲気を演出します。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ブラスレ・lv-アイコニック-other-leathers-新作アクセサリー--M8104F_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/lv-iconic-leather-bracelet-other-leathers-nvprod3740204v",
+      "material": "LEATHER",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 17,
+        "unitText": "cm"
+      },
+      "highEndTemplate": false,
+      "sizeDisplayName": "17",
+      "productId": "nvprod3740204v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-Bleu_Olympe.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>ブレスレット</li><li>サイズ：17 cm</li><li>幅：1.2 cm</li><li>金具（色：ゴールド）</li><li>素材：レザー（皮革の種類：牛革）</li><li>LV イニシャル</li><li>モノグラム･フラワー モチーフ</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories;Sunglasses"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/_/N-tveguxb",
+          "alternateName": "women",
+          "name": "ウィメンズ",
+          "identifier": "femme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/accessories/_/N-toxp7l2",
+          "alternateName": "accessories",
+          "name": "アクセサリー",
+          "identifier": "w-category-cat10155"
+        },
+        {
+          "@type": "Thing",
+          "url": "",
+          "alternateName": "new-this-season",
+          "name": "新作アクセサリー",
+          "identifier": "nvcat1280022v"
+        }
+      ],
+      "disclaimers": {
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "color": "ブルーオランプ",
+      "@context": "http://schema.org",
+      "identifier": "M8104F"
+    },
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/M8105E/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod3740204v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/M8105E"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/M8105E/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod3740204v/M8105E/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ベージュ",
+      "@type": "ProductModel",
+      "identifierKey": "8e7dc1783c8e221b4f446605b68d3767",
+      "name": "ブラスレ・LV アイコニック",
+      "mainMaterial2": "CALF",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 46200
+        },
+        "@type": "Offer",
+        "price": "¥46,200"
+      },
+      "disambiguatingDescription": "2022秋冬コレクションに相応しく、フレッシュな色使いで再解釈したブレスレット「ブラスレ･LV アイコニック」。LV イニシャルや、中心部にコントラストの効いたアクセントを配したモノグラム･フラワー モチーフのスタッズなど、目を引くメタルパーツをなめらかなレザーストラップにあしらったタイムレスなアクセサリーです。異なるカラーで施したライニングが、エレガントな雰囲気を演出します。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ブラスレ・lv-アイコニック-other-leathers-新作アクセサリー--M8105E_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/lv-iconic-leather-bracelet-other-leathers-nvprod3740204v",
+      "material": "CALF",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 19,
+        "unitText": "cm"
+      },
+      "highEndTemplate": false,
+      "sizeDisplayName": "19",
+      "productId": "nvprod3740204v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-LG-9GR_greige.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>ブレスレット</li><li>サイズ：19 cm</li><li>幅：1.2 cm</li><li>金具（色：ゴールド）</li><li>素材：レザー（皮革の種類：牛革）</li><li>LV イニシャル</li><li>モノグラム･フラワー モチーフ</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories;Sunglasses"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/_/N-tveguxb",
+          "alternateName": "women",
+          "name": "ウィメンズ",
+          "identifier": "femme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/accessories/_/N-toxp7l2",
+          "alternateName": "accessories",
+          "name": "アクセサリー",
+          "identifier": "w-category-cat10155"
+        },
+        {
+          "@type": "Thing",
+          "url": "",
+          "alternateName": "new-this-season",
+          "name": "新作アクセサリー",
+          "identifier": "nvcat1280022v"
+        }
+      ],
+      "disclaimers": {
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "color": "グレージュ",
+      "@context": "http://schema.org",
+      "identifier": "M8105E"
+    },
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/M8105F/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod3740204v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/M8105F"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/M8105F/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod3740204v/M8105F/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ベージュ",
+      "@type": "ProductModel",
+      "identifierKey": "0fd11507007918a2350868061bed6d3b",
+      "name": "ブラスレ・LV アイコニック",
+      "mainMaterial2": "CALF",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 46200
+        },
+        "@type": "Offer",
+        "price": "¥46,200"
+      },
+      "disambiguatingDescription": "2022秋冬コレクションに相応しく、フレッシュな色使いで再解釈したブレスレット「ブラスレ･LV アイコニック」。LV イニシャルや、中心部にコントラストの効いたアクセントを配したモノグラム･フラワー モチーフのスタッズなど、目を引くメタルパーツをなめらかなレザーストラップにあしらったタイムレスなアクセサリーです。異なるカラーで施したライニングが、エレガントな雰囲気を演出します。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ブラスレ・lv-アイコニック-other-leathers-新作アクセサリー--M8105F_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/lv-iconic-leather-bracelet-other-leathers-nvprod3740204v",
+      "material": "CALF",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 17,
+        "unitText": "cm"
+      },
+      "highEndTemplate": false,
+      "sizeDisplayName": "17",
+      "productId": "nvprod3740204v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-LG-9GR_greige.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>ブレスレット</li><li>サイズ：17 cm</li><li>幅：1.2 cm</li><li>金具（色：ゴールド）</li><li>素材：レザー（皮革の種類：牛革）</li><li>LV イニシャル</li><li>モノグラム･フラワー モチーフ</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories;Sunglasses"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/_/N-tveguxb",
+          "alternateName": "women",
+          "name": "ウィメンズ",
+          "identifier": "femme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/accessories/_/N-toxp7l2",
+          "alternateName": "accessories",
+          "name": "アクセサリー",
+          "identifier": "w-category-cat10155"
+        },
+        {
+          "@type": "Thing",
+          "url": "",
+          "alternateName": "new-this-season",
+          "name": "新作アクセサリー",
+          "identifier": "nvcat1280022v"
+        }
+      ],
+      "disclaimers": {
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "color": "グレージュ",
+      "@context": "http://schema.org",
+      "identifier": "M8105F"
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "/api/catalog/jpn-jp/product/nvprod3740204v"
+    },
+    "push": {
+      "href": "/api/catalog/jpn-jp/product-push/nvprod3740204v"
+    },
+    "care-link": {
+      "href": "/api/catalog/jpn-jp/care-link/nvprod3740204v"
+    },
+    "availability": {
+      "href": "/api/catalog/jpn-jp/availability/nvprod3740204v"
+    }
+  },
+  "@type": "Product",
+  "sku": "M8106E",
+  "isSimilarTo": [],
+  "productTips": [],
+  "url": "/jpn-jp/products/lv-iconic-leather-bracelet-other-leathers-nvprod3740204v",
+  "material": "Other Leathers",
+  "category": [
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/women/_/N-tveguxb",
+      "alternateName": "women",
+      "name": "ウィメンズ",
+      "identifier": "femme"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/women/accessories/_/N-toxp7l2",
+      "alternateName": "accessories",
+      "name": "アクセサリー",
+      "identifier": "w-category-cat10155"
+    },
+    {
+      "@type": "Thing",
+      "url": "",
+      "alternateName": "new-this-season",
+      "name": "新作アクセサリー",
+      "identifier": "nvcat1280022v"
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "hidePrice",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "subType",
+      "value": "product"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "materialIconURL",
+      "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MATAEL-LG-Other_Leathers.jpg"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "sizeGuide",
+      "value": false
+    }
+  ],
+  "name": "ブラスレ・LV アイコニック",
+  "isRelatedTo": [],
+  "@context": "http://schema.org",
+  "identifier": "nvprod3740204v"
+}
