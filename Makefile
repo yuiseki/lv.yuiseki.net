@@ -15,13 +15,17 @@ echo:
 clean:
 	rm ./tmp/homepage.html
 	rm ./tmp/collections.txt
+	rm ./tmp/collections_uniq.txt
 	rm ./tmp/collections/*
 
 tmp/homepage.html:
 	curl -s -o tmp/homepage.html -H "User-Agent: $(user_agent)" https://jp.louisvuitton.com/jpn-jp/homepage
+	curl -s -o tmp/sitemap.html -H "User-Agent: $(user_agent)" https://jp.louisvuitton.com/jpn-jp/sitemap
 
 tmp/collections.txt:
 	cat tmp/homepage.html | htmlq --attribute href a | grep "N-" | rev | cut -d '/' -f 1 | rev | sed -e 's/N-//' > tmp/collections.txt
+	cat tmp/sitemap.html | htmlq --attribute href a | grep "N-" | rev | cut -d '/' -f 1 | rev | sed -e 's/N-//' >> tmp/collections.txt
+	cat tmp/collections.txt | sort | uniq > tmp/collections_uniq.txt
 
 .PHONY: fetch_homepage
 fetch_homepage:

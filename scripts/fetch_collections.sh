@@ -1,6 +1,6 @@
 
 browser="User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36"
-collections=`cat ./tmp/collections.txt`
+collections=`cat ./tmp/collections_uniq.txt`
 
 IFS=$'\n'
 for collection in $collections; do
