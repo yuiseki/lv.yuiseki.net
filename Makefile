@@ -13,10 +13,10 @@ echo:
 	echo $(user_agent)
 
 clean:
-	rm ./tmp/homepage.html
-	rm ./tmp/collections.txt
-	rm ./tmp/collections_uniq.txt
-	rm ./tmp/collections/*
+	rm -f ./tmp/homepage.html
+	rm -f ./tmp/collections.txt
+	rm -f ./tmp/collections_uniq.txt
+	rm -f ./tmp/collections/*
 
 tmp/homepage.html:
 	curl -s -o tmp/homepage.html -H "User-Agent: $(user_agent)" https://jp.louisvuitton.com/jpn-jp/homepage
