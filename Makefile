@@ -1,6 +1,7 @@
 
 all: \
 	tmp/homepage.html \
+	tmp/sitemap.html \
 	tmp/collections.txt \
 	fetch_collections \
 	extract_product_id \
@@ -20,6 +21,8 @@ clean:
 
 tmp/homepage.html:
 	curl -s -o tmp/homepage.html -H "User-Agent: $(user_agent)" https://jp.louisvuitton.com/jpn-jp/homepage
+
+tmp/sitemap.html:
 	curl -s -o tmp/sitemap.html -H "User-Agent: $(user_agent)" https://jp.louisvuitton.com/jpn-jp/sitemap
 
 tmp/collections.txt:
