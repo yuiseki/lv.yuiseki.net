@@ -1,0 +1,197 @@
+{
+  "model": [
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/nvsku3510002v/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod4030001v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/nvsku3510002v"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/nvsku3510002v/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod4030001v/nvsku3510002v/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "@type": "ProductModel",
+      "productDetailTabs": [],
+      "name": "LV スポーツ - LOOK 01",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton--Women_LV Sport_SS23_LOOK01_VISUAL4.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "SS23",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/lv-sport-look-01-nvprod4030001v",
+      "highEndTemplate": false,
+      "productId": "nvprod4030001v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "LV SPORT - LOOK 01"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/_/N-tveguxb",
+          "alternateName": "women",
+          "name": "ウィメンズ",
+          "identifier": "femme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/ready-to-wear/_/N-t1kw5dkp",
+          "alternateName": "ready-to-wear",
+          "name": "プレタポルテ(洋服)",
+          "identifier": "w-readytowear"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/ready-to-wear/look-selection/_/N-tfrs2k1",
+          "alternateName": "look-selection",
+          "name": "ルックセレクション",
+          "identifier": "nvcat460115v"
+        }
+      ],
+      "disclaimers": {
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "@context": "http://schema.org",
+      "identifier": "nvsku3510002v"
+    }
+  ],
+  "readyToWearSKUs": [],
+  "disambiguatingDescription": "モダンなストリートウェアの雰囲気に仕上げた、日常の装いにぴったりのカジュアルなルック。ナイロンのフード付きジャケットに施したスナップボタンとストラップのディテールで、さまざまなスタイルをお楽しみいただけます。フェミニンなフリルとスポーティな一体型のベルトをあしらった、同系色のカーキのAラインのミニラップスカートを合わせました。今コレクションならではの大胆なピロー風のスライダーが、スタイルを完成させます。",
+  "_links": {
+    "self": {
+      "href": "/api/catalog/jpn-jp/product/nvprod4030001v"
+    },
+    "push": {
+      "href": "/api/catalog/jpn-jp/product-push/nvprod4030001v"
+    },
+    "care-link": {
+      "href": "/api/catalog/jpn-jp/care-link/nvprod4030001v"
+    },
+    "availability": {
+      "href": "/api/catalog/jpn-jp/availability/nvprod4030001v"
+    }
+  },
+  "@type": "Product",
+  "sku": "nvsku3510002v",
+  "isSimilarTo": [],
+  "productTips": [],
+  "url": "/jpn-jp/products/lv-sport-look-01-nvprod4030001v",
+  "accessoriesSKUs": [],
+  "category": [
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/women/_/N-tveguxb",
+      "alternateName": "women",
+      "name": "ウィメンズ",
+      "identifier": "femme"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/women/ready-to-wear/_/N-t1kw5dkp",
+      "alternateName": "ready-to-wear",
+      "name": "プレタポルテ(洋服)",
+      "identifier": "w-readytowear"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/women/ready-to-wear/look-selection/_/N-tfrs2k1",
+      "alternateName": "look-selection",
+      "name": "ルックセレクション",
+      "identifier": "nvcat460115v"
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "hidePrice",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "subType",
+      "value": "product"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "sizeGuide",
+      "value": false
+    }
+  ],
+  "name": "LV スポーツ - LOOK 01",
+  "isRelatedTo": [],
+  "@context": "http://schema.org",
+  "identifier": "nvprod4030001v"
+}
