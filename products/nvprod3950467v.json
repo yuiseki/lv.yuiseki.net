@@ -1,0 +1,766 @@
+{
+  "model": [
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/1AB03Y/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod3950467v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/1AB03Y"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/1AB03Y/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod3950467v/1AB03Y/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ブラック",
+      "@type": "ProductModel",
+      "identifierKey": "5c4aa84d6399aff94c6e3211470e870b",
+      "productDetailTabs": [],
+      "name": "グラフィックアクセントジップアップレギンス",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 244200
+        },
+        "@type": "Offer",
+        "price": "¥244,200"
+      },
+      "disambiguatingDescription": "スポーティな定番アイテムにグラフィカルなひねりを効かせたレギンス。メゾンならではの伸縮性のあるテクニカルジャージーを、すっきりとしたシルエットに仕立てました。腰にはコントラストを描く幾何学的なホワイトのインサートをあしらい、LV サークルのベルベット製のパッチとオーバーサイズの「Louis Vuitton」シグネチャー入りのファスナー引き手で、フロントにモダンなシグネチャーをプラス。実用的なファスナー付きポケットも魅力です。<p>ご不明な点がございましたら、クライアントサービスまでお気軽にお問合せください。専任のクライアントアドバイザーが、素材やサイズなどの製品詳細、モデル着用イメージや関連アイテムのご案内など、お客様のご要望に合わせたスタイリング・アドバイスをご提供いたします。</p><p>また、サイズ違いなどによる返品・交換のご相談も承ります。詳細は<a href='https://jp.louisvuitton.com/jpn-jp/legal-privacy'><b>こちら。</b></a></p>",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-グラフィックアクセントジップアップレギンス-プレタポルテ-洋服--FOPX45G74900_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-グラフィックアクセントジップアップレギンス-プレタポルテ-洋服--FOPX45G74900_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-グラフィックアクセントジップアップレギンス-プレタポルテ-洋服--FOPX45G74900_PM1_Back view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Back view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/boot-cut-contrast-leggings-nvprod3950467v",
+      "highEndTemplate": false,
+      "sizeDisplayName": "34",
+      "productId": "nvprod3950467v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-RTW-900_noir.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>本体：ナイロン 75%、ポリウレタン 25%</li><li>リラックスフィット</li><li>モデル着用36サイズ</li><li>モデル：バスト 82cm、身長 178cm、ウエスト 60cm、ヒップ 87cm</li><li>イタリア製</li><li>REF：FOPX45G74</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "Graphic Accent Zip-Up Leggings "
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z05"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Ready_To_Wear_Women"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/_/N-tveguxb",
+          "alternateName": "women",
+          "name": "ウィメンズ",
+          "identifier": "femme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/ready-to-wear/_/N-t1kw5dkp",
+          "alternateName": "ready-to-wear",
+          "name": "プレタポルテ(洋服)",
+          "identifier": "w-readytowear"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/ready-to-wear/pants/_/N-t79p2ft",
+          "alternateName": "pants",
+          "name": "ウィメンズ パンツ",
+          "identifier": "w-pants"
+        }
+      ],
+      "disclaimers": {
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "color": "ノワール",
+      "@context": "http://schema.org",
+      "identifier": "1AB03Y"
+    },
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/1AB03Z/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod3950467v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/1AB03Z"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/1AB03Z/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod3950467v/1AB03Z/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ブラック",
+      "@type": "ProductModel",
+      "identifierKey": "bc98990f95b99f7fb436a743a5ce6540",
+      "productDetailTabs": [],
+      "name": "グラフィックアクセントジップアップレギンス",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 244200
+        },
+        "@type": "Offer",
+        "price": "¥244,200"
+      },
+      "disambiguatingDescription": "スポーティな定番アイテムにグラフィカルなひねりを効かせたレギンス。メゾンならではの伸縮性のあるテクニカルジャージーを、すっきりとしたシルエットに仕立てました。腰にはコントラストを描く幾何学的なホワイトのインサートをあしらい、LV サークルのベルベット製のパッチとオーバーサイズの「Louis Vuitton」シグネチャー入りのファスナー引き手で、フロントにモダンなシグネチャーをプラス。実用的なファスナー付きポケットも魅力です。<p>ご不明な点がございましたら、クライアントサービスまでお気軽にお問合せください。専任のクライアントアドバイザーが、素材やサイズなどの製品詳細、モデル着用イメージや関連アイテムのご案内など、お客様のご要望に合わせたスタイリング・アドバイスをご提供いたします。</p><p>また、サイズ違いなどによる返品・交換のご相談も承ります。詳細は<a href='https://jp.louisvuitton.com/jpn-jp/legal-privacy'><b>こちら。</b></a></p>",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-グラフィックアクセントジップアップレギンス-プレタポルテ-洋服--FOPX45G74900_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-グラフィックアクセントジップアップレギンス-プレタポルテ-洋服--FOPX45G74900_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-グラフィックアクセントジップアップレギンス-プレタポルテ-洋服--FOPX45G74900_PM1_Back view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Back view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/boot-cut-contrast-leggings-nvprod3950467v",
+      "highEndTemplate": false,
+      "sizeDisplayName": "36",
+      "productId": "nvprod3950467v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-RTW-900_noir.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>本体：ナイロン 75%、ポリウレタン 25%</li><li>リラックスフィット</li><li>モデル着用36サイズ</li><li>モデル：バスト 82cm、身長 178cm、ウエスト 60cm、ヒップ 87cm</li><li>イタリア製</li><li>REF：FOPX45G74</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "Graphic Accent Zip-Up Leggings "
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z05"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Ready_To_Wear_Women"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/_/N-tveguxb",
+          "alternateName": "women",
+          "name": "ウィメンズ",
+          "identifier": "femme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/ready-to-wear/_/N-t1kw5dkp",
+          "alternateName": "ready-to-wear",
+          "name": "プレタポルテ(洋服)",
+          "identifier": "w-readytowear"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/ready-to-wear/pants/_/N-t79p2ft",
+          "alternateName": "pants",
+          "name": "ウィメンズ パンツ",
+          "identifier": "w-pants"
+        }
+      ],
+      "disclaimers": {
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "color": "ノワール",
+      "@context": "http://schema.org",
+      "identifier": "1AB03Z"
+    },
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/1AB040/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod3950467v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/1AB040"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/1AB040/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod3950467v/1AB040/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ブラック",
+      "@type": "ProductModel",
+      "identifierKey": "e91b9478f69e137d8a8b7e8d2ab0d250",
+      "productDetailTabs": [],
+      "name": "グラフィックアクセントジップアップレギンス",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 244200
+        },
+        "@type": "Offer",
+        "price": "¥244,200"
+      },
+      "disambiguatingDescription": "スポーティな定番アイテムにグラフィカルなひねりを効かせたレギンス。メゾンならではの伸縮性のあるテクニカルジャージーを、すっきりとしたシルエットに仕立てました。腰にはコントラストを描く幾何学的なホワイトのインサートをあしらい、LV サークルのベルベット製のパッチとオーバーサイズの「Louis Vuitton」シグネチャー入りのファスナー引き手で、フロントにモダンなシグネチャーをプラス。実用的なファスナー付きポケットも魅力です。<p>ご不明な点がございましたら、クライアントサービスまでお気軽にお問合せください。専任のクライアントアドバイザーが、素材やサイズなどの製品詳細、モデル着用イメージや関連アイテムのご案内など、お客様のご要望に合わせたスタイリング・アドバイスをご提供いたします。</p><p>また、サイズ違いなどによる返品・交換のご相談も承ります。詳細は<a href='https://jp.louisvuitton.com/jpn-jp/legal-privacy'><b>こちら。</b></a></p>",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-グラフィックアクセントジップアップレギンス-プレタポルテ-洋服--FOPX45G74900_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-グラフィックアクセントジップアップレギンス-プレタポルテ-洋服--FOPX45G74900_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-グラフィックアクセントジップアップレギンス-プレタポルテ-洋服--FOPX45G74900_PM1_Back view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Back view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/boot-cut-contrast-leggings-nvprod3950467v",
+      "highEndTemplate": false,
+      "sizeDisplayName": "38",
+      "productId": "nvprod3950467v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-RTW-900_noir.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>本体：ナイロン 75%、ポリウレタン 25%</li><li>リラックスフィット</li><li>モデル着用36サイズ</li><li>モデル：バスト 82cm、身長 178cm、ウエスト 60cm、ヒップ 87cm</li><li>イタリア製</li><li>REF：FOPX45G74</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "Graphic Accent Zip-Up Leggings "
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z05"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Ready_To_Wear_Women"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/_/N-tveguxb",
+          "alternateName": "women",
+          "name": "ウィメンズ",
+          "identifier": "femme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/ready-to-wear/_/N-t1kw5dkp",
+          "alternateName": "ready-to-wear",
+          "name": "プレタポルテ(洋服)",
+          "identifier": "w-readytowear"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/ready-to-wear/pants/_/N-t79p2ft",
+          "alternateName": "pants",
+          "name": "ウィメンズ パンツ",
+          "identifier": "w-pants"
+        }
+      ],
+      "disclaimers": {
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "color": "ノワール",
+      "@context": "http://schema.org",
+      "identifier": "1AB040"
+    },
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/1AB041/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod3950467v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/1AB041"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/1AB041/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod3950467v/1AB041/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ブラック",
+      "@type": "ProductModel",
+      "identifierKey": "866d26555e820c1d02efe76f060a35e6",
+      "productDetailTabs": [],
+      "name": "グラフィックアクセントジップアップレギンス",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 244200
+        },
+        "@type": "Offer",
+        "price": "¥244,200"
+      },
+      "disambiguatingDescription": "スポーティな定番アイテムにグラフィカルなひねりを効かせたレギンス。メゾンならではの伸縮性のあるテクニカルジャージーを、すっきりとしたシルエットに仕立てました。腰にはコントラストを描く幾何学的なホワイトのインサートをあしらい、LV サークルのベルベット製のパッチとオーバーサイズの「Louis Vuitton」シグネチャー入りのファスナー引き手で、フロントにモダンなシグネチャーをプラス。実用的なファスナー付きポケットも魅力です。<p>ご不明な点がございましたら、クライアントサービスまでお気軽にお問合せください。専任のクライアントアドバイザーが、素材やサイズなどの製品詳細、モデル着用イメージや関連アイテムのご案内など、お客様のご要望に合わせたスタイリング・アドバイスをご提供いたします。</p><p>また、サイズ違いなどによる返品・交換のご相談も承ります。詳細は<a href='https://jp.louisvuitton.com/jpn-jp/legal-privacy'><b>こちら。</b></a></p>",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-グラフィックアクセントジップアップレギンス-プレタポルテ-洋服--FOPX45G74900_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-グラフィックアクセントジップアップレギンス-プレタポルテ-洋服--FOPX45G74900_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-グラフィックアクセントジップアップレギンス-プレタポルテ-洋服--FOPX45G74900_PM1_Back view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Back view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/boot-cut-contrast-leggings-nvprod3950467v",
+      "highEndTemplate": false,
+      "sizeDisplayName": "40",
+      "productId": "nvprod3950467v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-RTW-900_noir.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>本体：ナイロン 75%、ポリウレタン 25%</li><li>リラックスフィット</li><li>モデル着用36サイズ</li><li>モデル：バスト 82cm、身長 178cm、ウエスト 60cm、ヒップ 87cm</li><li>イタリア製</li><li>REF：FOPX45G74</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "Graphic Accent Zip-Up Leggings "
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z05"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Ready_To_Wear_Women"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/_/N-tveguxb",
+          "alternateName": "women",
+          "name": "ウィメンズ",
+          "identifier": "femme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/ready-to-wear/_/N-t1kw5dkp",
+          "alternateName": "ready-to-wear",
+          "name": "プレタポルテ(洋服)",
+          "identifier": "w-readytowear"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/ready-to-wear/pants/_/N-t79p2ft",
+          "alternateName": "pants",
+          "name": "ウィメンズ パンツ",
+          "identifier": "w-pants"
+        }
+      ],
+      "disclaimers": {
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "color": "ノワール",
+      "@context": "http://schema.org",
+      "identifier": "1AB041"
+    }
+  ],
+  "panelInformations": [
+    {
+      "@type": "ProductCare",
+      "title": "素材とお手入れ方法、修理",
+      "description": "<p>お手入れの際は信頼のおけるクリーニング専門店にご相談ください。</p>",
+      "introduction": "<p>本製品はルイ･ヴィトンの伝統と卓越したクラフツマンシップに基づき製作されています。</p>"
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "/api/catalog/jpn-jp/product/nvprod3950467v"
+    },
+    "push": {
+      "href": "/api/catalog/jpn-jp/product-push/nvprod3950467v"
+    },
+    "care-link": {
+      "href": "/api/catalog/jpn-jp/care-link/nvprod3950467v"
+    },
+    "size-guide": {
+      "href": "/api/catalog/jpn-jp/size-guide/nvprod3950467v"
+    },
+    "availability": {
+      "href": "/api/catalog/jpn-jp/availability/nvprod3950467v"
+    }
+  },
+  "@type": "Product",
+  "sku": "1AB03Z",
+  "isSimilarTo": [],
+  "productTips": [],
+  "url": "/jpn-jp/products/boot-cut-contrast-leggings-nvprod3950467v",
+  "category": [
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/women/_/N-tveguxb",
+      "alternateName": "women",
+      "name": "ウィメンズ",
+      "identifier": "femme"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/women/ready-to-wear/_/N-t1kw5dkp",
+      "alternateName": "ready-to-wear",
+      "name": "プレタポルテ(洋服)",
+      "identifier": "w-readytowear"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/women/ready-to-wear/pants/_/N-t79p2ft",
+      "alternateName": "pants",
+      "name": "ウィメンズ パンツ",
+      "identifier": "w-pants"
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "hidePrice",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "subType",
+      "value": "product"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "sizeGuide",
+      "value": true
+    }
+  ],
+  "name": "グラフィックアクセントジップアップレギンス",
+  "isRelatedTo": [],
+  "@context": "http://schema.org",
+  "identifier": "nvprod3950467v"
+}
