@@ -113,6 +113,7 @@ function App() {
         <div
           style={{
             justifyContent: "center",
+            alignContent: "center",
             maxWidth: "90%",
             minWidth: "90%",
             display: "flex",
@@ -135,9 +136,11 @@ function App() {
         </div>
         <div
           style={{
+            position: "relative",
             justifyContent: "center",
-            width: "100%",
+            width: "70%",
             display: "flex",
+            alignItems: "center",
             marginBottom: "30px",
           }}
         >
