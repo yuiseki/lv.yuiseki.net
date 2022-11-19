@@ -12,6 +12,18 @@ code {
     monospace;
 }
 
+input[type="text"] {
+  border: 0px none !important;
+}
+
+input[type="text"]:active {
+  border: 0px none !important;
+}
+
+input[type="text"]:focus {
+  border: 0px none !important;
+}
+
 input[type="range"] ::-webkit-slider-thumb {
   pointer-events: auto;
 }
