@@ -1,4 +1,5 @@
 import React, { useCallback, useContext } from "react";
+import { FilterBookmarkContext } from "../context/FilterBookmarkContext";
 import { FilterFavContext } from "../context/FilterFavContext";
 import { useLocalStorage } from "../hooks/localStorage";
 
@@ -9,8 +10,18 @@ export const ModelCell: React.FC<{ productId: string; model: any }> =
       false
     );
 
+    const [bookmark, setBookmark] = useLocalStorage(
+      "lv-bookmark-" + productId + "-" + model.identifier,
+      false
+    );
+
     const filterFav = useContext(FilterFavContext);
     if (filterFav && !fav) {
+      return null;
+    }
+
+    const filterBookmark = useContext(FilterBookmarkContext);
+    if (filterBookmark && !bookmark) {
       return null;
     }
 
@@ -51,6 +62,23 @@ export const ModelCell: React.FC<{ productId: string; model: any }> =
             style={{
               position: "absolute",
               right: "10px",
+              top: "10px",
+              fontSize: "1em",
+              padding: "10px",
+            }}
+            onClick={(e) => {
+              e.preventDefault();
+              e.stopPropagation();
+              setBookmark(!bookmark);
+            }}
+            className={
+              bookmark ? "fa-solid fa-bookmark" : "fa-regular fa-bookmark"
+            }
+          ></span>
+          <span
+            style={{
+              position: "absolute",
+              right: "35px",
               top: "10px",
               fontSize: "1em",
               padding: "10px",

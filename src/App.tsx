@@ -2,6 +2,7 @@ import { useEffect, useState } from "react";
 import { PriceRangeInput } from "./components/PriceRangeInput";
 import { ProductCell } from "./components/ProductCell";
 import { SearchQueryInput } from "./components/SearchQueryInput";
+import { FilterBookmarkContext } from "./context/FilterBookmarkContext";
 import { FilterFavContext } from "./context/FilterFavContext";
 import { useDebounce } from "./hooks/debounce";
 import { useLocalStorage } from "./hooks/localStorage";
@@ -15,6 +16,7 @@ function App() {
   const [debouncedMaxPrice, setDebouncedMaxPrice] = useState(PRICE_LIMIT);
   const [debouncedQuery, setDebouncedQuery] = useState("");
   const [filterFav, setFilterFav] = useState(false);
+  const [filterBookmark, setFilterBookmark] = useState(false);
 
   useEffect(() => {
     (async () => {
@@ -29,6 +31,19 @@ function App() {
           .filter((v) => v);
       }
       console.log(favProducts);
+
+      let bookmarkProducts: Array<string | undefined> = [];
+      if (filterBookmark) {
+        bookmarkProducts = Object.entries(localStorage)
+          .map((entry) => {
+            if (entry[0].startsWith("lv-fav-") && JSON.parse(entry[1])) {
+              return entry[0].split("-")[2];
+            }
+          })
+          .filter((v) => v);
+      }
+      console.log(bookmarkProducts);
+
       const res = await fetch("/search.csv");
       const text = await res.text();
       const allProducts = text
@@ -70,8 +85,11 @@ function App() {
           return line.length < 25;
         })
         .filter((line) => {
-          if (filterFav) {
-            return favProducts.indexOf(line) > -1;
+          if (filterFav || filterBookmark) {
+            return (
+              favProducts.indexOf(line) > -1 ||
+              bookmarkProducts.indexOf(line) > -1
+            );
           }
           return true;
         });
@@ -98,130 +116,157 @@ function App() {
   }
 
   return (
-    <FilterFavContext.Provider value={filterFav}>
-      <div
-        style={{
-          marginTop: "30px",
-          width: "100%",
-          minHeight: "110vh",
-          display: "flex",
-          flexDirection: "column",
-          justifyContent: "flexStart",
-          alignItems: "center",
-        }}
-      >
+    <FilterBookmarkContext.Provider value={filterBookmark}>
+      <FilterFavContext.Provider value={filterFav}>
         <div
           style={{
-            justifyContent: "center",
-            alignContent: "center",
-            maxWidth: "90%",
-            minWidth: "90%",
+            marginTop: "30px",
+            width: "100%",
+            minHeight: "110vh",
             display: "flex",
             flexDirection: "column",
-            marginBottom: "30px",
-          }}
-        >
-          <PriceRangeInput
-            onChangeMinPrice={(value) => {
-              debounce(() => {
-                setDebouncedMinPrice(value);
-              });
-            }}
-            onChangeMaxPrice={(value) => {
-              debounce(() => {
-                setDebouncedMaxPrice(value);
-              });
-            }}
-          />
-        </div>
-        <div
-          style={{
-            position: "relative",
-            justifyContent: "center",
-            width: "70%",
-            display: "flex",
+            justifyContent: "flexStart",
             alignItems: "center",
-            marginBottom: "30px",
           }}
         >
-          <SearchQueryInput
-            onChange={(value) => {
-              debounce(() => {
-                setDebouncedQuery(value);
-              });
-            }}
-          />
-        </div>
-        <div
-          style={{
-            justifyContent: "center",
-            alignItems: "center",
-            width: "100%",
-            display: "flex",
-            marginBottom: "30px",
-            maxWidth: "100%",
-          }}
-        >
-          <input
-            type="button"
-            value="Shuffle"
+          <div
             style={{
-              display: "inline-block",
-              fontSize: "1em",
-              lineHeight: "1",
-              backgroundColor: "black",
-              color: "white",
-              border: "none",
-              borderRadius: "0px",
-              padding: "1rem 1.5rem",
-              width: "21.25rem",
+              justifyContent: "center",
+              alignContent: "center",
+              maxWidth: "90%",
+              minWidth: "90%",
+              display: "flex",
+              flexDirection: "column",
+              marginBottom: "30px",
             }}
-            onClick={shuffle}
-          />
-          <input
-            type="button"
-            value={filterFav ? "Filtering only likes..." : "Filter only likes"}
+          >
+            <PriceRangeInput
+              onChangeMinPrice={(value) => {
+                debounce(() => {
+                  setDebouncedMinPrice(value);
+                });
+              }}
+              onChangeMaxPrice={(value) => {
+                debounce(() => {
+                  setDebouncedMaxPrice(value);
+                });
+              }}
+            />
+          </div>
+          <div
             style={{
-              display: "inline-block",
-              fontSize: "1em",
-              lineHeight: "1",
-              backgroundColor: "black",
-              color: "white",
-              border: "none",
-              borderRadius: "0px",
-              padding: "1rem 1.5rem",
-              width: "21.25rem",
-              marginLeft: "30px",
+              position: "relative",
+              justifyContent: "center",
+              width: "70%",
+              display: "flex",
+              alignItems: "center",
+              marginBottom: "30px",
             }}
-            onClick={() => {
-              setFilterFav(!filterFav);
+          >
+            <SearchQueryInput
+              onChange={(value) => {
+                debounce(() => {
+                  setDebouncedQuery(value);
+                });
+              }}
+            />
+          </div>
+          <div
+            style={{
+              justifyContent: "center",
+              alignItems: "center",
+              width: "100%",
+              display: "flex",
+              marginBottom: "30px",
+              maxWidth: "100%",
             }}
-          />
+          >
+            <input
+              type="button"
+              value="Shuffle"
+              style={{
+                display: "inline-block",
+                fontSize: "1em",
+                lineHeight: "1",
+                backgroundColor: "black",
+                color: "white",
+                border: "none",
+                borderRadius: "0px",
+                padding: "1rem 1.5rem",
+                width: "21.25rem",
+              }}
+              onClick={shuffle}
+            />
+            <input
+              type="button"
+              value={
+                filterFav ? "Filtering only likes..." : "Filter only likes"
+              }
+              style={{
+                display: "inline-block",
+                fontSize: "1em",
+                lineHeight: "1",
+                backgroundColor: "black",
+                color: "white",
+                border: "none",
+                borderRadius: "0px",
+                padding: "1rem 1.5rem",
+                width: "21.25rem",
+                marginLeft: "30px",
+              }}
+              onClick={() => {
+                setFilterFav(!filterFav);
+              }}
+            />
+            <input
+              type="button"
+              value={
+                filterBookmark
+                  ? "Filtering only bookmarks..."
+                  : "Filter only bookmarks"
+              }
+              style={{
+                display: "inline-block",
+                fontSize: "1em",
+                lineHeight: "1",
+                backgroundColor: "black",
+                color: "white",
+                border: "none",
+                borderRadius: "0px",
+                padding: "1rem 1.5rem",
+                width: "21.25rem",
+                marginLeft: "30px",
+              }}
+              onClick={() => {
+                setFilterBookmark(!filterBookmark);
+              }}
+            />
+          </div>
+          <div
+            style={{
+              marginBottom: "30px",
+            }}
+          >
+            {products.length} items
+          </div>
+          <div
+            style={{
+              width: "100%",
+              display: "grid",
+              justifyContent: "center",
+              gridTemplateColumns: "repeat(auto-fill, 400px)",
+              columnGap: "30px",
+              rowGap: "30px",
+            }}
+            key={products[0]}
+          >
+            {products.map((productId) => {
+              return <ProductCell key={productId} productId={productId} />;
+            })}
+          </div>
         </div>
-        <div
-          style={{
-            marginBottom: "30px",
-          }}
-        >
-          {products.length} items
-        </div>
-        <div
-          style={{
-            width: "100%",
-            display: "grid",
-            justifyContent: "center",
-            gridTemplateColumns: "repeat(auto-fill, 400px)",
-            columnGap: "30px",
-            rowGap: "30px",
-          }}
-          key={products[0]}
-        >
-          {products.map((productId) => {
-            return <ProductCell key={productId} productId={productId} />;
-          })}
-        </div>
-      </div>
-    </FilterFavContext.Provider>
+      </FilterFavContext.Provider>
+    </FilterBookmarkContext.Provider>
   );
 }
 
