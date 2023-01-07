@@ -16,11 +16,11 @@ export const ModelCell: React.FC<{ productId: string; model: any }> =
     );
 
     const filterFav = useContext(FilterFavContext);
+    const filterBookmark = useContext(FilterBookmarkContext);
     if (filterFav && !fav) {
       return null;
     }
 
-    const filterBookmark = useContext(FilterBookmarkContext);
     if (filterBookmark && !bookmark) {
       return null;
     }

@@ -36,7 +36,7 @@ function App() {
       if (filterBookmark) {
         bookmarkProducts = Object.entries(localStorage)
           .map((entry) => {
-            if (entry[0].startsWith("lv-fav-") && JSON.parse(entry[1])) {
+            if (entry[0].startsWith("lv-bookmark-") && JSON.parse(entry[1])) {
               return entry[0].split("-")[2];
             }
           })
