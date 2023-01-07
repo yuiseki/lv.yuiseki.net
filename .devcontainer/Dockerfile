@@ -38,5 +38,7 @@ RUN echo "#!/bin/sh\n\
     exec \"\$@\"" > /usr/local/share/docker-init.sh \
     && chmod +x /usr/local/share/docker-init.sh
 
+RUN apt install -y rsync
+
 ENTRYPOINT [ "/usr/local/share/docker-init.sh" ]
 CMD [ "sleep", "infinity" ]
