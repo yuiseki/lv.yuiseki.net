@@ -30,7 +30,7 @@ function App() {
           })
           .filter((v) => v);
       }
-      console.log(favProducts);
+      console.log("fav: ", favProducts);
 
       let bookmarkProducts: Array<string | undefined> = [];
       if (filterBookmark) {
@@ -42,7 +42,7 @@ function App() {
           })
           .filter((v) => v);
       }
-      console.log(bookmarkProducts);
+      console.log("bookmark: ", bookmarkProducts);
 
       const res = await fetch("/search.csv");
       const text = await res.text();
@@ -85,18 +85,27 @@ function App() {
           return line.length < 25;
         })
         .filter((line) => {
-          if (filterFav || filterBookmark) {
-            return (
-              favProducts.indexOf(line) > -1 ||
-              bookmarkProducts.indexOf(line) > -1
-            );
+          if (filterFav) {
+            return favProducts.indexOf(line) > -1;
+          }
+          return true;
+        })
+        .filter((line) => {
+          if (filterBookmark) {
+            return bookmarkProducts.indexOf(line) > -1;
           }
           return true;
         });
       const uniqProducts = [...new Set(allProducts)];
       setProducts(uniqProducts);
     })();
-  }, [debouncedQuery, debouncedMinPrice, debouncedMaxPrice, filterFav]);
+  }, [
+    debouncedQuery,
+    debouncedMinPrice,
+    debouncedMaxPrice,
+    filterFav,
+    filterBookmark,
+  ]);
 
   const shuffle = () => {
     if (!products) {
