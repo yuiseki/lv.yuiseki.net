@@ -56,7 +56,10 @@ function App() {
             const isMatch = debouncedQuery
               .split(/[\x20\u3000]/)
               .map((q) => {
-                return q.length === 0 || line.indexOf(q) > 0;
+                return (
+                  q.length === 0 ||
+                  line.toLowerCase().indexOf(q.toLowerCase()) > 0
+                );
               })
               .reduce((prev, current) => {
                 return prev && current;
