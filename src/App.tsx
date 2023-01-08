@@ -130,136 +130,142 @@ function App() {
   return (
     <FilterBookmarkContext.Provider value={filterBookmark}>
       <FilterFavContext.Provider value={filterFav}>
-        <div
-          style={{
-            marginTop: "30px",
-            width: "100%",
-            minHeight: "110vh",
-            display: "flex",
-            flexDirection: "column",
-            justifyContent: "flexStart",
-            alignItems: "center",
-          }}
-        >
+        <div>
+          <h1 style={{ margin: 0, textAlign: "center" }}>lv.yuiseki.net</h1>
           <div
             style={{
-              justifyContent: "center",
-              alignContent: "center",
-              maxWidth: "90%",
-              minWidth: "90%",
-              display: "flex",
-              flexDirection: "column",
-              marginBottom: "30px",
-            }}
-          >
-            <PriceRangeInput
-              onChangeMinPrice={(value) => {
-                debounce(() => {
-                  setDebouncedMinPrice(value);
-                });
-              }}
-              onChangeMaxPrice={(value) => {
-                debounce(() => {
-                  setDebouncedMaxPrice(value);
-                });
-              }}
-            />
-          </div>
-          <div
-            style={{
-              position: "relative",
-              justifyContent: "center",
-              width: "70%",
-              display: "flex",
-              alignItems: "center",
-              marginBottom: "30px",
-            }}
-          >
-            <SearchQueryInput
-              onChange={(value) => {
-                debounce(() => {
-                  setDebouncedQuery(value);
-                });
-              }}
-            />
-          </div>
-          <div
-            style={{
-              justifyContent: "center",
-              alignItems: "center",
+              position: "sticky",
+              top: 0,
+              paddingTop: "15px",
               width: "100%",
               display: "flex",
-              marginBottom: "30px",
-              maxWidth: "100%",
+              flexDirection: "column",
+              justifyContent: "flexStart",
+              alignItems: "center",
+              zIndex: 1000,
+              background: "white",
             }}
           >
-            <input
-              type="button"
-              value="Shuffle"
+            <div
               style={{
-                display: "inline-block",
-                fontSize: "1em",
-                lineHeight: "1",
-                backgroundColor: "black",
-                color: "white",
-                border: "none",
-                borderRadius: "0px",
-                padding: "1rem 1.5rem",
-                width: "21.25rem",
+                justifyContent: "center",
+                alignContent: "center",
+                maxWidth: "90%",
+                minWidth: "90%",
+                display: "flex",
+                flexDirection: "column",
+                margin: "20px 0",
               }}
-              onClick={shuffle}
-            />
-            <input
-              type="button"
-              value={
-                filterFav ? "Filtering only likes..." : "Filter only likes"
-              }
+            >
+              <PriceRangeInput
+                onChangeMinPrice={(value) => {
+                  debounce(() => {
+                    setDebouncedMinPrice(value);
+                  });
+                }}
+                onChangeMaxPrice={(value) => {
+                  debounce(() => {
+                    setDebouncedMaxPrice(value);
+                  });
+                }}
+              />
+            </div>
+            <div
               style={{
-                display: "inline-block",
-                fontSize: "1em",
-                lineHeight: "1",
-                backgroundColor: "black",
-                color: "white",
-                border: "none",
-                borderRadius: "0px",
-                padding: "1rem 1.5rem",
-                width: "21.25rem",
-                marginLeft: "30px",
+                position: "relative",
+                justifyContent: "center",
+                width: "70%",
+                display: "flex",
+                alignItems: "center",
+                marginBottom: "30px",
               }}
-              onClick={() => {
-                setFilterFav(!filterFav);
-              }}
-            />
-            <input
-              type="button"
-              value={
-                filterBookmark
-                  ? "Filtering only bookmarks..."
-                  : "Filter only bookmarks"
-              }
+            >
+              <SearchQueryInput
+                onChange={(value) => {
+                  debounce(() => {
+                    setDebouncedQuery(value);
+                  });
+                }}
+              />
+            </div>
+            <div
               style={{
-                display: "inline-block",
-                fontSize: "1em",
-                lineHeight: "1",
-                backgroundColor: "black",
-                color: "white",
-                border: "none",
-                borderRadius: "0px",
-                padding: "1rem 1.5rem",
-                width: "21.25rem",
-                marginLeft: "30px",
+                justifyContent: "center",
+                alignItems: "center",
+                width: "100%",
+                display: "flex",
+                maxWidth: "100%",
+                marginBottom: "15px",
               }}
-              onClick={() => {
-                setFilterBookmark(!filterBookmark);
+            >
+              <input
+                type="button"
+                value="Shuffle"
+                style={{
+                  display: "inline-block",
+                  fontSize: "1em",
+                  lineHeight: "1",
+                  backgroundColor: "black",
+                  color: "white",
+                  border: "none",
+                  borderRadius: "0px",
+                  padding: "1rem 1.5rem",
+                  width: "21.25rem",
+                }}
+                onClick={shuffle}
+              />
+              <input
+                type="button"
+                value={
+                  filterFav ? "Filtering only likes..." : "Filter only likes"
+                }
+                style={{
+                  display: "inline-block",
+                  fontSize: "1em",
+                  lineHeight: "1",
+                  backgroundColor: "black",
+                  color: "white",
+                  border: "none",
+                  borderRadius: "0px",
+                  padding: "1rem 1.5rem",
+                  width: "21.25rem",
+                  marginLeft: "30px",
+                }}
+                onClick={() => {
+                  setFilterFav(!filterFav);
+                }}
+              />
+              <input
+                type="button"
+                value={
+                  filterBookmark
+                    ? "Filtering only bookmarks..."
+                    : "Filter only bookmarks"
+                }
+                style={{
+                  display: "inline-block",
+                  fontSize: "1em",
+                  lineHeight: "1",
+                  backgroundColor: "black",
+                  color: "white",
+                  border: "none",
+                  borderRadius: "0px",
+                  padding: "1rem 1.5rem",
+                  width: "21.25rem",
+                  marginLeft: "30px",
+                }}
+                onClick={() => {
+                  setFilterBookmark(!filterBookmark);
+                }}
+              />
+            </div>
+            <div
+              style={{
+                marginBottom: "15px",
               }}
-            />
-          </div>
-          <div
-            style={{
-              marginBottom: "30px",
-            }}
-          >
-            {products.length} items
+            >
+              <b>{products.length}</b> items
+            </div>
           </div>
           <div
             style={{

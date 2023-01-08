@@ -11,14 +11,14 @@ export const PriceRangeInput: React.FC<{
     <>
       <div
         style={{
-          display: "grid",
-          padding: "1rem 0px",
+          display: "flex",
+          flexBasis: "auto",
+          padding: "0px",
         }}
       >
         <input
           style={{
-            gridColumn: 1,
-            gridRow: 2,
+            flexGrow: 1,
           }}
           type="range"
           name="maxPrice"
@@ -35,10 +35,13 @@ export const PriceRangeInput: React.FC<{
             }
           }}
         />
+        <div style={{ flexGrow: 1, textAlign: "center" }}>
+          <span>{minPrice.toLocaleString()}円</span> ～{" "}
+          <span>{maxPrice.toLocaleString()}円</span>
+        </div>
         <input
           style={{
-            gridColumn: 2,
-            gridRow: 2,
+            flexGrow: 1,
           }}
           type="range"
           name="maxPrice"
@@ -55,10 +58,6 @@ export const PriceRangeInput: React.FC<{
             }
           }}
         />
-      </div>
-      <div style={{ textAlign: "center" }}>
-        <span>{minPrice.toLocaleString()}円</span> ～{" "}
-        <span>{maxPrice.toLocaleString()}円</span>
       </div>
     </>
   );
