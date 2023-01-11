@@ -17,6 +17,7 @@ function App() {
   const [debouncedQuery, setDebouncedQuery] = useState("");
   const [filterFav, setFilterFav] = useState(false);
   const [filterBookmark, setFilterBookmark] = useState(false);
+  const [totalPrice, setTotalPrice] = useState(0);
 
   useEffect(() => {
     (async () => {
@@ -46,6 +47,7 @@ function App() {
 
       const res = await fetch("/search.csv");
       const text = await res.text();
+      let newTotalPrice = 0;
       const allProducts = text
         .split("\n")
         .filter((line) => {
@@ -82,25 +84,30 @@ function App() {
           return true;
         })
         .map((line) => {
-          return line.split(",")[0].replaceAll('"', "");
+          return [line.split(",")[0].replaceAll('"', ""), line.split(",")[3]];
         })
-        .filter((line) => {
-          return line.length < 25;
-        })
+        //.filter((line) => {
+        //  return line.length < 25;
+        //})
         .filter((line) => {
           if (filterFav) {
-            return favProducts.indexOf(line) > -1;
+            return favProducts.indexOf(line[0]) > -1;
           }
           return true;
         })
         .filter((line) => {
           if (filterBookmark) {
-            return bookmarkProducts.indexOf(line) > -1;
+            return bookmarkProducts.indexOf(line[0]) > -1;
           }
           return true;
+        })
+        .map((line) => {
+          newTotalPrice += parseInt(line[1]);
+          return line[0];
         });
       const uniqProducts = [...new Set(allProducts)];
       setProducts(uniqProducts);
+      setTotalPrice(newTotalPrice);
     })();
   }, [
     debouncedQuery,
@@ -264,7 +271,8 @@ function App() {
                 marginBottom: "15px",
               }}
             >
-              <b>{products.length}</b> items
+              <b>{products.length}</b> items, Total{" "}
+              {totalPrice.toLocaleString()} 円
             </div>
           </div>
           <div
