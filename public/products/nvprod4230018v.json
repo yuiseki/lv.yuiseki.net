@@ -1,0 +1,593 @@
+{
+  "model": [
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/nvsku3670055v/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod4230018v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/nvsku3670055v"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/nvsku3670055v/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod4230018v/nvsku3670055v/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "@type": "ProductModel",
+      "productDetailTabs": [],
+      "name": "2023春夏ショー - Look 15",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton--Men_Show_SS23_LOOK15_VISUAL4.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "SS23",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/spring-summer-2023-show-look-15-nvprod4230018v",
+      "highEndTemplate": false,
+      "productId": "nvprod4230018v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "Spring-Summer 2023 Show - Look 15"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-t18ui4cq",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/ready-to-wear/_/N-t1b9f3zb",
+          "alternateName": "ready-to-wear",
+          "name": "プレタポルテ(洋服)",
+          "identifier": "m-readytowear"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/ready-to-wear/look-selection/_/N-t1u9ytru",
+          "alternateName": "look-selection",
+          "name": "ルックセレクション",
+          "identifier": "nvcat450010v"
+        }
+      ],
+      "disclaimers": {
+        "customDisclaimer": false,
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "@context": "http://schema.org",
+      "identifier": "nvsku3670055v"
+    }
+  ],
+  "readyToWearSKUs": [],
+  "disambiguatingDescription": "テーラリングの妙が光るホワイトレザーのロングコートが主役の、上品なルック。19世紀のパリの邸宅の内装のモールディングから着想を得た、立体的な装飾も魅力。1つ1つ丁寧に手作業で成形した、モノグラム･フラワー モチーフのディテールや「Louis Vuitton」シグネチャーなどに、メゾンが誇るサヴォアフェール(匠の技)が薫ります。",
+  "_links": {
+    "self": {
+      "href": "/api/catalog/jpn-jp/product/nvprod4230018v"
+    },
+    "push": {
+      "href": "/api/catalog/jpn-jp/product-push/nvprod4230018v"
+    },
+    "care-link": {
+      "href": "/api/catalog/jpn-jp/care-link/nvprod4230018v"
+    },
+    "availability": {
+      "href": "/api/catalog/jpn-jp/availability/nvprod4230018v"
+    }
+  },
+  "@type": "Product",
+  "sku": "nvsku3670055v",
+  "isSimilarTo": [],
+  "productTips": [],
+  "url": "/jpn-jp/products/spring-summer-2023-show-look-15-nvprod4230018v",
+  "accessoriesSKUs": [
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/1AB8NG/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod4060004v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/1AB8NG"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/1AB8NG/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod4060004v/1AB8NG/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ブラック",
+      "@type": "ProductModel",
+      "identifierKey": "54295c4205b0d021c4faf8c387953700",
+      "productDetailTabs": [],
+      "name": "LV バロック・ライン アンクルブーツ",
+      "mainMaterial2": "CALF",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 199100
+        },
+        "@type": "Offer",
+        "price": "¥199,100"
+      },
+      "disambiguatingDescription": "ルイ･ヴィトンの2023春夏メンズ･コレクションで披露された、ミリタリースタイルから着想を得たレースアップブーツ「LV バロック･ライン アンクルブーツ」。アッパーに使用したグレーズドカーフレザーと、チャンキーながら軽量なラバーアウトソールがコントラストを描きます。アウトソールに添えた、装飾的な立体感を生み出すモノグラム･フラワー モチーフとLV イニシャルの刻印も特徴。モノグラム･キャンバスのバックループがデザインを完成させます。<p>ご不明な点がございましたら、クライアントサービスまでお気軽にお問合せください。専任のクライアントアドバイザーが、素材やサイズなどの製品詳細、モデル着用イメージや関連アイテムのご案内など、お客様のご要望に合わせたスタイリング・アドバイスをご提供いたします。</p><p>また、サイズ違いなどによる返品・交換のご相談も承ります。詳細は<a href='https://jp.louisvuitton.com/jpn-jp/legal-privacy'><b>こちら。</b></a></p>",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-バロック・ライン-アンクルブーツ--BOMQ1PGC02_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-バロック・ライン-アンクルブーツ--BOMQ1PGC02_PM1_Worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Worn view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-バロック・ライン-アンクルブーツ--BOMQ1PGC02_PM1_Closeup view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Closeup view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-バロック・ライン-アンクルブーツ--BOMQ1PGC02_PM1_Interior view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Interior view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-バロック・ライン-アンクルブーツ--BOMQ1PGC02_PM1_Interior2 view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Interior2 view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-バロック・ライン-アンクルブーツ--BOMQ1PGC02_PM1_Detail view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Detail view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-バロック・ライン-アンクルブーツ--BOMQ1PGC02_PM1_Cropped worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Cropped worn view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/lv-baroque-ranger-boot-nvprod4060004v",
+      "highEndTemplate": false,
+      "sizeDisplayName": "08.0",
+      "productId": "nvprod4060004v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-SHO-02_noir.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>素材：グレインカーフレザー（皮革の種類：牛革）</li><li>アウトソール：ラバー</li><li>シュータンにLV イニシャル</li><li>モノグラム･フラワー モチーフの刻印とLV イニシャルを施したアウトソール</li><li>トレッドにモノグラム･フラワー モチーフ</li><li>モノグラム･キャンバスのバックループ</li><li>イタリア製</li><li>イギリスサイズ</li><li>REF：BOMQ1PGC</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "LV Baroque Ranger Boot"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z04"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Shoe_Men"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-t18ui4cq",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/shoes/_/N-t1gm1r5t",
+          "alternateName": "shoes",
+          "name": "シューズ",
+          "identifier": "m-category-cat10037"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/shoes/boots/_/N-tp5lgyh",
+          "alternateName": "boots",
+          "name": "メンズ ブーツ",
+          "identifier": "nvcat60002v-8"
+        }
+      ],
+      "disclaimers": {
+        "customDisclaimer": false,
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "color": "ノワール",
+      "@context": "http://schema.org",
+      "identifier": "1AB8NG"
+    },
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/M21833/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod4160140v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/M21833"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/M21833/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod4160140v/M21833/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ホワイト",
+      "@type": "ProductModel",
+      "identifierKey": "d7e3aa96548760185df46a1e47ea987d",
+      "height": {
+        "@type": "QuantitativeValue",
+        "value": 15,
+        "unitText": "cm"
+      },
+      "productDetailTabs": [],
+      "name": "ハンドル・ソフトトランク",
+      "mainMaterial2": "CALF",
+      "width": {
+        "@type": "QuantitativeValue",
+        "value": 7,
+        "unitText": "cm"
+      },
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 469700
+        },
+        "@type": "Offer",
+        "price": "¥469,700"
+      },
+      "disambiguatingDescription": "「LV オーナメント」ストーリーの1つ「ハンドル･ソフトトランク」。カーフレザーに、18世紀のフランスのシャトーに見られるモールディングから着想を得た装飾をデボス加工で施して仕立てました。自由な雰囲気を控えめに表現した機能的なシティバッグは、トップハンドルで手持ちでも、取外し可能なストラップでショルダーキャリーもお楽しみいただけます。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ハンドル・ソフトトランク--M21833_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ハンドル・ソフトトランク--M21833_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ハンドル・ソフトトランク--M21833_PM1_Interior view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Interior view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ハンドル・ソフトトランク--M21833_PM1_Detail view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Detail view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ハンドル・ソフトトランク--M21833_PM1_Back view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Back view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/handle-soft-trunk-other-leathers-nvprod4160140v",
+      "material": "その他レザー",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 21.5,
+        "unitText": "cm"
+      },
+      "highEndTemplate": false,
+      "productId": "nvprod4160140v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>素材：カーフレザー（皮革の種類：牛革）</li><li>トリミング：レザー（皮革の種類：牛革） </li><li>ライニング：テキスタイル </li><li>金具（色：トーン･オン･トーン）</li><li>フロントにフラットポケット</li><li>内フラットポケット</li><li>ストラップ：取り外し可能, 調整可能</li><li>ストラップの頂点からバッグ上部までの長さ(最短)：44.5 cm</li><li>ストラップの頂点からバッグ上部までの長さ(最長)：58.0 cm</li><li>ハンドル：シングル</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "Handle Soft Trunk"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z01"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-t18ui4cq",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/wallets-and-small-leather-goods/_/N-tu46net",
+          "alternateName": "wallets-and-small-leather-goods",
+          "name": "財布＆小物",
+          "identifier": "m-category-cat10021"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/wallets-and-small-leather-goods/long-wallets/_/N-th7ik7d",
+          "alternateName": "wallets",
+          "name": "ロングウォレット(長財布)",
+          "identifier": "m-wallets-mslg"
+        }
+      ],
+      "disclaimers": {
+        "customDisclaimer": false,
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "color": "OPTIC WHITE",
+      "@context": "http://schema.org",
+      "identifier": "M21833"
+    }
+  ],
+  "category": [
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/_/N-t18ui4cq",
+      "alternateName": "men",
+      "name": "メンズ",
+      "identifier": "homme"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/ready-to-wear/_/N-t1b9f3zb",
+      "alternateName": "ready-to-wear",
+      "name": "プレタポルテ(洋服)",
+      "identifier": "m-readytowear"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/ready-to-wear/look-selection/_/N-t1u9ytru",
+      "alternateName": "look-selection",
+      "name": "ルックセレクション",
+      "identifier": "nvcat450010v"
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "hidePrice",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "subType",
+      "value": "product"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "sizeGuide",
+      "value": false
+    }
+  ],
+  "name": "2023春夏ショー - Look 15",
+  "isRelatedTo": [],
+  "@context": "http://schema.org",
+  "identifier": "nvprod4230018v"
+}
