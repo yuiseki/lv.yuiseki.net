@@ -1,0 +1,1581 @@
+{
+  "model": [
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/1AB5KV/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod4160093v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/1AB5KV"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/1AB5KV/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod4160093v/1AB5KV/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ブラック",
+      "@type": "ProductModel",
+      "identifierKey": "3d5e64288bf0d1a08b29d2589e110e92",
+      "productDetailTabs": [],
+      "name": "ベースボールシャツ",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 156200
+        },
+        "@type": "Offer",
+        "price": "¥156,200"
+      },
+      "disambiguatingDescription": "ベースボールから着想を得た、スポーティな雰囲気のシャツ。ストライプのショートスリーブと、フロントを彩る「Louis Vuitton」シグネチャーや背面に配した大ぶりの「00」のレタリングなど、インターシャ(象嵌細工)で表現したグラフィカルなシグネチャーが特徴です。ベースボールカラーやコントラストカラーのパイピングを施した比翼仕立てのフロントファスニングなど、スポーティなディテールが散りばめられています。<p>ご不明な点がございましたら、クライアントサービスまでお気軽にお問合せください。専任のクライアントアドバイザーが、素材やサイズなどの製品詳細、モデル着用イメージや関連アイテムのご案内など、お客様のご要望に合わせたスタイリング・アドバイスをご提供いたします。</p><p>また、サイズ違いなどによる返品・交換のご相談も承ります。詳細は<a href='https://jp.louisvuitton.com/jpn-jp/legal-privacy'><b>こちら。</b></a></p>",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ベースボールシャツ-プレタポルテ-洋服--HOS83WYN1900_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ベースボールシャツ-プレタポルテ-洋服--HOS83WYN1900_PM1_Ambiance view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Ambiance view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/baseball-shirt-nvprod4160093v",
+      "highEndTemplate": false,
+      "sizeDisplayName": "XS",
+      "productId": "nvprod4160093v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-RTW-900_noir.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>本体：ポリエステル 73%、コットン 22%、ナイロン 4%、ポリウレタン 1%</li><li>ルーズフィット</li><li>モデル着用Mサイズ</li><li>モデル：胸囲 81cm、身長 187cm</li><li>イタリア製</li><li>REF：HOS83WYN1</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "Baseball Shirt"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z05"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Ready_To_Wear_Men"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-t18ui4cq",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/ready-to-wear/_/N-t1b9f3zb",
+          "alternateName": "ready-to-wear",
+          "name": "プレタポルテ(洋服)",
+          "identifier": "m-readytowear"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/ready-to-wear/shirts/_/N-t1wtp7cj",
+          "alternateName": "shirts",
+          "name": "メンズ シャツ",
+          "identifier": "m-shirts-mrtw"
+        }
+      ],
+      "disclaimers": {
+        "customDisclaimer": false,
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "color": "ノワール",
+      "@context": "http://schema.org",
+      "identifier": "1AB5KV"
+    },
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/1AB5KW/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod4160093v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/1AB5KW"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/1AB5KW/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod4160093v/1AB5KW/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ブラック",
+      "@type": "ProductModel",
+      "identifierKey": "d68836d88646453c98f4dc938511a257",
+      "productDetailTabs": [],
+      "name": "ベースボールシャツ",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 156200
+        },
+        "@type": "Offer",
+        "price": "¥156,200"
+      },
+      "disambiguatingDescription": "ベースボールから着想を得た、スポーティな雰囲気のシャツ。ストライプのショートスリーブと、フロントを彩る「Louis Vuitton」シグネチャーや背面に配した大ぶりの「00」のレタリングなど、インターシャ(象嵌細工)で表現したグラフィカルなシグネチャーが特徴です。ベースボールカラーやコントラストカラーのパイピングを施した比翼仕立てのフロントファスニングなど、スポーティなディテールが散りばめられています。<p>ご不明な点がございましたら、クライアントサービスまでお気軽にお問合せください。専任のクライアントアドバイザーが、素材やサイズなどの製品詳細、モデル着用イメージや関連アイテムのご案内など、お客様のご要望に合わせたスタイリング・アドバイスをご提供いたします。</p><p>また、サイズ違いなどによる返品・交換のご相談も承ります。詳細は<a href='https://jp.louisvuitton.com/jpn-jp/legal-privacy'><b>こちら。</b></a></p>",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ベースボールシャツ-プレタポルテ-洋服--HOS83WYN1900_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ベースボールシャツ-プレタポルテ-洋服--HOS83WYN1900_PM1_Ambiance view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Ambiance view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/baseball-shirt-nvprod4160093v",
+      "highEndTemplate": false,
+      "sizeDisplayName": "S0",
+      "productId": "nvprod4160093v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-RTW-900_noir.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>本体：ポリエステル 73%、コットン 22%、ナイロン 4%、ポリウレタン 1%</li><li>ルーズフィット</li><li>モデル着用Mサイズ</li><li>モデル：胸囲 81cm、身長 187cm</li><li>イタリア製</li><li>REF：HOS83WYN1</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "Baseball Shirt"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z05"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Ready_To_Wear_Men"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-t18ui4cq",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/ready-to-wear/_/N-t1b9f3zb",
+          "alternateName": "ready-to-wear",
+          "name": "プレタポルテ(洋服)",
+          "identifier": "m-readytowear"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/ready-to-wear/shirts/_/N-t1wtp7cj",
+          "alternateName": "shirts",
+          "name": "メンズ シャツ",
+          "identifier": "m-shirts-mrtw"
+        }
+      ],
+      "disclaimers": {
+        "customDisclaimer": false,
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "color": "ノワール",
+      "@context": "http://schema.org",
+      "identifier": "1AB5KW"
+    },
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/1AB5KX/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod4160093v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/1AB5KX"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/1AB5KX/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod4160093v/1AB5KX/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ブラック",
+      "@type": "ProductModel",
+      "identifierKey": "238da507dc2ceb1f3ddb858ea984fa7c",
+      "productDetailTabs": [],
+      "name": "ベースボールシャツ",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 156200
+        },
+        "@type": "Offer",
+        "price": "¥156,200"
+      },
+      "disambiguatingDescription": "ベースボールから着想を得た、スポーティな雰囲気のシャツ。ストライプのショートスリーブと、フロントを彩る「Louis Vuitton」シグネチャーや背面に配した大ぶりの「00」のレタリングなど、インターシャ(象嵌細工)で表現したグラフィカルなシグネチャーが特徴です。ベースボールカラーやコントラストカラーのパイピングを施した比翼仕立てのフロントファスニングなど、スポーティなディテールが散りばめられています。<p>ご不明な点がございましたら、クライアントサービスまでお気軽にお問合せください。専任のクライアントアドバイザーが、素材やサイズなどの製品詳細、モデル着用イメージや関連アイテムのご案内など、お客様のご要望に合わせたスタイリング・アドバイスをご提供いたします。</p><p>また、サイズ違いなどによる返品・交換のご相談も承ります。詳細は<a href='https://jp.louisvuitton.com/jpn-jp/legal-privacy'><b>こちら。</b></a></p>",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ベースボールシャツ-プレタポルテ-洋服--HOS83WYN1900_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ベースボールシャツ-プレタポルテ-洋服--HOS83WYN1900_PM1_Ambiance view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Ambiance view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/baseball-shirt-nvprod4160093v",
+      "highEndTemplate": false,
+      "sizeDisplayName": "M0",
+      "productId": "nvprod4160093v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-RTW-900_noir.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>本体：ポリエステル 73%、コットン 22%、ナイロン 4%、ポリウレタン 1%</li><li>ルーズフィット</li><li>モデル着用Mサイズ</li><li>モデル：胸囲 81cm、身長 187cm</li><li>イタリア製</li><li>REF：HOS83WYN1</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "Baseball Shirt"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z05"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Ready_To_Wear_Men"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-t18ui4cq",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/ready-to-wear/_/N-t1b9f3zb",
+          "alternateName": "ready-to-wear",
+          "name": "プレタポルテ(洋服)",
+          "identifier": "m-readytowear"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/ready-to-wear/shirts/_/N-t1wtp7cj",
+          "alternateName": "shirts",
+          "name": "メンズ シャツ",
+          "identifier": "m-shirts-mrtw"
+        }
+      ],
+      "disclaimers": {
+        "customDisclaimer": false,
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "color": "ノワール",
+      "@context": "http://schema.org",
+      "identifier": "1AB5KX"
+    },
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/1AB5KY/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod4160093v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/1AB5KY"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/1AB5KY/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod4160093v/1AB5KY/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ブラック",
+      "@type": "ProductModel",
+      "identifierKey": "45e61a9ffb3577293120b30c930bd9ac",
+      "productDetailTabs": [],
+      "name": "ベースボールシャツ",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 156200
+        },
+        "@type": "Offer",
+        "price": "¥156,200"
+      },
+      "disambiguatingDescription": "ベースボールから着想を得た、スポーティな雰囲気のシャツ。ストライプのショートスリーブと、フロントを彩る「Louis Vuitton」シグネチャーや背面に配した大ぶりの「00」のレタリングなど、インターシャ(象嵌細工)で表現したグラフィカルなシグネチャーが特徴です。ベースボールカラーやコントラストカラーのパイピングを施した比翼仕立てのフロントファスニングなど、スポーティなディテールが散りばめられています。<p>ご不明な点がございましたら、クライアントサービスまでお気軽にお問合せください。専任のクライアントアドバイザーが、素材やサイズなどの製品詳細、モデル着用イメージや関連アイテムのご案内など、お客様のご要望に合わせたスタイリング・アドバイスをご提供いたします。</p><p>また、サイズ違いなどによる返品・交換のご相談も承ります。詳細は<a href='https://jp.louisvuitton.com/jpn-jp/legal-privacy'><b>こちら。</b></a></p>",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ベースボールシャツ-プレタポルテ-洋服--HOS83WYN1900_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ベースボールシャツ-プレタポルテ-洋服--HOS83WYN1900_PM1_Ambiance view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Ambiance view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/baseball-shirt-nvprod4160093v",
+      "highEndTemplate": false,
+      "sizeDisplayName": "L0",
+      "productId": "nvprod4160093v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-RTW-900_noir.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>本体：ポリエステル 73%、コットン 22%、ナイロン 4%、ポリウレタン 1%</li><li>ルーズフィット</li><li>モデル着用Mサイズ</li><li>モデル：胸囲 81cm、身長 187cm</li><li>イタリア製</li><li>REF：HOS83WYN1</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "Baseball Shirt"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z05"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Ready_To_Wear_Men"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-t18ui4cq",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/ready-to-wear/_/N-t1b9f3zb",
+          "alternateName": "ready-to-wear",
+          "name": "プレタポルテ(洋服)",
+          "identifier": "m-readytowear"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/ready-to-wear/shirts/_/N-t1wtp7cj",
+          "alternateName": "shirts",
+          "name": "メンズ シャツ",
+          "identifier": "m-shirts-mrtw"
+        }
+      ],
+      "disclaimers": {
+        "customDisclaimer": false,
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "color": "ノワール",
+      "@context": "http://schema.org",
+      "identifier": "1AB5KY"
+    },
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/1AB5KZ/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod4160093v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/1AB5KZ"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/1AB5KZ/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod4160093v/1AB5KZ/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ブラック",
+      "@type": "ProductModel",
+      "identifierKey": "b8cbc48857e65c0d1863ea07f9e79c3d",
+      "productDetailTabs": [],
+      "name": "ベースボールシャツ",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 156200
+        },
+        "@type": "Offer",
+        "price": "¥156,200"
+      },
+      "disambiguatingDescription": "ベースボールから着想を得た、スポーティな雰囲気のシャツ。ストライプのショートスリーブと、フロントを彩る「Louis Vuitton」シグネチャーや背面に配した大ぶりの「00」のレタリングなど、インターシャ(象嵌細工)で表現したグラフィカルなシグネチャーが特徴です。ベースボールカラーやコントラストカラーのパイピングを施した比翼仕立てのフロントファスニングなど、スポーティなディテールが散りばめられています。<p>ご不明な点がございましたら、クライアントサービスまでお気軽にお問合せください。専任のクライアントアドバイザーが、素材やサイズなどの製品詳細、モデル着用イメージや関連アイテムのご案内など、お客様のご要望に合わせたスタイリング・アドバイスをご提供いたします。</p><p>また、サイズ違いなどによる返品・交換のご相談も承ります。詳細は<a href='https://jp.louisvuitton.com/jpn-jp/legal-privacy'><b>こちら。</b></a></p>",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ベースボールシャツ-プレタポルテ-洋服--HOS83WYN1900_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ベースボールシャツ-プレタポルテ-洋服--HOS83WYN1900_PM1_Ambiance view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Ambiance view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/baseball-shirt-nvprod4160093v",
+      "highEndTemplate": false,
+      "sizeDisplayName": "XL",
+      "productId": "nvprod4160093v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-RTW-900_noir.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>本体：ポリエステル 73%、コットン 22%、ナイロン 4%、ポリウレタン 1%</li><li>ルーズフィット</li><li>モデル着用Mサイズ</li><li>モデル：胸囲 81cm、身長 187cm</li><li>イタリア製</li><li>REF：HOS83WYN1</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "Baseball Shirt"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z05"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Ready_To_Wear_Men"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-t18ui4cq",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/ready-to-wear/_/N-t1b9f3zb",
+          "alternateName": "ready-to-wear",
+          "name": "プレタポルテ(洋服)",
+          "identifier": "m-readytowear"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/ready-to-wear/shirts/_/N-t1wtp7cj",
+          "alternateName": "shirts",
+          "name": "メンズ シャツ",
+          "identifier": "m-shirts-mrtw"
+        }
+      ],
+      "disclaimers": {
+        "customDisclaimer": false,
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "color": "ノワール",
+      "@context": "http://schema.org",
+      "identifier": "1AB5KZ"
+    },
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/1AB5L0/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod4160093v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/1AB5L0"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/1AB5L0/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod4160093v/1AB5L0/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ブラック",
+      "@type": "ProductModel",
+      "identifierKey": "e591877a24ff5cb89b1f11a4264db81b",
+      "productDetailTabs": [],
+      "name": "ベースボールシャツ",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 156200
+        },
+        "@type": "Offer",
+        "price": "¥156,200"
+      },
+      "disambiguatingDescription": "ベースボールから着想を得た、スポーティな雰囲気のシャツ。ストライプのショートスリーブと、フロントを彩る「Louis Vuitton」シグネチャーや背面に配した大ぶりの「00」のレタリングなど、インターシャ(象嵌細工)で表現したグラフィカルなシグネチャーが特徴です。ベースボールカラーやコントラストカラーのパイピングを施した比翼仕立てのフロントファスニングなど、スポーティなディテールが散りばめられています。<p>ご不明な点がございましたら、クライアントサービスまでお気軽にお問合せください。専任のクライアントアドバイザーが、素材やサイズなどの製品詳細、モデル着用イメージや関連アイテムのご案内など、お客様のご要望に合わせたスタイリング・アドバイスをご提供いたします。</p><p>また、サイズ違いなどによる返品・交換のご相談も承ります。詳細は<a href='https://jp.louisvuitton.com/jpn-jp/legal-privacy'><b>こちら。</b></a></p>",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ベースボールシャツ-プレタポルテ-洋服--HOS83WYN1900_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ベースボールシャツ-プレタポルテ-洋服--HOS83WYN1900_PM1_Ambiance view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Ambiance view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/baseball-shirt-nvprod4160093v",
+      "highEndTemplate": false,
+      "sizeDisplayName": "3L",
+      "productId": "nvprod4160093v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-RTW-900_noir.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>本体：ポリエステル 73%、コットン 22%、ナイロン 4%、ポリウレタン 1%</li><li>ルーズフィット</li><li>モデル着用Mサイズ</li><li>モデル：胸囲 81cm、身長 187cm</li><li>イタリア製</li><li>REF：HOS83WYN1</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "Baseball Shirt"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z05"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Ready_To_Wear_Men"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-t18ui4cq",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/ready-to-wear/_/N-t1b9f3zb",
+          "alternateName": "ready-to-wear",
+          "name": "プレタポルテ(洋服)",
+          "identifier": "m-readytowear"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/ready-to-wear/shirts/_/N-t1wtp7cj",
+          "alternateName": "shirts",
+          "name": "メンズ シャツ",
+          "identifier": "m-shirts-mrtw"
+        }
+      ],
+      "disclaimers": {
+        "customDisclaimer": false,
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "color": "ノワール",
+      "@context": "http://schema.org",
+      "identifier": "1AB5L0"
+    },
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/1AB5L1/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod4160093v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/1AB5L1"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/1AB5L1/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod4160093v/1AB5L1/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ブラック",
+      "@type": "ProductModel",
+      "identifierKey": "3e7d1b0e39ecd091b191607e28ce053f",
+      "productDetailTabs": [],
+      "name": "ベースボールシャツ",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 156200
+        },
+        "@type": "Offer",
+        "price": "¥156,200"
+      },
+      "disambiguatingDescription": "ベースボールから着想を得た、スポーティな雰囲気のシャツ。ストライプのショートスリーブと、フロントを彩る「Louis Vuitton」シグネチャーや背面に配した大ぶりの「00」のレタリングなど、インターシャ(象嵌細工)で表現したグラフィカルなシグネチャーが特徴です。ベースボールカラーやコントラストカラーのパイピングを施した比翼仕立てのフロントファスニングなど、スポーティなディテールが散りばめられています。<p>ご不明な点がございましたら、クライアントサービスまでお気軽にお問合せください。専任のクライアントアドバイザーが、素材やサイズなどの製品詳細、モデル着用イメージや関連アイテムのご案内など、お客様のご要望に合わせたスタイリング・アドバイスをご提供いたします。</p><p>また、サイズ違いなどによる返品・交換のご相談も承ります。詳細は<a href='https://jp.louisvuitton.com/jpn-jp/legal-privacy'><b>こちら。</b></a></p>",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ベースボールシャツ-プレタポルテ-洋服--HOS83WYN1900_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ベースボールシャツ-プレタポルテ-洋服--HOS83WYN1900_PM1_Ambiance view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Ambiance view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/baseball-shirt-nvprod4160093v",
+      "highEndTemplate": false,
+      "sizeDisplayName": "4L",
+      "productId": "nvprod4160093v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-RTW-900_noir.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>本体：ポリエステル 73%、コットン 22%、ナイロン 4%、ポリウレタン 1%</li><li>ルーズフィット</li><li>モデル着用Mサイズ</li><li>モデル：胸囲 81cm、身長 187cm</li><li>イタリア製</li><li>REF：HOS83WYN1</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "Baseball Shirt"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z05"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Ready_To_Wear_Men"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-t18ui4cq",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/ready-to-wear/_/N-t1b9f3zb",
+          "alternateName": "ready-to-wear",
+          "name": "プレタポルテ(洋服)",
+          "identifier": "m-readytowear"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/ready-to-wear/shirts/_/N-t1wtp7cj",
+          "alternateName": "shirts",
+          "name": "メンズ シャツ",
+          "identifier": "m-shirts-mrtw"
+        }
+      ],
+      "disclaimers": {
+        "customDisclaimer": false,
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "color": "ノワール",
+      "@context": "http://schema.org",
+      "identifier": "1AB5L1"
+    },
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/1AB5L2/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod4160093v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/1AB5L2"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/1AB5L2/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod4160093v/1AB5L2/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ブラック",
+      "@type": "ProductModel",
+      "identifierKey": "0c145d47fd09e9dde703e30b89b3a729",
+      "productDetailTabs": [],
+      "name": "ベースボールシャツ",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 156200
+        },
+        "@type": "Offer",
+        "price": "¥156,200"
+      },
+      "disambiguatingDescription": "ベースボールから着想を得た、スポーティな雰囲気のシャツ。ストライプのショートスリーブと、フロントを彩る「Louis Vuitton」シグネチャーや背面に配した大ぶりの「00」のレタリングなど、インターシャ(象嵌細工)で表現したグラフィカルなシグネチャーが特徴です。ベースボールカラーやコントラストカラーのパイピングを施した比翼仕立てのフロントファスニングなど、スポーティなディテールが散りばめられています。<p>ご不明な点がございましたら、クライアントサービスまでお気軽にお問合せください。専任のクライアントアドバイザーが、素材やサイズなどの製品詳細、モデル着用イメージや関連アイテムのご案内など、お客様のご要望に合わせたスタイリング・アドバイスをご提供いたします。</p><p>また、サイズ違いなどによる返品・交換のご相談も承ります。詳細は<a href='https://jp.louisvuitton.com/jpn-jp/legal-privacy'><b>こちら。</b></a></p>",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ベースボールシャツ-プレタポルテ-洋服--HOS83WYN1900_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ベースボールシャツ-プレタポルテ-洋服--HOS83WYN1900_PM1_Ambiance view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Ambiance view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/baseball-shirt-nvprod4160093v",
+      "highEndTemplate": false,
+      "sizeDisplayName": "5L",
+      "productId": "nvprod4160093v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-RTW-900_noir.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>本体：ポリエステル 73%、コットン 22%、ナイロン 4%、ポリウレタン 1%</li><li>ルーズフィット</li><li>モデル着用Mサイズ</li><li>モデル：胸囲 81cm、身長 187cm</li><li>イタリア製</li><li>REF：HOS83WYN1</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "Baseball Shirt"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z05"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Ready_To_Wear_Men"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-t18ui4cq",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/ready-to-wear/_/N-t1b9f3zb",
+          "alternateName": "ready-to-wear",
+          "name": "プレタポルテ(洋服)",
+          "identifier": "m-readytowear"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/ready-to-wear/shirts/_/N-t1wtp7cj",
+          "alternateName": "shirts",
+          "name": "メンズ シャツ",
+          "identifier": "m-shirts-mrtw"
+        }
+      ],
+      "disclaimers": {
+        "customDisclaimer": false,
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "color": "ノワール",
+      "@context": "http://schema.org",
+      "identifier": "1AB5L2"
+    },
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/1AB5L3/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod4160093v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/1AB5L3"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/1AB5L3/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod4160093v/1AB5L3/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ブラック",
+      "@type": "ProductModel",
+      "identifierKey": "e0c44d1fdda2eae813b8e013d1b37371",
+      "productDetailTabs": [],
+      "name": "ベースボールシャツ",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 156200
+        },
+        "@type": "Offer",
+        "price": "¥156,200"
+      },
+      "disambiguatingDescription": "ベースボールから着想を得た、スポーティな雰囲気のシャツ。ストライプのショートスリーブと、フロントを彩る「Louis Vuitton」シグネチャーや背面に配した大ぶりの「00」のレタリングなど、インターシャ(象嵌細工)で表現したグラフィカルなシグネチャーが特徴です。ベースボールカラーやコントラストカラーのパイピングを施した比翼仕立てのフロントファスニングなど、スポーティなディテールが散りばめられています。<p>ご不明な点がございましたら、クライアントサービスまでお気軽にお問合せください。専任のクライアントアドバイザーが、素材やサイズなどの製品詳細、モデル着用イメージや関連アイテムのご案内など、お客様のご要望に合わせたスタイリング・アドバイスをご提供いたします。</p><p>また、サイズ違いなどによる返品・交換のご相談も承ります。詳細は<a href='https://jp.louisvuitton.com/jpn-jp/legal-privacy'><b>こちら。</b></a></p>",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ベースボールシャツ-プレタポルテ-洋服--HOS83WYN1900_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ベースボールシャツ-プレタポルテ-洋服--HOS83WYN1900_PM1_Ambiance view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Ambiance view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/baseball-shirt-nvprod4160093v",
+      "highEndTemplate": false,
+      "sizeDisplayName": "6L",
+      "productId": "nvprod4160093v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-RTW-900_noir.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>本体：ポリエステル 73%、コットン 22%、ナイロン 4%、ポリウレタン 1%</li><li>ルーズフィット</li><li>モデル着用Mサイズ</li><li>モデル：胸囲 81cm、身長 187cm</li><li>イタリア製</li><li>REF：HOS83WYN1</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "Baseball Shirt"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z05"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Ready_To_Wear_Men"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-t18ui4cq",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/ready-to-wear/_/N-t1b9f3zb",
+          "alternateName": "ready-to-wear",
+          "name": "プレタポルテ(洋服)",
+          "identifier": "m-readytowear"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/ready-to-wear/shirts/_/N-t1wtp7cj",
+          "alternateName": "shirts",
+          "name": "メンズ シャツ",
+          "identifier": "m-shirts-mrtw"
+        }
+      ],
+      "disclaimers": {
+        "customDisclaimer": false,
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "color": "ノワール",
+      "@context": "http://schema.org",
+      "identifier": "1AB5L3"
+    }
+  ],
+  "panelInformations": [
+    {
+      "@type": "ProductCare",
+      "title": "素材とお手入れ方法、修理",
+      "description": "<ul><li>弱流でドライクリーニング可</li><li>ドライクリーニングの際は、裏返してネットに入れてください</li><li>アイロン掛けの際は、裏返しにしてあて布を使用してください</li></ul>",
+      "introduction": "<div class=\"popinHeader uppercase\">本製品のお手入れに際しては、次の取扱い表示をご確認いただき、末永くご愛用くださいますようお願い申しあげます。</div>"
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "/api/catalog/jpn-jp/product/nvprod4160093v"
+    },
+    "push": {
+      "href": "/api/catalog/jpn-jp/product-push/nvprod4160093v"
+    },
+    "care-link": {
+      "href": "/api/catalog/jpn-jp/care-link/nvprod4160093v"
+    },
+    "size-guide": {
+      "href": "/api/catalog/jpn-jp/size-guide/nvprod4160093v"
+    },
+    "availability": {
+      "href": "/api/catalog/jpn-jp/availability/nvprod4160093v"
+    }
+  },
+  "@type": "Product",
+  "sku": "1AB5KX",
+  "isSimilarTo": [],
+  "productTips": [],
+  "url": "/jpn-jp/products/baseball-shirt-nvprod4160093v",
+  "category": [
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/_/N-t18ui4cq",
+      "alternateName": "men",
+      "name": "メンズ",
+      "identifier": "homme"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/ready-to-wear/_/N-t1b9f3zb",
+      "alternateName": "ready-to-wear",
+      "name": "プレタポルテ(洋服)",
+      "identifier": "m-readytowear"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/ready-to-wear/shirts/_/N-t1wtp7cj",
+      "alternateName": "shirts",
+      "name": "メンズ シャツ",
+      "identifier": "m-shirts-mrtw"
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "hidePrice",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "subType",
+      "value": "product"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "sizeGuide",
+      "value": true
+    }
+  ],
+  "name": "ベースボールシャツ",
+  "isRelatedTo": [],
+  "@context": "http://schema.org",
+  "identifier": "nvprod4160093v"
+}
