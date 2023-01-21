@@ -2,6 +2,7 @@ import React, { useCallback, useContext } from "react";
 import { FilterBookmarkContext } from "../context/FilterBookmarkContext";
 import { FilterFavContext } from "../context/FilterFavContext";
 import { useLocalStorage } from "../hooks/localStorage";
+import { yenFormat } from "../lib/yen";
 
 export const ModelCell: React.FC<{ productId: string; model: any }> =
   React.memo(({ productId, model }) => {
@@ -131,7 +132,9 @@ export const ModelCell: React.FC<{ productId: string; model: any }> =
             textOverflow: "ellipsis",
           }}
         >
-          {model.offers.price}
+          {yenFormat(
+            parseInt(model.offers.price.replace(/¥/g, "").replace(/,/g, ""))
+          )}
         </span>
         {model.height && (
           <span

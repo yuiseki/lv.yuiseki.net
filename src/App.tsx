@@ -7,6 +7,7 @@ import { FilterFavContext } from "./context/FilterFavContext";
 import { useDebounce } from "./hooks/debounce";
 import { useLocalStorage } from "./hooks/localStorage";
 import { PRICE_LIMIT } from "./lib/const";
+import { yenFormat } from "./lib/yen";
 
 function App() {
   const [products, setProducts] = useState<string[] | undefined>(undefined);
@@ -271,8 +272,7 @@ function App() {
                 marginBottom: "15px",
               }}
             >
-              <b>{products.length}</b> items, Total{" "}
-              {totalPrice.toLocaleString()} 円
+              <b>{products.length}</b> items, <b>計 {yenFormat(totalPrice)}</b>
             </div>
           </div>
           <div

@@ -1,5 +1,6 @@
 import { useState } from "react";
 import { PRICE_LIMIT, PRICE_STEP } from "../lib/const";
+import { yenFormat } from "../lib/yen";
 
 export const PriceRangeInput: React.FC<{
   onChangeMinPrice: (value: number) => void;
@@ -36,8 +37,8 @@ export const PriceRangeInput: React.FC<{
           }}
         />
         <div style={{ flexGrow: 1, textAlign: "center" }}>
-          <span>{minPrice.toLocaleString()}円</span> ～{" "}
-          <span>{maxPrice.toLocaleString()}円</span>
+          <span>{yenFormat(minPrice)}</span> ～{" "}
+          <span>{yenFormat(maxPrice)}</span>
         </div>
         <input
           style={{
