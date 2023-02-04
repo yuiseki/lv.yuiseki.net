@@ -72,7 +72,7 @@ function App() {
           return true;
         })
         .filter((line) => {
-          const price = parseInt(line.split(",")[3]);
+          const price = parseInt(line.split(",")[2]);
           if (Number.isNaN(price)) {
             return false;
           }
@@ -85,7 +85,7 @@ function App() {
           return true;
         })
         .map((line) => {
-          return [line.split(",")[0].replaceAll('"', ""), line.split(",")[3]];
+          return [line.split(",")[0].replaceAll('"', ""), line.split(",")[2]];
         })
         //.filter((line) => {
         //  return line.length < 25;
