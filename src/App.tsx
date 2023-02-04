@@ -46,8 +46,13 @@ function App() {
       }
       console.log("bookmark: ", bookmarkProducts);
 
-      const res = await fetch("/search.csv");
-      const text = await res.text();
+      const res00 = await fetch("/search_00.csv");
+      const text00 = await res00.text();
+      const res01 = await fetch("/search_01.csv");
+      const text01 = await res01.text();
+      const res02 = await fetch("/search_02.csv");
+      const text02 = await res02.text();
+      const text = text00 + "\n" + text01 + "\n" + text02;
       let newTotalPrice = 0;
       const allProducts = text
         .split("\n")
