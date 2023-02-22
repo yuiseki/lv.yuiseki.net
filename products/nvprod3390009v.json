@@ -1,0 +1,429 @@
+{
+  "model": [
+    {
+      "productVisible": true,
+      "macroColor": "マルチカラー",
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/R96280/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod3390009v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/R96280"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/R96280/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod3390009v/R96280/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "@type": "ProductModel",
+      "height": {
+        "@type": "QuantitativeValue",
+        "value": 195,
+        "unitText": "cm"
+      },
+      "productDetailTabs": [],
+      "name": "Totem Lumineux by Studio Louis Vuitton",
+      "isBaby": false,
+      "mainMaterial2": "GLASS",
+      "width": {
+        "@type": "QuantitativeValue",
+        "value": 45,
+        "unitText": "cm"
+      },
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 3861000
+        },
+        "@type": "Offer",
+        "price": "¥3,861,000"
+      },
+      "disambiguatingDescription": "繊細かつエレガントなデザインの「Totem Lumineux by Studio Louis Vuitton」。ピーコックブルー、カプリイエロー、カリビアングリーン、ヴェネチアンルビー、エメラルドグリーンの5色からなる手吹きのムラーノガラスのスフィアを、7個組み合わせました。1番下のスフィアは、サンドブラスト加工によるLV シグネチャー入り。7個のスフィアは重厚な大理石の台座の上に配置され、LEDの柱の光を美しく温め、屈折させます。ゴールドカラーのメタル製のリングで各スフィアの間を支え、一番上のリングには「Louis Vuitton」シグネチャーの刻印を施しました。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-totem-lumineux-by-studio-louis-vuitton-ホーム--R96280_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-totem-lumineux-by-studio-louis-vuitton-ホーム--R96280_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/totem-lumineux-by-studio-louis-vuitton-nvprod3390009v",
+      "material": "GLASS",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 45,
+        "unitText": "cm"
+      },
+      "highEndTemplate": false,
+      "productId": "nvprod3390009v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-LG-Multicolore.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>高さ：195cm</li><li>直径：45cm</li><li>カララ大理石のベース：Ø 450mm H125mm</li><li>リング（色：ゴールド）</li><li>LEDドライバー</li><li>ON/OFFのセレクター + TbC調光器</li><li>ディフューザー</li><li>LEDストライプ：50000h/ 3000°k</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "Totem Lumineux By Studio Louis Vuitton"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z01"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/art-of-living/_/N-tmb5aeq",
+          "alternateName": "art-of-living",
+          "name": "ライフスタイル",
+          "identifier": "nvcat1840004v"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/art-of-living/home/_/N-t18m54i3",
+          "alternateName": "home",
+          "name": "ホーム",
+          "identifier": "nvcat1840008v"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/art-of-living/home/furniture/_/N-trwa3z9",
+          "alternateName": "furniture",
+          "name": "ファニチャー",
+          "identifier": "nvcat1840019v"
+        }
+      ],
+      "careLink": {
+        "sections": []
+      },
+      "disclaimers": {
+        "customDisclaimer": false,
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "color": "マルチカラー",
+      "@context": "http://schema.org",
+      "identifier": "R96280"
+    },
+    {
+      "productVisible": true,
+      "macroColor": "ホワイト",
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/R95051/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod3390009v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/R95051"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/R95051/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod3390009v/R95051/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "@type": "ProductModel",
+      "productDetailTabs": [],
+      "name": "Totem Lumineux by Studio Louis Vuitton",
+      "isBaby": false,
+      "mainMaterial2": "GLASS",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 3861000
+        },
+        "@type": "Offer",
+        "price": "¥3,861,000"
+      },
+      "disambiguatingDescription": "繊細かつエレガントなデザインの「Totem Lumineux by Studio Louis Vuitton」。ピーコックブルー、カプリイエロー、カリビアングリーン、ヴェネチアンルビー、エメラルドグリーンの5色からなる手吹きのムラーノガラスのスフィアを、7個組み合わせました。1番下のスフィアは、サンドブラスト加工によるLV シグネチャー入り。7個のスフィアは重厚な大理石の台座の上に配置され、LEDの柱の光を美しく温め、屈折させます。ゴールドカラーのメタル製のリングで各スフィアの間を支え、一番上のリングには「Louis Vuitton」シグネチャーの刻印を施しました。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-totem-lumineux-by-studio-louis-vuitton-ホーム--R95051_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/totem-lumineux-by-studio-louis-vuitton-nvprod3390009v",
+      "material": "GLASS",
+      "highEndTemplate": false,
+      "productId": "nvprod3390009v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-ACC-907_blanc.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>高さ：195cm</li><li>直径：45cm</li><li>カララ大理石のベース：Ø 450mm H125mm</li><li>リング（色：ゴールド）</li><li>LEDドライバー</li><li>ON/OFFのセレクター + TbC調光器</li><li>ディフューザー</li><li>LEDストライプ：50000h/ 3000°k</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "Totem Lumineux By Studio Louis Vuitton"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z01"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/art-of-living/_/N-tmb5aeq",
+          "alternateName": "art-of-living",
+          "name": "ライフスタイル",
+          "identifier": "nvcat1840004v"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/art-of-living/home/_/N-t18m54i3",
+          "alternateName": "home",
+          "name": "ホーム",
+          "identifier": "nvcat1840008v"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/art-of-living/home/furniture/_/N-trwa3z9",
+          "alternateName": "furniture",
+          "name": "ファニチャー",
+          "identifier": "nvcat1840019v"
+        }
+      ],
+      "careLink": {
+        "sections": []
+      },
+      "disclaimers": {
+        "customDisclaimer": false,
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "color": "ブロン",
+      "@context": "http://schema.org",
+      "identifier": "R95051"
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "/api/catalog/jpn-jp/product/nvprod3390009v"
+    },
+    "push": {
+      "href": "/api/catalog/jpn-jp/product-push/nvprod3390009v"
+    },
+    "care-link": {
+      "href": "/api/catalog/jpn-jp/care-link/nvprod3390009v"
+    },
+    "availability": {
+      "href": "/api/catalog/jpn-jp/availability/nvprod3390009v"
+    }
+  },
+  "@type": "Product",
+  "sku": "R96280",
+  "isSimilarTo": [],
+  "productTips": [],
+  "url": "/jpn-jp/products/totem-lumineux-by-studio-louis-vuitton-nvprod3390009v",
+  "material": "ファッション小物",
+  "category": [
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/art-of-living/_/N-tmb5aeq",
+      "alternateName": "art-of-living",
+      "name": "ライフスタイル",
+      "identifier": "nvcat1840004v"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/art-of-living/home/_/N-t18m54i3",
+      "alternateName": "home",
+      "name": "ホーム",
+      "identifier": "nvcat1840008v"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/art-of-living/home/furniture/_/N-trwa3z9",
+      "alternateName": "furniture",
+      "name": "ファニチャー",
+      "identifier": "nvcat1840019v"
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "hidePrice",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "subType",
+      "value": "product"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "materialIconURL",
+      "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--AEL-LG-N00_sans_ligne_esthetique.jpg"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "careLink",
+      "value": "LGAESTHETICLINEZ24"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "sizeGuide",
+      "value": false
+    }
+  ],
+  "name": "Totem Lumineux by Studio Louis Vuitton",
+  "isRelatedTo": [],
+  "@context": "http://schema.org",
+  "identifier": "nvprod3390009v"
+}
