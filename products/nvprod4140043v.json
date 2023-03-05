@@ -1,0 +1,321 @@
+{
+  "model": [
+    {
+      "productVisible": true,
+      "macroColor": "クリア",
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/P0176Z/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod4140043v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/P0176Z"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/P0176Z/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-perso": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "@type": "ProductModel",
+      "productDetailTabs": [],
+      "name": "サンチュール・マイLV ピラミッド 40MM",
+      "isBaby": false,
+      "mainMaterial2": "COATED CANVAS",
+      "width": {
+        "@type": "QuantitativeValue",
+        "value": 40,
+        "unitText": "cm"
+      },
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 99000
+        },
+        "@type": "Offer",
+        "price": "¥99,000"
+      },
+      "disambiguatingDescription": "さまざまなカスタマイズが可能な｢サンチュール･マイLV ピラミッド｣。他にはない個性を湛えたベルトはお客様だけの特別な一品に。リバーシブル仕様のベルト部分は片面がメゾンのアイコニックなモノグラム･キャンバス、もう片面を8色のレザーからお選びいただけます。また、LV イニシャルが浮き出た｢LV ピラミッド｣バックルもレザーと同様、8色をご用意しています。さらに、ベルト部分は両サイド共コントラストカラーでイニシャルをプリントすることも可能です。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-サンチュール・マイlv-ピラミッド-40mm-モノグラム-メンズ-ベルト--P0176Z_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-サンチュール・マイlv-ピラミッド-40mm-モノグラム-メンズ-ベルト--P0176Z_PM1_Back view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Back view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/my-lv-pyramide-belt-monogram-nvprod4140043v",
+      "material": "MONOGRAM CANVAS",
+      "highEndTemplate": false,
+      "sizeDisplayName": "NA",
+      "productId": "nvprod4140043v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>サイズ 85 : 107.5 cm</li><li>サイズ 90 : 112.5 cm</li><li>サイズ 95 : 117.5 cm </li><li>サイズ 100 : 122.5 cm </li><li>サイズ 105 : 127.5 cm </li><li>サイズ 110 : 132.5 cm</li><li>サイズ 115 : 137.5 cm</li><li>サイズ 120 : 142.5 cm</li><li>ベルト幅 : 4 cm</li><li>バックル幅 : 4.5 cm</li><li>バックルの高さ : 5 cm </li><li>素材：モノグラム･キャンバス</li><li>カスタマイズ可能なカラーのレザー</li><li>両面にカスタマイズ可能なイニシャル (A から Z,  ドット有無選択可能)</li><li>カスタマイズ可能なカラーのLV ピラミッドバックル</li><li>スペイン製</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "My LV Pyramide 40 MM Belt"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "persoOfferItem",
+          "value": {
+            "@type": "PropertyValue",
+            "value": [
+              {
+                "@type": "StructuredValue",
+                "name": "DeliveryDelayInformationDefault",
+                "identifier": "数週間で店舗へお届け予定。詳細は、クライアントサービスまでお問合せください(Tel.0120-00-1854)。"
+              },
+              {
+                "@type": "StructuredValue",
+                "name": "DisplayNameDefault",
+                "identifier": "NowYours in CSC"
+              },
+              {
+                "@type": "StructuredValue",
+                "name": "InternalName",
+                "identifier": "NowYours in CSC"
+              },
+              {
+                "@type": "StructuredValue",
+                "name": "MyLVshippingInformationDefault"
+              },
+              {
+                "@type": "StructuredValue",
+                "name": "OfferDescriptionDefault",
+                "identifier": "特別な一品のためのパーソナライゼーション･サービス"
+              },
+              {
+                "@type": "StructuredValue",
+                "name": "OfferInformationDefault",
+                "identifier": "こちらの製品はメイド･トゥ･オーダーのため、お届け目安として数週間かかります。詳細は、クライアントサービスまでお問合せください(Tel.0120-00-1854)。"
+              },
+              {
+                "@type": "StructuredValue",
+                "name": "RefundableDefault",
+                "identifier": false
+              },
+              {
+                "@type": "StructuredValue",
+                "name": "ReturnPolicyDefault",
+                "identifier": "返品･交換は承りかねますので予めご了承ください。"
+              },
+              {
+                "@type": "StructuredValue",
+                "name": "SalesforceIntegrationDefault",
+                "identifier": true
+              },
+              {
+                "@type": "StructuredValue",
+                "name": "ShippingInformationDefault",
+                "identifier": "こちらの製品はメイド･トゥ･オーダーのため、お届け目安として数週間かかります。詳細は、クライアントサービスまでお問合せください(Tel.0120-00-1854)。製品の発送が完了次第、メールにてお知らせいたしますのでお待ちください。"
+              },
+              {
+                "@type": "StructuredValue",
+                "name": "SplitShippingDefault",
+                "identifier": true
+              }
+            ]
+          }
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "recipeId",
+          "value": "81870555"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "fluidProductId",
+          "value": "25121"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories;Sunglasses"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-t18ui4cq",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/accessories/_/N-t11ae5nz",
+          "alternateName": "accessories",
+          "name": "アクセサリー",
+          "identifier": "m-category-cat10052"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/accessories/belts/_/N-t1g9dx5w",
+          "alternateName": "belts",
+          "name": "メンズ ベルト",
+          "identifier": "m-category-cat1410153"
+        }
+      ],
+      "careLink": {
+        "sections": []
+      },
+      "disclaimers": {
+        "customDisclaimer": false,
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "color": "Personnalisable",
+      "@context": "http://schema.org",
+      "identifier": "P0176Z"
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "/api/catalog/jpn-jp/product/nvprod4140043v"
+    },
+    "push": {
+      "href": "/api/catalog/jpn-jp/product-push/nvprod4140043v"
+    },
+    "care-link": {
+      "href": "/api/catalog/jpn-jp/care-link/nvprod4140043v"
+    },
+    "size-guide": {
+      "href": "/api/catalog/jpn-jp/size-guide/nvprod4140043v"
+    },
+    "availability": {
+      "href": "/api/catalog/jpn-jp/availability/nvprod4140043v"
+    }
+  },
+  "@type": "Product",
+  "sku": "P0176Z",
+  "isSimilarTo": [],
+  "productTips": [],
+  "url": "/jpn-jp/products/my-lv-pyramide-belt-monogram-nvprod4140043v",
+  "material": "モノグラム",
+  "category": [
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/_/N-t18ui4cq",
+      "alternateName": "men",
+      "name": "メンズ",
+      "identifier": "homme"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/accessories/_/N-t11ae5nz",
+      "alternateName": "accessories",
+      "name": "アクセサリー",
+      "identifier": "m-category-cat10052"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/accessories/belts/_/N-t1g9dx5w",
+      "alternateName": "belts",
+      "name": "メンズ ベルト",
+      "identifier": "m-category-cat1410153"
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "hidePrice",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "subType",
+      "value": "product"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "materialIconURL",
+      "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--AEL-LG-G00_monogram.jpg"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "sizeGuide",
+      "value": true
+    }
+  ],
+  "name": "サンチュール・マイLV ピラミッド 40MM",
+  "isRelatedTo": [],
+  "@context": "http://schema.org",
+  "identifier": "nvprod4140043v"
+}
