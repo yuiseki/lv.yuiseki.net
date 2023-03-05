@@ -1,0 +1,412 @@
+{
+  "model": [
+    {
+      "productVisible": true,
+      "macroColor": "グリーン",
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/M01105/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod4220035v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/M01105"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/M01105/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod4220035v/M01105/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "@type": "ProductModel",
+      "identifierKey": "44add06baf773f4d921de334b1525846",
+      "productDetailTabs": [],
+      "name": "ポルト クレ・スリム ドラゴンヌ",
+      "isBaby": false,
+      "mainMaterial2": "COWHIDE",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 37400
+        },
+        "@type": "Offer",
+        "price": "¥37,400"
+      },
+      "disambiguatingDescription": "<p>今シーズンを象徴する鮮やかなカラーが魅力の｢ポルト クレ･スリム ドラゴンヌ｣。モノグラム･キャンバスとタイガ･レザーで仕立てた機能性に優れたファッショナブルなアクセサリーに、艶やかなシルバーカラーのメタルパーツでアクセントを加えました。精緻に刻印された｢Louis Vuitton｣シグネチャーや細密に作られたLV メダリオンが個性を放ちます。メゾンを愛するコレクターの方へのギフトとしても最適です。</p>",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ポルト-クレ・スリム-ドラゴンヌ-s00-メンズ-キーホルダー＆バッグチャーム--M01105_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ポルト-クレ・スリム-ドラゴンヌ-s00-メンズ-キーホルダー＆バッグチャーム--M01105_PM1_Back view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Back view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/slim-dragonne-bag-charm-key-holder-s00-nvprod4220035v",
+      "material": "COATED CANVAS",
+      "highEndTemplate": false,
+      "productId": "nvprod4220035v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-ACC-90T_green.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>素材：モノグラム･キャンバス</li><li>トリミング：タイガ･レザー（皮革の種類：牛革） </li><li>金具（色：シルバー）</li><li>シグネチャーの刻印</li><li>スペイン製</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "Slim Dragonne Bag Charm & Key Holder"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories;Sunglasses"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-t18ui4cq",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/accessories/_/N-t11ae5nz",
+          "alternateName": "accessories",
+          "name": "アクセサリー",
+          "identifier": "m-category-cat10052"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/accessories/key-holders-and-bag-charms/_/N-tzumbbt",
+          "alternateName": "key-holders-and-bag-charms",
+          "name": "メンズ キーホルダー＆バッグチャーム",
+          "identifier": "m-category-cat1410166"
+        }
+      ],
+      "careLink": {
+        "sections": []
+      },
+      "disclaimers": {
+        "customDisclaimer": false,
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "color": "ヴェール",
+      "@context": "http://schema.org",
+      "identifier": "M01105"
+    },
+    {
+      "productVisible": true,
+      "macroColor": "イエロー",
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/M01189/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod4220035v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/M01189"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/M01189/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod4220035v/M01189/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "@type": "ProductModel",
+      "identifierKey": "208d79e499878796caf3a8eac633dab5",
+      "productDetailTabs": [],
+      "name": "ポルト クレ・スリム ドラゴンヌ",
+      "isBaby": false,
+      "mainMaterial2": "COWHIDE",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 37400
+        },
+        "@type": "Offer",
+        "price": "¥37,400"
+      },
+      "disambiguatingDescription": "<p>今シーズンを象徴する鮮やかなカラーが魅力の｢ポルト クレ･スリム ドラゴンヌ｣。モノグラム･キャンバスとタイガ･レザーで仕立てた機能性に優れたファッショナブルなアクセサリーに、艶やかなシルバーカラーのメタルパーツでアクセントを加えました。精緻に刻印された｢Louis Vuitton｣シグネチャーや細密に作られたLV メダリオンが個性を放ちます。メゾンを愛するコレクターの方へのギフトとしても最適です。</p>",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ポルト-クレ・スリム-ドラゴンヌ-s00-メンズ-キーホルダー＆バッグチャーム--M01189_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ポルト-クレ・スリム-ドラゴンヌ-s00-メンズ-キーホルダー＆バッグチャーム--M01189_PM1_Back view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Back view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/slim-dragonne-bag-charm-key-holder-s00-nvprod4220035v",
+      "material": "AUTRES TOILES MONOGRAM",
+      "highEndTemplate": false,
+      "productId": "nvprod4220035v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-RTW-422_jaune_2.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>素材：モノグラム･キャンバス</li><li>トリミング：タイガ･レザー（皮革の種類：牛革） </li><li>金具（色：シルバー）</li><li>シグネチャーの刻印</li><li>スペイン製</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "Slim Dragonne Bag Charm & Key Holder"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories;Sunglasses"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-t18ui4cq",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/accessories/_/N-t11ae5nz",
+          "alternateName": "accessories",
+          "name": "アクセサリー",
+          "identifier": "m-category-cat10052"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/accessories/key-holders-and-bag-charms/_/N-tzumbbt",
+          "alternateName": "key-holders-and-bag-charms",
+          "name": "メンズ キーホルダー＆バッグチャーム",
+          "identifier": "m-category-cat1410166"
+        }
+      ],
+      "careLink": {
+        "sections": []
+      },
+      "disclaimers": {
+        "customDisclaimer": false,
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "color": "Jaune",
+      "@context": "http://schema.org",
+      "identifier": "M01189"
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "/api/catalog/jpn-jp/product/nvprod4220035v"
+    },
+    "push": {
+      "href": "/api/catalog/jpn-jp/product-push/nvprod4220035v"
+    },
+    "care-link": {
+      "href": "/api/catalog/jpn-jp/care-link/nvprod4220035v"
+    },
+    "availability": {
+      "href": "/api/catalog/jpn-jp/availability/nvprod4220035v"
+    }
+  },
+  "@type": "Product",
+  "sku": "M01105",
+  "isSimilarTo": [],
+  "productTips": [],
+  "url": "/jpn-jp/products/slim-dragonne-bag-charm-key-holder-s00-nvprod4220035v",
+  "material": "NOT APPLICABLE ACC",
+  "category": [
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/_/N-t18ui4cq",
+      "alternateName": "men",
+      "name": "メンズ",
+      "identifier": "homme"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/accessories/_/N-t11ae5nz",
+      "alternateName": "accessories",
+      "name": "アクセサリー",
+      "identifier": "m-category-cat10052"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/accessories/key-holders-and-bag-charms/_/N-tzumbbt",
+      "alternateName": "key-holders-and-bag-charms",
+      "name": "メンズ キーホルダー＆バッグチャーム",
+      "identifier": "m-category-cat1410166"
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "hidePrice",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "subType",
+      "value": "product"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "sizeGuide",
+      "value": false
+    }
+  ],
+  "name": "ポルト クレ・スリム ドラゴンヌ",
+  "isRelatedTo": [],
+  "@context": "http://schema.org",
+  "identifier": "nvprod4220035v"
+}
