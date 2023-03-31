@@ -1,0 +1,985 @@
+{
+  "model": [
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/nvsku3760007v/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod4330080v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/nvsku3760007v"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/nvsku3760007v/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod4330080v/nvsku3760007v/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "@type": "ProductModel",
+      "productDetailTabs": [],
+      "name": "LV x YK II - Look 03",
+      "isBaby": false,
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton--Men_LVxYK_DROP2_LOOK03_VISUAL4.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "DROP2",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/lv-x-yk-ii-look-03-nvprod4330080v",
+      "highEndTemplate": false,
+      "productId": "nvprod4330080v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "LV x YK II - Look 03"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "eligibleToAgec",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-t18ui4cq",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/ready-to-wear/_/N-t1b9f3zb",
+          "alternateName": "ready-to-wear",
+          "name": "プレタポルテ(洋服)",
+          "identifier": "m-readytowear"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/ready-to-wear/look-selection/_/N-t1u9ytru",
+          "alternateName": "look-selection",
+          "name": "ルックセレクション",
+          "identifier": "nvcat450010v"
+        }
+      ],
+      "careLink": {
+        "sections": []
+      },
+      "disclaimers": {
+        "customDisclaimer": false,
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "@context": "http://schema.org",
+      "identifier": "nvsku3760007v"
+    }
+  ],
+  "readyToWearSKUs": [
+    {
+      "productVisible": true,
+      "macroColor": "ブルー",
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/1AB7IK/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod4090060v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/1AB7IK"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/1AB7IK/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod4090060v/1AB7IK/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "@type": "ProductModel",
+      "identifierKey": "dc9a89fe256e3bf8d1327a7a6c27867f",
+      "productDetailTabs": [],
+      "name": "LV × YK モノグラムフェイスショートスリーブシャツ",
+      "isBaby": false,
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 255200
+        },
+        "@type": "Offer",
+        "price": "¥255,200"
+      },
+      "disambiguatingDescription": "鮮やかなアクアブルーが陽気な雰囲気を演出する、デイタイムからイブニングシーンまでお楽しみいただける洗練されたシルクシャツ。「ルイ･ヴィトン × 草間彌生」コラボレーション第2弾に相応しく、モノグラム･ジャカードで仕立て、著名な日本人アーティスト 草間彌生が2009年から手掛ける絵画シリーズ《わが永遠の魂》の作品から着想を得た「フェイス」のモチーフで飾りました。流れるようなシルエットの左胸には「Louis Vuitton」シグネチャーが彩りを添えます。同シリーズのショートパンツと合わせれば夏らしい装いに。<p>ご不明な点がございましたら、クライアントサービスまでお気軽にお問合せください。専任のクライアントアドバイザーが、素材やサイズなどの製品詳細、モデル着用イメージや関連アイテムのご案内など、お客様のご要望に合わせたスタイリング・アドバイスをご提供いたします。</p><p>また、サイズ違いなどによる返品・交換のご相談も承ります。詳細は<a href='https://jp.louisvuitton.com/jpn-jp/legal-privacy'><b>こちら。</b></a></p>",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-×-yk-モノグラムフェイスショートスリーブシャツ--HOS31WV36641_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-×-yk-モノグラムフェイスショートスリーブシャツ--HOS31WV36641_PM1_Worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Worn view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-×-yk-モノグラムフェイスショートスリーブシャツ--HOS31WV36641_PM1_Ambiance view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Ambiance view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-×-yk-モノグラムフェイスショートスリーブシャツ--HOS31WV36641_PM1_Cropped view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Cropped view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-×-yk-モノグラムフェイスショートスリーブシャツ--HOS31WV36641_PM1_Cropped worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Cropped worn view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/lv-x-yk-monogram-faces-short-sleeve-shirt-nvprod4090060v",
+      "highEndTemplate": false,
+      "sizeDisplayName": "M0",
+      "productId": "nvprod4090060v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>本体：シルク 100%</li><li>リラックスフィット</li><li>イタリア製</li><li>REF：HOS31WV36</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "LV x YK Monogram Faces Short Sleeve Shirt "
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z05"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Ready_To_Wear_Men"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "eligibleToAgec",
+          "value": true
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-t18ui4cq",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/ready-to-wear/_/N-t1b9f3zb",
+          "alternateName": "ready-to-wear",
+          "name": "プレタポルテ(洋服)",
+          "identifier": "m-readytowear"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/ready-to-wear/all-ready-to-wear/_/N-tmfgzj3",
+          "alternateName": "all-ready-to-wear",
+          "name": "すべてのメンズプレタポルテ(洋服)",
+          "identifier": "nvcat910171v"
+        }
+      ],
+      "careLink": {
+        "sections": []
+      },
+      "disclaimers": {
+        "customDisclaimer": false,
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "@context": "http://schema.org",
+      "identifier": "1AB7IK"
+    },
+    {
+      "productVisible": true,
+      "macroColor": "ブルー",
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/1AB482/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod4090057v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/1AB482"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/1AB482/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod4090057v/1AB482/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "@type": "ProductModel",
+      "identifierKey": "f4119747f6c6461b4b387887d16271ac",
+      "productDetailTabs": [],
+      "name": "LV × YK モノグラムフェイスショーツ",
+      "isBaby": false,
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 187000
+        },
+        "@type": "Offer",
+        "price": "¥187,000"
+      },
+      "disambiguatingDescription": "夏らしいブルーの色合いで仕上げた、上品なシルクのドローストリング付きショートパンツ。エクスクルーシブな「ルイ･ヴィトン × 草間彌生」コラボレーションに相応しく、遊び心溢れる「フェイス」のモチーフが全面にあしらわれています。著名な日本人アーティスト 草間彌生が2009年から手掛ける絵画シリーズ《わが永遠の魂》を象徴する鮮やかでカラフルなイメージから着想を得たモチーフで、モノグラム･ジャカードにひねりを効かせました。背面を彩る手書き風の「Louis Vuitton」シグネチャーも魅力。同シリーズのシャツと合わせれば、陽気で洗練された装いに。 <p>ご不明な点がございましたら、クライアントサービスまでお気軽にお問合せください。専任のクライアントアドバイザーが、素材やサイズなどの製品詳細、モデル着用イメージや関連アイテムのご案内など、お客様のご要望に合わせたスタイリング・アドバイスをご提供いたします。</p><p>また、サイズ違いなどによる返品・交換のご相談も承ります。詳細は<a href='https://jp.louisvuitton.com/jpn-jp/legal-privacy'><b>こちら。</b></a></p>",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-×-yk-モノグラムフェイスショーツ--HOP32WV36641_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-×-yk-モノグラムフェイスショーツ--HOP32WV36641_PM1_Worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Worn view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-×-yk-モノグラムフェイスショーツ--HOP32WV36641_PM1_Ambiance view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Ambiance view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-×-yk-モノグラムフェイスショーツ--HOP32WV36641_PM1_Cropped view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Cropped view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-×-yk-モノグラムフェイスショーツ--HOP32WV36641_PM1_Cropped worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Cropped worn view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/lv-x-yk-monogram-faces-short-nvprod4090057v",
+      "highEndTemplate": false,
+      "sizeDisplayName": "M0",
+      "productId": "nvprod4090057v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>本体：シルク 100%</li><li>レギュラーフィット</li><li>イタリア製</li><li>REF：HOP32WV36</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "LV x YK Monogram Faces Short "
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z05"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Ready_To_Wear_Men"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "eligibleToAgec",
+          "value": true
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-t18ui4cq",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/ready-to-wear/_/N-t1b9f3zb",
+          "alternateName": "ready-to-wear",
+          "name": "プレタポルテ(洋服)",
+          "identifier": "m-readytowear"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/ready-to-wear/all-ready-to-wear/_/N-tmfgzj3",
+          "alternateName": "all-ready-to-wear",
+          "name": "すべてのメンズプレタポルテ(洋服)",
+          "identifier": "nvcat910171v"
+        }
+      ],
+      "careLink": {
+        "sections": []
+      },
+      "disclaimers": {
+        "customDisclaimer": false,
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "@context": "http://schema.org",
+      "identifier": "1AB482"
+    }
+  ],
+  "disambiguatingDescription": "エクスクルーシブな｢ルイ･ヴィトン × 草間彌生｣コラボレーションに相応しい、カラフルなルック。流れるようなシルクシャツとドローストリング付きのショートパンツを合わせた、デイタイムからイブニングシーンまでシームレスに個性を放つスタイルが魅力。いずれのアイテムにも光沢感のあるモノグラム･ジャカードを使用し、草間彌生が2009年から手掛ける絵画シリーズ《わが永遠の魂》の作品から着想を得た、コレクションならではの遊び心溢れる｢フェイス｣のモチーフをあしらいました。",
+  "_links": {
+    "self": {
+      "href": "/api/catalog/jpn-jp/product/nvprod4330080v"
+    },
+    "push": {
+      "href": "/api/catalog/jpn-jp/product-push/nvprod4330080v"
+    },
+    "care-link": {
+      "href": "/api/catalog/jpn-jp/care-link/nvprod4330080v"
+    },
+    "availability": {
+      "href": "/api/catalog/jpn-jp/availability/nvprod4330080v"
+    }
+  },
+  "@type": "Product",
+  "sku": "nvsku3760007v",
+  "isSimilarTo": [],
+  "productTips": [],
+  "url": "/jpn-jp/products/lv-x-yk-ii-look-03-nvprod4330080v",
+  "accessoriesSKUs": [
+    {
+      "productVisible": true,
+      "macroColor": "ブルー",
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/1ABD67/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod4120006v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/1ABD67"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/1ABD67/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod4120006v/1ABD67/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "@type": "ProductModel",
+      "identifierKey": "a2aad75393a8c6b02db95d77b7412200",
+      "productDetailTabs": [],
+      "name": "LV × YK LV オアシス・ライン ミュール",
+      "isBaby": false,
+      "mainMaterial2": "CALF",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 136400
+        },
+        "@type": "Offer",
+        "price": "¥136,400"
+      },
+      "disambiguatingDescription": "「ルイ･ヴィトン × 草間彌生」コレクションに登場した「LV × YK LV オアシス･ライン ミュール」。しなやかなグレインカーフレザーと、日本人アーティスト 草間彌生を象徴する「パンプキン」のモチーフをプリントしたカラフルなインソールで仕上げました。アッパーを彩るグラフィカルなLV イニシャルが特徴のエレガントなミュールです。軽量なレザーを使用し、ラバーアウトソールにはコラボレーションの証であるシグネチャーで彩りを添えました。<p>ご不明な点がございましたら、クライアントサービスまでお気軽にお問合せください。専任のクライアントアドバイザーが、素材やサイズなどの製品詳細、モデル着用イメージや関連アイテムのご案内など、お客様のご要望に合わせたスタイリング・アドバイスをご提供いたします。</p><p>また、サイズ違いなどによる返品・交換のご相談も承ります。詳細は<a href='https://jp.louisvuitton.com/jpn-jp/legal-privacy'><b>こちら。</b></a></p>",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-×-yk-lv-オアシス・ライン-ミュール--BPIH1PGC20_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-×-yk-lv-オアシス・ライン-ミュール--BPIH1PGC20_PM1_Worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Worn view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-×-yk-lv-オアシス・ライン-ミュール--BPIH1PGC20_PM1_Closeup view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Closeup view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-×-yk-lv-オアシス・ライン-ミュール--BPIH1PGC20_PM1_Interior view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Interior view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-×-yk-lv-オアシス・ライン-ミュール--BPIH1PGC20_PM1_Detail view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Detail view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-×-yk-lv-オアシス・ライン-ミュール--BPIH1PGC20_PM1_Cropped worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Cropped worn view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/lv-oasis-mule-nvprod4120006v",
+      "highEndTemplate": false,
+      "sizeDisplayName": "08.0",
+      "productId": "nvprod4120006v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-SHO-20_bleu.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>素材：グレインカーフレザー（皮革の種類：牛革）</li><li>アウトソール：レザー、ラバー</li><li>インソールにパンプキンのプリント</li><li>ヴァンプの下に「Louis Vuitton x Yayoi Kusama 2023」シグネチャー on the outsole</li><li>イタリア製</li><li>イギリスサイズ</li><li>REF：BPIH1PGC</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "LV x YK LV Oasis Mule"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z04"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Shoe_Men"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "eligibleToAgec",
+          "value": true
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/new/_/N-tlgzqru",
+          "alternateName": "new",
+          "name": "New",
+          "identifier": "nvcat1830004v"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/new/for-men/_/N-t15cv059",
+          "alternateName": "for-men",
+          "name": "メンズ 新着",
+          "identifier": "nvcat1830006v"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/new/for-men/the-latest/_/N-t1blflj9",
+          "alternateName": "the-latest",
+          "name": "メンズ 新作コレクション",
+          "identifier": "nvcat2130004v"
+        }
+      ],
+      "careLink": {
+        "sections": []
+      },
+      "disclaimers": {
+        "customDisclaimer": false,
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "color": "マリーヌ",
+      "@context": "http://schema.org",
+      "identifier": "1ABD67"
+    },
+    {
+      "productVisible": true,
+      "macroColor": "マロン",
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/M21716/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod4150030v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/M21716"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/M21716/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod4150030v/M21716/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "@type": "ProductModel",
+      "identifierKey": "3d94d6c49922cdeabff9065938a0f171",
+      "height": {
+        "@type": "QuantitativeValue",
+        "value": 29,
+        "unitText": "cm"
+      },
+      "productDetailTabs": [],
+      "name": "LV × YK ホーボー･クルーザー",
+      "isBaby": false,
+      "mainMaterial2": "TAURILLON",
+      "width": {
+        "@type": "QuantitativeValue",
+        "value": 14,
+        "unitText": "cm"
+      },
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 468600
+        },
+        "@type": "Offer",
+        "price": "¥468,600"
+      },
+      "disambiguatingDescription": "「ルイ･ヴィトン × 草間彌生」コラボレーションの新作コレクションに相応しくアップデートした「LV × YK ホーボー･クルーザー」。著名な日本人アーティスト 草間彌生が2009年から手掛ける絵画シリーズ《わが永遠の魂》から着想を得たデザインに仕上げました。草間の芸術に対する本能的なアプローチを象徴する、カラフルでシュールレアリスティックな顔のイメージと有機的なフォルム──鮮やかなブルーのトリヨン･モノグラム レザーに「フェイス」のモチーフが散りばめられています。大容量でさまざまな持ち方をお楽しみいただける、ユーザーフレンドリーなバッグです。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-×-yk-ホーボー･クルーザー--M21716_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-×-yk-ホーボー･クルーザー--M21716_PM1_Worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Worn view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-×-yk-ホーボー･クルーザー--M21716_PM1_Interior view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Interior view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-×-yk-ホーボー･クルーザー--M21716_PM1_Cropped worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Cropped worn view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/lv-x-yk-hobo-cruiser-taurillon-monogram-nvprod4150030v",
+      "material": "トリヨン",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 32,
+        "unitText": "cm"
+      },
+      "highEndTemplate": false,
+      "productId": "nvprod4150030v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>素材：カラフルな顔のアップリケ付きトリヨン･モノグラム レザー（皮革の種類：牛革）</li><li>トリミング：トリヨンレザー（皮革の種類：牛革）</li><li>ライニング：テキスタイル </li><li>金具（色：シルバー）</li><li>内側にLVxYK シグネチャー</li><li>ファスナー式メインコンパートメント</li><li>内フラットポケット</li><li>手持ち用ダブルフック</li><li>サイドに取外し可能なレザータグ</li><li>ストラップ：取り外し可能, 調整可能</li><li>ストラップの頂点からバッグ上部までの長さ(最短)：44.0 cm</li><li>ストラップの頂点からバッグ上部までの長さ(最長)：54.0 cm</li><li>ハンドル：シングル</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "LV x YK Hobo Cruiser"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z01"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "eligibleToAgec",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-t18ui4cq",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/bags/_/N-tig3tkz",
+          "alternateName": "bags",
+          "name": "バッグ",
+          "identifier": "m-category-cat10001"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/bags/crossbody-bags/_/N-t1u6ktha",
+          "alternateName": "crossbody-bags",
+          "name": "ショルダーバッグ、クロスボディバッグ",
+          "identifier": "m-category-cat1410015"
+        }
+      ],
+      "careLink": {
+        "sections": []
+      },
+      "disclaimers": {
+        "customDisclaimer": false,
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "color": "MONOGRAM BLEU",
+      "@context": "http://schema.org",
+      "identifier": "M21716"
+    }
+  ],
+  "category": [
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/_/N-t18ui4cq",
+      "alternateName": "men",
+      "name": "メンズ",
+      "identifier": "homme"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/ready-to-wear/_/N-t1b9f3zb",
+      "alternateName": "ready-to-wear",
+      "name": "プレタポルテ(洋服)",
+      "identifier": "m-readytowear"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/ready-to-wear/look-selection/_/N-t1u9ytru",
+      "alternateName": "look-selection",
+      "name": "ルックセレクション",
+      "identifier": "nvcat450010v"
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "hidePrice",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "subType",
+      "value": "product"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "sizeGuide",
+      "value": false
+    }
+  ],
+  "name": "LV x YK II - Look 03",
+  "isRelatedTo": [],
+  "@context": "http://schema.org",
+  "identifier": "nvprod4330080v"
+}
