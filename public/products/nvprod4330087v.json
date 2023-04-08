@@ -1,0 +1,278 @@
+{
+  "model": [
+    {
+      "productVisible": true,
+      "macroColor": "イエロー",
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/GI0901/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod4330087v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/GI0901"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/GI0901/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod4330087v/GI0901/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "@type": "ProductModel",
+      "identifierKey": "a0142ca42fd6e0aa799535a85382e1a1",
+      "height": {
+        "@type": "QuantitativeValue",
+        "value": 9,
+        "unitText": "cm"
+      },
+      "productDetailTabs": [],
+      "name": "ボワット・スコット",
+      "isBaby": false,
+      "mainMaterial2": "PLEXIGLASS",
+      "width": {
+        "@type": "QuantitativeValue",
+        "value": 12.5,
+        "unitText": "cm"
+      },
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 157300
+        },
+        "@type": "Offer",
+        "price": "¥157,300"
+      },
+      "disambiguatingDescription": "アイコニックなアイテムをアレンジした、ルイ･ヴィトンの｢サマー｣コレクションの1つ｢ボワット･スコット｣。透明なプレキシガラスに、マルチカラーのモノグラム･パターンのプリントをあしらいました。ファッションジュエリーや化粧品、その他の小物を収納することはもちろん、装飾品としてもお楽しみいただけるアイテムです。レザーのトリミングやSロックスタイルの留め具など、メゾンのシグネチャー･ディテールが個性をプラス。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ボワット・スコット-s00-スポーツ-ライフスタイル--GI0901_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ボワット・スコット-s00-スポーツ-ライフスタイル--GI0901_PM1_Interior view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Interior view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ボワット・スコット-s00-スポーツ-ライフスタイル--GI0901_PM1_Detail view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Detail view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ボワット・スコット-s00-スポーツ-ライフスタイル--GI0901_PM1_Back view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Back view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ボワット・スコット-s00-スポーツ-ライフスタイル--GI0901_PM1_Other view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Other view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/summer-capsule-scott-box-s00-nvprod4330087v",
+      "material": "PLEXIGLASS",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 14,
+        "unitText": "cm"
+      },
+      "highEndTemplate": false,
+      "productId": "nvprod4330087v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-ACC-962_yellow.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>素材：プレキシガラス</li><li>トリミング：レザー（皮革の種類：牛革） </li><li>金具（色：ゴールド）</li><li>Sロックスタイルの留め具</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "Summer Capsule Scott Box"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories;Sunglasses"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "eligibleToAgec",
+          "value": true
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/art-of-living/_/N-tmb5aeq",
+          "alternateName": "art-of-living",
+          "name": "ライフスタイル",
+          "identifier": "nvcat1840004v"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/art-of-living/sport-and-lifestyle/_/N-tsdq02m",
+          "alternateName": "sport-and-lifestyle",
+          "name": "スポーツ&ライフスタイル",
+          "identifier": "nvcat1840007v"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/art-of-living/sport-and-lifestyle/lifestyle-and-vivienne-dolls/_/N-trxwmy1",
+          "alternateName": "lifestyle-and-vivienne-dolls",
+          "name": "ライフスタイル&ヴィヴィエンヌ",
+          "identifier": "nvcat1840018v"
+        }
+      ],
+      "careLink": {
+        "sections": []
+      },
+      "disclaimers": {
+        "customDisclaimer": false,
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "color": "ジョーヌ",
+      "@context": "http://schema.org",
+      "identifier": "GI0901"
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "/api/catalog/jpn-jp/product/nvprod4330087v"
+    },
+    "push": {
+      "href": "/api/catalog/jpn-jp/product-push/nvprod4330087v"
+    },
+    "care-link": {
+      "href": "/api/catalog/jpn-jp/care-link/nvprod4330087v"
+    },
+    "availability": {
+      "href": "/api/catalog/jpn-jp/availability/nvprod4330087v"
+    }
+  },
+  "@type": "Product",
+  "sku": "GI0901",
+  "isSimilarTo": [],
+  "productTips": [],
+  "url": "/jpn-jp/products/summer-capsule-scott-box-s00-nvprod4330087v",
+  "material": "NOT APPLICABLE ACC",
+  "category": [
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/art-of-living/_/N-tmb5aeq",
+      "alternateName": "art-of-living",
+      "name": "ライフスタイル",
+      "identifier": "nvcat1840004v"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/art-of-living/sport-and-lifestyle/_/N-tsdq02m",
+      "alternateName": "sport-and-lifestyle",
+      "name": "スポーツ&ライフスタイル",
+      "identifier": "nvcat1840007v"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/art-of-living/sport-and-lifestyle/lifestyle-and-vivienne-dolls/_/N-trxwmy1",
+      "alternateName": "lifestyle-and-vivienne-dolls",
+      "name": "ライフスタイル&ヴィヴィエンヌ",
+      "identifier": "nvcat1840018v"
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "hidePrice",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "subType",
+      "value": "product"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "sizeGuide",
+      "value": false
+    }
+  ],
+  "name": "ボワット・スコット",
+  "isRelatedTo": [],
+  "@context": "http://schema.org",
+  "identifier": "nvprod4330087v"
+}
