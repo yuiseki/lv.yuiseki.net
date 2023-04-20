@@ -1,0 +1,466 @@
+{
+  "model": [
+    {
+      "productVisible": true,
+      "macroColor": "オレンジ",
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/M7143M/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod4320112v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/M7143M"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/M7143M/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod4320112v/M7143M/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "@type": "ProductModel",
+      "identifierKey": "fd79e97189314bc22e09809df62ba41a",
+      "height": {
+        "@type": "QuantitativeValue",
+        "value": 16,
+        "unitText": "cm"
+      },
+      "productDetailTabs": [],
+      "name": "シャポー・モノグラム コンスタレーション",
+      "isBaby": false,
+      "mainMaterial2": "COTTON",
+      "width": {
+        "@type": "QuantitativeValue",
+        "value": 30,
+        "unitText": "cm"
+      },
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 92400
+        },
+        "@type": "Offer",
+        "price": "¥92,400"
+      },
+      "disambiguatingDescription": "<p>クール & スタイリッシュに仕上げた、今シーズンならではの｢シャポー･モノグラム コンスタレーション｣。トーン･オン･トーンで表現したメゾンのクラシカルなモチーフをデボス加工で施しました。同じようなシグネチャー･パターンをあしらったキャップなどを展開するカプセル･コレクションの一部です。コットン混紡デニムを使用したアイテムは、リラックス感のある雰囲気の装いにカジュアルな魅力をプラス。</p>",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-シャポー・モノグラム-コンスタレーション-s00-メンズ-帽子＆手袋--M7143M_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-シャポー・モノグラム-コンスタレーション-s00-メンズ-帽子＆手袋--M7143M_PM1_Worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Worn view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-シャポー・モノグラム-コンスタレーション-s00-メンズ-帽子＆手袋--M7143M_PM1_Cropped worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Cropped worn view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/monogram-constellation-bucket-hat-s00-nvprod4320112v",
+      "material": "COTTON",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 30,
+        "unitText": "cm"
+      },
+      "highEndTemplate": false,
+      "sizeDisplayName": "M",
+      "productId": "nvprod4320112v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-SHO-11_orange.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>素材：コットン 75% 、ポリエステル 25%</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "Monogram Constellation Bucket Hat"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories;Sunglasses"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "eligibleToAgec",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-t18ui4cq",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/accessories/_/N-t11ae5nz",
+          "alternateName": "accessories",
+          "name": "アクセサリー",
+          "identifier": "m-category-cat10052"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/accessories/hats-and-gloves/_/N-t1fq44ws",
+          "alternateName": "hats-and-gloves",
+          "name": "メンズ 帽子＆手袋",
+          "identifier": "nvcat1690008v"
+        }
+      ],
+      "careLink": {
+        "sections": []
+      },
+      "disclaimers": {
+        "customDisclaimer": false,
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "color": "ORANGE",
+      "@context": "http://schema.org",
+      "identifier": "M7143M"
+    },
+    {
+      "productVisible": true,
+      "macroColor": "オレンジ",
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/M7143L/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod4320112v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/M7143L"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/M7143L/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod4320112v/M7143L/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "@type": "ProductModel",
+      "identifierKey": "bea23b60cf410d2c27c4113235d682ed",
+      "height": {
+        "@type": "QuantitativeValue",
+        "value": 16,
+        "unitText": "cm"
+      },
+      "productDetailTabs": [],
+      "name": "シャポー・モノグラム コンスタレーション",
+      "isBaby": false,
+      "mainMaterial2": "COTTON",
+      "width": {
+        "@type": "QuantitativeValue",
+        "value": 30,
+        "unitText": "cm"
+      },
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 92400
+        },
+        "@type": "Offer",
+        "price": "¥92,400"
+      },
+      "disambiguatingDescription": "<p>クール & スタイリッシュに仕上げた、今シーズンならではの｢シャポー･モノグラム コンスタレーション｣。トーン･オン･トーンで表現したメゾンのクラシカルなモチーフをデボス加工で施しました。同じようなシグネチャー･パターンをあしらったキャップなどを展開するカプセル･コレクションの一部です。コットン混紡デニムを使用したアイテムは、リラックス感のある雰囲気の装いにカジュアルな魅力をプラス。</p>",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-シャポー・モノグラム-コンスタレーション-s00-メンズ-帽子＆手袋--M7143L_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-シャポー・モノグラム-コンスタレーション-s00-メンズ-帽子＆手袋--M7143L_PM1_Worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Worn view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-シャポー・モノグラム-コンスタレーション-s00-メンズ-帽子＆手袋--M7143L_PM1_Cropped worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Cropped worn view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/monogram-constellation-bucket-hat-s00-nvprod4320112v",
+      "material": "COTTON",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 30,
+        "unitText": "cm"
+      },
+      "highEndTemplate": false,
+      "sizeDisplayName": "L",
+      "productId": "nvprod4320112v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-SHO-11_orange.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>素材：コットン 75% 、ポリエステル 25%</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "Monogram Constellation Bucket Hat"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories;Sunglasses"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "eligibleToAgec",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-t18ui4cq",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/accessories/_/N-t11ae5nz",
+          "alternateName": "accessories",
+          "name": "アクセサリー",
+          "identifier": "m-category-cat10052"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/accessories/hats-and-gloves/_/N-t1fq44ws",
+          "alternateName": "hats-and-gloves",
+          "name": "メンズ 帽子＆手袋",
+          "identifier": "nvcat1690008v"
+        }
+      ],
+      "careLink": {
+        "sections": []
+      },
+      "disclaimers": {
+        "customDisclaimer": false,
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "color": "ORANGE",
+      "@context": "http://schema.org",
+      "identifier": "M7143L"
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "/api/catalog/jpn-jp/product/nvprod4320112v"
+    },
+    "push": {
+      "href": "/api/catalog/jpn-jp/product-push/nvprod4320112v"
+    },
+    "care-link": {
+      "href": "/api/catalog/jpn-jp/care-link/nvprod4320112v"
+    },
+    "availability": {
+      "href": "/api/catalog/jpn-jp/availability/nvprod4320112v"
+    }
+  },
+  "@type": "Product",
+  "sku": "M7143L",
+  "isSimilarTo": [],
+  "productTips": [],
+  "url": "/jpn-jp/products/monogram-constellation-bucket-hat-s00-nvprod4320112v",
+  "material": "NOT APPLICABLE ACC",
+  "category": [
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/_/N-t18ui4cq",
+      "alternateName": "men",
+      "name": "メンズ",
+      "identifier": "homme"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/accessories/_/N-t11ae5nz",
+      "alternateName": "accessories",
+      "name": "アクセサリー",
+      "identifier": "m-category-cat10052"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/accessories/hats-and-gloves/_/N-t1fq44ws",
+      "alternateName": "hats-and-gloves",
+      "name": "メンズ 帽子＆手袋",
+      "identifier": "nvcat1690008v"
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "hidePrice",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "subType",
+      "value": "product"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "sizeGuide",
+      "value": false
+    }
+  ],
+  "name": "シャポー・モノグラム コンスタレーション",
+  "isRelatedTo": [],
+  "@context": "http://schema.org",
+  "identifier": "nvprod4320112v"
+}
