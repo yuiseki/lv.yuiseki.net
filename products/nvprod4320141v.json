@@ -1,0 +1,446 @@
+{
+  "model": [
+    {
+      "productVisible": true,
+      "macroColor": "ブルー",
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/M78404/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod4320141v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/M78404"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/M78404/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod4320141v/M78404/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "@type": "ProductModel",
+      "identifierKey": "36972aba71d0d8dbd221d43bb3f2f366",
+      "height": {
+        "@type": "QuantitativeValue",
+        "value": 96,
+        "unitText": "cm"
+      },
+      "productDetailTabs": [],
+      "name": "クヴェルテュール・プラージュ LV グラフィカル",
+      "packagingVariation": "",
+      "isBaby": false,
+      "mainMaterial2": "COTTON",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 72600
+        },
+        "@type": "Offer",
+        "price": "¥72,600"
+      },
+      "disambiguatingDescription": "<p>今シーズンならではのキーテーマでフレッシュにデザインしたビーチブランケット｢クヴェルテュール･プラージュ LV グラフィカル｣。ツートーンカラーのストライプとメゾンのシグネチャーを組み合わせた大胆なパターンが、浜辺やプールサイドで目を引きます。コットン100％で仕立てた大判サイズのアイテムは、同コレクションに登場したクッションとも相性抜群です。</p>",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-クヴェルテュール・プラージュ-lv-グラフィカル-s00-ホーム-テキスタイル--M78404_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-クヴェルテュール・プラージュ-lv-グラフィカル-s00-ホーム-テキスタイル--M78404_PM1_Back view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Back view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/lv-graphical-beach-blanket-s00-nvprod4320141v",
+      "material": "COTTON",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 195,
+        "unitText": "cm"
+      },
+      "highEndTemplate": false,
+      "productId": "nvprod4320141v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-RTW-610_bleu.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>素材：コットン 100%</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "LV Graphical Beach Blanket"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories;Sunglasses"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "eligibleToAgec",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-t18ui4cq",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/accessories/_/N-t11ae5nz",
+          "alternateName": "accessories",
+          "name": "アクセサリー",
+          "identifier": "m-category-cat10052"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/accessories/home-textile/_/N-tblw1mp",
+          "alternateName": "home-textile",
+          "name": "ホーム テキスタイル",
+          "identifier": "nvcat3440005v"
+        }
+      ],
+      "careLink": {
+        "sections": []
+      },
+      "disclaimers": {
+        "customDisclaimer": false,
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "collectibles": false,
+      "color": "ブルー",
+      "@context": "http://schema.org",
+      "identifier": "M78404"
+    },
+    {
+      "productVisible": true,
+      "macroColor": "ベージュ",
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/M78813/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod4320141v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/M78813"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/M78813/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod4320141v/M78813/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "@type": "ProductModel",
+      "identifierKey": "c0cf39aae51835fff0c45e984ca2e200",
+      "height": {
+        "@type": "QuantitativeValue",
+        "value": 96,
+        "unitText": "cm"
+      },
+      "productDetailTabs": [],
+      "name": "クヴェルテュール・プラージュ LV グラフィカル",
+      "packagingVariation": "",
+      "isBaby": false,
+      "mainMaterial2": "COTTON",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 72600
+        },
+        "@type": "Offer",
+        "price": "¥72,600"
+      },
+      "disambiguatingDescription": "<p>今シーズンならではのキーテーマでフレッシュにデザインしたビーチブランケット｢クヴェルテュール･プラージュ LV グラフィカル｣。ツートーンカラーのストライプとメゾンのシグネチャーを組み合わせた大胆なパターンが、浜辺やプールサイドで目を引きます。コットン100％で仕立てた大判サイズのアイテムは、同コレクションに登場したクッションとも相性抜群です。</p>",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-クヴェルテュール・プラージュ-lv-グラフィカル-s00-ホーム-テキスタイル--M78813_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-クヴェルテュール・プラージュ-lv-グラフィカル-s00-ホーム-テキスタイル--M78813_PM1_Back view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Back view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/lv-graphical-beach-blanket-s00-nvprod4320141v",
+      "material": "COTTON",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 195,
+        "unitText": "cm"
+      },
+      "highEndTemplate": false,
+      "productId": "nvprod4320141v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-ACC-906_beige.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>素材：コットン 100%</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "LV Graphical Beach Blanket"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories;Sunglasses"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "eligibleToAgec",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-t18ui4cq",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/accessories/_/N-t11ae5nz",
+          "alternateName": "accessories",
+          "name": "アクセサリー",
+          "identifier": "m-category-cat10052"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/accessories/home-textile/_/N-tblw1mp",
+          "alternateName": "home-textile",
+          "name": "ホーム テキスタイル",
+          "identifier": "nvcat3440005v"
+        }
+      ],
+      "careLink": {
+        "sections": []
+      },
+      "disclaimers": {
+        "customDisclaimer": false,
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "collectibles": false,
+      "color": "ベージュ",
+      "@context": "http://schema.org",
+      "identifier": "M78813"
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "/api/catalog/jpn-jp/product/nvprod4320141v"
+    },
+    "push": {
+      "href": "/api/catalog/jpn-jp/product-push/nvprod4320141v"
+    },
+    "care-link": {
+      "href": "/api/catalog/jpn-jp/care-link/nvprod4320141v"
+    },
+    "availability": {
+      "href": "/api/catalog/jpn-jp/availability/nvprod4320141v"
+    }
+  },
+  "@type": "Product",
+  "sku": "M78404",
+  "isSimilarTo": [],
+  "productTips": [],
+  "url": "/jpn-jp/products/lv-graphical-beach-blanket-s00-nvprod4320141v",
+  "material": "NOT APPLICABLE ACC",
+  "category": [
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/_/N-t18ui4cq",
+      "alternateName": "men",
+      "name": "メンズ",
+      "identifier": "homme"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/accessories/_/N-t11ae5nz",
+      "alternateName": "accessories",
+      "name": "アクセサリー",
+      "identifier": "m-category-cat10052"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/accessories/home-textile/_/N-tblw1mp",
+      "alternateName": "home-textile",
+      "name": "ホーム テキスタイル",
+      "identifier": "nvcat3440005v"
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "hidePrice",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "subType",
+      "value": "product"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "sizeGuide",
+      "value": false
+    }
+  ],
+  "name": "クヴェルテュール・プラージュ LV グラフィカル",
+  "isRelatedTo": [],
+  "@context": "http://schema.org",
+  "identifier": "nvprod4320141v"
+}
