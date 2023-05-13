@@ -1,0 +1,458 @@
+{
+  "model": [
+    {
+      "productVisible": true,
+      "macroColor": "ブルー",
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/M7103M/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod4320120v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/M7103M"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/M7103M/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod4320120v/M7103M/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "@type": "ProductModel",
+      "identifierKey": "a127310d72069bc484299c0c72ecf004",
+      "height": {
+        "@type": "QuantitativeValue",
+        "value": 16,
+        "unitText": "cm"
+      },
+      "productDetailTabs": [],
+      "name": "シャポー・パイユ LV グラフィカル",
+      "packagingVariation": "",
+      "isBaby": false,
+      "mainMaterial2": "PALM FIBER",
+      "width": {
+        "@type": "QuantitativeValue",
+        "value": 30,
+        "unitText": "cm"
+      },
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 102300
+        },
+        "@type": "Offer",
+        "price": "¥102,300"
+      },
+      "disambiguatingDescription": "<p>夏の装いをエレガントに演出する｢シャポー･パイユ LV グラフィカル｣。大胆なストライプとシグネチャー･モチーフ入りのバンドで、今シーズンならではのキーテーマを表現しました。ナチュラルなストロー素材で仕立てたハットは、1点1点異なる色合いが特徴です。ビーチブランケット｢クヴェルテュール･プラージュ LV グラフィカル｣やピローとコーディネートすれば、ビーチやプールサイドでの装いがスタイリッシュに引き立ちます。</p>",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-シャポー・パイユ-lv-グラフィカル-s00-メンズ-帽子＆手袋--M7103M_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-シャポー・パイユ-lv-グラフィカル-s00-メンズ-帽子＆手袋--M7103M_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/lv-graphical-straw-hat-s00-nvprod4320120v",
+      "material": "PALM FIBER",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 30,
+        "unitText": "cm"
+      },
+      "highEndTemplate": false,
+      "sizeDisplayName": "M",
+      "productId": "nvprod4320120v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-RTW-610_bleu.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>ハット：ストロー 100%</li><li>バンド：コットン 100%</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "LV Graphical Straw Hat"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories;Sunglasses"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "eligibleToAgec",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-t18ui4cq",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/accessories/_/N-t11ae5nz",
+          "alternateName": "accessories",
+          "name": "アクセサリー",
+          "identifier": "m-category-cat10052"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/accessories/hats-and-gloves/_/N-t1fq44ws",
+          "alternateName": "hats-and-gloves",
+          "name": "メンズ 帽子＆手袋",
+          "identifier": "nvcat1690008v"
+        }
+      ],
+      "careLink": {
+        "sections": []
+      },
+      "disclaimers": {
+        "customDisclaimer": false,
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "collectibles": false,
+      "color": "ブルー",
+      "@context": "http://schema.org",
+      "identifier": "M7103M"
+    },
+    {
+      "productVisible": true,
+      "macroColor": "ブルー",
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/M7103L/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod4320120v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/M7103L"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/M7103L/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod4320120v/M7103L/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "@type": "ProductModel",
+      "identifierKey": "4d993cac6174a4c0ed59f2be942f2a53",
+      "height": {
+        "@type": "QuantitativeValue",
+        "value": 16,
+        "unitText": "cm"
+      },
+      "productDetailTabs": [],
+      "name": "シャポー・パイユ LV グラフィカル",
+      "packagingVariation": "",
+      "isBaby": false,
+      "mainMaterial2": "PALM FIBER",
+      "width": {
+        "@type": "QuantitativeValue",
+        "value": 30,
+        "unitText": "cm"
+      },
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 102300
+        },
+        "@type": "Offer",
+        "price": "¥102,300"
+      },
+      "disambiguatingDescription": "<p>夏の装いをエレガントに演出する｢シャポー･パイユ LV グラフィカル｣。大胆なストライプとシグネチャー･モチーフ入りのバンドで、今シーズンならではのキーテーマを表現しました。ナチュラルなストロー素材で仕立てたハットは、1点1点異なる色合いが特徴です。ビーチブランケット｢クヴェルテュール･プラージュ LV グラフィカル｣やピローとコーディネートすれば、ビーチやプールサイドでの装いがスタイリッシュに引き立ちます。</p>",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-シャポー・パイユ-lv-グラフィカル-s00-メンズ-帽子＆手袋--M7103L_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-シャポー・パイユ-lv-グラフィカル-s00-メンズ-帽子＆手袋--M7103L_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/lv-graphical-straw-hat-s00-nvprod4320120v",
+      "material": "PALM FIBER",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 30,
+        "unitText": "cm"
+      },
+      "highEndTemplate": false,
+      "sizeDisplayName": "L",
+      "productId": "nvprod4320120v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-RTW-610_bleu.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>ハット：ストロー 100%</li><li>バンド：コットン 100%</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "LV Graphical Straw Hat"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories;Sunglasses"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "eligibleToAgec",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-t18ui4cq",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/accessories/_/N-t11ae5nz",
+          "alternateName": "accessories",
+          "name": "アクセサリー",
+          "identifier": "m-category-cat10052"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/accessories/hats-and-gloves/_/N-t1fq44ws",
+          "alternateName": "hats-and-gloves",
+          "name": "メンズ 帽子＆手袋",
+          "identifier": "nvcat1690008v"
+        }
+      ],
+      "careLink": {
+        "sections": []
+      },
+      "disclaimers": {
+        "customDisclaimer": false,
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "collectibles": false,
+      "color": "ブルー",
+      "@context": "http://schema.org",
+      "identifier": "M7103L"
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "/api/catalog/jpn-jp/product/nvprod4320120v"
+    },
+    "push": {
+      "href": "/api/catalog/jpn-jp/product-push/nvprod4320120v"
+    },
+    "care-link": {
+      "href": "/api/catalog/jpn-jp/care-link/nvprod4320120v"
+    },
+    "availability": {
+      "href": "/api/catalog/jpn-jp/availability/nvprod4320120v"
+    }
+  },
+  "@type": "Product",
+  "sku": "M7103L",
+  "isSimilarTo": [],
+  "productTips": [],
+  "url": "/jpn-jp/products/lv-graphical-straw-hat-s00-nvprod4320120v",
+  "material": "NOT APPLICABLE ACC",
+  "category": [
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/_/N-t18ui4cq",
+      "alternateName": "men",
+      "name": "メンズ",
+      "identifier": "homme"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/accessories/_/N-t11ae5nz",
+      "alternateName": "accessories",
+      "name": "アクセサリー",
+      "identifier": "m-category-cat10052"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/accessories/hats-and-gloves/_/N-t1fq44ws",
+      "alternateName": "hats-and-gloves",
+      "name": "メンズ 帽子＆手袋",
+      "identifier": "nvcat1690008v"
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "hidePrice",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "subType",
+      "value": "product"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "sizeGuide",
+      "value": false
+    }
+  ],
+  "name": "シャポー・パイユ LV グラフィカル",
+  "isRelatedTo": [],
+  "@context": "http://schema.org",
+  "identifier": "nvprod4320120v"
+}
