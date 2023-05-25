@@ -1,0 +1,428 @@
+{
+  "model": [
+    {
+      "productVisible": true,
+      "macroColor": "シルバー",
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/M1042M/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod4380006v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/M1042M"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/M1042M/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod4380006v/M1042M/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "@type": "ProductModel",
+      "identifierKey": "ac104bc2056a8d328d91682156d8e991",
+      "productDetailTabs": [],
+      "name": "ブラスレ・モノグラム チェーン ストーン",
+      "packagingVariation": "",
+      "isBaby": false,
+      "mainMaterial2": "STEEL",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 91300
+        },
+        "@type": "Offer",
+        "price": "¥91,300"
+      },
+      "disambiguatingDescription": "<p>複雑なデザインとマスキュリンな美しさを融合させ、今シーズンならではの目を引くデザインにアップデートしたブレスレット｢ブラスレ･モノグラム チェーン ストーン｣。コントラストカラーで表現したインダストリアル風のメタルパーツをあしらい、巧みに仕上げたファッショナブルなアクセサリーです。シルバーカラー、マットブラック、マーブルストーン調のフィニシングを施したチャンキーなリンクに、モノグラム･パターンをミニチュアサイズで精緻に刻印しました。</p>",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ブラスレ・モノグラム-チェーン-ストーン-s00-メンズ-ファッションジュエリー--M1042M_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ブラスレ・モノグラム-チェーン-ストーン-s00-メンズ-ファッションジュエリー--M1042M_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/monogram-chain-bracelet-s00-nvprod4380006v",
+      "material": "METAL",
+      "highEndTemplate": false,
+      "sizeDisplayName": "M",
+      "productId": "nvprod4380006v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-ACC-9SL_silver_.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>ステンレススティール（色：シルバー）</li><li>シグネチャーの刻印</li><li>イタリア製</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "Monogram Chain Bracelet"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories;Sunglasses"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "eligibleToAgec",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-t18ui4cq",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/accessories/_/N-t11ae5nz",
+          "alternateName": "accessories",
+          "name": "アクセサリー",
+          "identifier": "m-category-cat10052"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/accessories/fashion-jewelry/_/N-tl80g0l",
+          "alternateName": "fashion-jewelry",
+          "name": "メンズ ファッションジュエリー",
+          "identifier": "m-fashionjewelry"
+        }
+      ],
+      "careLink": {
+        "sections": []
+      },
+      "disclaimers": {
+        "customDisclaimer": false,
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "collectibles": false,
+      "color": "シルバー",
+      "@context": "http://schema.org",
+      "identifier": "M1042M"
+    },
+    {
+      "productVisible": true,
+      "macroColor": "シルバー",
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/M1042L/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod4380006v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/M1042L"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/M1042L/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod4380006v/M1042L/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "@type": "ProductModel",
+      "identifierKey": "97bd427aec015ff83bc5cd6b41bf4fc9",
+      "productDetailTabs": [],
+      "name": "ブラスレ・モノグラム チェーン ストーン",
+      "packagingVariation": "",
+      "isBaby": false,
+      "mainMaterial2": "STEEL",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 91300
+        },
+        "@type": "Offer",
+        "price": "¥91,300"
+      },
+      "disambiguatingDescription": "<p>複雑なデザインとマスキュリンな美しさを融合させ、今シーズンならではの目を引くデザインにアップデートしたブレスレット｢ブラスレ･モノグラム チェーン ストーン｣。コントラストカラーで表現したインダストリアル風のメタルパーツをあしらい、巧みに仕上げたファッショナブルなアクセサリーです。シルバーカラー、マットブラック、マーブルストーン調のフィニシングを施したチャンキーなリンクに、モノグラム･パターンをミニチュアサイズで精緻に刻印しました。</p>",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ブラスレ・モノグラム-チェーン-ストーン-s00-メンズ-ファッションジュエリー--M1042L_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ブラスレ・モノグラム-チェーン-ストーン-s00-メンズ-ファッションジュエリー--M1042L_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/monogram-chain-bracelet-s00-nvprod4380006v",
+      "material": "METAL",
+      "highEndTemplate": false,
+      "sizeDisplayName": "L",
+      "productId": "nvprod4380006v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-ACC-9SL_silver_.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>ステンレススティール（色：シルバー）</li><li>シグネチャーの刻印</li><li>イタリア製</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "Monogram Chain Bracelet"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories;Sunglasses"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "eligibleToAgec",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-t18ui4cq",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/accessories/_/N-t11ae5nz",
+          "alternateName": "accessories",
+          "name": "アクセサリー",
+          "identifier": "m-category-cat10052"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/accessories/fashion-jewelry/_/N-tl80g0l",
+          "alternateName": "fashion-jewelry",
+          "name": "メンズ ファッションジュエリー",
+          "identifier": "m-fashionjewelry"
+        }
+      ],
+      "careLink": {
+        "sections": []
+      },
+      "disclaimers": {
+        "customDisclaimer": false,
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "collectibles": false,
+      "color": "シルバー",
+      "@context": "http://schema.org",
+      "identifier": "M1042L"
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "/api/catalog/jpn-jp/product/nvprod4380006v"
+    },
+    "push": {
+      "href": "/api/catalog/jpn-jp/product-push/nvprod4380006v"
+    },
+    "care-link": {
+      "href": "/api/catalog/jpn-jp/care-link/nvprod4380006v"
+    },
+    "availability": {
+      "href": "/api/catalog/jpn-jp/availability/nvprod4380006v"
+    }
+  },
+  "@type": "Product",
+  "sku": "M1042M",
+  "isSimilarTo": [],
+  "productTips": [],
+  "url": "/jpn-jp/products/monogram-chain-bracelet-s00-nvprod4380006v",
+  "material": "NOT APPLICABLE ACC",
+  "category": [
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/_/N-t18ui4cq",
+      "alternateName": "men",
+      "name": "メンズ",
+      "identifier": "homme"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/accessories/_/N-t11ae5nz",
+      "alternateName": "accessories",
+      "name": "アクセサリー",
+      "identifier": "m-category-cat10052"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/accessories/fashion-jewelry/_/N-tl80g0l",
+      "alternateName": "fashion-jewelry",
+      "name": "メンズ ファッションジュエリー",
+      "identifier": "m-fashionjewelry"
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "hidePrice",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "subType",
+      "value": "product"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "sizeGuide",
+      "value": false
+    }
+  ],
+  "name": "ブラスレ・モノグラム チェーン　ストーン",
+  "isRelatedTo": [],
+  "@context": "http://schema.org",
+  "identifier": "nvprod4380006v"
+}

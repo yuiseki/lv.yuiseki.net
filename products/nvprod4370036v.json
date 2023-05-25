@@ -1,0 +1,470 @@
+{
+  "model": [
+    {
+      "productVisible": true,
+      "macroColor": "ブルー",
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/M7141S/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod4370036v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/M7141S"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/M7141S/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod4370036v/M7141S/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "@type": "ProductModel",
+      "identifierKey": "5945fb97fb284e81fc437b566afe3177",
+      "height": {
+        "@type": "QuantitativeValue",
+        "value": 16,
+        "unitText": "cm"
+      },
+      "productDetailTabs": [],
+      "name": "シャポー・LV クロシェ ストライプ",
+      "packagingVariation": "",
+      "isBaby": false,
+      "mainMaterial2": "COTTON",
+      "width": {
+        "@type": "QuantitativeValue",
+        "value": 30,
+        "unitText": "cm"
+      },
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 102300
+        },
+        "@type": "Offer",
+        "price": "¥102,300"
+      },
+      "disambiguatingDescription": "<BR>",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-シャポー・lv-クロシェ-ストライプ-s00-メンズ-帽子＆手袋--M7141S_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-シャポー・lv-クロシェ-ストライプ-s00-メンズ-帽子＆手袋--M7141S_PM1_Worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Worn view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-シャポー・lv-クロシェ-ストライプ-s00-メンズ-帽子＆手袋--M7141S_PM1_Cropped worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Cropped worn view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/lv-crochet-stripes-straw-hat-s00-nvprod4370036v",
+      "material": "COTTON",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 30,
+        "unitText": "cm"
+      },
+      "highEndTemplate": false,
+      "sizeDisplayName": "S",
+      "productId": "nvprod4370036v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-ACC-94B_blue.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>素材：コットン 75%、ポリエステル 25%</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "LV Crochet Stripes Straw Hat"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories;Sunglasses"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "eligibleToAgec",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-t18ui4cq",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/accessories/_/N-t11ae5nz",
+          "alternateName": "accessories",
+          "name": "アクセサリー",
+          "identifier": "m-category-cat10052"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/accessories/hats-and-gloves/_/N-t1fq44ws",
+          "alternateName": "hats-and-gloves",
+          "name": "メンズ 帽子＆手袋",
+          "identifier": "nvcat1690008v"
+        }
+      ],
+      "careLink": {
+        "sections": []
+      },
+      "disclaimers": {
+        "customDisclaimer": false,
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "collectibles": false,
+      "color": "ブルー",
+      "@context": "http://schema.org",
+      "identifier": "M7141S"
+    },
+    {
+      "productVisible": true,
+      "macroColor": "ブルー",
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/M7141M/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod4370036v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/M7141M"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/M7141M/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod4370036v/M7141M/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "@type": "ProductModel",
+      "identifierKey": "95d45df8a7181cd12a565a89ef25cf6c",
+      "height": {
+        "@type": "QuantitativeValue",
+        "value": 16,
+        "unitText": "cm"
+      },
+      "productDetailTabs": [],
+      "name": "シャポー・LV クロシェ ストライプ",
+      "packagingVariation": "",
+      "isBaby": false,
+      "mainMaterial2": "COTTON",
+      "width": {
+        "@type": "QuantitativeValue",
+        "value": 30,
+        "unitText": "cm"
+      },
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 102300
+        },
+        "@type": "Offer",
+        "price": "¥102,300"
+      },
+      "disambiguatingDescription": "<BR>",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-シャポー・lv-クロシェ-ストライプ-s00-メンズ-帽子＆手袋--M7141M_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-シャポー・lv-クロシェ-ストライプ-s00-メンズ-帽子＆手袋--M7141M_PM1_Worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Worn view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-シャポー・lv-クロシェ-ストライプ-s00-メンズ-帽子＆手袋--M7141M_PM1_Cropped worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Cropped worn view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/lv-crochet-stripes-straw-hat-s00-nvprod4370036v",
+      "material": "COTTON",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 30,
+        "unitText": "cm"
+      },
+      "highEndTemplate": false,
+      "sizeDisplayName": "M",
+      "productId": "nvprod4370036v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-ACC-94B_blue.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>素材：コットン 75%、ポリエステル 25%</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "LV Crochet Stripes Straw Hat"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories;Sunglasses"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "eligibleToAgec",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-t18ui4cq",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/accessories/_/N-t11ae5nz",
+          "alternateName": "accessories",
+          "name": "アクセサリー",
+          "identifier": "m-category-cat10052"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/accessories/hats-and-gloves/_/N-t1fq44ws",
+          "alternateName": "hats-and-gloves",
+          "name": "メンズ 帽子＆手袋",
+          "identifier": "nvcat1690008v"
+        }
+      ],
+      "careLink": {
+        "sections": []
+      },
+      "disclaimers": {
+        "customDisclaimer": false,
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "collectibles": false,
+      "color": "ブルー",
+      "@context": "http://schema.org",
+      "identifier": "M7141M"
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "/api/catalog/jpn-jp/product/nvprod4370036v"
+    },
+    "push": {
+      "href": "/api/catalog/jpn-jp/product-push/nvprod4370036v"
+    },
+    "care-link": {
+      "href": "/api/catalog/jpn-jp/care-link/nvprod4370036v"
+    },
+    "availability": {
+      "href": "/api/catalog/jpn-jp/availability/nvprod4370036v"
+    }
+  },
+  "@type": "Product",
+  "sku": "M7141S",
+  "isSimilarTo": [],
+  "productTips": [],
+  "url": "/jpn-jp/products/lv-crochet-stripes-straw-hat-s00-nvprod4370036v",
+  "material": "NOT APPLICABLE ACC",
+  "category": [
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/_/N-t18ui4cq",
+      "alternateName": "men",
+      "name": "メンズ",
+      "identifier": "homme"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/accessories/_/N-t11ae5nz",
+      "alternateName": "accessories",
+      "name": "アクセサリー",
+      "identifier": "m-category-cat10052"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/accessories/hats-and-gloves/_/N-t1fq44ws",
+      "alternateName": "hats-and-gloves",
+      "name": "メンズ 帽子＆手袋",
+      "identifier": "nvcat1690008v"
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "hidePrice",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "subType",
+      "value": "product"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "sizeGuide",
+      "value": false
+    }
+  ],
+  "name": "シャポー・LV クロシェ ストライプ",
+  "isRelatedTo": [],
+  "@context": "http://schema.org",
+  "identifier": "nvprod4370036v"
+}
