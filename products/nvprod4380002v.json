@@ -1,0 +1,263 @@
+{
+  "model": [
+    {
+      "productVisible": true,
+      "macroColor": "ベージュ",
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/M78427/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod4380002v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/M78427"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/M78427/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod4380002v/M78427/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "@type": "ProductModel",
+      "identifierKey": "b87ffbb51146e0df9d549ad0877b275f",
+      "height": {
+        "@type": "QuantitativeValue",
+        "value": 5,
+        "unitText": "cm"
+      },
+      "productDetailTabs": [],
+      "name": "バンドーBB・ラッキー LV",
+      "packagingVariation": "",
+      "isBaby": false,
+      "mainMaterial2": "SILK",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 29700
+        },
+        "@type": "Offer",
+        "price": "¥29,700"
+      },
+      "disambiguatingDescription": "遊び心溢れるエスプリで表現したシルクの｢バンドーBB･ラッキー LV｣。片面にはメゾンの伝統的なモノグラム･パターンを、もう片面には｢Louis Vuitton｣シグネチャーの各文字を綴ったサイコロの列がプリントされています。モノグラムを愛する方を笑顔にする、軽やかな印象のアクセサリーです。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-バンドーbb・ラッキー-lv-s00-シルク-スカーフ-バンドー--M78427_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-バンドーbb・ラッキー-lv-s00-シルク-スカーフ-バンドー--M78427_PM1_Closeup view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Closeup view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-バンドーbb・ラッキー-lv-s00-シルク-スカーフ-バンドー--M78427_PM1_Back view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Back view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/lucky-lv-bb-bandeau-s00-nvprod4380002v",
+      "material": "SILK",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 120,
+        "unitText": "cm"
+      },
+      "highEndTemplate": false,
+      "productId": "nvprod4380002v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--BEIGE.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>素材：シルク 100%</li><li>インクジェットプリント</li><li>モノグラム･パターン</li><li>モノグラム･ダイスのモチーフ</li><li>Louis Vuittonシグネチャー</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "Lucky LV BB Bandeau"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories;Sunglasses"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "eligibleToAgec",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/_/N-tveguxb",
+          "alternateName": "women",
+          "name": "ウィメンズ",
+          "identifier": "femme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/accessories/_/N-toxp7l2",
+          "alternateName": "accessories",
+          "name": "アクセサリー",
+          "identifier": "w-category-cat10155"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/accessories/silk-squares-and-bandeaus/_/N-tte63om",
+          "alternateName": "silk-squares-and-bandeaus",
+          "name": "シルク スカーフ&バンドー",
+          "identifier": "nvcat1170030v"
+        }
+      ],
+      "careLink": {
+        "sections": []
+      },
+      "disclaimers": {
+        "customDisclaimer": false,
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "collectibles": false,
+      "color": "ベージュ",
+      "@context": "http://schema.org",
+      "identifier": "M78427"
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "/api/catalog/jpn-jp/product/nvprod4380002v"
+    },
+    "push": {
+      "href": "/api/catalog/jpn-jp/product-push/nvprod4380002v"
+    },
+    "care-link": {
+      "href": "/api/catalog/jpn-jp/care-link/nvprod4380002v"
+    },
+    "availability": {
+      "href": "/api/catalog/jpn-jp/availability/nvprod4380002v"
+    }
+  },
+  "@type": "Product",
+  "sku": "M78427",
+  "isSimilarTo": [],
+  "productTips": [],
+  "url": "/jpn-jp/products/lucky-lv-bb-bandeau-s00-nvprod4380002v",
+  "material": "NOT APPLICABLE ACC",
+  "category": [
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/women/_/N-tveguxb",
+      "alternateName": "women",
+      "name": "ウィメンズ",
+      "identifier": "femme"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/women/accessories/_/N-toxp7l2",
+      "alternateName": "accessories",
+      "name": "アクセサリー",
+      "identifier": "w-category-cat10155"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/women/accessories/silk-squares-and-bandeaus/_/N-tte63om",
+      "alternateName": "silk-squares-and-bandeaus",
+      "name": "シルク スカーフ&バンドー",
+      "identifier": "nvcat1170030v"
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "hidePrice",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "subType",
+      "value": "product"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "sizeGuide",
+      "value": false
+    }
+  ],
+  "name": "バンドーBB・ラッキー LV",
+  "isRelatedTo": [],
+  "@context": "http://schema.org",
+  "identifier": "nvprod4380002v"
+}

@@ -1,0 +1,430 @@
+{
+  "model": [
+    {
+      "productVisible": true,
+      "macroColor": "ゴールド",
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/M1080M/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod4330160v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/M1080M"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/M1080M/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod4330160v/M1080M/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "@type": "ProductModel",
+      "identifierKey": "e93c4c21a61c8b719d8ed9bbd68329ca",
+      "productDetailTabs": [],
+      "name": "リング・LV エクリプス パール",
+      "packagingVariation": "",
+      "isBaby": false,
+      "mainMaterial2": "BRASS",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 61600
+        },
+        "@type": "Offer",
+        "price": "¥61,600"
+      },
+      "disambiguatingDescription": "独創的なデザインが天空の美しさを想わせる｢リング･LV エクリプス パール｣。ゴールドカラーのメタルで象ったLV イニシャルを添えた艶やかなホワイトレジンパールが、まるで軌道を描く月のように、完璧な黄金のサークルの中心に浮かんでいます。ユニークでタイムレスなエレガンスが薫る、精緻に仕立てられたアクセサリーです。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-リング・lv-エクリプス-パール-s00-ファッションジュエリー--M1080M_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-リング・lv-エクリプス-パール-s00-ファッションジュエリー--M1080M_PM1_Closeup view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Closeup view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-リング・lv-エクリプス-パール-s00-ファッションジュエリー--M1080M_PM1_Back view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Back view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/lv-eclipse-pearls-rings-s00-nvprod4330160v",
+      "material": "METAL & RESIN",
+      "highEndTemplate": false,
+      "sizeDisplayName": "M",
+      "productId": "nvprod4330160v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>リング</li><li>サイズ（ヨーロッパ表記）： M（53） S（50）（ヨーロッパ表記から40を引いたものが、日本のサイズにほぼ該当します）</li><li>直径：2.5 cm</li><li>ホワイトのレジンパール付きの金具（色：ゴールド）</li><li>パールにLV イニシャル</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "LV Eclipse Pearls Rings"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories;Sunglasses"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "eligibleToAgec",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/_/N-tveguxb",
+          "alternateName": "women",
+          "name": "ウィメンズ",
+          "identifier": "femme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/fashion-jewelry/_/N-t1dmhbcs",
+          "alternateName": "fashion-jewelry",
+          "name": "ファッションジュエリー",
+          "identifier": "nvcat3210040v"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/accessories/fashion-jewellery/_/N-tqnlr03",
+          "alternateName": "all-fashion-jewelry",
+          "name": "すべてのファッションジュエリー",
+          "identifier": "w-category-cat1410426"
+        }
+      ],
+      "careLink": {
+        "sections": []
+      },
+      "disclaimers": {
+        "customDisclaimer": false,
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "collectibles": false,
+      "color": "Dore",
+      "@context": "http://schema.org",
+      "identifier": "M1080M"
+    },
+    {
+      "productVisible": true,
+      "macroColor": "ゴールド",
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/M1080S/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod4330160v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/M1080S"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/M1080S/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod4330160v/M1080S/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "@type": "ProductModel",
+      "identifierKey": "385a06f2a2344ff765e66e9eb274999a",
+      "productDetailTabs": [],
+      "name": "リング・LV エクリプス パール",
+      "packagingVariation": "",
+      "isBaby": false,
+      "mainMaterial2": "BRASS",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 61600
+        },
+        "@type": "Offer",
+        "price": "¥61,600"
+      },
+      "disambiguatingDescription": "独創的なデザインが天空の美しさを想わせる｢リング･LV エクリプス パール｣。ゴールドカラーのメタルで象ったLV イニシャルを添えた艶やかなホワイトレジンパールが、まるで軌道を描く月のように、完璧な黄金のサークルの中心に浮かんでいます。ユニークでタイムレスなエレガンスが薫る、精緻に仕立てられたアクセサリーです。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-リング・lv-エクリプス-パール-s00-ファッションジュエリー--M1080S_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-リング・lv-エクリプス-パール-s00-ファッションジュエリー--M1080S_PM1_Closeup view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Closeup view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-リング・lv-エクリプス-パール-s00-ファッションジュエリー--M1080S_PM1_Back view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Back view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/lv-eclipse-pearls-rings-s00-nvprod4330160v",
+      "material": "METAL & RESIN",
+      "highEndTemplate": false,
+      "sizeDisplayName": "S",
+      "productId": "nvprod4330160v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>リング</li><li>サイズ（ヨーロッパ表記）： M（53） S（50）（ヨーロッパ表記から40を引いたものが、日本のサイズにほぼ該当します）</li><li>直径：2.5 cm</li><li>ホワイトのレジンパール付きの金具（色：ゴールド）</li><li>パールにLV イニシャル</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "LV Eclipse Pearls Rings"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories;Sunglasses"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "eligibleToAgec",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/_/N-tveguxb",
+          "alternateName": "women",
+          "name": "ウィメンズ",
+          "identifier": "femme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/fashion-jewelry/_/N-t1dmhbcs",
+          "alternateName": "fashion-jewelry",
+          "name": "ファッションジュエリー",
+          "identifier": "nvcat3210040v"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/accessories/fashion-jewellery/_/N-tqnlr03",
+          "alternateName": "all-fashion-jewelry",
+          "name": "すべてのファッションジュエリー",
+          "identifier": "w-category-cat1410426"
+        }
+      ],
+      "careLink": {
+        "sections": []
+      },
+      "disclaimers": {
+        "customDisclaimer": false,
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "collectibles": false,
+      "color": "Dore",
+      "@context": "http://schema.org",
+      "identifier": "M1080S"
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "/api/catalog/jpn-jp/product/nvprod4330160v"
+    },
+    "push": {
+      "href": "/api/catalog/jpn-jp/product-push/nvprod4330160v"
+    },
+    "care-link": {
+      "href": "/api/catalog/jpn-jp/care-link/nvprod4330160v"
+    },
+    "availability": {
+      "href": "/api/catalog/jpn-jp/availability/nvprod4330160v"
+    }
+  },
+  "@type": "Product",
+  "sku": "M1080M",
+  "isSimilarTo": [],
+  "productTips": [],
+  "url": "/jpn-jp/products/lv-eclipse-pearls-rings-s00-nvprod4330160v",
+  "material": "NOT APPLICABLE ACC",
+  "category": [
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/women/_/N-tveguxb",
+      "alternateName": "women",
+      "name": "ウィメンズ",
+      "identifier": "femme"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/women/fashion-jewelry/_/N-t1dmhbcs",
+      "alternateName": "fashion-jewelry",
+      "name": "ファッションジュエリー",
+      "identifier": "nvcat3210040v"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/women/accessories/fashion-jewellery/_/N-tqnlr03",
+      "alternateName": "all-fashion-jewelry",
+      "name": "すべてのファッションジュエリー",
+      "identifier": "w-category-cat1410426"
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "hidePrice",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "subType",
+      "value": "product"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "sizeGuide",
+      "value": false
+    }
+  ],
+  "name": "リング・LV エクリプス パール",
+  "isRelatedTo": [],
+  "@context": "http://schema.org",
+  "identifier": "nvprod4330160v"
+}
