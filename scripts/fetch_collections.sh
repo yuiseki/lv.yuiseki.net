@@ -7,10 +7,10 @@ for collection in $collections; do
   echo $collection
 
   firstoutfile="./tmp/collections/$collection-0.json"
-  if [ ! -e $firstoutfile ]; then
+  if [ ! -s $firstoutfile ]; then
     url="https://api.louisvuitton.com/eco-eu/search-merch-eapi/v1/jpn-jp/plp/products/$collection?page=0"
     echo $url
-    sleep 1
+    sleep 5
 
     time curl \
       -s \
@@ -46,10 +46,10 @@ for collection in $collections; do
     echo "$i / $total"
     outfile="./tmp/collections/$collection-$i.json"
     echo $outfile
-    if [ ! -e $outfile ]; then
+    if [ ! -s $outfile ]; then
       url="https://api.louisvuitton.com/eco-eu/search-merch-eapi/v1/jpn-jp/plp/products/$collection?page=$i"
       echo $url
-      sleep 1
+      sleep 5
 
       time curl \
         -s \
