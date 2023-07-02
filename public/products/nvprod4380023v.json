@@ -1,0 +1,896 @@
+{
+  "model": [
+    {
+      "productVisible": true,
+      "macroColor": "ブラック",
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/M7164M/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod4380023v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/M7164M"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/M7164M/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod4380023v/M7164M/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "@type": "ProductModel",
+      "identifierKey": "763a03d00542112ab4fd18695292c416",
+      "height": {
+        "@type": "QuantitativeValue",
+        "value": 15,
+        "unitText": "cm"
+      },
+      "productDetailTabs": [],
+      "name": "バケットハット・デイリーグラム",
+      "packagingVariation": "",
+      "mainMaterial2": "COTTON",
+      "width": {
+        "@type": "QuantitativeValue",
+        "value": 25.5,
+        "unitText": "cm"
+      },
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 97900
+        },
+        "@type": "Offer",
+        "price": "¥97,900"
+      },
+      "disambiguatingDescription": "ファッショナブルで多彩なスタイリングをお楽しみいただける、日常使いにぴったりの｢バケットハット･デイリーグラム｣。片面にはトーン･オン･トーンのジャカード織りの技法であしらったオーバーサイズのモノグラム･パターンがメゾンならではのモダンな個性を放ちます。リバーシブルデザインを裏返すと現われるのは、クラシカルでフェミニンな印象を演出する、ゴールドカラーの刺繍で施した｢Louis Vuitton｣シグネチャー。ヌメ革のパイピングで、ラグジュアリーな雰囲気に仕上げました。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-バケットハット・デイリーグラム-s00-帽子＆手袋--M7164M_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-バケットハット・デイリーグラム-s00-帽子＆手袋--M7164M_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-バケットハット・デイリーグラム-s00-帽子＆手袋--M7164M_PM1_Interior view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Interior view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-バケットハット・デイリーグラム-s00-帽子＆手袋--M7164M_PM1_Back view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Back view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/dailygram-bucket-hat-s00-nvprod4380023v",
+      "material": "COTTON",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 25.5,
+        "unitText": "cm"
+      },
+      "highEndTemplate": false,
+      "sizeDisplayName": "M",
+      "productId": "nvprod4380023v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-SHO-980_noir.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>素材：コットン 100% </li><li>リバーシブルデザイン</li><li>ジャカード織りの技法であしらったモノグラム･パターン</li><li>レザーのパイピング</li><li>Louis Vuittonシグネチャーの刺繍</li><li>メタルアイレット</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "Dailygram Bucket Hat"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories;Sunglasses"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "eligibleToAgec",
+          "value": true
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/_/N-tveguxb",
+          "alternateName": "women",
+          "name": "ウィメンズ",
+          "identifier": "femme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/accessories/_/N-toxp7l2",
+          "alternateName": "accessories",
+          "name": "アクセサリー",
+          "identifier": "w-category-cat10155"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/accessories/hats-and-gloves/_/N-tmixwg8",
+          "alternateName": "hats-and-gloves",
+          "name": "帽子＆手袋",
+          "identifier": "nvcat1710020v"
+        }
+      ],
+      "careLink": {
+        "sections": []
+      },
+      "disclaimers": {
+        "customDisclaimer": false,
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "collectibles": false,
+      "color": "ノワール",
+      "@context": "http://schema.org",
+      "identifier": "M7164M",
+      "defaultFamilySapDisplayName": "HAT"
+    },
+    {
+      "productVisible": true,
+      "macroColor": "ブラック",
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/M7164S/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod4380023v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/M7164S"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/M7164S/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod4380023v/M7164S/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "@type": "ProductModel",
+      "identifierKey": "b202daa84ad69af46cbb0a629932e3fc",
+      "height": {
+        "@type": "QuantitativeValue",
+        "value": 15,
+        "unitText": "cm"
+      },
+      "productDetailTabs": [],
+      "name": "バケットハット・デイリーグラム",
+      "packagingVariation": "",
+      "mainMaterial2": "COTTON",
+      "width": {
+        "@type": "QuantitativeValue",
+        "value": 25.5,
+        "unitText": "cm"
+      },
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 97900
+        },
+        "@type": "Offer",
+        "price": "¥97,900"
+      },
+      "disambiguatingDescription": "ファッショナブルで多彩なスタイリングをお楽しみいただける、日常使いにぴったりの｢バケットハット･デイリーグラム｣。片面にはトーン･オン･トーンのジャカード織りの技法であしらったオーバーサイズのモノグラム･パターンがメゾンならではのモダンな個性を放ちます。リバーシブルデザインを裏返すと現われるのは、クラシカルでフェミニンな印象を演出する、ゴールドカラーの刺繍で施した｢Louis Vuitton｣シグネチャー。ヌメ革のパイピングで、ラグジュアリーな雰囲気に仕上げました。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-バケットハット・デイリーグラム-s00-帽子＆手袋--M7164S_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-バケットハット・デイリーグラム-s00-帽子＆手袋--M7164S_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-バケットハット・デイリーグラム-s00-帽子＆手袋--M7164S_PM1_Interior view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Interior view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-バケットハット・デイリーグラム-s00-帽子＆手袋--M7164S_PM1_Back view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Back view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/dailygram-bucket-hat-s00-nvprod4380023v",
+      "material": "COTTON",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 25.5,
+        "unitText": "cm"
+      },
+      "highEndTemplate": false,
+      "sizeDisplayName": "S",
+      "productId": "nvprod4380023v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-SHO-980_noir.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>素材：コットン 100% </li><li>リバーシブルデザイン</li><li>ジャカード織りの技法であしらったモノグラム･パターン</li><li>レザーのパイピング</li><li>Louis Vuittonシグネチャーの刺繍</li><li>メタルアイレット</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "Dailygram Bucket Hat"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories;Sunglasses"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "eligibleToAgec",
+          "value": true
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/_/N-tveguxb",
+          "alternateName": "women",
+          "name": "ウィメンズ",
+          "identifier": "femme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/accessories/_/N-toxp7l2",
+          "alternateName": "accessories",
+          "name": "アクセサリー",
+          "identifier": "w-category-cat10155"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/accessories/hats-and-gloves/_/N-tmixwg8",
+          "alternateName": "hats-and-gloves",
+          "name": "帽子＆手袋",
+          "identifier": "nvcat1710020v"
+        }
+      ],
+      "careLink": {
+        "sections": []
+      },
+      "disclaimers": {
+        "customDisclaimer": false,
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "collectibles": false,
+      "color": "ノワール",
+      "@context": "http://schema.org",
+      "identifier": "M7164S",
+      "defaultFamilySapDisplayName": "HAT"
+    },
+    {
+      "productVisible": true,
+      "macroColor": "ホワイト",
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/M7163M/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod4380023v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/M7163M"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/M7163M/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod4380023v/M7163M/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "@type": "ProductModel",
+      "identifierKey": "65fdafdc0e88d0d3ef1a9f0b6f53b382",
+      "height": {
+        "@type": "QuantitativeValue",
+        "value": 15,
+        "unitText": "cm"
+      },
+      "productDetailTabs": [],
+      "name": "バケットハット・デイリーグラム",
+      "packagingVariation": "",
+      "mainMaterial2": "COTTON",
+      "width": {
+        "@type": "QuantitativeValue",
+        "value": 25.5,
+        "unitText": "cm"
+      },
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 97900
+        },
+        "@type": "Offer",
+        "price": "¥97,900"
+      },
+      "disambiguatingDescription": "ファッショナブルで多彩なスタイリングをお楽しみいただける、日常使いにぴったりの｢バケットハット･デイリーグラム｣。片面にはトーン･オン･トーンのジャカード織りの技法であしらったオーバーサイズのモノグラム･パターンがメゾンならではのモダンな個性を放ちます。リバーシブルデザインを裏返すと現われるのは、クラシカルでフェミニンな印象を演出する、ゴールドカラーの刺繍で施した｢Louis Vuitton｣シグネチャー。ヌメ革のパイピングで、ラグジュアリーな雰囲気に仕上げました。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-バケットハット・デイリーグラム-s00-帽子＆手袋--M7163M_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-バケットハット・デイリーグラム-s00-帽子＆手袋--M7163M_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-バケットハット・デイリーグラム-s00-帽子＆手袋--M7163M_PM1_Interior view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Interior view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-バケットハット・デイリーグラム-s00-帽子＆手袋--M7163M_PM1_Back view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Back view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/dailygram-bucket-hat-s00-nvprod4380023v",
+      "material": "COTTON",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 25.5,
+        "unitText": "cm"
+      },
+      "highEndTemplate": false,
+      "sizeDisplayName": "M",
+      "productId": "nvprod4380023v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-RTW-001_blanc.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>素材：コットン 100% </li><li>リバーシブルデザイン</li><li>ジャカード織りの技法であしらったモノグラム･パターン</li><li>レザーのパイピング</li><li>Louis Vuittonシグネチャーの刺繍</li><li>メタルアイレット</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "Dailygram Bucket Hat"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories;Sunglasses"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "eligibleToAgec",
+          "value": true
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/_/N-tveguxb",
+          "alternateName": "women",
+          "name": "ウィメンズ",
+          "identifier": "femme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/accessories/_/N-toxp7l2",
+          "alternateName": "accessories",
+          "name": "アクセサリー",
+          "identifier": "w-category-cat10155"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/accessories/hats-and-gloves/_/N-tmixwg8",
+          "alternateName": "hats-and-gloves",
+          "name": "帽子＆手袋",
+          "identifier": "nvcat1710020v"
+        }
+      ],
+      "careLink": {
+        "sections": []
+      },
+      "disclaimers": {
+        "customDisclaimer": false,
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "collectibles": false,
+      "color": "ブロン",
+      "@context": "http://schema.org",
+      "identifier": "M7163M",
+      "defaultFamilySapDisplayName": "HAT"
+    },
+    {
+      "productVisible": true,
+      "macroColor": "ホワイト",
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/M7163S/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod4380023v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/M7163S"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/M7163S/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod4380023v/M7163S/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "@type": "ProductModel",
+      "identifierKey": "06f5c63b7dd76d16d28825ec52cb37d8",
+      "height": {
+        "@type": "QuantitativeValue",
+        "value": 15,
+        "unitText": "cm"
+      },
+      "productDetailTabs": [],
+      "name": "バケットハット・デイリーグラム",
+      "packagingVariation": "",
+      "mainMaterial2": "COTTON",
+      "width": {
+        "@type": "QuantitativeValue",
+        "value": 25.5,
+        "unitText": "cm"
+      },
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 97900
+        },
+        "@type": "Offer",
+        "price": "¥97,900"
+      },
+      "disambiguatingDescription": "ファッショナブルで多彩なスタイリングをお楽しみいただける、日常使いにぴったりの｢バケットハット･デイリーグラム｣。片面にはトーン･オン･トーンのジャカード織りの技法であしらったオーバーサイズのモノグラム･パターンがメゾンならではのモダンな個性を放ちます。リバーシブルデザインを裏返すと現われるのは、クラシカルでフェミニンな印象を演出する、ゴールドカラーの刺繍で施した｢Louis Vuitton｣シグネチャー。ヌメ革のパイピングで、ラグジュアリーな雰囲気に仕上げました。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-バケットハット・デイリーグラム-s00-帽子＆手袋--M7163S_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-バケットハット・デイリーグラム-s00-帽子＆手袋--M7163S_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-バケットハット・デイリーグラム-s00-帽子＆手袋--M7163S_PM1_Interior view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Interior view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-バケットハット・デイリーグラム-s00-帽子＆手袋--M7163S_PM1_Back view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Back view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/dailygram-bucket-hat-s00-nvprod4380023v",
+      "material": "COTTON",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 25.5,
+        "unitText": "cm"
+      },
+      "highEndTemplate": false,
+      "sizeDisplayName": "S",
+      "productId": "nvprod4380023v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-RTW-001_blanc.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>素材：コットン 100% </li><li>リバーシブルデザイン</li><li>ジャカード織りの技法であしらったモノグラム･パターン</li><li>レザーのパイピング</li><li>Louis Vuittonシグネチャーの刺繍</li><li>メタルアイレット</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "Dailygram Bucket Hat"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories;Sunglasses"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "eligibleToAgec",
+          "value": true
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/_/N-tveguxb",
+          "alternateName": "women",
+          "name": "ウィメンズ",
+          "identifier": "femme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/accessories/_/N-toxp7l2",
+          "alternateName": "accessories",
+          "name": "アクセサリー",
+          "identifier": "w-category-cat10155"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/accessories/hats-and-gloves/_/N-tmixwg8",
+          "alternateName": "hats-and-gloves",
+          "name": "帽子＆手袋",
+          "identifier": "nvcat1710020v"
+        }
+      ],
+      "careLink": {
+        "sections": []
+      },
+      "disclaimers": {
+        "customDisclaimer": false,
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "collectibles": false,
+      "color": "ブロン",
+      "@context": "http://schema.org",
+      "identifier": "M7163S",
+      "defaultFamilySapDisplayName": "HAT"
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "/api/catalog/jpn-jp/product/nvprod4380023v"
+    },
+    "push": {
+      "href": "/api/catalog/jpn-jp/product-push/nvprod4380023v"
+    },
+    "care-link": {
+      "href": "/api/catalog/jpn-jp/care-link/nvprod4380023v"
+    },
+    "availability": {
+      "href": "/api/catalog/jpn-jp/availability/nvprod4380023v"
+    }
+  },
+  "@type": "Product",
+  "sku": "M7163M",
+  "isSimilarTo": [],
+  "productTips": [],
+  "url": "/jpn-jp/products/dailygram-bucket-hat-s00-nvprod4380023v",
+  "material": "NOT APPLICABLE ACC",
+  "category": [
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/women/_/N-tveguxb",
+      "alternateName": "women",
+      "name": "ウィメンズ",
+      "identifier": "femme"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/women/accessories/_/N-toxp7l2",
+      "alternateName": "accessories",
+      "name": "アクセサリー",
+      "identifier": "w-category-cat10155"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/women/accessories/hats-and-gloves/_/N-tmixwg8",
+      "alternateName": "hats-and-gloves",
+      "name": "帽子＆手袋",
+      "identifier": "nvcat1710020v"
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "hidePrice",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "subType",
+      "value": "product"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "sizeGuide",
+      "value": false
+    }
+  ],
+  "name": "バケットハット・デイリーグラム",
+  "isRelatedTo": [],
+  "@context": "http://schema.org",
+  "identifier": "nvprod4380023v"
+}
