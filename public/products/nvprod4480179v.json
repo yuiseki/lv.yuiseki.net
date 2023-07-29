@@ -1,0 +1,291 @@
+{
+  "model": [
+    {
+      "productVisible": true,
+      "macroColor": "ベージュ",
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/M23530/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod4480179v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/M23530"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/M23530/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod4480179v/M23530/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "@type": "ProductModel",
+      "identifierKey": "1be0c2be29c3229b36a48edecdbead59",
+      "commercialTag": "【近日発売予定】",
+      "height": {
+        "@type": "QuantitativeValue",
+        "value": 12,
+        "unitText": "cm"
+      },
+      "productDetailTabs": [],
+      "name": "ポシェット・コスメティック PM",
+      "packagingVariation": "",
+      "mainMaterial2": "COTTON",
+      "width": {
+        "@type": "QuantitativeValue",
+        "value": 6,
+        "unitText": "cm"
+      },
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 115500
+        },
+        "@type": "Offer",
+        "price": "¥115,500"
+      },
+      "disambiguatingDescription": "<BR>※本製品は、2023年8月4日(金)より一部のルイ・ヴィトン ストアおよび公式サイトにて順次発売予定です。尚、入荷状況などにより、発売時期が前後する場合もございますので予めご了承ください。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ポシェット・コスメティック-pm-その他キャンバス-トラベル--M23530_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ポシェット・コスメティック-pm-その他キャンバス-トラベル--M23530_PM1_Closeup view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Closeup view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ポシェット・コスメティック-pm-その他キャンバス-トラベル--M23530_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ポシェット・コスメティック-pm-その他キャンバス-トラベル--M23530_PM1_Detail view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Detail view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ポシェット・コスメティック-pm-その他キャンバス-トラベル--M23530_PM1_Back view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Back view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/pochette-cosmetique-pm-nvprod4480179v",
+      "material": "LINEN",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 19,
+        "unitText": "cm"
+      },
+      "highEndTemplate": false,
+      "productId": "nvprod4480179v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>キャンバス</li><li>トリミング：レザー（皮革の種類：牛革） </li><li>ライニング：テキスタイル </li><li>金具（色：ゴールド）</li><li>コーティングを施したライニング</li><li>ファスナー開閉式</li><li>内フラットポケット</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "Pochette Cosmétique PM"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z01"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "eligibleToAgec",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "newArrivalsDate",
+          "value": 1690502400000
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/_/N-tveguxb",
+          "alternateName": "women",
+          "name": "ウィメンズ",
+          "identifier": "femme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/travel/_/N-t1ilynm",
+          "alternateName": "travel",
+          "name": "トラベル",
+          "identifier": "w-category-cat10087"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/travel/travel-accessories/_/N-tbc3s3k",
+          "alternateName": "travel-accessories",
+          "name": "ウィメンズ トラベルアクセサリー",
+          "identifier": "w-category-cat1410314"
+        }
+      ],
+      "careLink": {
+        "sections": []
+      },
+      "disclaimers": {
+        "customDisclaimer": false,
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "collectibles": false,
+      "color": "MONOGRAM BEIGE",
+      "@context": "http://schema.org",
+      "identifier": "M23530",
+      "defaultFamilySapDisplayName": "ACCESSOIRES DE VOYAGE"
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "/api/catalog/jpn-jp/product/nvprod4480179v"
+    },
+    "push": {
+      "href": "/api/catalog/jpn-jp/product-push/nvprod4480179v"
+    },
+    "care-link": {
+      "href": "/api/catalog/jpn-jp/care-link/nvprod4480179v"
+    },
+    "availability": {
+      "href": "/api/catalog/jpn-jp/availability/nvprod4480179v"
+    }
+  },
+  "@type": "Product",
+  "sku": "M23530",
+  "isSimilarTo": [],
+  "productTips": [],
+  "url": "/jpn-jp/products/pochette-cosmetique-pm-nvprod4480179v",
+  "material": "その他キャンバス",
+  "category": [
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/women/_/N-tveguxb",
+      "alternateName": "women",
+      "name": "ウィメンズ",
+      "identifier": "femme"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/women/travel/_/N-t1ilynm",
+      "alternateName": "travel",
+      "name": "トラベル",
+      "identifier": "w-category-cat10087"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/women/travel/travel-accessories/_/N-tbc3s3k",
+      "alternateName": "travel-accessories",
+      "name": "ウィメンズ トラベルアクセサリー",
+      "identifier": "w-category-cat1410314"
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "hidePrice",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "subType",
+      "value": "product"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "materialIconURL",
+      "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--AEL-LG-G19_autres_toiles_monogram.jpg"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "careLink",
+      "value": "LGAESTHETICLINEZ13"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "sizeGuide",
+      "value": false
+    }
+  ],
+  "name": "ポシェット・コスメティック PM",
+  "isRelatedTo": [],
+  "@context": "http://schema.org",
+  "identifier": "nvprod4480179v"
+}
