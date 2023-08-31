@@ -1,0 +1,700 @@
+{
+  "model": [
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/nvsku4090001v/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod4700105v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/nvsku4090001v"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/nvsku4090001v/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod4700105v/nvsku4090001v/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "@type": "ProductModel",
+      "productDetailTabs": [],
+      "name": "ニューフォーマル - Look 01",
+      "packagingVariation": "",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton--Men_Formal_SS24_LOOK01_VISUAL4.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "SS24",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/new-formal-look-01-nvprod4700105v",
+      "highEndTemplate": false,
+      "productId": "nvprod4700105v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "New Formal - Look 01"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "eligibleToAgec",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "hasLanguagePanel",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-t18ui4cq",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/ready-to-wear/_/N-t1b9f3zb",
+          "alternateName": "ready-to-wear",
+          "name": "プレタポルテ(洋服)",
+          "identifier": "m-readytowear"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/ready-to-wear/look-selection/_/N-t1u9ytru",
+          "alternateName": "look-selection",
+          "name": "ルックセレクション",
+          "identifier": "nvcat450010v"
+        }
+      ],
+      "careLink": {
+        "sections": []
+      },
+      "disclaimers": {
+        "customDisclaimer": false,
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "collectibles": false,
+      "@context": "http://schema.org",
+      "identifier": "nvsku4090001v"
+    }
+  ],
+  "readyToWearSKUs": [
+    {
+      "productVisible": true,
+      "macroColor": "ホワイト",
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/1ABJTO/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod4620096v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/1ABJTO"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/1ABJTO/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod4620096v/1ABJTO/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "@type": "ProductModel",
+      "identifierKey": "ffda0d3d0ae831045162d5c97bc0ea03",
+      "productDetailTabs": [],
+      "name": "コットンショートスリーブシャツ",
+      "packagingVariation": "",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 117700
+        },
+        "@type": "Offer",
+        "price": "¥117,700"
+      },
+      "disambiguatingDescription": "フォーマルなビジネススーツをフレッシュに引き立てる、スマートな印象のホワイトのショートスリーブシャツ。繊細なモノグラム･ストライプ パターンをトーナルにあしらったコットンジャカードを使用し、張りのあるポインテッドカラーでタイムレスなシルエットに仕上げました。同パターンの他のビジネスアイテムと合わせれば、洗練されたレイヤースタイルがお楽しみいただけます。 <p>ご不明な点がございましたら、クライアントサービスまでお気軽にお問合せください。専任のクライアントアドバイザーが、素材やサイズなどの製品詳細、モデル着用イメージや関連アイテムのご案内など、お客様のご要望に合わせたスタイリング・アドバイスをご提供いたします。</p><p>また、サイズ違いなどによる返品・交換のご相談も承ります。詳細は<a href='https://jp.louisvuitton.com/jpn-jp/legal-privacy'><b>こちら。</b></a></p>",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-コットンショートスリーブシャツ--HQS3PW155001_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-コットンショートスリーブシャツ--HQS3PW155001_PM1_Worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Worn view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-コットンショートスリーブシャツ--HQS3PW155001_PM1_Closeup view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Closeup view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-コットンショートスリーブシャツ--HQS3PW155001_PM1_Ambiance view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Ambiance view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-コットンショートスリーブシャツ--HQS3PW155001_PM1_Back view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Back view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-コットンショートスリーブシャツ--HQS3PW155001_PM1_Cropped view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Cropped view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-コットンショートスリーブシャツ--HQS3PW155001_PM1_Cropped worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Cropped worn view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/cotton-short-sleeved-shirt-nvprod4620096v",
+      "highEndTemplate": false,
+      "sizeDisplayName": "40",
+      "productId": "nvprod4620096v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-SHO-01_blanc.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>本体：コットン 100%</li><li>レギュラーフィット</li><li>ジャカード織りのトーナルなモノグラム･ストライプ</li><li>ポイントカラー</li><li>イタリア製</li><li>REF：HQS3PW155</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "Cotton Short-Sleeved Shirt"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z05"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Ready_To_Wear_Men"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "eligibleToAgec",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "hasLanguagePanel",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-t18ui4cq",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/ready-to-wear/_/N-t1b9f3zb",
+          "alternateName": "ready-to-wear",
+          "name": "プレタポルテ(洋服)",
+          "identifier": "m-readytowear"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/ready-to-wear/shirts/_/N-t1wtp7cj",
+          "alternateName": "shirts",
+          "name": "メンズ シャツ",
+          "identifier": "m-shirts-mrtw"
+        }
+      ],
+      "careLink": {
+        "sections": []
+      },
+      "disclaimers": {
+        "customDisclaimer": false,
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "collectibles": false,
+      "color": "ブロン",
+      "@context": "http://schema.org",
+      "identifier": "1ABJTO",
+      "defaultFamilySapDisplayName": "SHIRT LS DAY M"
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "/api/catalog/jpn-jp/product/nvprod4700105v"
+    },
+    "push": {
+      "href": "/api/catalog/jpn-jp/product-push/nvprod4700105v"
+    },
+    "care-link": {
+      "href": "/api/catalog/jpn-jp/care-link/nvprod4700105v"
+    },
+    "availability": {
+      "href": "/api/catalog/jpn-jp/availability/nvprod4700105v"
+    }
+  },
+  "@type": "Product",
+  "sku": "nvsku4090001v",
+  "isSimilarTo": [],
+  "productTips": [],
+  "url": "/jpn-jp/products/new-formal-look-01-nvprod4700105v",
+  "accessoriesSKUs": [
+    {
+      "productVisible": true,
+      "macroColor": "グレー",
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/N41413/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/000208"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/N41413"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/N41413/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/000208/N41413/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "@type": "ProductModel",
+      "identifierKey": "028aeeb7b8a9e1588ebd11adc0bacc10",
+      "height": {
+        "@type": "QuantitativeValue",
+        "value": 31,
+        "unitText": "cm"
+      },
+      "productDetailTabs": [],
+      "name": "キーポル・バンドリエール 55",
+      "packagingVariation": "",
+      "mainMaterial2": "COATED CANVAS",
+      "width": {
+        "@type": "QuantitativeValue",
+        "value": 26,
+        "unitText": "cm"
+      },
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 376200
+        },
+        "@type": "Offer",
+        "price": "¥376,200"
+      },
+      "disambiguatingDescription": "シンプル且つ、都会的なデザインが印象的なダミエ・グラフィットの「キーポル・バンドリエール 55」。ルイ・ヴィトンの定番の旅行バッグがマスキュリンなイメージに。取り外し可能なレザーストラップ付きで、肩に掛けても使用可能。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-キーポル・バンドリエール-55--N41413_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "playerType": "freecaster",
+          "contentUrl": "https://player.louisvuitton.com/embed/1474745",
+          "@type": "ImageObject",
+          "name": "freeCaster Media Worn View",
+          "@context": "http://schema.org"
+        },
+        {
+          "playerType": "freecaster",
+          "contentUrl": "https://player.louisvuitton.com/embed/1474737",
+          "@type": "ImageObject",
+          "name": "freeCaster Media Creative Video",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-キーポル・バンドリエール-55--N41413_PM1_Worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Worn view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-キーポル・バンドリエール-55--N41413_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-キーポル・バンドリエール-55--N41413_PM1_Interior view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Interior view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-キーポル・バンドリエール-55--N41413_PM1_Detail view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Detail view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-キーポル・バンドリエール-55--N41413_PM1_Ambiance view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Ambiance view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-キーポル・バンドリエール-55--N41413_PM1_Back view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Back view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-キーポル・バンドリエール-55--N41413_PM1_Other view4.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Other view4",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-キーポル・バンドリエール-55--N41413_PM1_Cropped worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Cropped worn view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/keepall-bandouliere-55-damier-geant-canvas-000208",
+      "material": "ダミエ・グラフィット",
+      "highEndTemplate": false,
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 55,
+        "unitText": "cm"
+      },
+      "productId": "000208",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-LG-9GA_graphite.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul> \n <li>ダミエ・グラフィット キャンバス</li> \n <li>旅行用バッグ</li> \n \n \n <li>ライニング（素材：テキスタイル）</li> \n <li>トリミング（素材：レザー）</li> \n <li>金具（色：シルバー）</li> \n <li>ダブルファスナー開閉式</li> \n \n <li>ネームタグ付き（取り外し可能、素材：レザー）</li> \n <li>パドロック付き（取り外し可能、素材：金具（色：シルバー））</li> \n <li>ポワニエ付き（取り外し可能、素材：レザー）</li> \n <li>機内持ち込み可</li> \n <li>フラットに折り畳みが可能。収納や持ち運びにも最適です。</li> \n<li>ストラップ：取り外し可能, 調整可能</li><li>ストラップの頂点からバッグ上部までの長さ(最短)：36.0 cm</li><li>ストラップの頂点からバッグ上部までの長さ(最長)：50.0 cm</li><li>ハンドル：ダブル</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "Keepall Bandoulière 55"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--AEL-LG-D05_damier_graphite.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "hotstampable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z01"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "eligibleToAgec",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "newArrivalsDate",
+          "value": 1218758400000
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "hasLanguagePanel",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-t18ui4cq",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/travel/_/N-t6f2shp",
+          "alternateName": "travel",
+          "name": "トラベル",
+          "identifier": "m-category-cat10013"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/travel/travel-bags/_/N-tr2bq3w",
+          "alternateName": "travel-bags",
+          "name": "メンズ トラベルバッグ",
+          "identifier": "m-category-cat1410060"
+        }
+      ],
+      "careLink": {
+        "title": "素材とお手入れ方法、修理",
+        "sections": [
+          {
+            "description": "<p>－研磨剤や目の粗い表面との接触を避けてください。特に、レザートリミング部分についてはご注意ください。<br>\n－本製品は風通しの悪い場所での保管･放置を避け、風通しの良い乾燥した場所に保管してください。また、高温になる場所(暖房器具のそば、直射日光が当たる車内など)には短時間でも保管･放置しないでください。<br>\n－油性の製品（グリースや化粧品、ハンドクリームなど）やアルコールを含んだ製品（アルコール消毒ジェル、アルコール消毒スプレー、香水、マニキュア、除光液、ベンジンなど）、色移りの原因となる素材(雑誌、カラーレザーなど)との接触は避けてください。化粧品やアルコールを含んだ製品、香水などをご使用の際には5-10分ほど時間をおき、手指や肌が完全に乾いてから、製品に触れていただきますようお願い申しあげます。<br>\n－保管の際は、付属の布袋をご使用ください。温度や湿度が高く、風通しの悪い場所での保管･放置は避けてください。<br>\n－コートキャンバス地は、お手入れも簡単です。レザー部分を避けて、少量の洗剤を溶かした水で湿らせた、白い柔らかい布で軽く拭いてください。<br>\n－色移りをする可能性があるもの(雑誌、デニムのような布地、他の皮革製品など)を、コートキャンバス地に長時間接触させないでください。<br>\n－時の経過とともに、ダミエ･パターンが多少薄くなり、キャンバス地の地色が現れる場合があります。これは品質上の問題ではなく、耐久性に影響を与えることはありません。</p>\n<p><u>リペアサービスのご案内：</u><br>\nルイ・ヴィトンでは、製品を末永くご愛用いただけるようリペアサービスを承っております。<br>\nお客様のご要望をお伺いした上で、パリのアトリエと同じパーツを使用し、熟練した職人が真心を込めて、1点1点丁寧に修理いたします。ご利用方法は、「<a href=\"http://jp.louisvuitton.com/jpn-jp/start-the-journey\">ヘルプ</a>」セクション内の「<a href=\"http://jp.louisvuitton.com/jpn-jp/repair\">リペアサービス</a>」をご覧ください。<br>\n<br>\nまた、お問合せ・ご相談はクライアントサービスおよび全国のルイ・ヴィトン ストアまでお気軽にご連絡ください(阪急梅田店、阪急メンズ店、LOUIS VUITTON DOVER STREET MARKET GINZA店は除く)。</p>",
+            "introduction": "<p>ダミエ・グラフィット キャンバスの注意点をお読みいただき、末永くご愛用くださいますようお願い申し上げます。</p>"
+          }
+        ],
+        "careLinkId": "MATAEL-LG-D05",
+        "identifier": "000208"
+      },
+      "disclaimers": {
+        "customDisclaimer": false,
+        "value": "pre_order_disclaimer",
+        "popInContent": "pre_order_disclaimer_info_popin_content",
+        "popInTitle": "pre_order_disclaimer_info_popin_title"
+      },
+      "collectibles": false,
+      "color": "Graphite",
+      "@context": "http://schema.org",
+      "identifier": "N41413",
+      "defaultFamilySapDisplayName": "SOFT LUGGAGE"
+    }
+  ],
+  "category": [
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/_/N-t18ui4cq",
+      "alternateName": "men",
+      "name": "メンズ",
+      "identifier": "homme"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/ready-to-wear/_/N-t1b9f3zb",
+      "alternateName": "ready-to-wear",
+      "name": "プレタポルテ(洋服)",
+      "identifier": "m-readytowear"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/ready-to-wear/look-selection/_/N-t1u9ytru",
+      "alternateName": "look-selection",
+      "name": "ルックセレクション",
+      "identifier": "nvcat450010v"
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "hidePrice",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "subType",
+      "value": "product"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "sizeGuide",
+      "value": false
+    }
+  ],
+  "name": "ニューフォーマル - Look 01",
+  "isRelatedTo": [],
+  "@context": "http://schema.org",
+  "identifier": "nvprod4700105v"
+}
