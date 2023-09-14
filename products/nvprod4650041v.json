@@ -1,0 +1,289 @@
+{
+  "model": [
+    {
+      "productVisible": true,
+      "macroColor": "ブルー",
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/M23735/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod4650041v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/M23735"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/M23735/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod4650041v/M23735/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "@type": "ProductModel",
+      "identifierKey": "23b582c83f16bf4c0fdfc21e561ca657",
+      "height": {
+        "@type": "QuantitativeValue",
+        "value": 43,
+        "unitText": "cm"
+      },
+      "productDetailTabs": [],
+      "name": "テイクオフ・バックパック",
+      "packagingVariation": "",
+      "mainMaterial2": "COWHIDE",
+      "width": {
+        "@type": "QuantitativeValue",
+        "value": 14,
+        "unitText": "cm"
+      },
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 460900
+        },
+        "@type": "Offer",
+        "price": "¥460,900"
+      },
+      "disambiguatingDescription": "グレイン(しぼ)のあるカウハイドレザーで仕立てた｢テイクオフ･バックパック｣。多彩なスタイルに合わせてお楽しみいただける、シンプルながらモダンなデザインが魅力です。モノトーンの色使いに、同系色のメタルで象ったLV イニシャルが個性をプラス。｢LV アエログラム｣コレクションに相応しく、フロントポケットにはコーナー部分を斜めにカッティングしたフラップをあしらい、特徴的なエンボス加工入りのネームタグを添えました。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-テイクオフ・バックパック-lv-aerogram-バッグ--M23735_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-テイクオフ・バックパック-lv-aerogram-バッグ--M23735_PM1_Interior2 view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Interior2 view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-テイクオフ・バックパック-lv-aerogram-バッグ--M23735_PM1_Detail view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Detail view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-テイクオフ・バックパック-lv-aerogram-バッグ--M23735_PM1_Back view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Back view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/takeoff-backpack-lv-aerogram-nvprod4650041v",
+      "material": "その他レザー",
+      "highEndTemplate": false,
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 30,
+        "unitText": "cm"
+      },
+      "productId": "nvprod4650041v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>素材：レザー（皮革の種類：牛革）</li><li>トリミング：レザー（皮革の種類：牛革）</li><li>ライニング：テキスタイル</li><li>金具（色：シルバー）</li><li>トーン･オン･トーンのメタル製シグネチャー</li><li>シグネチャーのタグ</li><li>ファスナー開閉式</li><li>マグネット開閉式フロントフラップポケット</li><li>ハンドル：シングル</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "Takeoff Backpack"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z01"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "eligibleToAgec",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "newArrivalsDate",
+          "value": 1694649600000
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "hasLanguagePanel",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-t18ui4cq",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/bags/_/N-tig3tkz",
+          "alternateName": "bags",
+          "name": "バッグ",
+          "identifier": "m-category-cat10001"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/bags/backpacks/_/N-tq8x56v",
+          "alternateName": "backpacks",
+          "name": "バックパック",
+          "identifier": "m-backpacks-bag-men"
+        }
+      ],
+      "careLink": {
+        "sections": []
+      },
+      "disclaimers": {
+        "customDisclaimer": false,
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "collectibles": false,
+      "color": "BLEU ATLANTIQUE",
+      "@context": "http://schema.org",
+      "identifier": "M23735",
+      "defaultFamilySapDisplayName": "DAILY BAGS"
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "/api/catalog/jpn-jp/product/nvprod4650041v"
+    },
+    "push": {
+      "href": "/api/catalog/jpn-jp/product-push/nvprod4650041v"
+    },
+    "care-link": {
+      "href": "/api/catalog/jpn-jp/care-link/nvprod4650041v"
+    },
+    "availability": {
+      "href": "/api/catalog/jpn-jp/availability/nvprod4650041v"
+    }
+  },
+  "@type": "Product",
+  "sku": "M23735",
+  "isSimilarTo": [],
+  "productTips": [],
+  "url": "/jpn-jp/products/takeoff-backpack-lv-aerogram-nvprod4650041v",
+  "material": "LV AEROGRAM",
+  "category": [
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/_/N-t18ui4cq",
+      "alternateName": "men",
+      "name": "メンズ",
+      "identifier": "homme"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/bags/_/N-tig3tkz",
+      "alternateName": "bags",
+      "name": "バッグ",
+      "identifier": "m-category-cat10001"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/bags/backpacks/_/N-tq8x56v",
+      "alternateName": "backpacks",
+      "name": "バックパック",
+      "identifier": "m-backpacks-bag-men"
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "hidePrice",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "subType",
+      "value": "product"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "materialIconURL",
+      "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MATAEL-LG-LV_Aerogram.jpg"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "careLink",
+      "value": "LGAESTHETICLINEZ42"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "sizeGuide",
+      "value": false
+    }
+  ],
+  "name": "テイクオフ・バックパック",
+  "isRelatedTo": [],
+  "@context": "http://schema.org",
+  "identifier": "nvprod4650041v"
+}
