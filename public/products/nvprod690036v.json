@@ -1,0 +1,276 @@
+{
+  "model": [
+    {
+      "productVisible": true,
+      "macroColor": "マロン",
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/M11010/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod690036v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/M11010"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/M11010/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod690036v/M11010/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "@type": "ProductModel",
+      "height": {
+        "@type": "QuantitativeValue",
+        "value": 114,
+        "unitText": "cm"
+      },
+      "productDetailTabs": [],
+      "name": "スクレテール・ランジュ",
+      "packagingVariation": "",
+      "mainMaterial2": "COATED CANVAS",
+      "width": {
+        "@type": "QuantitativeValue",
+        "value": 58,
+        "unitText": "cm"
+      },
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 12980000
+        },
+        "@type": "Offer",
+        "price": "¥12,980,000"
+      },
+      "disambiguatingDescription": "紳士淑女の旅に欠かせない｢スクレテール･ランジュ｣。手袋、スカーフ、帽子のためのコンパートメントに加え、洋服やシューズ用の引き出しも備えています。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-スクレテール・ランジュ-モノグラム-トランク-トラベル--M11010_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-スクレテール・ランジュ-モノグラム-トランク-トラベル--M11010_PM1_Interior view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Interior view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/secretaire-linge-monogram-nvprod690036v",
+      "material": "モノグラム",
+      "highEndTemplate": false,
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 57,
+        "unitText": "cm"
+      },
+      "productId": "nvprod690036v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-ACC-977_monogram.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>ロック開閉式</li><li>コットンストラップ付きのハットケージ</li><li>引き出しx4</li><li>中央に仕切り付きの引き出し</li><li>トップに手袋、スカーフ、ヘッドバンドなどを収納するスペース</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "Secrétaire Linge"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z01"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "eligibleToAgec",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "newArrivalsDate",
+          "value": -2177452800000
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "hasLanguagePanel",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/art-of-living/_/N-tmb5aeq",
+          "alternateName": "art-of-living",
+          "name": "ライフスタイル",
+          "identifier": "nvcat1840004v"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/art-of-living/trunks-and-travel/_/N-t1dik5jt",
+          "alternateName": "trunks-and-travel",
+          "name": "トランク & トラベル",
+          "identifier": "nvcat1840005v"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/art-of-living/trunks-and-travel/trunks/_/N-t1czq62d",
+          "alternateName": "trunks",
+          "name": "トランク",
+          "identifier": "nvcat1840010v"
+        }
+      ],
+      "careLink": {
+        "sections": []
+      },
+      "disclaimers": {
+        "customDisclaimer": false,
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "collectibles": false,
+      "color": "モノグラム",
+      "@context": "http://schema.org",
+      "identifier": "M11010",
+      "defaultFamilySapDisplayName": "HARDSIDED TRUNKS"
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "/api/catalog/jpn-jp/product/nvprod690036v"
+    },
+    "push": {
+      "href": "/api/catalog/jpn-jp/product-push/nvprod690036v"
+    },
+    "care-link": {
+      "href": "/api/catalog/jpn-jp/care-link/nvprod690036v"
+    },
+    "availability": {
+      "href": "/api/catalog/jpn-jp/availability/nvprod690036v"
+    }
+  },
+  "@type": "Product",
+  "sku": "M11010",
+  "isSimilarTo": [],
+  "productTips": [],
+  "url": "/jpn-jp/products/secretaire-linge-monogram-nvprod690036v",
+  "material": "モノグラム",
+  "category": [
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/art-of-living/_/N-tmb5aeq",
+      "alternateName": "art-of-living",
+      "name": "ライフスタイル",
+      "identifier": "nvcat1840004v"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/art-of-living/trunks-and-travel/_/N-t1dik5jt",
+      "alternateName": "trunks-and-travel",
+      "name": "トランク & トラベル",
+      "identifier": "nvcat1840005v"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/art-of-living/trunks-and-travel/trunks/_/N-t1czq62d",
+      "alternateName": "trunks",
+      "name": "トランク",
+      "identifier": "nvcat1840010v"
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "hidePrice",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "subType",
+      "value": "product"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "materialIconURL",
+      "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--AEL-LG-G00_monogram.jpg"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "careLink",
+      "value": "LGAESTHETICLINEZ13"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "sizeGuide",
+      "value": false
+    }
+  ],
+  "name": "スクレテール・ランジュ",
+  "isRelatedTo": [],
+  "@context": "http://schema.org",
+  "identifier": "nvprod690036v"
+}
