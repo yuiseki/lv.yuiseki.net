@@ -1,0 +1,689 @@
+{
+  "model": [
+    {
+      "productVisible": true,
+      "macroColor": "グレー",
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/M79226/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod4670025v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/M79226"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/M79226/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod4670025v/M79226/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "@type": "ProductModel",
+      "identifierKey": "ff92adaed29bd3df2adc2011d0fee87b",
+      "height": {
+        "@type": "QuantitativeValue",
+        "value": 34,
+        "unitText": "cm"
+      },
+      "productDetailTabs": [],
+      "name": "マフラー・オール アバウト モノグラム",
+      "packagingVariation": "",
+      "mainMaterial2": "WOOL",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 85800
+        },
+        "@type": "Offer",
+        "price": "¥85,800"
+      },
+      "disambiguatingDescription": "<p>メゾンのアイコニックなパターンを大ぶりかつグラフィカルに再解釈し、スタイリッシュにアップデートした｢マフラー･オール アバウト モノグラム｣。目を引く｢Louis Vuitton｣シグネチャーとトーナルなフリンジをあしらったマスキュリンなアクセサリーを、ウール100%の素材で精緻に織り上げました。寒い季節の装いにぴったりの、包み込むような暖かさを備えたアイテムです。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-マフラー・オール-アバウト-モノグラム-s00-メンズ-マフラー、ストール、その他テキスタイル--M79226_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-マフラー・オール-アバウト-モノグラム-s00-メンズ-マフラー、ストール、その他テキスタイル--M79226_PM1_Interior view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Interior view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-マフラー・オール-アバウト-モノグラム-s00-メンズ-マフラー、ストール、その他テキスタイル--M79226_PM1_Detail view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Detail view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-マフラー・オール-アバウト-モノグラム-s00-メンズ-マフラー、ストール、その他テキスタイル--M79226_PM1_Other view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Other view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/all-about-mng-scarf-s00-nvprod4670025v",
+      "material": "WOOL",
+      "highEndTemplate": false,
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 196,
+        "unitText": "cm"
+      },
+      "productId": "nvprod4670025v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-RTW-704_gris_clair.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>素材：100% ウール</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "All About MNG Scarf"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories;Sunglasses"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "eligibleToAgec",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "newArrivalsDate",
+          "value": 1695859200000
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "hasLanguagePanel",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-t18ui4cq",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/accessories/_/N-t11ae5nz",
+          "alternateName": "accessories",
+          "name": "アクセサリー",
+          "identifier": "m-category-cat10052"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/accessories/scarves/_/N-t186w8xz",
+          "alternateName": "scarves",
+          "name": "メンズ マフラー、ストール、その他テキスタイル",
+          "identifier": "m-category-cattexm"
+        }
+      ],
+      "careLink": {
+        "sections": []
+      },
+      "disclaimers": {
+        "customDisclaimer": false,
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "collectibles": false,
+      "color": "グリクレール",
+      "@context": "http://schema.org",
+      "identifier": "M79226",
+      "defaultFamilySapDisplayName": "SCARF"
+    },
+    {
+      "productVisible": true,
+      "macroColor": "ブラック",
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/M79225/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod4670025v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/M79225"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/M79225/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod4670025v/M79225/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "@type": "ProductModel",
+      "identifierKey": "a3add88b81ec7b3597a2ed7e8c790fb4",
+      "height": {
+        "@type": "QuantitativeValue",
+        "value": 34,
+        "unitText": "cm"
+      },
+      "productDetailTabs": [],
+      "name": "マフラー・オール アバウト モノグラム",
+      "packagingVariation": "",
+      "mainMaterial2": "WOOL",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 85800
+        },
+        "@type": "Offer",
+        "price": "¥85,800"
+      },
+      "disambiguatingDescription": "<p>メゾンのアイコニックなパターンを大ぶりかつグラフィカルに再解釈し、スタイリッシュにアップデートした｢マフラー･オール アバウト モノグラム｣。目を引く｢Louis Vuitton｣シグネチャーとトーナルなフリンジをあしらったマスキュリンなアクセサリーを、ウール100%の素材で精緻に織り上げました。寒い季節の装いにぴったりの、包み込むような暖かさを備えたアイテムです。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-マフラー・オール-アバウト-モノグラム-s00-メンズ-マフラー、ストール、その他テキスタイル--M79225_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-マフラー・オール-アバウト-モノグラム-s00-メンズ-マフラー、ストール、その他テキスタイル--M79225_PM1_Interior view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Interior view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-マフラー・オール-アバウト-モノグラム-s00-メンズ-マフラー、ストール、その他テキスタイル--M79225_PM1_Detail view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Detail view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/all-about-mng-scarf-s00-nvprod4670025v",
+      "material": "WOOL",
+      "highEndTemplate": false,
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 196,
+        "unitText": "cm"
+      },
+      "productId": "nvprod4670025v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-ACC-980_black.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>素材：100% ウール</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "All About MNG Scarf"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories;Sunglasses"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "eligibleToAgec",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "newArrivalsDate",
+          "value": 1695859200000
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "hasLanguagePanel",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-t18ui4cq",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/accessories/_/N-t11ae5nz",
+          "alternateName": "accessories",
+          "name": "アクセサリー",
+          "identifier": "m-category-cat10052"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/accessories/scarves/_/N-t186w8xz",
+          "alternateName": "scarves",
+          "name": "メンズ マフラー、ストール、その他テキスタイル",
+          "identifier": "m-category-cattexm"
+        }
+      ],
+      "careLink": {
+        "sections": []
+      },
+      "disclaimers": {
+        "customDisclaimer": false,
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "collectibles": false,
+      "color": "ノワール",
+      "@context": "http://schema.org",
+      "identifier": "M79225",
+      "defaultFamilySapDisplayName": "SCARF"
+    },
+    {
+      "productVisible": true,
+      "macroColor": "ブルー",
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/M79130/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod4670025v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/M79130"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/M79130/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod4670025v/M79130/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "@type": "ProductModel",
+      "identifierKey": "e2743d4ba07d84729147332a04511882",
+      "height": {
+        "@type": "QuantitativeValue",
+        "value": 34,
+        "unitText": "cm"
+      },
+      "productDetailTabs": [],
+      "name": "マフラー・オール アバウト モノグラム",
+      "packagingVariation": "",
+      "mainMaterial2": "WOOL",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 85800
+        },
+        "@type": "Offer",
+        "price": "¥85,800"
+      },
+      "disambiguatingDescription": "<p>メゾンのアイコニックなパターンを大ぶりかつグラフィカルに再解釈し、スタイリッシュにアップデートした｢マフラー･オール アバウト モノグラム｣。目を引く｢Louis Vuitton｣シグネチャーとトーナルなフリンジをあしらったマスキュリンなアクセサリーを、ウール100%の素材で精緻に織り上げました。寒い季節の装いにぴったりの、包み込むような暖かさを備えたアイテムです。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-マフラー・オール-アバウト-モノグラム-s00-メンズ-マフラー、ストール、その他テキスタイル--M79130_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-マフラー・オール-アバウト-モノグラム-s00-メンズ-マフラー、ストール、その他テキスタイル--M79130_PM1_Interior view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Interior view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-マフラー・オール-アバウト-モノグラム-s00-メンズ-マフラー、ストール、その他テキスタイル--M79130_PM1_Detail view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Detail view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/all-about-mng-scarf-s00-nvprod4670025v",
+      "material": "WOOL",
+      "highEndTemplate": false,
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 196,
+        "unitText": "cm"
+      },
+      "productId": "nvprod4670025v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-ACC-9AH_marine_bleu.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>素材：100% ウール</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "All About MNG Scarf"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories;Sunglasses"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "eligibleToAgec",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "newArrivalsDate",
+          "value": 1695859200000
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "hasLanguagePanel",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-t18ui4cq",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/accessories/_/N-t11ae5nz",
+          "alternateName": "accessories",
+          "name": "アクセサリー",
+          "identifier": "m-category-cat10052"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/accessories/scarves/_/N-t186w8xz",
+          "alternateName": "scarves",
+          "name": "メンズ マフラー、ストール、その他テキスタイル",
+          "identifier": "m-category-cattexm"
+        }
+      ],
+      "careLink": {
+        "sections": []
+      },
+      "disclaimers": {
+        "customDisclaimer": false,
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "collectibles": false,
+      "color": "マリーヌ",
+      "@context": "http://schema.org",
+      "identifier": "M79130",
+      "defaultFamilySapDisplayName": "SCARF"
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "/api/catalog/jpn-jp/product/nvprod4670025v"
+    },
+    "push": {
+      "href": "/api/catalog/jpn-jp/product-push/nvprod4670025v"
+    },
+    "care-link": {
+      "href": "/api/catalog/jpn-jp/care-link/nvprod4670025v"
+    },
+    "availability": {
+      "href": "/api/catalog/jpn-jp/availability/nvprod4670025v"
+    }
+  },
+  "@type": "Product",
+  "sku": "M79226",
+  "isSimilarTo": [],
+  "productTips": [],
+  "url": "/jpn-jp/products/all-about-mng-scarf-s00-nvprod4670025v",
+  "material": "Acetate & Metal",
+  "category": [
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/_/N-t18ui4cq",
+      "alternateName": "men",
+      "name": "メンズ",
+      "identifier": "homme"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/accessories/_/N-t11ae5nz",
+      "alternateName": "accessories",
+      "name": "アクセサリー",
+      "identifier": "m-category-cat10052"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/accessories/scarves/_/N-t186w8xz",
+      "alternateName": "scarves",
+      "name": "メンズ マフラー、ストール、その他テキスタイル",
+      "identifier": "m-category-cattexm"
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "hidePrice",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "subType",
+      "value": "product"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "sizeGuide",
+      "value": false
+    }
+  ],
+  "name": "マフラー・オール アバウト モノグラム",
+  "isRelatedTo": [],
+  "@context": "http://schema.org",
+  "identifier": "nvprod4670025v"
+}
