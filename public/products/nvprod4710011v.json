@@ -1,0 +1,257 @@
+{
+  "model": [
+    {
+      "productVisible": true,
+      "macroColor": "シルバー",
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/M01490/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod4710011v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/M01490"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/M01490/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod4710011v/M01490/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "@type": "ProductModel",
+      "identifierKey": "bd15b86b844a13ef0836f2bb197e2a54",
+      "productDetailTabs": [],
+      "name": "ネックレス・モノグラム ロウ",
+      "packagingVariation": "",
+      "mainMaterial2": "BRASS",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 86900
+        },
+        "@type": "Offer",
+        "price": "¥86,900"
+      },
+      "disambiguatingDescription": "<p>艶やかなシルバーカラーのリンクがノーブルな雰囲気を演出する｢ネックレス･モノグラム ロウ｣。細いチェーンにはLV イニシャルとモノグラム･フラワー モチーフをあしらい、刻印入りの革新的なクラスプで開閉するスタイルに仕上げました。エレガントなプロポーションとさりげないメゾンのシグネチャーが、スマートカジュアルな装いに洗練されたアクセントを加えます。</p>",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ネックレス・モノグラム-ロウ-s00-ファッションジュエリー--M01490_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ネックレス・モノグラム-ロウ-s00-ファッションジュエリー--M01490_PM1_Detail view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Detail view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/mng-row-necklace-s00-nvprod4710011v",
+      "material": "METAL",
+      "highEndTemplate": false,
+      "productId": "nvprod4710011v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-ACC-9SL_silver_.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>ネックレス</li><li>金具（色：シルバー）</li><li>シグネチャーの刻印</li><li>イタリア製</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "MNG Row Necklace"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories;Sunglasses"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "eligibleToAgec",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "newArrivalsDate",
+          "value": 1695859200000
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "hasLanguagePanel",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-t18ui4cq",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/fashion-jewelry/_/N-t12lza17",
+          "alternateName": "fashion-jewelry",
+          "name": "ファッションジュエリー",
+          "identifier": "nvcat3650003v"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/fashion-jewelry/necklaces-and-pendants/_/N-t79dl9r",
+          "alternateName": "necklaces-and-pendants",
+          "name": "メンズ ネックレス＆ペンダント",
+          "identifier": "nvcat3650004v"
+        }
+      ],
+      "careLink": {
+        "sections": []
+      },
+      "disclaimers": {
+        "customDisclaimer": false,
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "collectibles": false,
+      "color": "シルバー",
+      "@context": "http://schema.org",
+      "identifier": "M01490",
+      "defaultFamilySapDisplayName": "NECKLACES"
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "/api/catalog/jpn-jp/product/nvprod4710011v"
+    },
+    "push": {
+      "href": "/api/catalog/jpn-jp/product-push/nvprod4710011v"
+    },
+    "care-link": {
+      "href": "/api/catalog/jpn-jp/care-link/nvprod4710011v"
+    },
+    "availability": {
+      "href": "/api/catalog/jpn-jp/availability/nvprod4710011v"
+    }
+  },
+  "@type": "Product",
+  "sku": "M01490",
+  "isSimilarTo": [],
+  "productTips": [],
+  "url": "/jpn-jp/products/mng-row-necklace-s00-nvprod4710011v",
+  "material": "Acetate & Metal",
+  "category": [
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/_/N-t18ui4cq",
+      "alternateName": "men",
+      "name": "メンズ",
+      "identifier": "homme"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/fashion-jewelry/_/N-t12lza17",
+      "alternateName": "fashion-jewelry",
+      "name": "ファッションジュエリー",
+      "identifier": "nvcat3650003v"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/fashion-jewelry/necklaces-and-pendants/_/N-t79dl9r",
+      "alternateName": "necklaces-and-pendants",
+      "name": "メンズ ネックレス＆ペンダント",
+      "identifier": "nvcat3650004v"
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "hidePrice",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "subType",
+      "value": "product"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "sizeGuide",
+      "value": false
+    }
+  ],
+  "name": "ネックレス・モノグラム ロウ",
+  "isRelatedTo": [],
+  "@context": "http://schema.org",
+  "identifier": "nvprod4710011v"
+}
