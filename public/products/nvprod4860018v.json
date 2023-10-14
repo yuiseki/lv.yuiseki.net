@@ -1,0 +1,849 @@
+{
+  "model": [
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/nvsku4210008v/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod4860018v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/nvsku4210008v"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/nvsku4210008v/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod4860018v/nvsku4210008v/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "@type": "ProductModel",
+      "productDetailTabs": [],
+      "name": "LV SKI - Look 07",
+      "packagingVariation": "",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton--Men_SKICAPSULE_LOOK07_VISUAL4.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "LOOK07",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/lv-ski-look-07-nvprod4860018v",
+      "highEndTemplate": false,
+      "productId": "nvprod4860018v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "LV SKI - Look 07"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "eligibleToAgec",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "hasLanguagePanel",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-t18ui4cq",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/ready-to-wear/_/N-t1b9f3zb",
+          "alternateName": "ready-to-wear",
+          "name": "プレタポルテ(洋服)",
+          "identifier": "m-readytowear"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/ready-to-wear/look-selection/_/N-t1u9ytru",
+          "alternateName": "look-selection",
+          "name": "ルックセレクション",
+          "identifier": "nvcat450010v"
+        }
+      ],
+      "careLink": {
+        "sections": []
+      },
+      "disclaimers": {
+        "customDisclaimer": false,
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "collectibles": false,
+      "@context": "http://schema.org",
+      "identifier": "nvsku4210008v"
+    }
+  ],
+  "readyToWearSKUs": [
+    {
+      "productVisible": true,
+      "macroColor": "マルチカラー",
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/1AFB22/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod4770026v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/1AFB22"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/1AFB22/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod4770026v/1AFB22/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "@type": "ProductModel",
+      "identifierKey": "14f233219f812248c6e51e7b32a4a162",
+      "commercialTag": "LV SKI",
+      "productDetailTabs": [],
+      "name": "テクニカルフリースジャケット",
+      "packagingVariation": "",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 292600
+        },
+        "@type": "Offer",
+        "price": "¥292,600"
+      },
+      "disambiguatingDescription": "｢LV SKI｣カプセル･コレクションに登場した、快適な着心地のフリースジャケット。ウィンターリゾートでのカジュアルな装いに重ねれば、トレンディで暖かなスタイルが完成します。コレクションならではのグラフィカルなLV アイス･パターンで彩り、フロントにはミニチュアのLV アイス･パターンで表現したLV イニシャルをあしらいました。プレーンなブラックのテクニカルヨークがスポーティな雰囲気をプラス。寒い日にはスキージャケットの下に合わせることもできる1着です。 <p>ご不明な点がございましたら、クライアントサービスまでお気軽にお問合せください。専任のクライアントアドバイザーが、素材やサイズなどの製品詳細、モデル着用イメージや関連アイテムのご案内など、お客様のご要望に合わせたスタイリング・アドバイスをご提供いたします。</p><p>また、サイズ違いなどによる返品・交換のご相談も承ります。詳細は<a href='https://jp.louisvuitton.com/jpn-jp/legal-privacy'><b>こちら。</b></a></p>",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-テクニカルフリースジャケット--HQY18WDFGMU1_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "playerType": "freecaster",
+          "contentUrl": "https://player.louisvuitton.com/embed/1484882",
+          "@type": "ImageObject",
+          "name": "freeCaster Media Worn View",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-テクニカルフリースジャケット--HQY18WDFGMU1_PM1_Worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Worn view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-テクニカルフリースジャケット--HQY18WDFGMU1_PM1_Ambiance view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Ambiance view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-テクニカルフリースジャケット--HQY18WDFGMU1_PM1_Cropped view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Cropped view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-テクニカルフリースジャケット--HQY18WDFGMU1_PM1_Cropped worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Cropped worn view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/technical-fleece-jacket-nvprod4770026v",
+      "highEndTemplate": false,
+      "sizeDisplayName": "M0",
+      "productId": "nvprod4770026v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-RTW-MU1_multico.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>本体：ポリエステル 55%、アクリル 45%</li><li>レギュラーフィット</li><li>全体に「LV アイス」ジャカード</li><li>Louis Vuittonのラバー製ファスナー引き手</li><li>リブ編みのカラー、裾、カフ</li><li>内ポケットx1</li><li>背面に吊り下げ用ループ</li><li>サイドポケットx2</li><li>フルライニング</li><li>イタリア製</li><li>REF：HQY18WDFG</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "Technical Fleece Jacket"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z05"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Ready_To_Wear_Men"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "eligibleToAgec",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "hasLanguagePanel",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-t18ui4cq",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/ready-to-wear/_/N-t1b9f3zb",
+          "alternateName": "ready-to-wear",
+          "name": "プレタポルテ(洋服)",
+          "identifier": "m-readytowear"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/ready-to-wear/outerwear-and-coats/_/N-t1epdz97",
+          "alternateName": "outerwear-and-coats",
+          "name": "メンズ アウター＆コート",
+          "identifier": "nvcat160001v"
+        }
+      ],
+      "careLink": {
+        "sections": []
+      },
+      "disclaimers": {
+        "customDisclaimer": false,
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "collectibles": false,
+      "color": "Multico",
+      "@context": "http://schema.org",
+      "identifier": "1AFB22",
+      "defaultFamilySapDisplayName": "BLOUSON JERSEY M"
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "/api/catalog/jpn-jp/product/nvprod4860018v"
+    },
+    "push": {
+      "href": "/api/catalog/jpn-jp/product-push/nvprod4860018v"
+    },
+    "care-link": {
+      "href": "/api/catalog/jpn-jp/care-link/nvprod4860018v"
+    },
+    "availability": {
+      "href": "/api/catalog/jpn-jp/availability/nvprod4860018v"
+    }
+  },
+  "@type": "Product",
+  "sku": "nvsku4210008v",
+  "isSimilarTo": [],
+  "productTips": [],
+  "url": "/jpn-jp/products/lv-ski-look-07-nvprod4860018v",
+  "accessoriesSKUs": [
+    {
+      "productVisible": true,
+      "macroColor": "グレー",
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/1ACEXL/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod4780010v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/1ACEXL"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/1ACEXL/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod4780010v/1ACEXL/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "@type": "ProductModel",
+      "identifierKey": "d2c519c10317880d54228d2fafb3ffd0",
+      "commercialTag": "LV SKI",
+      "productDetailTabs": [],
+      "name": "LV シャーク・ライン スニーカー",
+      "packagingVariation": "",
+      "mainMaterial2": "RUBBER",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 115500
+        },
+        "@type": "Offer",
+        "price": "¥115,500"
+      },
+      "disambiguatingDescription": "<p>ご不明な点がございましたら、クライアントサービスまでお気軽にお問合せください。専任のクライアントアドバイザーが、素材やサイズなどの製品詳細、モデル着用イメージや関連アイテムのご案内など、お客様のご要望に合わせたスタイリング・アドバイスをご提供いたします。</p><p>また、サイズ違いなどによる返品・交換のご相談も承ります。詳細は<a href='https://jp.louisvuitton.com/jpn-jp/legal-privacy'><b>こちら。</b></a></p>",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-シャーク・ライン-スニーカー--BQTU1PGO54_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-シャーク・ライン-スニーカー--BQTU1PGO54_PM1_Worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Worn view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-シャーク・ライン-スニーカー--BQTU1PGO54_PM1_Closeup view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Closeup view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-シャーク・ライン-スニーカー--BQTU1PGO54_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-シャーク・ライン-スニーカー--BQTU1PGO54_PM1_Interior view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Interior view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-シャーク・ライン-スニーカー--BQTU1PGO54_PM1_Detail view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Detail view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-シャーク・ライン-スニーカー--BQTU1PGO54_PM1_Back view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Back view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-シャーク・ライン-スニーカー--BQTU1PGO54_PM1_Other view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Other view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-シャーク・ライン-スニーカー--BQTU1PGO54_PM1_Cropped worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Cropped worn view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/lv-shark-clog-nvprod4780010v",
+      "highEndTemplate": false,
+      "sizeDisplayName": "08.0",
+      "productId": "nvprod4780010v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-SHO-54_gris.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>素材：EVAラバー</li><li>ライニング：取外し可能なフェイクファー</li><li>アナトミックインソール</li><li>アウトソール：ラバー</li><li>シュータンにLVサークル</li><li>前後にVuittonシグネチャー</li><li>アウトソールにモノグラム･フラワー モチーフ</li><li>イタリア製</li><li>イギリスサイズ</li><li>REF：BQTU1PGO</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "LV Shark Clog"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z04"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Shoe_Men"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "eligibleToAgec",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "hasLanguagePanel",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-t18ui4cq",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/shoes/_/N-t1gm1r5t",
+          "alternateName": "shoes",
+          "name": "シューズ",
+          "identifier": "m-category-cat10037"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/shoes/sandals/_/N-t1c9fsss",
+          "alternateName": "sandals",
+          "name": "メンズ サンダル",
+          "identifier": "nvcat60002v-10"
+        }
+      ],
+      "careLink": {
+        "sections": []
+      },
+      "disclaimers": {
+        "customDisclaimer": false,
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "collectibles": false,
+      "color": "グリ",
+      "@context": "http://schema.org",
+      "identifier": "1ACEXL",
+      "defaultFamilySapDisplayName": "SNEAKER"
+    },
+    {
+      "productVisible": true,
+      "macroColor": "ブラック",
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/M23786/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod4680091v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/M23786"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/M23786/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod4680091v/M23786/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "@type": "ProductModel",
+      "identifierKey": "274a27aa9d469abe9c96b8b298728574",
+      "commercialTag": "LV SKI",
+      "height": {
+        "@type": "QuantitativeValue",
+        "value": 31,
+        "unitText": "cm"
+      },
+      "productDetailTabs": [],
+      "name": "キーポル 55",
+      "packagingVariation": "",
+      "mainMaterial2": "COATED CANVAS",
+      "width": {
+        "@type": "QuantitativeValue",
+        "value": 26,
+        "unitText": "cm"
+      },
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 512600
+        },
+        "@type": "Offer",
+        "price": "¥512,600"
+      },
+      "disambiguatingDescription": "軽量でしなやかなモノグラム･ストーム キャンバスを使用し、シック & スポーティにアップデートした｢キーポル 55｣。冬のバカンスにぴったりのアイテムです。洗練されたデザインに、両エンドに追加したハンドルや、スキーギアを固定できるLV シグネチャーのシェイプのテープアジャスターバックルを添えたストラップなど、革新的な技術が散りばめられています。この上なく機能的な旅行鞄を、メゾンならではのさりげないディテールで仕上げました。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-キーポル-55--M23786_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/keepall-55-g68-nvprod4680091v",
+      "material": "AUTRES TOILES",
+      "highEndTemplate": false,
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 55,
+        "unitText": "cm"
+      },
+      "productId": "nvprod4680091v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-ACC-93L_black_.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>素材：モノグラム・ストーム キャンバス</li><li>トリミング：レザー（皮革の種類：牛革）</li><li>ライニング：テキスタイル</li><li>金具（色：ブラック）</li><li>LV シグネチャーのテープアジャスターバックル</li><li>ファスナー開閉式</li><li>メインコンパートメント</li><li>フロントにジップ付きポケット</li><li>ファスナー式内ポケット</li><li>取外し可能なラゲージタグ</li><li>ハンドル：ダブル</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "Keepall 55"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z01"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "eligibleToAgec",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "newArrivalsDate",
+          "value": 1697155200000
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "hasLanguagePanel",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-t18ui4cq",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/travel/_/N-t6f2shp",
+          "alternateName": "travel",
+          "name": "トラベル",
+          "identifier": "m-category-cat10013"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/bags/keepall/_/N-tupcpw6",
+          "alternateName": "keepall",
+          "name": "キーポル",
+          "identifier": "nvcat2370010v"
+        }
+      ],
+      "careLink": {
+        "sections": []
+      },
+      "disclaimers": {
+        "customDisclaimer": false,
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "collectibles": false,
+      "color": "ノワール",
+      "@context": "http://schema.org",
+      "identifier": "M23786",
+      "defaultFamilySapDisplayName": "SOFT LUGGAGE"
+    }
+  ],
+  "category": [
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/_/N-t18ui4cq",
+      "alternateName": "men",
+      "name": "メンズ",
+      "identifier": "homme"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/ready-to-wear/_/N-t1b9f3zb",
+      "alternateName": "ready-to-wear",
+      "name": "プレタポルテ(洋服)",
+      "identifier": "m-readytowear"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/ready-to-wear/look-selection/_/N-t1u9ytru",
+      "alternateName": "look-selection",
+      "name": "ルックセレクション",
+      "identifier": "nvcat450010v"
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "hidePrice",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "subType",
+      "value": "product"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "sizeGuide",
+      "value": false
+    }
+  ],
+  "name": "LV SKI - Look 07",
+  "isRelatedTo": [],
+  "@context": "http://schema.org",
+  "identifier": "nvprod4860018v"
+}
