@@ -1,0 +1,912 @@
+{
+  "model": [
+    {
+      "productVisible": true,
+      "macroColor": "ブルー",
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/M79430/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod4720023v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/M79430"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/M79430/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod4720023v/M79430/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "@type": "ProductModel",
+      "identifierKey": "3f89b8c2c46f09836d6ff7d092fadfb4",
+      "height": {
+        "@type": "QuantitativeValue",
+        "value": 8,
+        "unitText": "cm"
+      },
+      "productDetailTabs": [],
+      "name": "ネクタイ・LV デュアル 8CM",
+      "packagingVariation": "",
+      "mainMaterial2": "SILK",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 35200
+        },
+        "@type": "Offer",
+        "price": "¥35,200"
+      },
+      "disambiguatingDescription": "<p>ルイ･ヴィトンのタイムレスなシグネチャー･パターンにモダンな魅力を融合させた｢ネクタイ･LV デュアル 8CM｣。エレガントなワードローブの定番アイテムを、ラグジュアリーなシルク100%の素材で仕立てました。光沢感のあるプレーンな背景に、ツートーンカラーのモノグラム･パターンがあしらわれています。スマートなテーラリングに洗練された雰囲気を添える、クラシカルな8cm幅のネクタイです。</p>",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ネクタイ・lv-デュアル-8cm-s00-ネクタイ、ポケットチーフ--M79430_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ネクタイ・lv-デュアル-8cm-s00-ネクタイ、ポケットチーフ--M79430_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ネクタイ・lv-デュアル-8cm-s00-ネクタイ、ポケットチーフ--M79430_PM1_Detail view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Detail view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ネクタイ・lv-デュアル-8cm-s00-ネクタイ、ポケットチーフ--M79430_PM1_Back view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Back view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/lv-dual-tie-s00-nvprod4720023v",
+      "material": "SILK",
+      "highEndTemplate": false,
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 148,
+        "unitText": "cm"
+      },
+      "productId": "nvprod4720023v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-RTW-610_bleu.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>素材：シルク 100%</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "LV Dual Tie"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories;Sunglasses"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "eligibleToAgec",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "newArrivalsDate",
+          "value": 1698278400000
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "hasLanguagePanel",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-t18ui4cq",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/accessories/_/N-t11ae5nz",
+          "alternateName": "accessories",
+          "name": "アクセサリー",
+          "identifier": "m-category-cat10052"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/accessories/ties-and-pocket-squares/_/N-tv1f2za",
+          "alternateName": "ties-and-pocket-squares",
+          "name": "ネクタイ、ポケットチーフ",
+          "identifier": "nvcat1170023v"
+        }
+      ],
+      "careLink": {
+        "sections": []
+      },
+      "disclaimers": {
+        "customDisclaimer": false,
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "collectibles": false,
+      "color": "ブルー",
+      "@context": "http://schema.org",
+      "identifier": "M79430",
+      "defaultFamilySapDisplayName": "CRAVATES"
+    },
+    {
+      "productVisible": true,
+      "macroColor": "グレー",
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/M79431/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod4720023v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/M79431"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/M79431/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod4720023v/M79431/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "@type": "ProductModel",
+      "identifierKey": "e3364e50b8ee3cb90a665ccfa497a02c",
+      "height": {
+        "@type": "QuantitativeValue",
+        "value": 8,
+        "unitText": "cm"
+      },
+      "productDetailTabs": [],
+      "name": "ネクタイ・LV デュアル 8CM",
+      "packagingVariation": "",
+      "mainMaterial2": "SILK",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 35200
+        },
+        "@type": "Offer",
+        "price": "¥35,200"
+      },
+      "disambiguatingDescription": "<p>ルイ･ヴィトンのタイムレスなシグネチャー･パターンにモダンな魅力を融合させた｢ネクタイ･LV デュアル 8CM｣。エレガントなワードローブの定番アイテムを、ラグジュアリーなシルク100%の素材で仕立てました。光沢感のあるプレーンな背景に、ツートーンカラーのモノグラム･パターンがあしらわれています。スマートなテーラリングに洗練された雰囲気を添える、クラシカルな8cm幅のネクタイです。</p>",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ネクタイ・lv-デュアル-8cm-s00-ネクタイ、ポケットチーフ--M79431_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ネクタイ・lv-デュアル-8cm-s00-ネクタイ、ポケットチーフ--M79431_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ネクタイ・lv-デュアル-8cm-s00-ネクタイ、ポケットチーフ--M79431_PM1_Detail view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Detail view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ネクタイ・lv-デュアル-8cm-s00-ネクタイ、ポケットチーフ--M79431_PM1_Back view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Back view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/lv-dual-tie-s00-nvprod4720023v",
+      "material": "SILK",
+      "highEndTemplate": false,
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 148,
+        "unitText": "cm"
+      },
+      "productId": "nvprod4720023v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-ACC-9C5_grey.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>素材：シルク 100%</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "LV Dual Tie"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories;Sunglasses"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "eligibleToAgec",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "newArrivalsDate",
+          "value": 1698278400000
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "hasLanguagePanel",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-t18ui4cq",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/accessories/_/N-t11ae5nz",
+          "alternateName": "accessories",
+          "name": "アクセサリー",
+          "identifier": "m-category-cat10052"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/accessories/ties-and-pocket-squares/_/N-tv1f2za",
+          "alternateName": "ties-and-pocket-squares",
+          "name": "ネクタイ、ポケットチーフ",
+          "identifier": "nvcat1170023v"
+        }
+      ],
+      "careLink": {
+        "sections": []
+      },
+      "disclaimers": {
+        "customDisclaimer": false,
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "collectibles": false,
+      "color": "グレー",
+      "@context": "http://schema.org",
+      "identifier": "M79431",
+      "defaultFamilySapDisplayName": "CRAVATES"
+    },
+    {
+      "productVisible": true,
+      "macroColor": "ブルー",
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/M79429/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod4720023v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/M79429"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/M79429/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod4720023v/M79429/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "@type": "ProductModel",
+      "identifierKey": "da05f5aff34f39bba5d0a462c2bf0b82",
+      "height": {
+        "@type": "QuantitativeValue",
+        "value": 8,
+        "unitText": "cm"
+      },
+      "productDetailTabs": [],
+      "name": "ネクタイ・LV デュアル 8CM",
+      "packagingVariation": "",
+      "mainMaterial2": "SILK",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 35200
+        },
+        "@type": "Offer",
+        "price": "¥35,200"
+      },
+      "disambiguatingDescription": "<p>ルイ･ヴィトンのタイムレスなシグネチャー･パターンにモダンな魅力を融合させた｢ネクタイ･LV デュアル 8CM｣。エレガントなワードローブの定番アイテムを、ラグジュアリーなシルク100%の素材で仕立てました。光沢感のあるプレーンな背景に、ツートーンカラーのモノグラム･パターンがあしらわれています。スマートなテーラリングに洗練された雰囲気を添える、クラシカルな8cm幅のネクタイです。</p>",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ネクタイ・lv-デュアル-8cm-s00-ネクタイ、ポケットチーフ--M79429_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ネクタイ・lv-デュアル-8cm-s00-ネクタイ、ポケットチーフ--M79429_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ネクタイ・lv-デュアル-8cm-s00-ネクタイ、ポケットチーフ--M79429_PM1_Detail view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Detail view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ネクタイ・lv-デュアル-8cm-s00-ネクタイ、ポケットチーフ--M79429_PM1_Back view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Back view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/lv-dual-tie-s00-nvprod4720023v",
+      "material": "SILK",
+      "highEndTemplate": false,
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 148,
+        "unitText": "cm"
+      },
+      "productId": "nvprod4720023v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-ACC-9AH_marine_bleu.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>素材：シルク 100%</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "LV Dual Tie"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories;Sunglasses"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "eligibleToAgec",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "newArrivalsDate",
+          "value": 1698278400000
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "hasLanguagePanel",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-t18ui4cq",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/accessories/_/N-t11ae5nz",
+          "alternateName": "accessories",
+          "name": "アクセサリー",
+          "identifier": "m-category-cat10052"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/accessories/ties-and-pocket-squares/_/N-tv1f2za",
+          "alternateName": "ties-and-pocket-squares",
+          "name": "ネクタイ、ポケットチーフ",
+          "identifier": "nvcat1170023v"
+        }
+      ],
+      "careLink": {
+        "sections": []
+      },
+      "disclaimers": {
+        "customDisclaimer": false,
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "collectibles": false,
+      "color": "マリーヌ",
+      "@context": "http://schema.org",
+      "identifier": "M79429",
+      "defaultFamilySapDisplayName": "CRAVATES"
+    },
+    {
+      "productVisible": true,
+      "macroColor": "レッド",
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/M79458/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod4720023v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/M79458"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/M79458/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod4720023v/M79458/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "@type": "ProductModel",
+      "identifierKey": "1b6c3d2a0636ecda9893a12f57b1682c",
+      "height": {
+        "@type": "QuantitativeValue",
+        "value": 8,
+        "unitText": "cm"
+      },
+      "productDetailTabs": [],
+      "name": "ネクタイ・LV デュアル 8CM",
+      "packagingVariation": "",
+      "mainMaterial2": "SILK",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 35200
+        },
+        "@type": "Offer",
+        "price": "¥35,200"
+      },
+      "disambiguatingDescription": "<p>ルイ･ヴィトンのタイムレスなシグネチャー･パターンにモダンな魅力を融合させた｢ネクタイ･LV デュアル 8CM｣。エレガントなワードローブの定番アイテムを、ラグジュアリーなシルク100%の素材で仕立てました。光沢感のあるプレーンな背景に、ツートーンカラーのモノグラム･パターンがあしらわれています。スマートなテーラリングに洗練された雰囲気を添える、クラシカルな8cm幅のネクタイです。</p>",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ネクタイ・lv-デュアル-8cm-s00-ネクタイ、ポケットチーフ--M79458_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ネクタイ・lv-デュアル-8cm-s00-ネクタイ、ポケットチーフ--M79458_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ネクタイ・lv-デュアル-8cm-s00-ネクタイ、ポケットチーフ--M79458_PM1_Detail view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Detail view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ネクタイ・lv-デュアル-8cm-s00-ネクタイ、ポケットチーフ--M79458_PM1_Back view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Back view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/lv-dual-tie-s00-nvprod4720023v",
+      "material": "SILK",
+      "highEndTemplate": false,
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 148,
+        "unitText": "cm"
+      },
+      "productId": "nvprod4720023v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-ACC-997_red.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>素材：シルク 100%</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "LV Dual Tie"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories;Sunglasses"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "eligibleToAgec",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "newArrivalsDate",
+          "value": 1698278400000
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "hasLanguagePanel",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-t18ui4cq",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/accessories/_/N-t11ae5nz",
+          "alternateName": "accessories",
+          "name": "アクセサリー",
+          "identifier": "m-category-cat10052"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/accessories/ties-and-pocket-squares/_/N-tv1f2za",
+          "alternateName": "ties-and-pocket-squares",
+          "name": "ネクタイ、ポケットチーフ",
+          "identifier": "nvcat1170023v"
+        }
+      ],
+      "careLink": {
+        "sections": []
+      },
+      "disclaimers": {
+        "customDisclaimer": false,
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "collectibles": false,
+      "color": "ルージュ",
+      "@context": "http://schema.org",
+      "identifier": "M79458",
+      "defaultFamilySapDisplayName": "CRAVATES"
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "/api/catalog/jpn-jp/product/nvprod4720023v"
+    },
+    "push": {
+      "href": "/api/catalog/jpn-jp/product-push/nvprod4720023v"
+    },
+    "care-link": {
+      "href": "/api/catalog/jpn-jp/care-link/nvprod4720023v"
+    },
+    "availability": {
+      "href": "/api/catalog/jpn-jp/availability/nvprod4720023v"
+    }
+  },
+  "@type": "Product",
+  "sku": "M79430",
+  "isSimilarTo": [],
+  "productTips": [],
+  "url": "/jpn-jp/products/lv-dual-tie-s00-nvprod4720023v",
+  "material": "Acetate & Metal",
+  "category": [
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/_/N-t18ui4cq",
+      "alternateName": "men",
+      "name": "メンズ",
+      "identifier": "homme"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/accessories/_/N-t11ae5nz",
+      "alternateName": "accessories",
+      "name": "アクセサリー",
+      "identifier": "m-category-cat10052"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/accessories/ties-and-pocket-squares/_/N-tv1f2za",
+      "alternateName": "ties-and-pocket-squares",
+      "name": "ネクタイ、ポケットチーフ",
+      "identifier": "nvcat1170023v"
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "hidePrice",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "subType",
+      "value": "product"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "sizeGuide",
+      "value": false
+    }
+  ],
+  "name": "ネクタイ・LV デュアル 8CM",
+  "isRelatedTo": [],
+  "@context": "http://schema.org",
+  "identifier": "nvprod4720023v"
+}
