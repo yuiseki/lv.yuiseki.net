@@ -1,0 +1,212 @@
+{
+  "model": [
+    {
+      "productVisible": true,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/nvsku4230011v/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod4880059v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/nvsku4230011v"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/nvsku4230011v/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod4880059v/nvsku4230011v/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "@type": "ProductModel",
+      "productDetailTabs": [],
+      "name": "LV ナイト - Look 11",
+      "packagingVariation": "",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton--Women_LV Night_LOOK11_VISUAL4.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "LOOK11",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/lv-night-look-11-nvprod4880059v",
+      "highEndTemplate": false,
+      "productId": "nvprod4880059v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "LV Night - Look 11"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "eligibleToAgec",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "hasLanguagePanel",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/_/N-tveguxb",
+          "alternateName": "women",
+          "name": "ウィメンズ",
+          "identifier": "femme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/ready-to-wear/_/N-t1kw5dkp",
+          "alternateName": "ready-to-wear",
+          "name": "プレタポルテ(洋服)",
+          "identifier": "w-readytowear"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/ready-to-wear/look-selection/_/N-tfrs2k1",
+          "alternateName": "look-selection",
+          "name": "ルックセレクション",
+          "identifier": "nvcat460115v"
+        }
+      ],
+      "careLink": {
+        "sections": []
+      },
+      "disclaimers": {
+        "customDisclaimer": false,
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "collectibles": false,
+      "@context": "http://schema.org",
+      "identifier": "nvsku4230011v"
+    }
+  ],
+  "readyToWearSKUs": [],
+  "_links": {
+    "self": {
+      "href": "/api/catalog/jpn-jp/product/nvprod4880059v"
+    },
+    "push": {
+      "href": "/api/catalog/jpn-jp/product-push/nvprod4880059v"
+    },
+    "care-link": {
+      "href": "/api/catalog/jpn-jp/care-link/nvprod4880059v"
+    },
+    "availability": {
+      "href": "/api/catalog/jpn-jp/availability/nvprod4880059v"
+    }
+  },
+  "@type": "Product",
+  "sku": "nvsku4230011v",
+  "isSimilarTo": [],
+  "productTips": [],
+  "url": "/jpn-jp/products/lv-night-look-11-nvprod4880059v",
+  "accessoriesSKUs": [],
+  "category": [
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/women/_/N-tveguxb",
+      "alternateName": "women",
+      "name": "ウィメンズ",
+      "identifier": "femme"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/women/ready-to-wear/_/N-t1kw5dkp",
+      "alternateName": "ready-to-wear",
+      "name": "プレタポルテ(洋服)",
+      "identifier": "w-readytowear"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/women/ready-to-wear/look-selection/_/N-tfrs2k1",
+      "alternateName": "look-selection",
+      "name": "ルックセレクション",
+      "identifier": "nvcat460115v"
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "hidePrice",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "subType",
+      "value": "product"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "sizeGuide",
+      "value": false
+    }
+  ],
+  "name": "LV ナイト - Look 11",
+  "isRelatedTo": [],
+  "@context": "http://schema.org",
+  "identifier": "nvprod4880059v"
+}
