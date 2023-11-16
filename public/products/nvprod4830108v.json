@@ -1,0 +1,490 @@
+{
+  "model": [
+    {
+      "productVisible": true,
+      "macroColor": "ブラック",
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/M79393/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod4830108v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/M79393"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/M79393/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod4830108v/M79393/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "@type": "ProductModel",
+      "identifierKey": "8cd11dae11bf9f7f212f6ba51e3a8675",
+      "height": {
+        "@type": "QuantitativeValue",
+        "value": 30,
+        "unitText": "cm"
+      },
+      "productDetailTabs": [],
+      "name": "マフラー・LV スマッシュ",
+      "packagingVariation": "",
+      "mainMaterial2": "WOOL",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 85800
+        },
+        "@type": "Offer",
+        "price": "¥85,800"
+      },
+      "disambiguatingDescription": "<p>オーバーサイズとグラフィカルなモチーフが特徴の ｢マフラー･LV スマッシュ｣。スタイリッシュに暖かく過ごしたい男性にぴったりのアクセサリーです。極上の肌触りのウールで織り上げ、フレッシュに再解釈したLV エンブレムをあしらいました。ホワイトを基調とした2色展開で、コントラストを成すLV シグネチャーが際立ちます。</p>",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-マフラー・lv-スマッシュ-s00-メンズ-マフラー、ストール、その他テキスタイル--M79393_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-マフラー・lv-スマッシュ-s00-メンズ-マフラー、ストール、その他テキスタイル--M79393_PM1_Interior view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Interior view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-マフラー・lv-スマッシュ-s00-メンズ-マフラー、ストール、その他テキスタイル--M79393_PM1_Detail view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Detail view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-マフラー・lv-スマッシュ-s00-メンズ-マフラー、ストール、その他テキスタイル--M79393_PM1_Other view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Other view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/lv-smash-scarf-s00-nvprod4830108v",
+      "material": "WOOL",
+      "highEndTemplate": false,
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 210,
+        "unitText": "cm"
+      },
+      "productId": "nvprod4830108v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-ACC-980_black.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>素材：ウール 100%</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "LV Smash Scarf"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories;Sunglasses"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "eligibleToAgec",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "newArrivalsDate",
+          "value": 1700092800000
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "hasLanguagePanel",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-t18ui4cq",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/accessories/_/N-t11ae5nz",
+          "alternateName": "accessories",
+          "name": "アクセサリー",
+          "identifier": "m-category-cat10052"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/accessories/scarves/_/N-t186w8xz",
+          "alternateName": "scarves",
+          "name": "メンズ マフラー、ストール、その他テキスタイル",
+          "identifier": "m-category-cattexm"
+        }
+      ],
+      "careLink": {
+        "sections": []
+      },
+      "disclaimers": {
+        "customDisclaimer": false,
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "collectibles": false,
+      "color": "ノワール",
+      "@context": "http://schema.org",
+      "identifier": "M79393",
+      "defaultFamilySapDisplayName": "SCARF"
+    },
+    {
+      "productVisible": true,
+      "macroColor": "ブルー",
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/M79129/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod4830108v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/M79129"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/M79129/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod4830108v/M79129/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "@type": "ProductModel",
+      "identifierKey": "32e32d0d94d4dbe22806ac32941254b2",
+      "height": {
+        "@type": "QuantitativeValue",
+        "value": 30,
+        "unitText": "cm"
+      },
+      "productDetailTabs": [],
+      "name": "マフラー・LV スマッシュ",
+      "packagingVariation": "",
+      "mainMaterial2": "WOOL",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 85800
+        },
+        "@type": "Offer",
+        "price": "¥85,800"
+      },
+      "disambiguatingDescription": "<p>オーバーサイズとグラフィカルなモチーフが特徴の ｢マフラー･LV スマッシュ｣。スタイリッシュに暖かく過ごしたい男性にぴったりのアクセサリーです。極上の肌触りのウールで織り上げ、フレッシュに再解釈したLV エンブレムをあしらいました。ホワイトを基調とした2色展開で、コントラストを成すLV シグネチャーが際立ちます。</p>",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-マフラー・lv-スマッシュ-s00-メンズ-マフラー、ストール、その他テキスタイル--M79129_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-マフラー・lv-スマッシュ-s00-メンズ-マフラー、ストール、その他テキスタイル--M79129_PM1_Interior view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Interior view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-マフラー・lv-スマッシュ-s00-メンズ-マフラー、ストール、その他テキスタイル--M79129_PM1_Detail view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Detail view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-マフラー・lv-スマッシュ-s00-メンズ-マフラー、ストール、その他テキスタイル--M79129_PM1_Other view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Other view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/lv-smash-scarf-s00-nvprod4830108v",
+      "material": "WOOL",
+      "highEndTemplate": false,
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 210,
+        "unitText": "cm"
+      },
+      "productId": "nvprod4830108v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-RTW-610_bleu.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>素材：ウール 100%</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "LV Smash Scarf"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories;Sunglasses"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "eligibleToAgec",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "newArrivalsDate",
+          "value": 1700092800000
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "hasLanguagePanel",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-t18ui4cq",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/accessories/_/N-t11ae5nz",
+          "alternateName": "accessories",
+          "name": "アクセサリー",
+          "identifier": "m-category-cat10052"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/accessories/scarves/_/N-t186w8xz",
+          "alternateName": "scarves",
+          "name": "メンズ マフラー、ストール、その他テキスタイル",
+          "identifier": "m-category-cattexm"
+        }
+      ],
+      "careLink": {
+        "sections": []
+      },
+      "disclaimers": {
+        "customDisclaimer": false,
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "collectibles": false,
+      "color": "ブルー",
+      "@context": "http://schema.org",
+      "identifier": "M79129",
+      "defaultFamilySapDisplayName": "SCARF"
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "/api/catalog/jpn-jp/product/nvprod4830108v"
+    },
+    "push": {
+      "href": "/api/catalog/jpn-jp/product-push/nvprod4830108v"
+    },
+    "care-link": {
+      "href": "/api/catalog/jpn-jp/care-link/nvprod4830108v"
+    },
+    "availability": {
+      "href": "/api/catalog/jpn-jp/availability/nvprod4830108v"
+    }
+  },
+  "@type": "Product",
+  "sku": "M79129",
+  "isSimilarTo": [],
+  "productTips": [],
+  "url": "/jpn-jp/products/lv-smash-scarf-s00-nvprod4830108v",
+  "material": "Acetate & Metal",
+  "category": [
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/_/N-t18ui4cq",
+      "alternateName": "men",
+      "name": "メンズ",
+      "identifier": "homme"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/accessories/_/N-t11ae5nz",
+      "alternateName": "accessories",
+      "name": "アクセサリー",
+      "identifier": "m-category-cat10052"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/accessories/scarves/_/N-t186w8xz",
+      "alternateName": "scarves",
+      "name": "メンズ マフラー、ストール、その他テキスタイル",
+      "identifier": "m-category-cattexm"
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "hidePrice",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "subType",
+      "value": "product"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "sizeGuide",
+      "value": false
+    }
+  ],
+  "name": "マフラー・LV スマッシュ",
+  "isRelatedTo": [],
+  "@context": "http://schema.org",
+  "identifier": "nvprod4830108v"
+}
