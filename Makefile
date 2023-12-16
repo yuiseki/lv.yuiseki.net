@@ -19,6 +19,10 @@ clean:
 	rm -f ./tmp/collections_uniq.txt
 	rm -f ./tmp/collections/*
 
+clean-all:
+	rm -f ./public/products.txt
+	rm -f ./public/search_*.csv
+
 tmp/homepage.html:
 	curl -s -o tmp/homepage.html -H "User-Agent: $(user_agent)" https://jp.louisvuitton.com/jpn-jp/homepage
 
