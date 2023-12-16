@@ -187,90 +187,95 @@ function App() {
               style={{
                 position: "relative",
                 justifyContent: "center",
-                width: "70%",
+                width: "90%",
                 display: "flex",
                 alignItems: "center",
                 marginBottom: "30px",
               }}
             >
-              <SearchQueryInput
-                onChange={(value) => {
-                  debounce(() => {
-                    setDebouncedQuery(value);
-                  });
-                }}
-              />
-            </div>
-            <div
-              style={{
-                justifyContent: "center",
-                alignItems: "center",
-                width: "100%",
-                display: "flex",
-                maxWidth: "100%",
-                marginBottom: "15px",
-              }}
-            >
-              <input
-                type="button"
-                value="Shuffle"
+              <div
                 style={{
-                  display: "inline-block",
-                  fontSize: "1em",
-                  lineHeight: "1",
-                  backgroundColor: "black",
-                  color: "white",
-                  border: "none",
-                  borderRadius: "0px",
-                  padding: "1rem 1.5rem",
-                  width: "21.25rem",
+                  display: "flex",
+                  flexGrow: 10,
                 }}
-                onClick={shuffle}
-              />
-              <input
-                type="button"
-                value={
-                  filterFav ? "Filtering only likes..." : "Filter only likes"
-                }
+              >
+                <SearchQueryInput
+                  onChange={(value) => {
+                    debounce(() => {
+                      setDebouncedQuery(value);
+                    });
+                  }}
+                />
+              </div>
+              <div
                 style={{
-                  display: "inline-block",
-                  fontSize: "1em",
-                  lineHeight: "1",
-                  backgroundColor: "black",
-                  color: "white",
-                  border: "none",
-                  borderRadius: "0px",
-                  padding: "1rem 1.5rem",
-                  width: "21.25rem",
+                  justifyContent: "center",
+                  alignItems: "center",
+                  display: "flex",
+                  flexGrow: 0,
                   marginLeft: "30px",
                 }}
-                onClick={() => {
-                  setFilterFav(!filterFav);
-                }}
-              />
-              <input
-                type="button"
-                value={
-                  filterBookmark
-                    ? "Filtering only bookmarks..."
-                    : "Filter only bookmarks"
-                }
-                style={{
-                  display: "inline-block",
-                  fontSize: "1em",
-                  lineHeight: "1",
-                  backgroundColor: "black",
-                  color: "white",
-                  border: "none",
-                  borderRadius: "0px",
-                  padding: "1rem 1.5rem",
-                  width: "21.25rem",
-                  marginLeft: "30px",
-                }}
-                onClick={() => {
-                  setFilterBookmark(!filterBookmark);
-                }}
-              />
+              >
+                <button
+                  style={{
+                    display: "inline-block",
+                    fontSize: "1em",
+                    lineHeight: "1",
+                    backgroundColor: "black",
+                    color: "white",
+                    border: "none",
+                    borderRadius: "0px",
+                    padding: "1rem",
+                  }}
+                  onClick={shuffle}
+                >
+                  <span className="fa-solid fa-random"></span>
+                </button>
+                <button
+                  style={{
+                    display: "inline-block",
+                    fontSize: "1em",
+                    lineHeight: "1",
+                    backgroundColor: "black",
+                    color: "white",
+                    border: "none",
+                    borderRadius: "0px",
+                    padding: "1rem",
+                    marginLeft: "30px",
+                  }}
+                  onClick={() => {
+                    setFilterFav(!filterFav);
+                  }}
+                >
+                  {filterFav ? (
+                    <span className="fa-solid fa-heart"></span>
+                  ) : (
+                    <span className="fa-regular fa-heart"></span>
+                  )}
+                </button>
+                <button
+                  style={{
+                    display: "inline-block",
+                    fontSize: "1em",
+                    lineHeight: "1",
+                    backgroundColor: "black",
+                    color: "white",
+                    border: "none",
+                    borderRadius: "0px",
+                    padding: "1rem",
+                    marginLeft: "30px",
+                  }}
+                  onClick={() => {
+                    setFilterBookmark(!filterBookmark);
+                  }}
+                >
+                  {filterBookmark ? (
+                    <span className="fa-solid fa-bookmark"></span>
+                  ) : (
+                    <span className="fa-regular fa-bookmark"></span>
+                  )}
+                </button>
+              </div>
             </div>
             <div
               style={{
