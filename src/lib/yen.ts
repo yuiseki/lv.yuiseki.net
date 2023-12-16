@@ -1,5 +1,6 @@
 // https://piecedesign.co.jp/lab/103/
-export const yenFormat = (_val: number) => {
+export const yenFormat = (_val?: number) => {
+  if (!_val) return "0円";
   const _string = String(_val);
   const _length = _string.length;
   const _digits = ["", "万", "億", "兆", "京", "垓"];
