@@ -1,12 +1,13 @@
 import React, { useCallback, useContext } from "react";
 import { FilterBookmarkContext } from "../context/FilterBookmarkContext";
-import { FilterFavContext } from "../context/FilterFavContext";
+import { FilterLikeContext } from "../context/FilterLikeContext";
+import { FilterStarContext } from "../context/FilterStarContext";
 import { useLocalStorage } from "../hooks/localStorage";
 import { yenFormat } from "../lib/yen";
 
 export const ModelCell: React.FC<{ productId: string; model: any }> =
   React.memo(({ productId, model }) => {
-    const [fav, setFav] = useLocalStorage(
+    const [like, setLike] = useLocalStorage(
       "lv-fav-" + productId + "-" + model.identifier,
       false
     );
@@ -16,13 +17,24 @@ export const ModelCell: React.FC<{ productId: string; model: any }> =
       false
     );
 
-    const filterFav = useContext(FilterFavContext);
+    const [star, setStar] = useLocalStorage(
+      "lv-star-" + productId + "-" + model.identifier,
+      false
+    );
+
+    const filterLike = useContext(FilterLikeContext);
     const filterBookmark = useContext(FilterBookmarkContext);
-    if (filterFav && !fav) {
+    const filterStar = useContext(FilterStarContext);
+
+    if (filterLike && !like) {
       return null;
     }
 
     if (filterBookmark && !bookmark) {
+      return null;
+    }
+
+    if (filterStar && !star) {
       return null;
     }
 
@@ -79,6 +91,21 @@ export const ModelCell: React.FC<{ productId: string; model: any }> =
           <span
             style={{
               position: "absolute",
+              right: "65px",
+              top: "10px",
+              fontSize: "1em",
+              padding: "10px",
+            }}
+            onClick={(e) => {
+              e.preventDefault();
+              e.stopPropagation();
+              setLike(!like);
+            }}
+            className={like ? "fa-solid fa-heart" : "fa-regular fa-heart"}
+          ></span>
+          <span
+            style={{
+              position: "absolute",
               right: "35px",
               top: "10px",
               fontSize: "1em",
@@ -87,9 +114,9 @@ export const ModelCell: React.FC<{ productId: string; model: any }> =
             onClick={(e) => {
               e.preventDefault();
               e.stopPropagation();
-              setFav(!fav);
+              setStar(!star);
             }}
-            className={fav ? "fa-solid fa-heart" : "fa-regular fa-heart"}
+            className={star ? "fa-solid fa-star" : "fa-regular fa-star"}
           ></span>
           <picture
             style={{
