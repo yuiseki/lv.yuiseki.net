@@ -15,10 +15,23 @@ document.body.addEventListener("keydown", (e) => {
     if (!document.activeElement || document.activeElement.tagName === "BODY") {
       document.body.getElementsByTagName("a")[0].focus();
     }
-    document.activeElement.nextSibling?.focus();
+    if (
+      document &&
+      document.activeElement &&
+      document.activeElement.nextSibling &&
+      document.activeElement.nextSibling
+    ) {
+      (document.activeElement.nextSibling as HTMLElement).focus();
+    }
   }
   if (e.key === "k") {
     e.preventDefault();
-    document.activeElement.previousSibling?.focus();
+    if (
+      document &&
+      document.activeElement &&
+      document.activeElement.previousSibling
+    ) {
+      (document.activeElement.previousSibling as HTMLElement).focus();
+    }
   }
 });

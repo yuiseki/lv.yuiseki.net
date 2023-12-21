@@ -6,7 +6,7 @@ export const yenFormat = (_val?: number) => {
   const _length = _string.length;
   const _digits = ["", "万", "億", "兆", "京", "垓"];
   let _result = "";
-  let _results = [];
+  let _results: number[] = [];
 
   for (let i = 0; i < Math.ceil(_length / 4); i++) {
     _results[i] = Number(

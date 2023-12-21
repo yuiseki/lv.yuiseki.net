@@ -65,7 +65,7 @@ function App() {
 
       // fetch search_00.csv to search_99.csv
       const numbers = [...new Array(10).keys()].map((n) => n);
-      const allTexts = [];
+      const allTexts: string[] = [];
       for (const n of numbers) {
         const res = await fetch(`/search_${n.toString().padStart(2, "0")}.csv`);
         const text = await res.text();

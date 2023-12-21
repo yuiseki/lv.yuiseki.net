@@ -5,7 +5,8 @@
   "scripts": {
     "dev": "vite --port 30000 --host 0.0.0.0",
     "build": "vite build",
-    "preview": "vite preview --port 30000 --host 0.0.0.0"
+    "preview": "vite preview --port 30000 --host 0.0.0.0",
+    "lint": "tsc"
   },
   "dependencies": {
     "@headlessui/react": "^1.7.4",
