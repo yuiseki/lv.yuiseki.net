@@ -1,0 +1,874 @@
+{
+  "model": [
+    {
+      "productVisible": true,
+      "macroColor": "ホワイト",
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/1AFC58/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod5090008v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/1AFC58"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/1AFC58/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod5090008v/1AFC58/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "@type": "ProductModel",
+      "identifierKey": "00b0bb33485edf3c8aad35d08de11ef4",
+      "productDetailTabs": [],
+      "name": "チェックプリントシャツ",
+      "packagingVariation": "",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 280500
+        },
+        "@type": "Offer",
+        "price": "¥280,500"
+      },
+      "disambiguatingDescription": "シルクとコットンツイルで仕立てたシャツ。全面に施した印象的なチェック･プリントに｢Louis Vuitton Paris｣シグネチャーを散りばめて、大胆でモダンな雰囲気に仕上げました。胸元に配した2つのフラップポケットがスマートなシルエットに構築的なディテールを添え、コントラストカラーのボタンがグラフィカルな印象を際立たせます。 <p>ご不明な点がございましたら、クライアントサービスまでお気軽にお問合せください。専任のクライアントアドバイザーが、素材やサイズなどの製品詳細、モデル着用イメージや関連アイテムのご案内など、お客様のご要望に合わせたスタイリング・アドバイスをご提供いたします。</p><p>また、サイズ違いなどによる返品・交換のご相談も承ります。詳細は<a href='https://jp.louisvuitton.com/jpn-jp/legal-privacy'><b>こちら。</b></a></p>",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-チェックプリントシャツ-プレタポルテ-洋服--FQBL19EBC900_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-チェックプリントシャツ-プレタポルテ-洋服--FQBL19EBC900_PM1_Worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Worn view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-チェックプリントシャツ-プレタポルテ-洋服--FQBL19EBC900_PM1_Ambiance view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Ambiance view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-チェックプリントシャツ-プレタポルテ-洋服--FQBL19EBC900_PM1_Cropped view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Cropped view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-チェックプリントシャツ-プレタポルテ-洋服--FQBL19EBC900_PM1_Cropped worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Cropped worn view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/check-print-shirt-nvprod5090008v",
+      "highEndTemplate": false,
+      "sizeDisplayName": "34",
+      "productId": "nvprod5090008v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-RTW-001_blanc.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>カラー：ブラック</li><li>本体：コットン 66％、シルク 34％</li><li>レギュラーフィット</li></li>イタリア製<li>REF：FQBL19EBC</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "Check Print Shirt"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z05"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Ready_To_Wear_Women"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "eligibleToAgec",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "hasLanguagePanel",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/_/N-tveguxb",
+          "alternateName": "women",
+          "name": "ウィメンズ",
+          "identifier": "femme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/ready-to-wear/_/N-t1kw5dkp",
+          "alternateName": "ready-to-wear",
+          "name": "プレタポルテ(洋服)",
+          "identifier": "w-readytowear"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/ready-to-wear/tops/_/N-t1m1g0yp",
+          "alternateName": "tops",
+          "name": "ウィメンズ トップス",
+          "identifier": "w-tops"
+        }
+      ],
+      "careLink": {
+        "sections": []
+      },
+      "disclaimers": {
+        "customDisclaimer": false,
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "collectibles": false,
+      "color": "ブロン",
+      "@context": "http://schema.org",
+      "identifier": "1AFC58",
+      "defaultFamilySapDisplayName": "BLOUSE W"
+    },
+    {
+      "productVisible": true,
+      "macroColor": "ホワイト",
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/1AFC59/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod5090008v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/1AFC59"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/1AFC59/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod5090008v/1AFC59/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "@type": "ProductModel",
+      "identifierKey": "a7255ea29e67fa3a09bc71dbd46ca71b",
+      "productDetailTabs": [],
+      "name": "チェックプリントシャツ",
+      "packagingVariation": "",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 280500
+        },
+        "@type": "Offer",
+        "price": "¥280,500"
+      },
+      "disambiguatingDescription": "シルクとコットンツイルで仕立てたシャツ。全面に施した印象的なチェック･プリントに｢Louis Vuitton Paris｣シグネチャーを散りばめて、大胆でモダンな雰囲気に仕上げました。胸元に配した2つのフラップポケットがスマートなシルエットに構築的なディテールを添え、コントラストカラーのボタンがグラフィカルな印象を際立たせます。 <p>ご不明な点がございましたら、クライアントサービスまでお気軽にお問合せください。専任のクライアントアドバイザーが、素材やサイズなどの製品詳細、モデル着用イメージや関連アイテムのご案内など、お客様のご要望に合わせたスタイリング・アドバイスをご提供いたします。</p><p>また、サイズ違いなどによる返品・交換のご相談も承ります。詳細は<a href='https://jp.louisvuitton.com/jpn-jp/legal-privacy'><b>こちら。</b></a></p>",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-チェックプリントシャツ-プレタポルテ-洋服--FQBL19EBC900_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-チェックプリントシャツ-プレタポルテ-洋服--FQBL19EBC900_PM1_Worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Worn view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-チェックプリントシャツ-プレタポルテ-洋服--FQBL19EBC900_PM1_Ambiance view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Ambiance view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-チェックプリントシャツ-プレタポルテ-洋服--FQBL19EBC900_PM1_Cropped view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Cropped view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-チェックプリントシャツ-プレタポルテ-洋服--FQBL19EBC900_PM1_Cropped worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Cropped worn view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/check-print-shirt-nvprod5090008v",
+      "highEndTemplate": false,
+      "sizeDisplayName": "36",
+      "productId": "nvprod5090008v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-RTW-001_blanc.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>カラー：ブラック</li><li>本体：コットン 66％、シルク 34％</li><li>レギュラーフィット</li></li>イタリア製<li>REF：FQBL19EBC</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "Check Print Shirt"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z05"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Ready_To_Wear_Women"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "eligibleToAgec",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "hasLanguagePanel",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/_/N-tveguxb",
+          "alternateName": "women",
+          "name": "ウィメンズ",
+          "identifier": "femme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/ready-to-wear/_/N-t1kw5dkp",
+          "alternateName": "ready-to-wear",
+          "name": "プレタポルテ(洋服)",
+          "identifier": "w-readytowear"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/ready-to-wear/tops/_/N-t1m1g0yp",
+          "alternateName": "tops",
+          "name": "ウィメンズ トップス",
+          "identifier": "w-tops"
+        }
+      ],
+      "careLink": {
+        "sections": []
+      },
+      "disclaimers": {
+        "customDisclaimer": false,
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "collectibles": false,
+      "color": "ブロン",
+      "@context": "http://schema.org",
+      "identifier": "1AFC59",
+      "defaultFamilySapDisplayName": "BLOUSE W"
+    },
+    {
+      "productVisible": true,
+      "macroColor": "ホワイト",
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/1AFC60/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod5090008v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/1AFC60"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/1AFC60/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod5090008v/1AFC60/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "@type": "ProductModel",
+      "identifierKey": "154dd3e7c9e3cdfbcf75ee75520ac7b5",
+      "productDetailTabs": [],
+      "name": "チェックプリントシャツ",
+      "packagingVariation": "",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 280500
+        },
+        "@type": "Offer",
+        "price": "¥280,500"
+      },
+      "disambiguatingDescription": "シルクとコットンツイルで仕立てたシャツ。全面に施した印象的なチェック･プリントに｢Louis Vuitton Paris｣シグネチャーを散りばめて、大胆でモダンな雰囲気に仕上げました。胸元に配した2つのフラップポケットがスマートなシルエットに構築的なディテールを添え、コントラストカラーのボタンがグラフィカルな印象を際立たせます。 <p>ご不明な点がございましたら、クライアントサービスまでお気軽にお問合せください。専任のクライアントアドバイザーが、素材やサイズなどの製品詳細、モデル着用イメージや関連アイテムのご案内など、お客様のご要望に合わせたスタイリング・アドバイスをご提供いたします。</p><p>また、サイズ違いなどによる返品・交換のご相談も承ります。詳細は<a href='https://jp.louisvuitton.com/jpn-jp/legal-privacy'><b>こちら。</b></a></p>",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-チェックプリントシャツ-プレタポルテ-洋服--FQBL19EBC900_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-チェックプリントシャツ-プレタポルテ-洋服--FQBL19EBC900_PM1_Worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Worn view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-チェックプリントシャツ-プレタポルテ-洋服--FQBL19EBC900_PM1_Ambiance view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Ambiance view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-チェックプリントシャツ-プレタポルテ-洋服--FQBL19EBC900_PM1_Cropped view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Cropped view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-チェックプリントシャツ-プレタポルテ-洋服--FQBL19EBC900_PM1_Cropped worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Cropped worn view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/check-print-shirt-nvprod5090008v",
+      "highEndTemplate": false,
+      "sizeDisplayName": "38",
+      "productId": "nvprod5090008v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-RTW-001_blanc.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>カラー：ブラック</li><li>本体：コットン 66％、シルク 34％</li><li>レギュラーフィット</li></li>イタリア製<li>REF：FQBL19EBC</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "Check Print Shirt"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z05"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Ready_To_Wear_Women"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "eligibleToAgec",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "hasLanguagePanel",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/_/N-tveguxb",
+          "alternateName": "women",
+          "name": "ウィメンズ",
+          "identifier": "femme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/ready-to-wear/_/N-t1kw5dkp",
+          "alternateName": "ready-to-wear",
+          "name": "プレタポルテ(洋服)",
+          "identifier": "w-readytowear"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/ready-to-wear/tops/_/N-t1m1g0yp",
+          "alternateName": "tops",
+          "name": "ウィメンズ トップス",
+          "identifier": "w-tops"
+        }
+      ],
+      "careLink": {
+        "sections": []
+      },
+      "disclaimers": {
+        "customDisclaimer": false,
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "collectibles": false,
+      "color": "ブロン",
+      "@context": "http://schema.org",
+      "identifier": "1AFC60",
+      "defaultFamilySapDisplayName": "BLOUSE W"
+    },
+    {
+      "productVisible": true,
+      "macroColor": "ホワイト",
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/1AFC61/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod5090008v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/1AFC61"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/1AFC61/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod5090008v/1AFC61/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "@type": "ProductModel",
+      "identifierKey": "4565d7cd76a638bd4ed33cc44ad4e733",
+      "productDetailTabs": [],
+      "name": "チェックプリントシャツ",
+      "packagingVariation": "",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 280500
+        },
+        "@type": "Offer",
+        "price": "¥280,500"
+      },
+      "disambiguatingDescription": "シルクとコットンツイルで仕立てたシャツ。全面に施した印象的なチェック･プリントに｢Louis Vuitton Paris｣シグネチャーを散りばめて、大胆でモダンな雰囲気に仕上げました。胸元に配した2つのフラップポケットがスマートなシルエットに構築的なディテールを添え、コントラストカラーのボタンがグラフィカルな印象を際立たせます。 <p>ご不明な点がございましたら、クライアントサービスまでお気軽にお問合せください。専任のクライアントアドバイザーが、素材やサイズなどの製品詳細、モデル着用イメージや関連アイテムのご案内など、お客様のご要望に合わせたスタイリング・アドバイスをご提供いたします。</p><p>また、サイズ違いなどによる返品・交換のご相談も承ります。詳細は<a href='https://jp.louisvuitton.com/jpn-jp/legal-privacy'><b>こちら。</b></a></p>",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-チェックプリントシャツ-プレタポルテ-洋服--FQBL19EBC900_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-チェックプリントシャツ-プレタポルテ-洋服--FQBL19EBC900_PM1_Worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Worn view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-チェックプリントシャツ-プレタポルテ-洋服--FQBL19EBC900_PM1_Ambiance view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Ambiance view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-チェックプリントシャツ-プレタポルテ-洋服--FQBL19EBC900_PM1_Cropped view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Cropped view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-チェックプリントシャツ-プレタポルテ-洋服--FQBL19EBC900_PM1_Cropped worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Cropped worn view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/check-print-shirt-nvprod5090008v",
+      "highEndTemplate": false,
+      "sizeDisplayName": "40",
+      "productId": "nvprod5090008v",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-RTW-001_blanc.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>カラー：ブラック</li><li>本体：コットン 66％、シルク 34％</li><li>レギュラーフィット</li></li>イタリア製<li>REF：FQBL19EBC</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "Check Print Shirt"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z05"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Ready_To_Wear_Women"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "eligibleToAgec",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "hasLanguagePanel",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/_/N-tveguxb",
+          "alternateName": "women",
+          "name": "ウィメンズ",
+          "identifier": "femme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/ready-to-wear/_/N-t1kw5dkp",
+          "alternateName": "ready-to-wear",
+          "name": "プレタポルテ(洋服)",
+          "identifier": "w-readytowear"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/ready-to-wear/tops/_/N-t1m1g0yp",
+          "alternateName": "tops",
+          "name": "ウィメンズ トップス",
+          "identifier": "w-tops"
+        }
+      ],
+      "careLink": {
+        "sections": []
+      },
+      "disclaimers": {
+        "customDisclaimer": false,
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "collectibles": false,
+      "color": "ブロン",
+      "@context": "http://schema.org",
+      "identifier": "1AFC61",
+      "defaultFamilySapDisplayName": "BLOUSE W"
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "/api/catalog/jpn-jp/product/nvprod5090008v"
+    },
+    "push": {
+      "href": "/api/catalog/jpn-jp/product-push/nvprod5090008v"
+    },
+    "care-link": {
+      "href": "/api/catalog/jpn-jp/care-link/nvprod5090008v"
+    },
+    "size-guide": {
+      "href": "/api/catalog/jpn-jp/size-guide/nvprod5090008v"
+    },
+    "availability": {
+      "href": "/api/catalog/jpn-jp/availability/nvprod5090008v"
+    }
+  },
+  "@type": "Product",
+  "sku": "1AFC59",
+  "isSimilarTo": [],
+  "productTips": [],
+  "url": "/jpn-jp/products/check-print-shirt-nvprod5090008v",
+  "category": [
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/women/_/N-tveguxb",
+      "alternateName": "women",
+      "name": "ウィメンズ",
+      "identifier": "femme"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/women/ready-to-wear/_/N-t1kw5dkp",
+      "alternateName": "ready-to-wear",
+      "name": "プレタポルテ(洋服)",
+      "identifier": "w-readytowear"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/women/ready-to-wear/tops/_/N-t1m1g0yp",
+      "alternateName": "tops",
+      "name": "ウィメンズ トップス",
+      "identifier": "w-tops"
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "hidePrice",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "subType",
+      "value": "product"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "sizeGuide",
+      "value": true
+    }
+  ],
+  "name": "チェックプリントシャツ",
+  "isRelatedTo": [],
+  "@context": "http://schema.org",
+  "identifier": "nvprod5090008v"
+}
