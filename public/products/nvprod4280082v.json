@@ -31,7 +31,11 @@
       "productDetailTabs": [],
       "name": "ネオノエ BB",
       "packagingVariation": "",
+<<<<<<< HEAD
       "mainMaterial2": "Coated Canvas",
+=======
+      "mainMaterial2": "COATED CANVAS",
+>>>>>>> f874bc27c744c01e3afa8224b3f1e7db3ee9b091
       "width": {
         "@type": "QuantitativeValue",
         "value": 13,
@@ -40,10 +44,17 @@
       "offers": {
         "priceSpecification": {
           "priceCurrency": "JPY",
+<<<<<<< HEAD
           "price": 298100
         },
         "@type": "Offer",
         "price": "¥298,100"
+=======
+          "price": 280500
+        },
+        "@type": "Offer",
+        "price": "¥280,500"
+>>>>>>> f874bc27c744c01e3afa8224b3f1e7db3ee9b091
       },
       "disambiguatingDescription": "モノグラム･キャンバスにヌメ革のトリミングを施し、メゾンのアイコニックなバケットバッグ｢ネオノエ｣をミニサイズにアレンジした｢ネオノエ BB｣。鍵やAirpods、iPhoneなどの必需品を収納できます。レザーのドローストリング開閉式で、中のものをしっかりと守れるのも魅力。取外し可能なハンドルと、取外し & 調節可能なストラップで、さまざまなスタイルを楽しめます。",
       "image": [
@@ -293,6 +304,7 @@
           "macroColor": "マロン",
           "_links": {
             "look": {
+<<<<<<< HEAD
               "href": "/api/catalog/jpn-jp/skus/M81266/look"
             },
             "parent": {
@@ -305,11 +317,26 @@
               "href": "/api/catalog/jpn-jp/skus/M81266/perso-detail"
             },
             "/api/rels/jpn-jp/add-to-cart-base/nvprod3600089v/M81266/1": {
+=======
+              "href": "/api/catalog/jpn-jp/skus/M44020/look"
+            },
+            "parent": {
+              "href": "/api/catalog/jpn-jp/product/nvprod290007v"
+            },
+            "self": {
+              "href": "/api/catalog/jpn-jp/product/M44020"
+            },
+            "perso-details": {
+              "href": "/api/catalog/jpn-jp/skus/M44020/perso-detail"
+            },
+            "/api/rels/jpn-jp/add-to-cart-base/nvprod290007v/M44020/1": {
+>>>>>>> f874bc27c744c01e3afa8224b3f1e7db3ee9b091
               "name": "add-to-cart",
               "href": "/api/cart/jpn-jp"
             }
           },
           "@type": "ProductModel",
+<<<<<<< HEAD
           "identifierKey": "ac04585342c7bda5ea36406f050b2d99",
           "height": {
             "@type": "QuantitativeValue",
@@ -323,11 +350,27 @@
           "width": {
             "@type": "QuantitativeValue",
             "value": 10,
+=======
+          "identifierKey": "8576563ae652006117c3f29e579edeb0",
+          "height": {
+            "@type": "QuantitativeValue",
+            "value": 26,
+            "unitText": "cm"
+          },
+          "productDetailTabs": [],
+          "name": "ネオノエ",
+          "packagingVariation": "",
+          "mainMaterial2": "COATED CANVAS",
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": 17.5,
+>>>>>>> f874bc27c744c01e3afa8224b3f1e7db3ee9b091
             "unitText": "cm"
           },
           "offers": {
             "priceSpecification": {
               "priceCurrency": "JPY",
+<<<<<<< HEAD
               "price": 264000
             },
             "@type": "Offer",
@@ -337,11 +380,23 @@
           "image": [
             {
               "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ナノ･ノエ-モノグラム-財布＆小物--M81266_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+=======
+              "price": 299200
+            },
+            "@type": "Offer",
+            "price": "¥299,200"
+          },
+          "disambiguatingDescription": "1932年にガストン-ルイ･ヴィトンがデザインした「ノエ」を再解釈した、メゾンのアイコンバッグ「ネオノエ」。シャンパンボトルを運ぶために作られた「ノエ」をモノグラム･キャンバスでアップデートし、洗練されたフォルムやカラフルなレザーのトリミング、同系色のライニングでアクセントを添えました。調節可能なスマートなストラップで、肩掛けやトレンディなクロスボディバッグとしてもお楽しみいただけます。 ",
+          "image": [
+            {
+              "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ネオノエ-モノグラム-バッグ--M44020_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+>>>>>>> f874bc27c744c01e3afa8224b3f1e7db3ee9b091
               "@type": "ImageObject",
               "name": "Front view",
               "@context": "http://schema.org"
             },
             {
+<<<<<<< HEAD
               "playerType": "freecaster",
               "contentUrl": "https://player.louisvuitton.com/embed/1483494",
               "@type": "ImageObject",
@@ -357,47 +412,75 @@
             },
             {
               "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ナノ･ノエ-モノグラム-財布＆小物--M81266_PM1_Worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+=======
+              "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ネオノエ-モノグラム-バッグ--M44020_PM1_Worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+>>>>>>> f874bc27c744c01e3afa8224b3f1e7db3ee9b091
               "@type": "ImageObject",
               "name": "Worn view",
               "@context": "http://schema.org"
             },
             {
+<<<<<<< HEAD
               "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ナノ･ノエ-モノグラム-財布＆小物--M81266_PM1_Closeup view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+=======
+              "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ネオノエ-モノグラム-バッグ--M44020_PM1_Closeup view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+>>>>>>> f874bc27c744c01e3afa8224b3f1e7db3ee9b091
               "@type": "ImageObject",
               "name": "Closeup view",
               "@context": "http://schema.org"
             },
             {
+<<<<<<< HEAD
               "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ナノ･ノエ-モノグラム-財布＆小物--M81266_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+=======
+              "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ネオノエ-モノグラム-バッグ--M44020_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+>>>>>>> f874bc27c744c01e3afa8224b3f1e7db3ee9b091
               "@type": "ImageObject",
               "name": "Side view",
               "@context": "http://schema.org"
             },
             {
+<<<<<<< HEAD
               "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ナノ･ノエ-モノグラム-財布＆小物--M81266_PM1_Interior view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+=======
+              "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ネオノエ-モノグラム-バッグ--M44020_PM1_Interior view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+>>>>>>> f874bc27c744c01e3afa8224b3f1e7db3ee9b091
               "@type": "ImageObject",
               "name": "Interior view",
               "@context": "http://schema.org"
             },
             {
+<<<<<<< HEAD
               "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ナノ･ノエ-モノグラム-財布＆小物--M81266_PM1_Interior2 view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+=======
+              "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ネオノエ-モノグラム-バッグ--M44020_PM1_Interior2 view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+>>>>>>> f874bc27c744c01e3afa8224b3f1e7db3ee9b091
               "@type": "ImageObject",
               "name": "Interior2 view",
               "@context": "http://schema.org"
             },
             {
+<<<<<<< HEAD
               "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ナノ･ノエ-モノグラム-財布＆小物--M81266_PM1_Detail view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+=======
+              "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ネオノエ-モノグラム-バッグ--M44020_PM1_Detail view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+>>>>>>> f874bc27c744c01e3afa8224b3f1e7db3ee9b091
               "@type": "ImageObject",
               "name": "Detail view",
               "@context": "http://schema.org"
             },
             {
+<<<<<<< HEAD
               "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ナノ･ノエ-モノグラム-財布＆小物--M81266_PM1_Ambiance view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+=======
+              "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ネオノエ-モノグラム-バッグ--M44020_PM1_Ambiance view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+>>>>>>> f874bc27c744c01e3afa8224b3f1e7db3ee9b091
               "@type": "ImageObject",
               "name": "Ambiance view",
               "@context": "http://schema.org"
             },
             {
+<<<<<<< HEAD
               "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ナノ･ノエ-モノグラム-財布＆小物--M81266_PM1_Back view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
               "@type": "ImageObject",
               "name": "Back view",
@@ -411,35 +494,63 @@
             }
           ],
           "url": "/jpn-jp/products/nano-noe-monogram-nvprod3600089v",
+=======
+              "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ネオノエ-モノグラム-バッグ--M44020_PM1_Back view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+              "@type": "ImageObject",
+              "name": "Back view",
+              "@context": "http://schema.org"
+            }
+          ],
+          "url": "/jpn-jp/products/neonoe-mm-monogram-nvprod290007v",
+>>>>>>> f874bc27c744c01e3afa8224b3f1e7db3ee9b091
           "material": "モノグラム",
           "highEndTemplate": false,
           "depth": {
             "@type": "QuantitativeValue",
+<<<<<<< HEAD
             "value": 13,
             "unitText": "cm"
           },
           "productId": "nvprod3600089v",
+=======
+            "value": 26,
+            "unitText": "cm"
+          },
+          "productId": "nvprod290007v",
+>>>>>>> f874bc27c744c01e3afa8224b3f1e7db3ee9b091
           "hasLanguagePanel": false,
           "additionalProperty": [
             {
               "@type": "PropertyValue",
               "name": "colorIconURL",
+<<<<<<< HEAD
               "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-ACC-977_monogram.jpg"
+=======
+              "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-ACC-93L_black_.jpg"
+>>>>>>> f874bc27c744c01e3afa8224b3f1e7db3ee9b091
             },
             {
               "@type": "PropertyValue",
               "name": "detailedDescription",
+<<<<<<< HEAD
               "value": "<ul><li>素材：モノグラム･キャンバス</li><li>トリミング：レザー(皮革の種類：牛革)</li><li>ライニング：マイクロファイバー</li><li>金具(色：ゴールド)</li><li>ドローストリング開閉式</li><li>ストラップ：取り外し可能, 調整可能</li><li>ストラップの頂点からバッグ上部までの長さ(最短)：45.5 cm</li><li>ストラップの頂点からバッグ上部までの長さ(最長)：54.0 cm</li><li>ハンドル：シングル, 取り外し可能</li></ul>"
+=======
+              "value": "<ul> \n <li>素材：モノグラム・キャンバス</li> \n <li>トリミング：レザー（皮革の種類：牛革）</li> \n <li>ライニング：マイクロファイバー</li> \n <li>金具（色：ゴールド）</li> \n \n <li>革ひも</li> \n <li>メタル製アイレット</li> \n <li>コンパートメントx2</li> \n <li>ファスナー式中央フラットポケット</li> \n<li>ストラップ：取り外し可能, 調整可能</li><li>ストラップの頂点からバッグ上部までの長さ(最短)：33.0 cm</li><li>ストラップの頂点からバッグ上部までの長さ(最長)：56.0 cm</li></ul>"
+>>>>>>> f874bc27c744c01e3afa8224b3f1e7db3ee9b091
             },
             {
               "@type": "PropertyValue",
               "name": "englishProductName",
+<<<<<<< HEAD
               "value": "Nano Noé"
             },
             {
               "@type": "PropertyValue",
               "name": "activateEngraving",
               "value": false
+=======
+              "value": "NéoNoé MM"
+>>>>>>> f874bc27c744c01e3afa8224b3f1e7db3ee9b091
             },
             {
               "@type": "PropertyValue",
@@ -459,7 +570,11 @@
             {
               "@type": "PropertyValue",
               "name": "locateInStore",
+<<<<<<< HEAD
               "value": false
+=======
+              "value": true
+>>>>>>> f874bc27c744c01e3afa8224b3f1e7db3ee9b091
             },
             {
               "@type": "PropertyValue",
@@ -494,6 +609,7 @@
             {
               "@type": "PropertyValue",
               "name": "video360Enabled",
+<<<<<<< HEAD
               "value": true
             },
             {
@@ -505,6 +621,9 @@
               "@type": "PropertyValue",
               "name": "video360AssetId",
               "value": "M81266"
+=======
+              "value": false
+>>>>>>> f874bc27c744c01e3afa8224b3f1e7db3ee9b091
             },
             {
               "@type": "PropertyValue",
@@ -519,7 +638,11 @@
             {
               "@type": "PropertyValue",
               "name": "newArrivalsDate",
+<<<<<<< HEAD
               "value": 1648771200000
+=======
+              "value": 1487894400000
+>>>>>>> f874bc27c744c01e3afa8224b3f1e7db3ee9b091
             },
             {
               "@type": "PropertyValue",
@@ -537,6 +660,7 @@
             },
             {
               "@type": "Thing",
+<<<<<<< HEAD
               "url": "/jpn-jp/women/wallets-and-small-leather-goods/_/N-tlbdy32",
               "alternateName": "wallets-and-small-leather-goods",
               "name": "財布＆小物",
@@ -548,18 +672,40 @@
               "alternateName": "all-wallets-and-small-leather-goods",
               "name": "すべてのウィメンズ財布＆小物",
               "identifier": "w-allcollections-wslg"
+=======
+              "url": "/jpn-jp/women/handbags/_/N-t1lq3iii",
+              "alternateName": "handbags",
+              "name": "バッグ",
+              "identifier": "w-category-cat10070"
+            },
+            {
+              "@type": "Thing",
+              "url": "/jpn-jp/bags/for-women/shoulder-and-cross-body-bags/_/N-t163byw4",
+              "alternateName": "shoulder-and-cross-body-bags",
+              "name": "ウィメンズ ショルダーバッグ、クロスボディバッグ",
+              "identifier": "w-cross-body-bags"
+>>>>>>> f874bc27c744c01e3afa8224b3f1e7db3ee9b091
             }
           ],
           "careLink": {
             "title": "素材とお手入れ方法、修理",
             "sections": [
               {
+<<<<<<< HEAD
                 "description": "<ul><li>研磨剤や目の粗い表面との接触を避けてください。特に、レザートリミング部分についてはご注意ください。</li>\n<li>本製品は風通しの悪い場所での保管･放置を避け、風通しの良い乾燥した場所に保管してください。また、高温になる場所(暖房器具のそば、直射日光が当たる車内など)には短時間でも保管･放置しないでください。</li>\n<li>油性の製品(グリースや化粧品などアルコールを含んだ製品、香水、マニキュア、除光液、ベンジンなど)や、色移りの原因となる素材(雑誌、カラーレザーなど)との接触は避けてください。</li>\n<li>保管の際は、付属の布袋をご使用ください。温度や湿度が高く、風通しの悪い場所での保管･放置は避けてください。</li>\n<li>コートキャンバス地は、お手入れも簡単です。レザー部分を避けて、少量の洗剤を溶かした水で湿らせた、白い柔らかい布で軽く拭いてください。</li>\n<li>色移りをする可能性があるもの(雑誌、デニムのような布地、他の皮革製品など)を、コートキャンバス地に長時間接触させないでください。</li>\n<li>時の経過とともに、モノグラム･パターンが多少薄くなり、キャンバス地の地色が現れる場合があります。これは品質上の問題ではなく、耐久性に影響を与えることはありません。</li></ul>\n<p>ヌメ革：<br>\nトリミングに使用されている牛革は、天然の鞣(なめ)しによる工程で自然な風合いに仕上げられているため、自然なしわなど、製品ごとに微妙に異なる場合があります。爪･アクセサリーなどによる引っ掻きキズがつきやすいため、お取扱いには充分にご注意ください。自然な風合いを生かした素材であるため、時の経過とともに独特な飴色に変化していきます。シミの原因となりますので水濡れにはご注意ください。</p>\n<p>万一濡れてしまった場合には、溶剤は使わず、綿毛素材ではない、吸水性の高い白色系の乾布で水分を拭き取った後、陰干ししてください。美しい飴色へと変化するにつれて、レザーはキズ付きにくくなっていきます。</p>\n<p><u>リペアサービスのご案内：</u><br>\nルイ・ヴィトンでは、製品を末永くご愛用いただけるようリペアサービスを承っております。</p>\nお客様のご要望をお伺いした上で、パリのアトリエと同じパーツを使用し、熟練した職人が真心を込めて、1点1点丁寧に修理いたします。ご利用方法は、「<a href=\"http://jp.louisvuitton.com/jpn-jp/start-the-journey\">ヘルプ</a>」セクション内の「<a href=\"http://jp.louisvuitton.com/jpn-jp/repair\">リペアサービス</a>」をご覧ください。<br>\n<p>\nまた、お問合せ・ご相談はクライアントサービスおよび全国のルイ・ヴィトン ストアまでお気軽にご連絡ください(阪急梅田店、阪急メンズ店、LOUIS VUITTON DOVER STREET MARKET GINZA店は除く)。</p>",
                 "introduction": "<p>モノグラム･キャンバスの注意点をお読みいただき、末永くご愛用くださいますようお願い申し上げます。</p>"
               }
             ],
             "careLinkId": "MATAEL-LG-G00",
             "identifier": "nvprod3600089v"
+=======
+                "description": "<div class=\"popinContent\"><ul>\n<li>研磨剤や目の粗い物との接触は避けてください。床置きする際などはカーペット類との摩擦にもご注意ください。</li>\n<li>湿気から守り、高温になる場所（暖房器具のそば、直射日光が当たる車内など）には短時間でも保管、放置しないようご注意ください。</li>\n<li>保管の際は、付属の布袋に入れ、風通しの良い乾燥した場所に保管してください。また防虫剤は使用しないでください。</li>\n<li>万が一、水や汚れが付いた場合は毛羽立ちがなく吸水性の高い白色系の乾布で軽くたたくようにして拭き取ってください。洗剤や溶剤等を含んだ製品は一切使用しないでください。</li>\n<li>油性の製品(グリースや化粧品、ハンドクリームなど)やアルコールを含んだ製品(アルコール消毒ジェル、香水など)との接触は避けてください。</li>\n</ul>\n製品に関するお問合せは、お近くのルイ･ヴィトン ストアまたはクライアントサービスまでご連絡いただきますようお願い申しあげます。 ルイ･ヴィトン ジャパン株式会社 クライアントサービス T 0120 00 1854</div>",
+                "introduction": "<p>お取扱いに際しては次の注意事項をお読みいただき、製品の特性をあらかじめご理解いただいた上で、末永くご愛用くださいますようお願い申しあげます。</p>"
+              }
+            ],
+            "careLinkId": "MATAEL-LG-G01",
+            "identifier": "nvprod290007v"
+>>>>>>> f874bc27c744c01e3afa8224b3f1e7db3ee9b091
           },
           "disclaimers": {
             "customDisclaimer": false,
@@ -568,6 +714,7 @@
             "popInTitle": "pre_order_disclaimer_info_popin_title"
           },
           "collectibles": false,
+<<<<<<< HEAD
           "color": "モノグラム",
           "@context": "http://schema.org",
           "identifier": "M81266",
@@ -663,28 +810,53 @@
     {
       "model": [
         {
+=======
+          "color": "ノワール",
+          "@context": "http://schema.org",
+          "identifier": "M44020",
+          "defaultFamilySapDisplayName": "DAILY BAGS"
+        },
+        {
+>>>>>>> f874bc27c744c01e3afa8224b3f1e7db3ee9b091
           "productVisible": true,
           "macroColor": "マロン",
           "_links": {
             "look": {
+<<<<<<< HEAD
               "href": "/api/catalog/jpn-jp/skus/M44020/look"
+=======
+              "href": "/api/catalog/jpn-jp/skus/M44022/look"
+>>>>>>> f874bc27c744c01e3afa8224b3f1e7db3ee9b091
             },
             "parent": {
               "href": "/api/catalog/jpn-jp/product/nvprod290007v"
             },
             "self": {
+<<<<<<< HEAD
               "href": "/api/catalog/jpn-jp/product/M44020"
             },
             "perso-details": {
               "href": "/api/catalog/jpn-jp/skus/M44020/perso-detail"
             },
             "/api/rels/jpn-jp/add-to-cart-base/nvprod290007v/M44020/1": {
+=======
+              "href": "/api/catalog/jpn-jp/product/M44022"
+            },
+            "perso-details": {
+              "href": "/api/catalog/jpn-jp/skus/M44022/perso-detail"
+            },
+            "/api/rels/jpn-jp/add-to-cart-base/nvprod290007v/M44022/1": {
+>>>>>>> f874bc27c744c01e3afa8224b3f1e7db3ee9b091
               "name": "add-to-cart",
               "href": "/api/cart/jpn-jp"
             }
           },
           "@type": "ProductModel",
+<<<<<<< HEAD
           "identifierKey": "8576563ae652006117c3f29e579edeb0",
+=======
+          "identifierKey": "cc93e397ad0c4f52d5645470a6cf034e",
+>>>>>>> f874bc27c744c01e3afa8224b3f1e7db3ee9b091
           "height": {
             "@type": "QuantitativeValue",
             "value": 26,
@@ -693,7 +865,11 @@
           "productDetailTabs": [],
           "name": "ネオノエ",
           "packagingVariation": "",
+<<<<<<< HEAD
           "mainMaterial2": "Coated Canvas",
+=======
+          "mainMaterial2": "COATED CANVAS",
+>>>>>>> f874bc27c744c01e3afa8224b3f1e7db3ee9b091
           "width": {
             "@type": "QuantitativeValue",
             "value": 17.5,
@@ -702,56 +878,92 @@
           "offers": {
             "priceSpecification": {
               "priceCurrency": "JPY",
+<<<<<<< HEAD
               "price": 316800
             },
             "@type": "Offer",
             "price": "¥316,800"
+=======
+              "price": 299200
+            },
+            "@type": "Offer",
+            "price": "¥299,200"
+>>>>>>> f874bc27c744c01e3afa8224b3f1e7db3ee9b091
           },
           "disambiguatingDescription": "1932年にガストン-ルイ･ヴィトンがデザインした「ノエ」を再解釈した、メゾンのアイコンバッグ「ネオノエ」。シャンパンボトルを運ぶために作られた「ノエ」をモノグラム･キャンバスでアップデートし、洗練されたフォルムやカラフルなレザーのトリミング、同系色のライニングでアクセントを添えました。調節可能なスマートなストラップで、肩掛けやトレンディなクロスボディバッグとしてもお楽しみいただけます。 ",
           "image": [
             {
+<<<<<<< HEAD
               "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ネオノエ-モノグラム-バッグ--M44020_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+=======
+              "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ネオノエ-モノグラム-バッグ--M44022_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+>>>>>>> f874bc27c744c01e3afa8224b3f1e7db3ee9b091
               "@type": "ImageObject",
               "name": "Front view",
               "@context": "http://schema.org"
             },
             {
+<<<<<<< HEAD
               "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ネオノエ-モノグラム-バッグ--M44020_PM1_Worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+=======
+              "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ネオノエ-モノグラム-バッグ--M44022_PM1_Worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+>>>>>>> f874bc27c744c01e3afa8224b3f1e7db3ee9b091
               "@type": "ImageObject",
               "name": "Worn view",
               "@context": "http://schema.org"
             },
             {
+<<<<<<< HEAD
               "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ネオノエ-モノグラム-バッグ--M44020_PM1_Closeup view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+=======
+              "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ネオノエ-モノグラム-バッグ--M44022_PM1_Closeup view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+>>>>>>> f874bc27c744c01e3afa8224b3f1e7db3ee9b091
               "@type": "ImageObject",
               "name": "Closeup view",
               "@context": "http://schema.org"
             },
             {
+<<<<<<< HEAD
               "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ネオノエ-モノグラム-バッグ--M44020_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+=======
+              "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ネオノエ-モノグラム-バッグ--M44022_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+>>>>>>> f874bc27c744c01e3afa8224b3f1e7db3ee9b091
               "@type": "ImageObject",
               "name": "Side view",
               "@context": "http://schema.org"
             },
             {
+<<<<<<< HEAD
               "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ネオノエ-モノグラム-バッグ--M44020_PM1_Interior view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+=======
+              "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ネオノエ-モノグラム-バッグ--M44022_PM1_Interior view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+>>>>>>> f874bc27c744c01e3afa8224b3f1e7db3ee9b091
               "@type": "ImageObject",
               "name": "Interior view",
               "@context": "http://schema.org"
             },
             {
+<<<<<<< HEAD
               "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ネオノエ-モノグラム-バッグ--M44020_PM1_Interior2 view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+=======
+              "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ネオノエ-モノグラム-バッグ--M44022_PM1_Interior2 view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+>>>>>>> f874bc27c744c01e3afa8224b3f1e7db3ee9b091
               "@type": "ImageObject",
               "name": "Interior2 view",
               "@context": "http://schema.org"
             },
             {
+<<<<<<< HEAD
               "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ネオノエ-モノグラム-バッグ--M44020_PM1_Detail view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+=======
+              "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ネオノエ-モノグラム-バッグ--M44022_PM1_Detail view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+>>>>>>> f874bc27c744c01e3afa8224b3f1e7db3ee9b091
               "@type": "ImageObject",
               "name": "Detail view",
               "@context": "http://schema.org"
             },
             {
+<<<<<<< HEAD
               "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ネオノエ-モノグラム-バッグ--M44020_PM1_Ambiance view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
               "@type": "ImageObject",
               "name": "Ambiance view",
@@ -761,6 +973,23 @@
               "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ネオノエ-モノグラム-バッグ--M44020_PM1_Back view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
               "@type": "ImageObject",
               "name": "Back view",
+=======
+              "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ネオノエ-モノグラム-バッグ--M44022_PM1_Back view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+              "@type": "ImageObject",
+              "name": "Back view",
+              "@context": "http://schema.org"
+            },
+            {
+              "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ネオノエ-モノグラム-バッグ--M44022_2_PM1_Other view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+              "@type": "ImageObject",
+              "name": "PM1",
+              "@context": "http://schema.org"
+            },
+            {
+              "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ネオノエ-モノグラム-バッグ--M44022_PM1_Cropped worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+              "@type": "ImageObject",
+              "name": "Cropped worn view",
+>>>>>>> f874bc27c744c01e3afa8224b3f1e7db3ee9b091
               "@context": "http://schema.org"
             }
           ],
@@ -778,12 +1007,20 @@
             {
               "@type": "PropertyValue",
               "name": "colorIconURL",
+<<<<<<< HEAD
               "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-ACC-93L_black_.jpg"
+=======
+              "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-LG-93Y_rose_poudre.jpg"
+>>>>>>> f874bc27c744c01e3afa8224b3f1e7db3ee9b091
             },
             {
               "@type": "PropertyValue",
               "name": "detailedDescription",
+<<<<<<< HEAD
               "value": "<ul> \n <li>素材：モノグラム・キャンバス</li> \n <li>トリミング：レザー（皮革の種類：牛革）</li> \n <li>ライニング：マイクロファイバー</li> \n <li>金具（色：ゴールド）</li> \n \n <li>革ひも</li> \n <li>メタル製アイレット</li> \n <li>コンパートメントx2</li> \n <li>ファスナー式中央フラットポケット</li> \n<li>ストラップ：取り外し可能, 調整可能</li><li>ストラップの頂点からバッグ上部までの長さ(最短)：33.0 cm</li><li>ストラップの頂点からバッグ上部までの長さ(最長)：56.0 cm</li></ul>"
+=======
+              "value": "<ul> \n <li>素材：モノグラム・キャンバス</li> \n <li>トリミング：スムースレザー（皮革の種類：牛革）</li> \n <li>ライニング：マイクロファイバー</li> \n <li>金具（色：ゴールド）</li> \n \n <li>革ひも</li> \n <li>メタル製アイレット</li> \n <li>コンパートメントx2</li> \n <li>ファスナー式中央フラットポケット</li> \n<li>ストラップ：取り外し可能, 調整可能</li><li>ストラップの頂点からバッグ上部までの長さ(最短)：33.0 cm</li><li>ストラップの頂点からバッグ上部までの長さ(最長)：56.0 cm</li></ul>"
+>>>>>>> f874bc27c744c01e3afa8224b3f1e7db3ee9b091
             },
             {
               "@type": "PropertyValue",
@@ -907,9 +1144,15 @@
             "popInTitle": "pre_order_disclaimer_info_popin_title"
           },
           "collectibles": false,
+<<<<<<< HEAD
           "color": "ノワール",
           "@context": "http://schema.org",
           "identifier": "M44020",
+=======
+          "color": "ローズプードル",
+          "@context": "http://schema.org",
+          "identifier": "M44022",
+>>>>>>> f874bc27c744c01e3afa8224b3f1e7db3ee9b091
           "defaultFamilySapDisplayName": "DAILY BAGS"
         },
         {
@@ -917,24 +1160,41 @@
           "macroColor": "マロン",
           "_links": {
             "look": {
+<<<<<<< HEAD
               "href": "/api/catalog/jpn-jp/skus/M44022/look"
+=======
+              "href": "/api/catalog/jpn-jp/skus/M44021/look"
+>>>>>>> f874bc27c744c01e3afa8224b3f1e7db3ee9b091
             },
             "parent": {
               "href": "/api/catalog/jpn-jp/product/nvprod290007v"
             },
             "self": {
+<<<<<<< HEAD
               "href": "/api/catalog/jpn-jp/product/M44022"
             },
             "perso-details": {
               "href": "/api/catalog/jpn-jp/skus/M44022/perso-detail"
             },
             "/api/rels/jpn-jp/add-to-cart-base/nvprod290007v/M44022/1": {
+=======
+              "href": "/api/catalog/jpn-jp/product/M44021"
+            },
+            "perso-details": {
+              "href": "/api/catalog/jpn-jp/skus/M44021/perso-detail"
+            },
+            "/api/rels/jpn-jp/add-to-cart-base/nvprod290007v/M44021/1": {
+>>>>>>> f874bc27c744c01e3afa8224b3f1e7db3ee9b091
               "name": "add-to-cart",
               "href": "/api/cart/jpn-jp"
             }
           },
           "@type": "ProductModel",
+<<<<<<< HEAD
           "identifierKey": "cc93e397ad0c4f52d5645470a6cf034e",
+=======
+          "identifierKey": "603cfc1c0a235b8e00c9ab8dcdb90158",
+>>>>>>> f874bc27c744c01e3afa8224b3f1e7db3ee9b091
           "height": {
             "@type": "QuantitativeValue",
             "value": 26,
@@ -943,7 +1203,11 @@
           "productDetailTabs": [],
           "name": "ネオノエ",
           "packagingVariation": "",
+<<<<<<< HEAD
           "mainMaterial2": "Coated Canvas",
+=======
+          "mainMaterial2": "COATED CANVAS",
+>>>>>>> f874bc27c744c01e3afa8224b3f1e7db3ee9b091
           "width": {
             "@type": "QuantitativeValue",
             "value": 17.5,
@@ -952,26 +1216,42 @@
           "offers": {
             "priceSpecification": {
               "priceCurrency": "JPY",
+<<<<<<< HEAD
               "price": 316800
             },
             "@type": "Offer",
             "price": "¥316,800"
+=======
+              "price": 299200
+            },
+            "@type": "Offer",
+            "price": "¥299,200"
+>>>>>>> f874bc27c744c01e3afa8224b3f1e7db3ee9b091
           },
           "disambiguatingDescription": "1932年にガストン-ルイ･ヴィトンがデザインした「ノエ」を再解釈した、メゾンのアイコンバッグ「ネオノエ」。シャンパンボトルを運ぶために作られた「ノエ」をモノグラム･キャンバスでアップデートし、洗練されたフォルムやカラフルなレザーのトリミング、同系色のライニングでアクセントを添えました。調節可能なスマートなストラップで、肩掛けやトレンディなクロスボディバッグとしてもお楽しみいただけます。 ",
           "image": [
             {
+<<<<<<< HEAD
               "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ネオノエ-モノグラム-バッグ--M44022_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+=======
+              "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ネオノエ-モノグラム-バッグ--M44021_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+>>>>>>> f874bc27c744c01e3afa8224b3f1e7db3ee9b091
               "@type": "ImageObject",
               "name": "Front view",
               "@context": "http://schema.org"
             },
             {
+<<<<<<< HEAD
               "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ネオノエ-モノグラム-バッグ--M44022_PM1_Worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+=======
+              "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ネオノエ-モノグラム-バッグ--M44021_PM1_Worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+>>>>>>> f874bc27c744c01e3afa8224b3f1e7db3ee9b091
               "@type": "ImageObject",
               "name": "Worn view",
               "@context": "http://schema.org"
             },
             {
+<<<<<<< HEAD
               "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ネオノエ-モノグラム-バッグ--M44022_PM1_Closeup view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
               "@type": "ImageObject",
               "name": "Closeup view",
@@ -979,17 +1259,25 @@
             },
             {
               "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ネオノエ-モノグラム-バッグ--M44022_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+=======
+              "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ネオノエ-モノグラム-バッグ--M44021_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+>>>>>>> f874bc27c744c01e3afa8224b3f1e7db3ee9b091
               "@type": "ImageObject",
               "name": "Side view",
               "@context": "http://schema.org"
             },
             {
+<<<<<<< HEAD
               "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ネオノエ-モノグラム-バッグ--M44022_PM1_Interior view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+=======
+              "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ネオノエ-モノグラム-バッグ--M44021_PM1_Interior view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+>>>>>>> f874bc27c744c01e3afa8224b3f1e7db3ee9b091
               "@type": "ImageObject",
               "name": "Interior view",
               "@context": "http://schema.org"
             },
             {
+<<<<<<< HEAD
               "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ネオノエ-モノグラム-バッグ--M44022_PM1_Interior2 view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
               "@type": "ImageObject",
               "name": "Interior2 view",
@@ -997,17 +1285,25 @@
             },
             {
               "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ネオノエ-モノグラム-バッグ--M44022_PM1_Detail view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+=======
+              "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ネオノエ-モノグラム-バッグ--M44021_PM1_Detail view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+>>>>>>> f874bc27c744c01e3afa8224b3f1e7db3ee9b091
               "@type": "ImageObject",
               "name": "Detail view",
               "@context": "http://schema.org"
             },
             {
+<<<<<<< HEAD
               "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ネオノエ-モノグラム-バッグ--M44022_PM1_Back view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+=======
+              "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ネオノエ-モノグラム-バッグ--M44021_PM1_Back view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+>>>>>>> f874bc27c744c01e3afa8224b3f1e7db3ee9b091
               "@type": "ImageObject",
               "name": "Back view",
               "@context": "http://schema.org"
             },
             {
+<<<<<<< HEAD
               "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ネオノエ-モノグラム-バッグ--M44022_2_PM1_Other view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
               "@type": "ImageObject",
               "name": "PM1",
@@ -1015,6 +1311,9 @@
             },
             {
               "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ネオノエ-モノグラム-バッグ--M44022_PM1_Cropped worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+=======
+              "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ネオノエ-モノグラム-バッグ--M44021_PM1_Cropped worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+>>>>>>> f874bc27c744c01e3afa8224b3f1e7db3ee9b091
               "@type": "ImageObject",
               "name": "Cropped worn view",
               "@context": "http://schema.org"
@@ -1034,7 +1333,11 @@
             {
               "@type": "PropertyValue",
               "name": "colorIconURL",
+<<<<<<< HEAD
               "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-LG-93Y_rose_poudre.jpg"
+=======
+              "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-LG-96R_coquelicot.jpg"
+>>>>>>> f874bc27c744c01e3afa8224b3f1e7db3ee9b091
             },
             {
               "@type": "PropertyValue",
@@ -1163,6 +1466,7 @@
             "popInTitle": "pre_order_disclaimer_info_popin_title"
           },
           "collectibles": false,
+<<<<<<< HEAD
           "color": "ローズプードル",
           "@context": "http://schema.org",
           "identifier": "M44022",
@@ -1412,6 +1716,19 @@
           "@type": "Sustainability",
           "title": "サステナビリティ",
           "description": "本製品に使用されているレザーは、LWG(レザー･ワーキング･グループ)の監査および認証を受け、鞣(なめ)し工程に関する最高の環境基準を満たした工場において加工されています。この基準は、鞣(なめ)し工場で消費される水やエネルギーだけでなく、潜在的に有害性を有し得る物質の量を減らすことも目的として定められています。ルイ･ヴィトンと取引きのあるパートナーの鞣(なめ)し工場はヨーロッパ各地にあり、責任ある外部調達や継続的な改善(材料のトレーサビリティシステムの推進、森林伐採の慣例への対策)に協力して取組んでいます。"
+=======
+          "color": "コクリコ",
+          "@context": "http://schema.org",
+          "identifier": "M44021",
+          "defaultFamilySapDisplayName": "DAILY BAGS"
+        }
+      ],
+      "panelInformations": [
+        {
+          "@type": "Sustainability",
+          "title": "サステナビリティ",
+          "description": "本製品に使用されているレザーは、LWG(レザー･ワーキング･グループ)の監査および認証を受け、鞣(なめ)し工程に関する最高の環境基準を満たした工場において加工されています。この基準は、鞣(なめ)し工場で消費される水やエネルギーだけでなく、潜在的に有害性を有し得る物質の量を減らすことも目的として定められています。ルイ･ヴィトンと取引きのあるパートナーの鞣(なめ)し工場はヨーロッパ各地にあり、責任ある外部調達や継続的な改善(材料のトレーサビリティシステムの推進、森林伐採の慣例への対策)に協力して取組んでいます。"
+>>>>>>> f874bc27c744c01e3afa8224b3f1e7db3ee9b091
         },
         {
           "@type": "ProductCare",
@@ -1425,6 +1742,12 @@
         "self": {
           "href": "/api/catalog/jpn-jp/product/nvprod290007v"
         },
+<<<<<<< HEAD
+=======
+        "related-world-tour": {
+          "href": "/api/catalog/jpn-jp/product/nvprod1060023v"
+        },
+>>>>>>> f874bc27c744c01e3afa8224b3f1e7db3ee9b091
         "push": {
           "href": "/api/catalog/jpn-jp/product-push/nvprod290007v"
         },
@@ -1488,6 +1811,19 @@
           "@type": "PropertyValue",
           "name": "sizeGuide",
           "value": false
+<<<<<<< HEAD
+=======
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "worldtourUrl",
+          "value": "/jpn-jp/products/neonoe-my-lv-world-tour-monogram-nvprod1060023v"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "worldtourImage",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton--P01072_PM2_Front view.png?wid={IMG_WIDTH}&hei={IMG_HEIGHT}"
+>>>>>>> f874bc27c744c01e3afa8224b3f1e7db3ee9b091
         }
       ],
       "name": "ネオノエ",
@@ -1549,6 +1885,7 @@
     }
   ],
   "name": "ネオノエ BB",
+<<<<<<< HEAD
   "isRelatedTo": [
     {
       "model": [
@@ -1880,6 +2217,9 @@
       "identifier": "nvprod5000022v"
     }
   ],
+=======
+  "isRelatedTo": [],
+>>>>>>> f874bc27c744c01e3afa8224b3f1e7db3ee9b091
   "@context": "http://schema.org",
   "identifier": "nvprod4280082v"
 }

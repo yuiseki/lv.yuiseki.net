@@ -148,6 +148,211 @@
   "readyToWearSKUs": [
     {
       "productVisible": true,
+<<<<<<< HEAD
+=======
+      "macroColor": "レッド",
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/1AFIRS/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod4940209v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/1AFIRS"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/1AFIRS/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod4940209v/1AFIRS/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "@type": "ProductModel",
+      "identifierKey": "c3bf53afc8be6e9fb507c4105b853605",
+      "productDetailTabs": [],
+      "name": "レザーインターシャダミエラグビーショーツ",
+      "packagingVariation": "",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 693000
+        },
+        "@type": "Offer",
+        "price": "¥693,000"
+      },
+      "disambiguatingDescription": "メンズ･ウェアのコードを再解釈し、カジュアルなシルエットにラグジュアリーな洗練を融合させた、しなやかなレザーのラグビーショーツ。2024春夏ファッションショーに登場したグラフィカルなダミエ･ポップ モチーフが複雑な構造であしらわれています。スポーティなロゴで表現した、メゾンのシグネチャーも魅力。レザーのラグビーシャツと合わせれば、ランウェイ風のトータルルックに。<p>ご不明な点がございましたら、クライアントサービスまでお気軽にお問合せください。専任のクライアントアドバイザーが、素材やサイズなどの製品詳細、モデル着用イメージや関連アイテムのご案内など、お客様のご要望に合わせたスタイリング・アドバイスをご提供いたします。</p><p>また、サイズ違いなどによる返品・交換のご相談も承ります。詳細は<a href='https://jp.louisvuitton.com/jpn-jp/legal-privacy'><b>こちら。</b></a></p>",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-レザーインターシャダミエラグビーショーツ--HQL91WKI3502_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-レザーインターシャダミエラグビーショーツ--HQL91WKI3502_PM1_Worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Worn view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-レザーインターシャダミエラグビーショーツ--HQL91WKI3502_PM1_Ambiance view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Ambiance view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-レザーインターシャダミエラグビーショーツ--HQL91WKI3502_PM1_Cropped view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Cropped view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-レザーインターシャダミエラグビーショーツ--HQL91WKI3502_PM1_Cropped worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Cropped worn view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/leather-intarsia-damier-rugby-shorts-nvprod4940209v",
+      "highEndTemplate": false,
+      "sizeDisplayName": "M0",
+      "productId": "nvprod4940209v",
+      "hasLanguagePanel": false,
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-RTW-502_rouge_vif.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>本体：羊革 100%</li><li>レギュラーフィット</li><li>インターシャ(象嵌細工)とエンボス加工であしらったダミエ･ポップ モチーフモチーフ</li><li>背面に手書き風｢Marque L. Vuitton Déposée｣シグネチャー</li><li>右脚にLVイニシャルのパッチ</li><li>伸縮性のあるウエスト</li><li>サイドポケットx2</li><li>メッシュライニング</li><li>イタリア製</li><li>REF：HQL92WKI3</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "Leather Intarsia Damier Rugby Shorts"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z05"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Ready_To_Wear_Men"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "eligibleToAgec",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "hasLanguagePanel",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-t18ui4cq",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/ready-to-wear/_/N-t1b9f3zb",
+          "alternateName": "ready-to-wear",
+          "name": "プレタポルテ(洋服)",
+          "identifier": "m-readytowear"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/ready-to-wear/t-shirts-and-polos/_/N-to9uy2x",
+          "alternateName": "t-shirts-and-polos",
+          "name": "メンズ Tシャツ＆ポロシャツ",
+          "identifier": "m-tshirts-polos-mrtw"
+        }
+      ],
+      "careLink": {
+        "sections": []
+      },
+      "disclaimers": {
+        "customDisclaimer": false,
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "collectibles": false,
+      "color": "ルージュヴィフ",
+      "@context": "http://schema.org",
+      "identifier": "1AFIRS",
+      "defaultFamilySapDisplayName": "SHORT LEATHER M"
+    },
+    {
+      "productVisible": true,
+>>>>>>> f874bc27c744c01e3afa8224b3f1e7db3ee9b091
       "macroColor": "ホワイト",
       "_links": {
         "look": {
@@ -189,6 +394,7 @@
           "@context": "http://schema.org"
         },
         {
+<<<<<<< HEAD
           "playerType": "freecaster",
           "contentUrl": "https://player.louisvuitton.com/embed/1487416",
           "@type": "ImageObject",
@@ -196,6 +402,8 @@
           "@context": "http://schema.org"
         },
         {
+=======
+>>>>>>> f874bc27c744c01e3afa8224b3f1e7db3ee9b091
           "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-クラシックコットンシャツ--HQS60WFZV002_PM1_Worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
           "@type": "ImageObject",
           "name": "Worn view",
@@ -354,6 +562,199 @@
       "@context": "http://schema.org",
       "identifier": "1AFJAI",
       "defaultFamilySapDisplayName": "SHIRT LS DAY M"
+<<<<<<< HEAD
+=======
+    },
+    {
+      "productVisible": true,
+      "macroColor": "レッド",
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/1AFIS2/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod4940210v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/1AFIS2"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/1AFIS2/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod4940210v/1AFIS2/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "@type": "ProductModel",
+      "identifierKey": "2c9bd40c2990ce9b701929fb920a75fe",
+      "productDetailTabs": [],
+      "name": "ロングスリーブレザーインターシャラグビーポロ",
+      "packagingVariation": "",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 1028500
+        },
+        "@type": "Offer",
+        "price": "¥1,028,500"
+      },
+      "disambiguatingDescription": "2024春夏ファッションショーに登場した目を引くレザーのラグビーシャツ。メンズ･ウェアのコードを再解釈し、スポーツウェアの世界にラグジュアリーなサヴォアフェール(匠の技)を融合しました。バターのように柔らかなラムレザーをオーバーサイズのフィット感に仕上げ、インターシャ(象嵌細工)の技法で表現した大胆な横縞に添えた、メゾンのシグネチャーの刺繍入りワッペンが特徴です。レザーショーツと合わせれば洗練されたスタイルを演出する、グラフィカルなアイテムです。<p>ご不明な点がございましたら、クライアントサービスまでお気軽にお問合せください。専任のクライアントアドバイザーが、素材やサイズなどの製品詳細、モデル着用イメージや関連アイテムのご案内など、お客様のご要望に合わせたスタイリング・アドバイスをご提供いたします。</p><p>また、サイズ違いなどによる返品・交換のご相談も承ります。詳細は<a href='https://jp.louisvuitton.com/jpn-jp/legal-privacy'><b>こちら。</b></a></p>",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ロングスリーブレザーインターシャラグビーポロ--HQL92WKI3502_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ロングスリーブレザーインターシャラグビーポロ--HQL92WKI3502_PM1_Cropped view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Cropped view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ロングスリーブレザーインターシャラグビーポロ--HQL92WKI3502_PM1_Cropped worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Cropped worn view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/long-sleeved-leather-intarsia-rugby-polo-nvprod4940210v",
+      "highEndTemplate": false,
+      "sizeDisplayName": "M0",
+      "productId": "nvprod4940210v",
+      "hasLanguagePanel": false,
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-RTW-502_rouge_vif.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>本体：羊革 100%</li><li>オーバーサイズフィット</li><li>メゾンのロゴ入りの刺繍のパッチ</li><li>胸にWavy Vuittonパッチ</li><li>シャツカラー</li><li>スナップボタン開閉式</li><li>リブ編みのレザーカフ</li><li>イタリア製</li><li>REF：HQL91WKI3</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "Long-Sleeved Leather Intarsia Rugby Polo"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z05"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Ready_To_Wear_Men"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "eligibleToAgec",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "hasLanguagePanel",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-t18ui4cq",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/ready-to-wear/_/N-t1b9f3zb",
+          "alternateName": "ready-to-wear",
+          "name": "プレタポルテ(洋服)",
+          "identifier": "m-readytowear"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/ready-to-wear/t-shirts-and-polos/_/N-to9uy2x",
+          "alternateName": "t-shirts-and-polos",
+          "name": "メンズ Tシャツ＆ポロシャツ",
+          "identifier": "m-tshirts-polos-mrtw"
+        }
+      ],
+      "careLink": {
+        "sections": []
+      },
+      "disclaimers": {
+        "customDisclaimer": false,
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "collectibles": false,
+      "color": "ルージュヴィフ",
+      "@context": "http://schema.org",
+      "identifier": "1AFIS2",
+      "defaultFamilySapDisplayName": "CHEMISE CUIR M"
+>>>>>>> f874bc27c744c01e3afa8224b3f1e7db3ee9b091
     }
   ],
   "_links": {
@@ -405,7 +806,11 @@
         "unitText": "cm"
       },
       "productDetailTabs": [],
+<<<<<<< HEAD
       "name": "サンドウィッチ･バッグ",
+=======
+      "name": "サンドウィッチ・バッグ",
+>>>>>>> f874bc27c744c01e3afa8224b3f1e7db3ee9b091
       "packagingVariation": "",
       "mainMaterial2": "COWHIDE",
       "width": {
@@ -424,7 +829,11 @@
       "disambiguatingDescription": "メイド･トゥ･オーダーの真のコレクターズアイテム｢スケートボード｣。デッキには大胆な｢Louis Vuitton｣シグネチャーを、底面にはカリフォルニアのアーティスト ヘンリー･テイラーの特徴的なアクリルペイントの肖像画をあしらいました。光沢感のあるゴールドカラーのトラックが、ボードのブラウンとの鮮やかなコントラストを生み出します。スケートボードを愛する方へのギフトにも最適です。",
       "image": [
         {
+<<<<<<< HEAD
           "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-サンドウィッチ･バッグ--M24578_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+=======
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-サンドウィッチ・バッグ--M24578_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+>>>>>>> f874bc27c744c01e3afa8224b3f1e7db3ee9b091
           "@type": "ImageObject",
           "name": "Front view",
           "@context": "http://schema.org"
@@ -437,43 +846,71 @@
           "@context": "http://schema.org"
         },
         {
+<<<<<<< HEAD
           "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-サンドウィッチ･バッグ--M24578_PM1_Worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+=======
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-サンドウィッチ・バッグ--M24578_PM1_Worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+>>>>>>> f874bc27c744c01e3afa8224b3f1e7db3ee9b091
           "@type": "ImageObject",
           "name": "Worn view",
           "@context": "http://schema.org"
         },
         {
+<<<<<<< HEAD
           "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-サンドウィッチ･バッグ--M24578_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+=======
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-サンドウィッチ・バッグ--M24578_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+>>>>>>> f874bc27c744c01e3afa8224b3f1e7db3ee9b091
           "@type": "ImageObject",
           "name": "Side view",
           "@context": "http://schema.org"
         },
         {
+<<<<<<< HEAD
           "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-サンドウィッチ･バッグ--M24578_PM1_Interior view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+=======
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-サンドウィッチ・バッグ--M24578_PM1_Interior view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+>>>>>>> f874bc27c744c01e3afa8224b3f1e7db3ee9b091
           "@type": "ImageObject",
           "name": "Interior view",
           "@context": "http://schema.org"
         },
         {
+<<<<<<< HEAD
           "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-サンドウィッチ･バッグ--M24578_PM1_Detail view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+=======
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-サンドウィッチ・バッグ--M24578_PM1_Detail view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+>>>>>>> f874bc27c744c01e3afa8224b3f1e7db3ee9b091
           "@type": "ImageObject",
           "name": "Detail view",
           "@context": "http://schema.org"
         },
         {
+<<<<<<< HEAD
           "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-サンドウィッチ･バッグ--M24578_PM1_Ambiance view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+=======
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-サンドウィッチ・バッグ--M24578_PM1_Ambiance view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+>>>>>>> f874bc27c744c01e3afa8224b3f1e7db3ee9b091
           "@type": "ImageObject",
           "name": "Ambiance view",
           "@context": "http://schema.org"
         },
         {
+<<<<<<< HEAD
           "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-サンドウィッチ･バッグ--M24578_PM1_Back view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+=======
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-サンドウィッチ・バッグ--M24578_PM1_Back view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+>>>>>>> f874bc27c744c01e3afa8224b3f1e7db3ee9b091
           "@type": "ImageObject",
           "name": "Back view",
           "@context": "http://schema.org"
         },
         {
+<<<<<<< HEAD
           "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-サンドウィッチ･バッグ--M24578_PM1_Cropped worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+=======
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-サンドウィッチ・バッグ--M24578_PM1_Cropped worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+>>>>>>> f874bc27c744c01e3afa8224b3f1e7db3ee9b091
           "@type": "ImageObject",
           "name": "Cropped worn view",
           "@context": "http://schema.org"
@@ -653,7 +1090,11 @@
         "unitText": "cm"
       },
       "productDetailTabs": [],
+<<<<<<< HEAD
       "name": "ネクタイ･パール",
+=======
+      "name": "ネクタイ・パール",
+>>>>>>> f874bc27c744c01e3afa8224b3f1e7db3ee9b091
       "packagingVariation": "",
       "mainMaterial2": "SILK",
       "offers": {
@@ -667,31 +1108,51 @@
       "disambiguatingDescription": "2024春夏メンズ･ファッションショーの主要なストーリーの1つを彷彿させる｢ネクタイ･パール｣。艶やかなブラックのシルク100％で美しく仕立てた、イブニングシーンやフォーマルウェアにぴったりのアクセサリーです。ルレックスヤーンを使用してジャカード織りの技法で立体的に織り上げた、メゾンを象徴する｢Louis Vuitton Marque Déposée｣シグネチャーが目を引きます。",
       "image": [
         {
+<<<<<<< HEAD
           "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ネクタイ･パール--M79660_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+=======
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ネクタイ・パール--M79660_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+>>>>>>> f874bc27c744c01e3afa8224b3f1e7db3ee9b091
           "@type": "ImageObject",
           "name": "Front view",
           "@context": "http://schema.org"
         },
         {
+<<<<<<< HEAD
           "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ネクタイ･パール--M79660_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+=======
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ネクタイ・パール--M79660_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+>>>>>>> f874bc27c744c01e3afa8224b3f1e7db3ee9b091
           "@type": "ImageObject",
           "name": "Side view",
           "@context": "http://schema.org"
         },
         {
+<<<<<<< HEAD
           "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ネクタイ･パール--M79660_PM1_Detail view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+=======
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ネクタイ・パール--M79660_PM1_Detail view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+>>>>>>> f874bc27c744c01e3afa8224b3f1e7db3ee9b091
           "@type": "ImageObject",
           "name": "Detail view",
           "@context": "http://schema.org"
         },
         {
+<<<<<<< HEAD
           "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ネクタイ･パール--M79660_PM1_Back view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+=======
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ネクタイ・パール--M79660_PM1_Back view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+>>>>>>> f874bc27c744c01e3afa8224b3f1e7db3ee9b091
           "@type": "ImageObject",
           "name": "Back view",
           "@context": "http://schema.org"
         },
         {
+<<<<<<< HEAD
           "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ネクタイ･パール--M79660_PM1_Cropped worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+=======
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ネクタイ・パール--M79660_PM1_Cropped worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+>>>>>>> f874bc27c744c01e3afa8224b3f1e7db3ee9b091
           "@type": "ImageObject",
           "name": "Cropped worn view",
           "@context": "http://schema.org"
@@ -871,7 +1332,11 @@
         "unitText": "cm"
       },
       "productDetailTabs": [],
+<<<<<<< HEAD
       "name": "ソックス･ポケット ",
+=======
+      "name": "ソックス・ポケット ",
+>>>>>>> f874bc27c744c01e3afa8224b3f1e7db3ee9b091
       "packagingVariation": "",
       "mainMaterial2": "COTTON",
       "offers": {
@@ -885,19 +1350,31 @@
       "disambiguatingDescription": "LV イニシャルを刻印した今シーズンを象徴するパール調のアクセサリーでアクセントを加えた｢ソックス･ポケット ｣。快適な履き心地のコットン100%の素材を使用し、スタイリッシュに仕立てました。ニュートラルなホワイトに伝統的なダミエ･パターンをさりげなく編み込んだ、カジュアルからフォーマルまであらゆる装いを引き立てるアイテムです。",
       "image": [
         {
+<<<<<<< HEAD
           "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ソックス･ポケット--M7355M_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+=======
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ソックス・ポケット--M7355M_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+>>>>>>> f874bc27c744c01e3afa8224b3f1e7db3ee9b091
           "@type": "ImageObject",
           "name": "Front view",
           "@context": "http://schema.org"
         },
         {
+<<<<<<< HEAD
           "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ソックス･ポケット--M7355M_PM1_Detail view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+=======
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ソックス・ポケット--M7355M_PM1_Detail view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+>>>>>>> f874bc27c744c01e3afa8224b3f1e7db3ee9b091
           "@type": "ImageObject",
           "name": "Detail view",
           "@context": "http://schema.org"
         },
         {
+<<<<<<< HEAD
           "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ソックス･ポケット--M7355M_PM1_Back view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+=======
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ソックス・ポケット--M7355M_PM1_Back view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+>>>>>>> f874bc27c744c01e3afa8224b3f1e7db3ee9b091
           "@type": "ImageObject",
           "name": "Back view",
           "@context": "http://schema.org"

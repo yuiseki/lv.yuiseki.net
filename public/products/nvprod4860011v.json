@@ -23,7 +23,10 @@
       },
       "@type": "ProductModel",
       "identifierKey": "93614fa9665664be4d07b28c17f4fb10",
+<<<<<<< HEAD
       "commercialTag": "新作",
+=======
+>>>>>>> f874bc27c744c01e3afa8224b3f1e7db3ee9b091
       "height": {
         "@type": "QuantitativeValue",
         "value": 12,
@@ -134,7 +137,11 @@
         {
           "@type": "PropertyValue",
           "name": "locateInStore",
+<<<<<<< HEAD
           "value": true
+=======
+          "value": false
+>>>>>>> f874bc27c744c01e3afa8224b3f1e7db3ee9b091
         },
         {
           "@type": "PropertyValue",
@@ -895,6 +902,12 @@
         "self": {
           "href": "/api/catalog/jpn-jp/product/000539"
         },
+<<<<<<< HEAD
+=======
+        "related-world-tour": {
+          "href": "/api/catalog/jpn-jp/product/nvprod2090061v"
+        },
+>>>>>>> f874bc27c744c01e3afa8224b3f1e7db3ee9b091
         "push": {
           "href": "/api/catalog/jpn-jp/product-push/000539"
         },
@@ -963,6 +976,19 @@
           "@type": "PropertyValue",
           "name": "sizeGuide",
           "value": false
+<<<<<<< HEAD
+=======
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "worldtourUrl",
+          "value": "/jpn-jp/products/alma-bb-my-lv-world-tour-monogram-nvprod2090061v"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "worldtourImage",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton--P01362_PM2_Front view.png?wid={IMG_WIDTH}&hei={IMG_HEIGHT}"
+>>>>>>> f874bc27c744c01e3afa8224b3f1e7db3ee9b091
         }
       ],
       "name": "アルマ BB",
