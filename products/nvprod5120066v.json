@@ -354,6 +354,218 @@
       "@context": "http://schema.org",
       "identifier": "1AFIZS",
       "defaultFamilySapDisplayName": "SHORT M"
+<<<<<<< HEAD
+    },
+    {
+      "productVisible": true,
+      "macroColor": "レッド",
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/1AFIQA/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod4940204v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/1AFIQA"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/1AFIQA/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod4940204v/1AFIQA/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "@type": "ProductModel",
+      "identifierKey": "49530a58bd1564b5788a04e1d03842ac",
+      "productDetailTabs": [],
+      "name": "ミックスレザーバーシティブルゾン",
+      "packagingVariation": "",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 1067000
+        },
+        "@type": "Offer",
+        "price": "¥1,067,000"
+      },
+      "disambiguatingDescription": "アメリカの伝統とルイ･ヴィトンのサヴォアフェール(匠の技)を融合した、鮮やかなレッドのバーシティブルゾン。バージニア州のプリンセス･アン･ハイスクールで打楽器隊のメンバーだったファレル･ウィリアムスの想い出からインスピレーションを得た、2024春夏ファッションショーを象徴する1着です。ホワイトのカーフレザーの袖には、同系色のダミエ･パターンがエンボス加工で施されています。背面にはレジンパールの刺繍で表現した｢Louis Vuitton｣ロゴ、胸元にはウィリアムスのエピソードにオマージュを捧げるストラスの刺繍を散りばめた｢PA｣のパッチをあしらいました。 <p>ご不明な点がございましたら、クライアントサービスまでお気軽にお問合せください。専任のクライアントアドバイザーが、素材やサイズなどの製品詳細、モデル着用イメージや関連アイテムのご案内など、お客様のご要望に合わせたスタイリング・アドバイスをご提供いたします。</p><p>また、サイズ違いなどによる返品・交換のご相談も承ります。詳細は<a href='https://jp.louisvuitton.com/jpn-jp/legal-privacy'><b>こちら。</b></a></p>",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ミックスレザーバーシティブルゾン--HQL87EBQV502_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "playerType": "freecaster",
+          "contentUrl": "https://player.louisvuitton.com/embed/1486289",
+          "@type": "ImageObject",
+          "name": "freeCaster Media Worn View",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ミックスレザーバーシティブルゾン--HQL87EBQV502_PM1_Worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Worn view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ミックスレザーバーシティブルゾン--HQL87EBQV502_PM1_Ambiance view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Ambiance view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ミックスレザーバーシティブルゾン--HQL87EBQV502_PM1_Cropped view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Cropped view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ミックスレザーバーシティブルゾン--HQL87EBQV502_PM1_Cropped worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Cropped worn view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/mix-leather-varsity-blouson-nvprod4940204v",
+      "highEndTemplate": false,
+      "sizeDisplayName": "50",
+      "productId": "nvprod4940204v",
+      "hasLanguagePanel": false,
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-RTW-502_rouge_vif.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>本体：牛革 100%</li><li>レギュラーフィット</li><li>レジンパール付きの背面に｢Louis Vuitton Lovers presents｣の刺繍</li><li>袖にエンボス加工で施したダミエ･パターン</li><li>胸に手書き風のLouis Vuittonシグネチャーの刺繍</li><li>胸にストラスを刺繍したPAパッチ</li><li>パイピングポケット</li><li>ウールのボディ</li><li>リブ編みのカラー、カフと裾</li><li>イタリア製</li><li>REF：HQL87EBQV</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "Mix Leather Varsity Blouson"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z05"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Ready_To_Wear_Men"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "eligibleToAgec",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "hasLanguagePanel",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-t18ui4cq",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/ready-to-wear/_/N-t1b9f3zb",
+          "alternateName": "ready-to-wear",
+          "name": "プレタポルテ(洋服)",
+          "identifier": "m-readytowear"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/ready-to-wear/outerwear-and-coats/_/N-t1epdz97",
+          "alternateName": "outerwear-and-coats",
+          "name": "メンズ アウター＆コート",
+          "identifier": "nvcat160001v"
+        }
+      ],
+      "careLink": {
+        "sections": []
+      },
+      "disclaimers": {
+        "customDisclaimer": false,
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "collectibles": false,
+      "color": "ルージュヴィフ",
+      "@context": "http://schema.org",
+      "identifier": "1AFIQA",
+      "defaultFamilySapDisplayName": "JACKET LEATHER M"
+=======
+>>>>>>> f874bc27c744c01e3afa8224b3f1e7db3ee9b091
     }
   ],
   "_links": {
@@ -378,6 +590,281 @@
   "accessoriesSKUs": [
     {
       "productVisible": true,
+<<<<<<< HEAD
+      "macroColor": "マロン",
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/M46962/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod4900051v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/M46962"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/M46962/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod4900051v/M46962/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "@type": "ProductModel",
+      "height": {
+        "@type": "QuantitativeValue",
+        "value": 32,
+        "unitText": "cm"
+      },
+      "productDetailTabs": [],
+      "name": "スピーディ P9 バンドリエール 50",
+      "packagingVariation": "",
+      "mainMaterial2": "Calf",
+      "width": {
+        "@type": "QuantitativeValue",
+        "value": 29,
+        "unitText": "cm"
+      },
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 1776500
+        },
+        "@type": "Offer",
+        "price": "¥1,776,500"
+      },
+      "disambiguatingDescription": "メンズ クリエイティブ･ディレクター ファレル･ウィリアムスが再解釈した、アイコンバッグ｢スピーディ P9 バンドリエール 50｣。柔らかさとしなやかさが魅力のラグジュアリーなカーフレザーには、クラシカルなモノグラム･パターンがあしらわれています。洗練されたシルクスクリーンプリントの技法を用いてモノグラム･パターンを施し、キャンバスに手書きしたかのようなモノグラムの掠れた表情を再現しました。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-スピーディ-p9-バンドリエール-50--M46962_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "playerType": "freecaster",
+          "contentUrl": "https://player.louisvuitton.com/embed/1487126",
+          "@type": "ImageObject",
+          "name": "freeCaster Media Worn View",
+          "@context": "http://schema.org"
+        },
+        {
+          "playerType": "freecaster",
+          "contentUrl": "https://player.louisvuitton.com/embed/1487129",
+          "@type": "ImageObject",
+          "name": "freeCaster Media Creative Video",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-スピーディ-p9-バンドリエール-50--M46962_PM1_Worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Worn view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-スピーディ-p9-バンドリエール-50--M46962_PM1_Closeup view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Closeup view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-スピーディ-p9-バンドリエール-50--M46962_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-スピーディ-p9-バンドリエール-50--M46962_PM1_Interior view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Interior view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-スピーディ-p9-バンドリエール-50--M46962_PM1_Interior2 view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Interior2 view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-スピーディ-p9-バンドリエール-50--M46962_PM1_Detail view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Detail view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-スピーディ-p9-バンドリエール-50--M46962_PM1_Ambiance view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Ambiance view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-スピーディ-p9-バンドリエール-50--M46962_PM1_Back view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Back view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-スピーディ-p9-バンドリエール-50--M46962_PM1_Other view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Other view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-スピーディ-p9-バンドリエール-50--M46962_PM1_Cropped worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Cropped worn view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/speedy-p9-bandouliere-50-autres-cuirs-monogram-nvprod4900051v",
+      "material": "その他レザー",
+      "highEndTemplate": false,
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 50,
+        "unitText": "cm"
+      },
+      "productId": "nvprod4900051v",
+      "hasLanguagePanel": false,
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-ACC-977_monogram.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>モノグラム･パターン</li><li>素材：ソフトカーフレザー(皮革の種類：牛革)</li><li>トリミング：レザー(皮革の種類：牛革)</li><li>ライニング：ラムレザー(皮革の種類：羊革)</li><li>金具(色：ゴールド)</li><li>ロック開閉式メインコンパートメント</li><li>内側にトリオフラットポケット</li><li>ファスナー式内ポケット</li><li>取外し可能なレザー製ポーチ</li><li>ラゲージタグ</li><li>キーベル</li><li>ストラップ：取り外し可能, 調整可能</li><li>ストラップの頂点からバッグ上部までの長さ(最短)：40.0 cm</li><li>ストラップの頂点からバッグ上部までの長さ(最長)：55.0 cm</li><li>ハンドル：ダブル</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "Speedy P9 Bandoulière 50"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z01"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "eligibleToAgec",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "newArrivalsDate",
+          "value": 1706745600000
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "hasLanguagePanel",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/new/_/N-tlgzqru",
+          "alternateName": "new",
+          "name": "新着",
+          "identifier": "nvcat1830004v"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/new/for-men/_/N-t15cv059",
+          "alternateName": "for-men",
+          "name": "メンズ 新着",
+          "identifier": "nvcat1830006v"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/new/for-men/spring-summer-2024-collection/_/N-t1at3kyq",
+          "alternateName": "spring-summer-2024-collection",
+          "name": "2024春夏メンズ・コレクション",
+          "identifier": "nvcat4080002v"
+        }
+      ],
+      "careLink": {
+        "sections": []
+      },
+      "disclaimers": {
+        "customDisclaimer": false,
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "collectibles": false,
+      "color": "モノグラム",
+      "@context": "http://schema.org",
+      "identifier": "M46962",
+      "defaultFamilySapDisplayName": "SOFT LUGGAGE"
+    },
+    {
+      "productVisible": true,
+=======
+>>>>>>> f874bc27c744c01e3afa8224b3f1e7db3ee9b091
       "macroColor": "ゴールド",
       "_links": {
         "look": {
@@ -400,7 +887,11 @@
       "@type": "ProductModel",
       "identifierKey": "7182870069a1ac38aea8650a521e244c",
       "productDetailTabs": [],
+<<<<<<< HEAD
+      "name": "ペンダント･LV ロープ",
+=======
       "name": "ペンダント・LV ロープ",
+>>>>>>> f874bc27c744c01e3afa8224b3f1e7db3ee9b091
       "packagingVariation": "",
       "mainMaterial2": "BRASS",
       "offers": {
@@ -414,37 +905,61 @@
       "disambiguatingDescription": "今シーズンのメンズのファッションジュエリー･コレクションに登場した｢ペンダント･LV ロープ｣。あらゆるシルエットにきらめきを添える、精緻に仕立てたネックレスです。調節可能な編み上げのチェーンに、輝きを放つジルコンで精緻に描いたモノグラム･フラワーモチーフが揺れ動きます。ヴィンテージ調のゴールドカラー仕上げのメタルが、目を引くデザインに洗練された雰囲気を添えます。",
       "image": [
         {
+<<<<<<< HEAD
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ペンダント･lv-ロープ--M01751_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+=======
           "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ペンダント・lv-ロープ--M01751_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+>>>>>>> f874bc27c744c01e3afa8224b3f1e7db3ee9b091
           "@type": "ImageObject",
           "name": "Front view",
           "@context": "http://schema.org"
         },
         {
+<<<<<<< HEAD
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ペンダント･lv-ロープ--M01751_PM1_Worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+=======
           "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ペンダント・lv-ロープ--M01751_PM1_Worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+>>>>>>> f874bc27c744c01e3afa8224b3f1e7db3ee9b091
           "@type": "ImageObject",
           "name": "Worn view",
           "@context": "http://schema.org"
         },
         {
+<<<<<<< HEAD
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ペンダント･lv-ロープ--M01751_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+=======
           "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ペンダント・lv-ロープ--M01751_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+>>>>>>> f874bc27c744c01e3afa8224b3f1e7db3ee9b091
           "@type": "ImageObject",
           "name": "Side view",
           "@context": "http://schema.org"
         },
         {
+<<<<<<< HEAD
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ペンダント･lv-ロープ--M01751_PM1_Detail view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+=======
           "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ペンダント・lv-ロープ--M01751_PM1_Detail view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+>>>>>>> f874bc27c744c01e3afa8224b3f1e7db3ee9b091
           "@type": "ImageObject",
           "name": "Detail view",
           "@context": "http://schema.org"
         },
         {
+<<<<<<< HEAD
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ペンダント･lv-ロープ--M01751_PM1_Back view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+=======
           "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ペンダント・lv-ロープ--M01751_PM1_Back view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+>>>>>>> f874bc27c744c01e3afa8224b3f1e7db3ee9b091
           "@type": "ImageObject",
           "name": "Back view",
           "@context": "http://schema.org"
         },
         {
+<<<<<<< HEAD
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ペンダント･lv-ロープ--M01751_PM1_Cropped worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+=======
           "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ペンダント・lv-ロープ--M01751_PM1_Cropped worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+>>>>>>> f874bc27c744c01e3afa8224b3f1e7db3ee9b091
           "@type": "ImageObject",
           "name": "Cropped worn view",
           "@context": "http://schema.org"
@@ -619,7 +1134,11 @@
         "unitText": "cm"
       },
       "productDetailTabs": [],
+<<<<<<< HEAD
+      "name": "ソックス･ポケット ",
+=======
       "name": "ソックス・ポケット ",
+>>>>>>> f874bc27c744c01e3afa8224b3f1e7db3ee9b091
       "packagingVariation": "",
       "mainMaterial2": "COTTON",
       "offers": {
@@ -633,19 +1152,31 @@
       "disambiguatingDescription": "LV イニシャルを刻印した今シーズンを象徴するパール調のアクセサリーでアクセントを加えた｢ソックス･ポケット ｣。快適な履き心地のコットン100%の素材を使用し、スタイリッシュに仕立てました。ニュートラルなホワイトに伝統的なダミエ･パターンをさりげなく編み込んだ、カジュアルからフォーマルまであらゆる装いを引き立てるアイテムです。",
       "image": [
         {
+<<<<<<< HEAD
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ソックス･ポケット--M7355M_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+=======
           "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ソックス・ポケット--M7355M_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+>>>>>>> f874bc27c744c01e3afa8224b3f1e7db3ee9b091
           "@type": "ImageObject",
           "name": "Front view",
           "@context": "http://schema.org"
         },
         {
+<<<<<<< HEAD
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ソックス･ポケット--M7355M_PM1_Detail view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+=======
           "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ソックス・ポケット--M7355M_PM1_Detail view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+>>>>>>> f874bc27c744c01e3afa8224b3f1e7db3ee9b091
           "@type": "ImageObject",
           "name": "Detail view",
           "@context": "http://schema.org"
         },
         {
+<<<<<<< HEAD
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ソックス･ポケット--M7355M_PM1_Back view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+=======
           "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ソックス・ポケット--M7355M_PM1_Back view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+>>>>>>> f874bc27c744c01e3afa8224b3f1e7db3ee9b091
           "@type": "ImageObject",
           "name": "Back view",
           "@context": "http://schema.org"
@@ -821,7 +1352,11 @@
       "@type": "ProductModel",
       "identifierKey": "9ea8fa9464dcf1b09425b711480b8b04",
       "productDetailTabs": [],
+<<<<<<< HEAD
+      "name": "ベルト･LV ダイナスティ 40MM リバーシブル",
+=======
       "name": "ベルト・LV ダイナスティ 40MM リバーシブル",
+>>>>>>> f874bc27c744c01e3afa8224b3f1e7db3ee9b091
       "packagingVariation": "",
       "mainMaterial2": "COWHIDE",
       "width": {
@@ -840,31 +1375,51 @@
       "disambiguatingDescription": "ファレル･ウィリアムスがメゾンにおけるデビューショーで披露し、ルイ･ヴィトンの卓越したクラフツマンシップを表現した｢ベルト･LV ダイナスティ 40MM リバーシブル｣。レザーストラップはブラックとブラウンのリバーシブルに仕上げました。ゴールドカラーのメタルに透明とカラーのジルコンを手作業であしらった新たなLV Dynasty バックルが、あらゆるシルエットにきらめきをプラス。",
       "image": [
         {
+<<<<<<< HEAD
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ベルト･lv-ダイナスティ-40mm-リバーシブル--M8469S_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+=======
           "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ベルト・lv-ダイナスティ-40mm-リバーシブル--M8469S_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+>>>>>>> f874bc27c744c01e3afa8224b3f1e7db3ee9b091
           "@type": "ImageObject",
           "name": "Front view",
           "@context": "http://schema.org"
         },
         {
+<<<<<<< HEAD
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ベルト･lv-ダイナスティ-40mm-リバーシブル--M8469S_PM1_Worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+=======
           "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ベルト・lv-ダイナスティ-40mm-リバーシブル--M8469S_PM1_Worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+>>>>>>> f874bc27c744c01e3afa8224b3f1e7db3ee9b091
           "@type": "ImageObject",
           "name": "Worn view",
           "@context": "http://schema.org"
         },
         {
+<<<<<<< HEAD
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ベルト･lv-ダイナスティ-40mm-リバーシブル--M8469S_PM1_Detail view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+=======
           "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ベルト・lv-ダイナスティ-40mm-リバーシブル--M8469S_PM1_Detail view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+>>>>>>> f874bc27c744c01e3afa8224b3f1e7db3ee9b091
           "@type": "ImageObject",
           "name": "Detail view",
           "@context": "http://schema.org"
         },
         {
+<<<<<<< HEAD
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ベルト･lv-ダイナスティ-40mm-リバーシブル--M8469S_PM1_Other view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+=======
           "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ベルト・lv-ダイナスティ-40mm-リバーシブル--M8469S_PM1_Other view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+>>>>>>> f874bc27c744c01e3afa8224b3f1e7db3ee9b091
           "@type": "ImageObject",
           "name": "Other view",
           "@context": "http://schema.org"
         },
         {
+<<<<<<< HEAD
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ベルト･lv-ダイナスティ-40mm-リバーシブル--M8469S_PM1_Cropped worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+=======
           "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ベルト・lv-ダイナスティ-40mm-リバーシブル--M8469S_PM1_Cropped worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+>>>>>>> f874bc27c744c01e3afa8224b3f1e7db3ee9b091
           "@type": "ImageObject",
           "name": "Cropped worn view",
           "@context": "http://schema.org"

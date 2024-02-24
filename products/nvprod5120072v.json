@@ -151,6 +151,218 @@
       "macroColor": "ブルー",
       "_links": {
         "look": {
+<<<<<<< HEAD
+          "href": "/api/catalog/jpn-jp/skus/1AFI19/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod4940035v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/1AFI19"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/1AFI19/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod4940035v/1AFI19/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "@type": "ProductModel",
+      "identifierKey": "6e6a0a46c4bcd3c2064a82cf82191455",
+      "productDetailTabs": [],
+      "name": "ダミエブーツカットデニムパンツ",
+      "packagingVariation": "",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 280500
+        },
+        "@type": "Offer",
+        "price": "¥280,500"
+      },
+      "disambiguatingDescription": "2024春夏ファッションショーに登場した軽量なウォッシュデニムのパンツ。ブーツカットのシルエットが、ボディラインを美しく引き立てます。質感のある市松模様と｢Marque L. Vuitton Déposée｣シグネチャーを組み合わせ、メゾンのアイコニックなモチーフにモダンなひねりを効かせた、本コレクションならではの立体的なダミエ･ジャカードが特徴です。同シリーズのジャケットと合わせれば、シックでモダンな装いに。 <p>ご不明な点がございましたら、クライアントサービスまでお気軽にお問合せください。専任のクライアントアドバイザーが、素材やサイズなどの製品詳細、モデル着用イメージや関連アイテムのご案内など、お客様のご要望に合わせたスタイリング･アドバイスをご提供いたします。</p><p>また、サイズ違いなどによる返品･交換のご相談も承ります。詳細は<a href='https://jp.louisvuitton.com/jpn-jp/legal-privacy'><b>こちら。</b></a></p>",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ダミエブーツカットデニムパンツ--HQD70EGRT650_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "playerType": "freecaster",
+          "contentUrl": "https://player.louisvuitton.com/embed/1486301",
+          "@type": "ImageObject",
+          "name": "freeCaster Media Worn View",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ダミエブーツカットデニムパンツ--HQD70EGRT650_PM1_Worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Worn view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ダミエブーツカットデニムパンツ--HQD70EGRT650_PM1_Ambiance view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Ambiance view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ダミエブーツカットデニムパンツ--HQD70EGRT650_PM1_Cropped view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Cropped view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ダミエブーツカットデニムパンツ--HQD70EGRT650_PM1_Cropped worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Cropped worn view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/damier-bootcut-denim-pants-nvprod4940035v",
+      "highEndTemplate": false,
+      "sizeDisplayName": "30",
+      "productId": "nvprod4940035v",
+      "hasLanguagePanel": false,
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-RTW-650_indigo.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>本体：コットン 91%、ポリエステル 8%、ポリウレタン 1%</li><li>OCS 100</li><li>ブーツカットフィット</li><li>｢Marque L. Vuitton Déposée｣シグネチャー入りのジャカード織りの立体的なダミエ･パターン</li><li>背面にダミエ･ジャクロン</li><li>ストーンウォッシュ加工</li><li>トップステッチ</li><li>ボタンフライ</li><li>イタリア製</li><li>REF：HQD70EGRT</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "Damier Bootcut Denim Pants"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z05"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Ready_To_Wear_Men"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "eligibleToAgec",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "hasLanguagePanel",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-t18ui4cq",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/ready-to-wear/_/N-t1b9f3zb",
+          "alternateName": "ready-to-wear",
+          "name": "プレタポルテ(洋服)",
+          "identifier": "m-readytowear"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/ready-to-wear/denim/_/N-tgmiooy",
+          "alternateName": "denim",
+          "name": "メンズ デニム",
+          "identifier": "m-denim-mrtw"
+        }
+      ],
+      "careLink": {
+        "sections": []
+      },
+      "disclaimers": {
+        "customDisclaimer": false,
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "collectibles": false,
+      "color": "Indigo",
+      "@context": "http://schema.org",
+      "identifier": "1AFI19",
+      "defaultFamilySapDisplayName": "PANTS DENIM M"
+    },
+    {
+      "productVisible": true,
+      "macroColor": "ブルー",
+      "_links": {
+        "look": {
+=======
+>>>>>>> f874bc27c744c01e3afa8224b3f1e7db3ee9b091
           "href": "/api/catalog/jpn-jp/skus/1AFHU6/look"
         },
         "parent": {

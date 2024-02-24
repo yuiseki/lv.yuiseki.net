@@ -151,6 +151,20 @@
       "macroColor": "グリーン",
       "_links": {
         "look": {
+<<<<<<< HEAD
+          "href": "/api/catalog/jpn-jp/skus/1AFIHJ/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod4940176v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/1AFIHJ"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/1AFIHJ/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod4940176v/1AFIHJ/1": {
+=======
           "href": "/api/catalog/jpn-jp/skus/1AFIYJ/look"
         },
         "parent": {
@@ -163,18 +177,36 @@
           "href": "/api/catalog/jpn-jp/skus/1AFIYJ/perso-detail"
         },
         "/api/rels/jpn-jp/add-to-cart-base/nvprod4940239v/1AFIYJ/1": {
+>>>>>>> f874bc27c744c01e3afa8224b3f1e7db3ee9b091
           "name": "add-to-cart",
           "href": "/api/cart/jpn-jp"
         }
       },
       "@type": "ProductModel",
+<<<<<<< HEAD
+      "identifierKey": "4ca866f1ad63dd1244057da34b48543b",
+      "productDetailTabs": [],
+      "name": "ダミエナイロンテーラードジャケット",
+=======
       "identifierKey": "90d8df05a0ba518b4c720fec0986ba78",
       "productDetailTabs": [],
       "name": "ダミエナイロンシガレットパンツ",
+>>>>>>> f874bc27c744c01e3afa8224b3f1e7db3ee9b091
       "packagingVariation": "",
       "offers": {
         "priceSpecification": {
           "priceCurrency": "JPY",
+<<<<<<< HEAD
+          "price": 504900
+        },
+        "@type": "Offer",
+        "price": "¥504,900"
+      },
+      "disambiguatingDescription": "2024春夏ファッションショーに登場したグラフィカルなテーラードジャケット。ブラックの背景に鮮やかなグリーンのジャカードで大胆なダミエ･ポップ モチーフをあしらい、メゾンのアイコンにモダンなひねりを加えました。ライニングのないテクニカルファブリックが、リラックス感のあるカジュアルな雰囲気を演出します。同シリーズのパンツと合わせれば、トレンディなランウェイ風のルックに。<p>ご不明な点がございましたら、クライアントサービスまでお気軽にお問合せください。専任のクライアントアドバイザーが、素材やサイズなどの製品詳細、モデル着用イメージや関連アイテムのご案内など、お客様のご要望に合わせたスタイリング・アドバイスをご提供いたします。</p><p>また、サイズ違いなどによる返品・交換のご相談も承ります。詳細は<a href='https://jp.louisvuitton.com/jpn-jp/legal-privacy'><b>こちら。</b></a></p>",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ダミエナイロンテーラードジャケット--HQJ71EHQE333_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+=======
           "price": 224400
         },
         "@type": "Offer",
@@ -184,18 +216,40 @@
       "image": [
         {
           "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ダミエナイロンシガレットパンツ--HQP62WHQE333_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+>>>>>>> f874bc27c744c01e3afa8224b3f1e7db3ee9b091
           "@type": "ImageObject",
           "name": "Front view",
           "@context": "http://schema.org"
         },
         {
           "playerType": "freecaster",
+<<<<<<< HEAD
+          "contentUrl": "https://player.louisvuitton.com/embed/1487682",
+=======
           "contentUrl": "https://player.louisvuitton.com/embed/1486282",
+>>>>>>> f874bc27c744c01e3afa8224b3f1e7db3ee9b091
           "@type": "ImageObject",
           "name": "freeCaster Media Worn View",
           "@context": "http://schema.org"
         },
         {
+<<<<<<< HEAD
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ダミエナイロンテーラードジャケット--HQJ71EHQE333_PM1_Worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Worn view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ダミエナイロンテーラードジャケット--HQJ71EHQE333_PM1_Ambiance view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Ambiance view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ダミエナイロンテーラードジャケット--HQJ71EHQE333_PM1_Cropped view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Cropped view",
+=======
           "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ダミエナイロンシガレットパンツ--HQP62WHQE333_PM1_Ambiance view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
           "@type": "ImageObject",
           "name": "Ambiance view",
@@ -395,6 +449,7 @@
           "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ダミエナイロンテーラードジャケット--HQJ71EHQE333_PM1_Ambiance view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
           "@type": "ImageObject",
           "name": "Ambiance view",
+>>>>>>> f874bc27c744c01e3afa8224b3f1e7db3ee9b091
           "@context": "http://schema.org"
         },
         {
@@ -589,7 +644,11 @@
         "unitText": "cm"
       },
       "productDetailTabs": [],
+<<<<<<< HEAD
+      "name": "ナノ･スティーマー",
+=======
       "name": "ナノ・スティーマー",
+>>>>>>> f874bc27c744c01e3afa8224b3f1e7db3ee9b091
       "packagingVariation": "",
       "mainMaterial2": "Coated Canvas",
       "width": {
@@ -608,43 +667,84 @@
       "disambiguatingDescription": "メンズ クリエイティブ･ディレクター ファレル･ウィリアムスが、ダミエ･キャンバスに大胆な原色を取入れ、フレッシュにアレンジしたダミエ･ポップ キャンバスで仕立てた｢ナノ･スティーマー｣。ヌメ革のトリミングと、象徴的なチェーン & ピンの留め具などの艶やかなゴールドカラーのメタルパーツがデザインを完成させます。トップハンドルと取外し & 調節可能なショルダーストラップ付きで、さまざまな持ち方を楽しめます。",
       "image": [
         {
+<<<<<<< HEAD
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ナノ･スティーマー--N40536_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+=======
           "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ナノ・スティーマー--N40536_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+>>>>>>> f874bc27c744c01e3afa8224b3f1e7db3ee9b091
           "@type": "ImageObject",
           "name": "Front view",
           "@context": "http://schema.org"
         },
         {
+<<<<<<< HEAD
+          "playerType": "freecaster",
+          "contentUrl": "https://player.louisvuitton.com/embed/1487562",
+          "@type": "ImageObject",
+          "name": "freeCaster Media Worn View",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ナノ･スティーマー--N40536_PM1_Worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+=======
           "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ナノ・スティーマー--N40536_PM1_Worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+>>>>>>> f874bc27c744c01e3afa8224b3f1e7db3ee9b091
           "@type": "ImageObject",
           "name": "Worn view",
           "@context": "http://schema.org"
         },
         {
+<<<<<<< HEAD
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ナノ･スティーマー--N40536_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+=======
           "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ナノ・スティーマー--N40536_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+>>>>>>> f874bc27c744c01e3afa8224b3f1e7db3ee9b091
           "@type": "ImageObject",
           "name": "Side view",
           "@context": "http://schema.org"
         },
         {
+<<<<<<< HEAD
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ナノ･スティーマー--N40536_PM1_Interior view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Interior view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ナノ･スティーマー--N40536_PM1_Detail view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+=======
           "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ナノ・スティーマー--N40536_PM1_Detail view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+>>>>>>> f874bc27c744c01e3afa8224b3f1e7db3ee9b091
           "@type": "ImageObject",
           "name": "Detail view",
           "@context": "http://schema.org"
         },
         {
+<<<<<<< HEAD
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ナノ･スティーマー--N40536_PM1_Ambiance view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+=======
           "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ナノ・スティーマー--N40536_PM1_Ambiance view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+>>>>>>> f874bc27c744c01e3afa8224b3f1e7db3ee9b091
           "@type": "ImageObject",
           "name": "Ambiance view",
           "@context": "http://schema.org"
         },
         {
+<<<<<<< HEAD
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ナノ･スティーマー--N40536_PM1_Back view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+=======
           "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ナノ・スティーマー--N40536_PM1_Back view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+>>>>>>> f874bc27c744c01e3afa8224b3f1e7db3ee9b091
           "@type": "ImageObject",
           "name": "Back view",
           "@context": "http://schema.org"
         },
         {
+<<<<<<< HEAD
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ナノ･スティーマー--N40536_PM1_Cropped worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+=======
           "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ナノ・スティーマー--N40536_PM1_Cropped worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+>>>>>>> f874bc27c744c01e3afa8224b3f1e7db3ee9b091
           "@type": "ImageObject",
           "name": "Cropped worn view",
           "@context": "http://schema.org"
@@ -819,7 +919,11 @@
       "@type": "ProductModel",
       "identifierKey": "bdfb73d4075160eb59e69d68ac90541b",
       "productDetailTabs": [],
+<<<<<<< HEAD
+      "name": "ネックレス･LV ロープ",
+=======
       "name": "ネックレス・LV ロープ",
+>>>>>>> f874bc27c744c01e3afa8224b3f1e7db3ee9b091
       "packagingVariation": "",
       "mainMaterial2": "BRASS",
       "offers": {
@@ -833,25 +937,41 @@
       "disambiguatingDescription": "エイジング加工のシルバーカラーのメタルで表現し、力強いマスキュリンな美しさを備えたメゾンの象徴的なアクセサリー｢ネックレス･LV ロープ｣。編み上げのチェーンには、ルイ･ヴィトンの伝統的なトランクのメタルパーツから着想を得たリングでアクセントを加えました。LV イニシャルとメゾンのシグネチャーの精緻な刻印を施した、リングとビス(鋲)も魅力。なめらかなカラビナ付きのクラスプがデザインを完成させます。",
       "image": [
         {
+<<<<<<< HEAD
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ネックレス･lv-ロープ--M01748_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+=======
           "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ネックレス・lv-ロープ--M01748_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+>>>>>>> f874bc27c744c01e3afa8224b3f1e7db3ee9b091
           "@type": "ImageObject",
           "name": "Front view",
           "@context": "http://schema.org"
         },
         {
+<<<<<<< HEAD
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ネックレス･lv-ロープ--M01748_PM1_Worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+=======
           "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ネックレス・lv-ロープ--M01748_PM1_Worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+>>>>>>> f874bc27c744c01e3afa8224b3f1e7db3ee9b091
           "@type": "ImageObject",
           "name": "Worn view",
           "@context": "http://schema.org"
         },
         {
+<<<<<<< HEAD
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ネックレス･lv-ロープ--M01748_PM1_Detail view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+=======
           "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ネックレス・lv-ロープ--M01748_PM1_Detail view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+>>>>>>> f874bc27c744c01e3afa8224b3f1e7db3ee9b091
           "@type": "ImageObject",
           "name": "Detail view",
           "@context": "http://schema.org"
         },
         {
+<<<<<<< HEAD
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ネックレス･lv-ロープ--M01748_PM1_Cropped worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+=======
           "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ネックレス・lv-ロープ--M01748_PM1_Cropped worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+>>>>>>> f874bc27c744c01e3afa8224b3f1e7db3ee9b091
           "@type": "ImageObject",
           "name": "Cropped worn view",
           "@context": "http://schema.org"

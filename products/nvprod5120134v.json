@@ -240,7 +240,600 @@
   },
   "@type": "Product",
   "sku": "GI1007",
+<<<<<<< HEAD
+  "isSimilarTo": [
+    {
+      "model": [
+        {
+          "productVisible": true,
+          "macroColor": "ブルー",
+          "_links": {
+            "look": {
+              "href": "/api/catalog/jpn-jp/skus/GI1008/look"
+            },
+            "parent": {
+              "href": "/api/catalog/jpn-jp/product/nvprod5120135v"
+            },
+            "self": {
+              "href": "/api/catalog/jpn-jp/product/GI1008"
+            },
+            "perso-details": {
+              "href": "/api/catalog/jpn-jp/skus/GI1008/perso-detail"
+            },
+            "/api/rels/jpn-jp/add-to-cart-base/nvprod5120135v/GI1008/1": {
+              "name": "add-to-cart",
+              "href": "/api/cart/jpn-jp"
+            }
+          },
+          "@type": "ProductModel",
+          "identifierKey": "3b863bdb053cb7b730319b73b5e7cf57",
+          "height": {
+            "@type": "QuantitativeValue",
+            "value": 32,
+            "unitText": "cm"
+          },
+          "productDetailTabs": [],
+          "name": "ポップコーン バスケットGM",
+          "packagingVariation": "",
+          "mainMaterial2": "Coated Canvas",
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": 24,
+            "unitText": "cm"
+          },
+          "offers": {
+            "priceSpecification": {
+              "priceCurrency": "JPY",
+              "price": 220000
+            },
+            "@type": "Offer",
+            "price": "¥220,000"
+          },
+          "disambiguatingDescription": "｢キャンディ ショップ｣ギフティング･セレクションに登場した、装飾的な3つのボックスを完成させる｢ポップコーン バスケットGM｣。エレガントなブルーのストライプとモノグラム･キャンバスを組み合わせました。大胆な手書き風の｢Louis Vuitton｣シグネチャーをあしらったデザインが、自宅やオフィスを遊び心いっぱいに引き立てます。マイクロファイバーのライニングを施した、デスクやテーブル周りの小物をスタイリッシュに収納できるアイテムです。",
+          "image": [
+            {
+              "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ポップコーン-バスケットgm-スポーツ-ライフスタイル--GI1008_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+              "@type": "ImageObject",
+              "name": "Front view",
+              "@context": "http://schema.org"
+            },
+            {
+              "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ポップコーン-バスケットgm-スポーツ-ライフスタイル--GI1008_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+              "@type": "ImageObject",
+              "name": "Side view",
+              "@context": "http://schema.org"
+            },
+            {
+              "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ポップコーン-バスケットgm-スポーツ-ライフスタイル--GI1008_PM1_Interior view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+              "@type": "ImageObject",
+              "name": "Interior view",
+              "@context": "http://schema.org"
+            },
+            {
+              "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ポップコーン-バスケットgm-スポーツ-ライフスタイル--GI1008_PM1_Detail view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+              "@type": "ImageObject",
+              "name": "Detail view",
+              "@context": "http://schema.org"
+            },
+            {
+              "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ポップコーン-バスケットgm-スポーツ-ライフスタイル--GI1008_PM1_Other view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+              "@type": "ImageObject",
+              "name": "Other view",
+              "@context": "http://schema.org"
+            }
+          ],
+          "url": "/jpn-jp/products/pop-corn-basket-gm-nvprod5120135v",
+          "material": "MONOGRAM CANVAS",
+          "highEndTemplate": false,
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": 24,
+            "unitText": "cm"
+          },
+          "productId": "nvprod5120135v",
+          "hasLanguagePanel": false,
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "colorIconURL",
+              "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-ACC-94B_blue.jpg"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "detailedDescription",
+              "value": "<ul><li>カラー：ブルー</li><li>素材：キャンバス</li><li>トリミング：レザー(皮革の種類：牛革)</li><li>ライニング：マイクロファイバー</li><li>金具</li></ul>"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "englishProductName",
+              "value": "Pop Corn Basket GM"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "activateEngraving",
+              "value": false
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "sellable",
+              "value": true
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "cscSellable",
+              "value": true
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "mom",
+              "value": false
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "locateInStore",
+              "value": true
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "materialGroupCode",
+              "value": "Z02"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "filterCategories",
+              "value": "Leather_Goods_and_Accessories;Sunglasses"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "backOrderDisclaimer",
+              "value": true
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "backOrderFullDeposit",
+              "value": false
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "diamondEngravingEnabled",
+              "value": false
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "tryOnEnabled",
+              "value": false
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "video360Enabled",
+              "value": false
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "isBundle",
+              "value": false
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "eligibleToAgec",
+              "value": true
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "newArrivalsDate",
+              "value": 1706227200000
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "hasLanguagePanel",
+              "value": false
+            }
+          ],
+          "category": [
+            {
+              "@type": "Thing",
+              "url": "/jpn-jp/art-of-living/_/N-tmb5aeq",
+              "alternateName": "art-of-living",
+              "name": "ライフスタイル",
+              "identifier": "nvcat1840004v"
+            },
+            {
+              "@type": "Thing",
+              "url": "/jpn-jp/art-of-living/sport-and-lifestyle/_/N-tsdq02m",
+              "alternateName": "sport-and-lifestyle",
+              "name": "スポーツ&ライフスタイル",
+              "identifier": "nvcat1840007v"
+            },
+            {
+              "@type": "Thing",
+              "url": "/jpn-jp/art-of-living/sport-and-lifestyle/lifestyle-and-vivienne-dolls/_/N-trxwmy1",
+              "alternateName": "lifestyle-and-vivienne-dolls",
+              "name": "ライフスタイル&ヴィヴィエンヌ",
+              "identifier": "nvcat1840018v"
+            }
+          ],
+          "careLink": {
+            "sections": []
+          },
+          "disclaimers": {
+            "customDisclaimer": false,
+            "value": "dynamic_shipping_warning_bo",
+            "popInContent": "dynamic_global_backorder_info_popin_content",
+            "popInTitle": "dynamic_global_backorder_info_popin_title"
+          },
+          "collectibles": false,
+          "color": "ブルー",
+          "@context": "http://schema.org",
+          "identifier": "GI1008",
+          "defaultFamilySapDisplayName": "DECORATION"
+        }
+      ],
+      "_links": {
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/nvprod5120135v"
+        },
+        "push": {
+          "href": "/api/catalog/jpn-jp/product-push/nvprod5120135v"
+        },
+        "care-link": {
+          "href": "/api/catalog/jpn-jp/care-link/nvprod5120135v"
+        },
+        "availability": {
+          "href": "/api/catalog/jpn-jp/availability/nvprod5120135v"
+        }
+      },
+      "@type": "Product",
+      "sku": "GI1008",
+      "productTips": [],
+      "url": "/jpn-jp/products/pop-corn-basket-gm-nvprod5120135v",
+      "material": "ファッション小物",
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/art-of-living/_/N-tmb5aeq",
+          "alternateName": "art-of-living",
+          "name": "ライフスタイル",
+          "identifier": "nvcat1840004v"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/art-of-living/sport-and-lifestyle/_/N-tsdq02m",
+          "alternateName": "sport-and-lifestyle",
+          "name": "スポーツ&ライフスタイル",
+          "identifier": "nvcat1840007v"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/art-of-living/sport-and-lifestyle/lifestyle-and-vivienne-dolls/_/N-trxwmy1",
+          "alternateName": "lifestyle-and-vivienne-dolls",
+          "name": "ライフスタイル&ヴィヴィエンヌ",
+          "identifier": "nvcat1840018v"
+        }
+      ],
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "hidePrice",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "subType",
+          "value": "product"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--AEL-LG-N00_sans_ligne_esthetique.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sizeGuide",
+          "value": false
+        }
+      ],
+      "name": "ポップコーン バスケットGM",
+      "@context": "http://schema.org",
+      "identifier": "nvprod5120135v"
+    },
+    {
+      "model": [
+        {
+          "productVisible": true,
+          "macroColor": "レッド",
+          "_links": {
+            "look": {
+              "href": "/api/catalog/jpn-jp/skus/GI1006/look"
+            },
+            "parent": {
+              "href": "/api/catalog/jpn-jp/product/nvprod5120133v"
+            },
+            "self": {
+              "href": "/api/catalog/jpn-jp/product/GI1006"
+            },
+            "perso-details": {
+              "href": "/api/catalog/jpn-jp/skus/GI1006/perso-detail"
+            },
+            "/api/rels/jpn-jp/add-to-cart-base/nvprod5120133v/GI1006/1": {
+              "name": "add-to-cart",
+              "href": "/api/cart/jpn-jp"
+            }
+          },
+          "@type": "ProductModel",
+          "identifierKey": "a246da559516414a79573b7d738fafbd",
+          "height": {
+            "@type": "QuantitativeValue",
+            "value": 11,
+            "unitText": "cm"
+          },
+          "productDetailTabs": [],
+          "name": "ポップコーン バスケットPM",
+          "packagingVariation": "",
+          "mainMaterial2": "Coated Canvas",
+          "width": {
+            "@type": "QuantitativeValue",
+            "value": 8,
+            "unitText": "cm"
+          },
+          "offers": {
+            "priceSpecification": {
+              "priceCurrency": "JPY",
+              "price": 121000
+            },
+            "@type": "Offer",
+            "price": "¥121,000"
+          },
+          "disambiguatingDescription": "今シーズンの｢キャンディ ショップ｣ギフティング･セレクションに登場した｢ポップコーン バスケットPM｣。オフィスのインテリアに遊び心を添える、チャーミングなペンとペン立てです。コーラルカラーのストライプとモノグラム･キャンバスを交互に配し、大胆な手書き風の｢Louis Vuitton｣シグネチャーをあしらいました。同コレクションの小物トレイの色合いと完璧にマッチする、柔らかなマイクロファイバーのライニングを施しています。",
+          "image": [
+            {
+              "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ポップコーン-バスケットpm-スポーツ-ライフスタイル--GI1006_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+              "@type": "ImageObject",
+              "name": "Front view",
+              "@context": "http://schema.org"
+            },
+            {
+              "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ポップコーン-バスケットpm-スポーツ-ライフスタイル--GI1006_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+              "@type": "ImageObject",
+              "name": "Side view",
+              "@context": "http://schema.org"
+            },
+            {
+              "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ポップコーン-バスケットpm-スポーツ-ライフスタイル--GI1006_PM1_Interior view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+              "@type": "ImageObject",
+              "name": "Interior view",
+              "@context": "http://schema.org"
+            },
+            {
+              "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ポップコーン-バスケットpm-スポーツ-ライフスタイル--GI1006_PM1_Detail view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+              "@type": "ImageObject",
+              "name": "Detail view",
+              "@context": "http://schema.org"
+            },
+            {
+              "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ポップコーン-バスケットpm-スポーツ-ライフスタイル--GI1006_PM1_Other view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+              "@type": "ImageObject",
+              "name": "Other view",
+              "@context": "http://schema.org"
+            }
+          ],
+          "url": "/jpn-jp/products/pop-corn-basket-pm-nvprod5120133v",
+          "material": "MONOGRAM CANVAS",
+          "highEndTemplate": false,
+          "depth": {
+            "@type": "QuantitativeValue",
+            "value": 8,
+            "unitText": "cm"
+          },
+          "productId": "nvprod5120133v",
+          "hasLanguagePanel": false,
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "colorIconURL",
+              "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-ACC-997_red.jpg"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "detailedDescription",
+              "value": "<ul><li>カラー：コーラル</li><li>素材：キャンバス</li><li>トリミング：レザー(皮革の種類：牛革)</li><li>ライニング：マイクロファイバー</li><li>金具</li></ul>"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "englishProductName",
+              "value": "Pop Corn Basket PM"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "activateEngraving",
+              "value": false
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "sellable",
+              "value": true
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "cscSellable",
+              "value": true
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "mom",
+              "value": false
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "locateInStore",
+              "value": true
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "materialGroupCode",
+              "value": "Z02"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "filterCategories",
+              "value": "Leather_Goods_and_Accessories;Sunglasses"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "backOrderDisclaimer",
+              "value": true
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "backOrderFullDeposit",
+              "value": false
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "diamondEngravingEnabled",
+              "value": false
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "tryOnEnabled",
+              "value": false
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "video360Enabled",
+              "value": false
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "isBundle",
+              "value": false
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "eligibleToAgec",
+              "value": true
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "newArrivalsDate",
+              "value": 1706227200000
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "hasLanguagePanel",
+              "value": false
+            }
+          ],
+          "category": [
+            {
+              "@type": "Thing",
+              "url": "/jpn-jp/art-of-living/_/N-tmb5aeq",
+              "alternateName": "art-of-living",
+              "name": "ライフスタイル",
+              "identifier": "nvcat1840004v"
+            },
+            {
+              "@type": "Thing",
+              "url": "/jpn-jp/art-of-living/sport-and-lifestyle/_/N-tsdq02m",
+              "alternateName": "sport-and-lifestyle",
+              "name": "スポーツ&ライフスタイル",
+              "identifier": "nvcat1840007v"
+            },
+            {
+              "@type": "Thing",
+              "url": "/jpn-jp/art-of-living/sport-and-lifestyle/lifestyle-and-vivienne-dolls/_/N-trxwmy1",
+              "alternateName": "lifestyle-and-vivienne-dolls",
+              "name": "ライフスタイル&ヴィヴィエンヌ",
+              "identifier": "nvcat1840018v"
+            }
+          ],
+          "careLink": {
+            "sections": []
+          },
+          "disclaimers": {
+            "customDisclaimer": false,
+            "value": "dynamic_shipping_warning_bo",
+            "popInContent": "dynamic_global_backorder_info_popin_content",
+            "popInTitle": "dynamic_global_backorder_info_popin_title"
+          },
+          "collectibles": false,
+          "color": "ルージュ",
+          "@context": "http://schema.org",
+          "identifier": "GI1006",
+          "defaultFamilySapDisplayName": "DECORATION"
+        }
+      ],
+      "_links": {
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/nvprod5120133v"
+        },
+        "push": {
+          "href": "/api/catalog/jpn-jp/product-push/nvprod5120133v"
+        },
+        "care-link": {
+          "href": "/api/catalog/jpn-jp/care-link/nvprod5120133v"
+        },
+        "availability": {
+          "href": "/api/catalog/jpn-jp/availability/nvprod5120133v"
+        }
+      },
+      "@type": "Product",
+      "sku": "GI1006",
+      "productTips": [],
+      "url": "/jpn-jp/products/pop-corn-basket-pm-nvprod5120133v",
+      "material": "ファッション小物",
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/art-of-living/_/N-tmb5aeq",
+          "alternateName": "art-of-living",
+          "name": "ライフスタイル",
+          "identifier": "nvcat1840004v"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/art-of-living/sport-and-lifestyle/_/N-tsdq02m",
+          "alternateName": "sport-and-lifestyle",
+          "name": "スポーツ&ライフスタイル",
+          "identifier": "nvcat1840007v"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/art-of-living/sport-and-lifestyle/lifestyle-and-vivienne-dolls/_/N-trxwmy1",
+          "alternateName": "lifestyle-and-vivienne-dolls",
+          "name": "ライフスタイル&ヴィヴィエンヌ",
+          "identifier": "nvcat1840018v"
+        }
+      ],
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "hidePrice",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "subType",
+          "value": "product"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--AEL-LG-N00_sans_ligne_esthetique.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sizeGuide",
+          "value": false
+        }
+      ],
+      "name": "ポップコーン バスケットPM",
+      "@context": "http://schema.org",
+      "identifier": "nvprod5120133v"
+    }
+  ],
+=======
   "isSimilarTo": [],
+>>>>>>> f874bc27c744c01e3afa8224b3f1e7db3ee9b091
   "productTips": [],
   "url": "/jpn-jp/products/pop-corn-basket-mm-nvprod5120134v",
   "material": "ファッション小物",
