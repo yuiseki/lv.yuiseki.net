@@ -151,205 +151,6 @@
       "macroColor": "マロン",
       "_links": {
         "look": {
-<<<<<<< HEAD
-=======
-          "href": "/api/catalog/jpn-jp/skus/1AFICA/look"
-        },
-        "parent": {
-          "href": "/api/catalog/jpn-jp/product/nvprod4940160v"
-        },
-        "self": {
-          "href": "/api/catalog/jpn-jp/product/1AFICA"
-        },
-        "perso-details": {
-          "href": "/api/catalog/jpn-jp/skus/1AFICA/perso-detail"
-        },
-        "/api/rels/jpn-jp/add-to-cart-base/nvprod4940160v/1AFICA/1": {
-          "name": "add-to-cart",
-          "href": "/api/cart/jpn-jp"
-        }
-      },
-      "@type": "ProductModel",
-      "identifierKey": "fb6b9b0a401938162ffdec0fc0e55b4f",
-      "productDetailTabs": [],
-      "name": "エンブロイダードテーラードオフィサーカラージャケット",
-      "packagingVariation": "",
-      "offers": {
-        "priceSpecification": {
-          "priceCurrency": "JPY",
-          "price": 786500
-        },
-        "@type": "Offer",
-        "price": "¥786,500"
-      },
-      "disambiguatingDescription": "2024春夏ファッションショーに登場したテーラードジャケット。アーティスト ヘンリー･テイラーによる肖像画風のモチーフを精細な刺繍であしらい、LV シグネチャーを散りばめました。ファレル･ウィリアムスの新たなシグネチャーの1つであるオフィサーカラー(立詰襟)を配したモダンなシルエットが、本コレクションのダンディなテーマを際立たせています。<p>ご不明な点がございましたら、クライアントサービスまでお気軽にお問合せください。専任のクライアントアドバイザーが、素材やサイズなどの製品詳細、モデル着用イメージや関連アイテムのご案内など、お客様のご要望に合わせたスタイリング・アドバイスをご提供いたします。</p><p>また、サイズ違いなどによる返品・交換のご相談も承ります。詳細は<a href='https://jp.louisvuitton.com/jpn-jp/legal-privacy'><b>こちら。</b></a></p>",
-      "image": [
-        {
-          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-エンブロイダードテーラードオフィサーカラージャケット--HQJ61EIER809_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
-          "@type": "ImageObject",
-          "name": "Front view",
-          "@context": "http://schema.org"
-        },
-        {
-          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-エンブロイダードテーラードオフィサーカラージャケット--HQJ61EIER809_PM1_Worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
-          "@type": "ImageObject",
-          "name": "Worn view",
-          "@context": "http://schema.org"
-        },
-        {
-          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-エンブロイダードテーラードオフィサーカラージャケット--HQJ61EIER809_PM1_Ambiance view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
-          "@type": "ImageObject",
-          "name": "Ambiance view",
-          "@context": "http://schema.org"
-        },
-        {
-          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-エンブロイダードテーラードオフィサーカラージャケット--HQJ61EIER809_PM1_Cropped view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
-          "@type": "ImageObject",
-          "name": "Cropped view",
-          "@context": "http://schema.org"
-        }
-      ],
-      "url": "/jpn-jp/products/embroidered-tailored-officer-collar-jacket-nvprod4940160v",
-      "highEndTemplate": false,
-      "sizeDisplayName": "50",
-      "productId": "nvprod4940160v",
-      "hasLanguagePanel": false,
-      "additionalProperty": [
-        {
-          "@type": "PropertyValue",
-          "name": "colorIconURL",
-          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-RTW-Ebony.jpg"
-        },
-        {
-          "@type": "PropertyValue",
-          "name": "detailedDescription",
-          "value": "<ul><li>本体：ポリエステル 100%</li><li>レギュラーフィット</li><li>ヘンリー･テイラー、LV イニシャルの刺繍</li><li>オフィサーカラー</li><li>ボタン開閉式</li><li>胸にパイピングポケット</li><li>フロントにパイピングポケットx2</li><li>シングルベント</li><li>ボタン付きのカフ</li><li>イタリア製</li><li>REF：HQJ61EIER</li></ul>"
-        },
-        {
-          "@type": "PropertyValue",
-          "name": "englishProductName",
-          "value": "Embroidered Tailored Officer Collar Jacket"
-        },
-        {
-          "@type": "PropertyValue",
-          "name": "activateEngraving",
-          "value": false
-        },
-        {
-          "@type": "PropertyValue",
-          "name": "sellable",
-          "value": true
-        },
-        {
-          "@type": "PropertyValue",
-          "name": "cscSellable",
-          "value": true
-        },
-        {
-          "@type": "PropertyValue",
-          "name": "mom",
-          "value": false
-        },
-        {
-          "@type": "PropertyValue",
-          "name": "locateInStore",
-          "value": false
-        },
-        {
-          "@type": "PropertyValue",
-          "name": "materialGroupCode",
-          "value": "Z05"
-        },
-        {
-          "@type": "PropertyValue",
-          "name": "filterCategories",
-          "value": "Ready_To_Wear_Men"
-        },
-        {
-          "@type": "PropertyValue",
-          "name": "backOrderDisclaimer",
-          "value": true
-        },
-        {
-          "@type": "PropertyValue",
-          "name": "backOrderFullDeposit",
-          "value": false
-        },
-        {
-          "@type": "PropertyValue",
-          "name": "diamondEngravingEnabled",
-          "value": false
-        },
-        {
-          "@type": "PropertyValue",
-          "name": "tryOnEnabled",
-          "value": false
-        },
-        {
-          "@type": "PropertyValue",
-          "name": "video360Enabled",
-          "value": false
-        },
-        {
-          "@type": "PropertyValue",
-          "name": "isBundle",
-          "value": false
-        },
-        {
-          "@type": "PropertyValue",
-          "name": "eligibleToAgec",
-          "value": true
-        },
-        {
-          "@type": "PropertyValue",
-          "name": "hasLanguagePanel",
-          "value": false
-        }
-      ],
-      "category": [
-        {
-          "@type": "Thing",
-          "url": "/jpn-jp/men/_/N-t18ui4cq",
-          "alternateName": "men",
-          "name": "メンズ",
-          "identifier": "homme"
-        },
-        {
-          "@type": "Thing",
-          "url": "/jpn-jp/men/ready-to-wear/_/N-t1b9f3zb",
-          "alternateName": "ready-to-wear",
-          "name": "プレタポルテ(洋服)",
-          "identifier": "m-readytowear"
-        },
-        {
-          "@type": "Thing",
-          "url": "/jpn-jp/men/ready-to-wear/blazers-and-jackets/_/N-tpqvyd6",
-          "alternateName": "blazers-and-jackets",
-          "name": "メンズ ブレザー＆ジャケット",
-          "identifier": "m-jackets-mrtw"
-        }
-      ],
-      "careLink": {
-        "sections": []
-      },
-      "disclaimers": {
-        "customDisclaimer": false,
-        "value": "dynamic_shipping_warning_bo",
-        "popInContent": "dynamic_global_backorder_info_popin_content",
-        "popInTitle": "dynamic_global_backorder_info_popin_title"
-      },
-      "collectibles": false,
-      "color": "Ebony",
-      "@context": "http://schema.org",
-      "identifier": "1AFICA",
-      "defaultFamilySapDisplayName": "JACKET DAY M"
-    },
-    {
-      "productVisible": true,
-      "macroColor": "マロン",
-      "_links": {
-        "look": {
->>>>>>> f874bc27c744c01e3afa8224b3f1e7db3ee9b091
           "href": "/api/catalog/jpn-jp/skus/1AFIUX/look"
         },
         "parent": {
@@ -388,7 +189,6 @@
           "@context": "http://schema.org"
         },
         {
-<<<<<<< HEAD
           "playerType": "freecaster",
           "contentUrl": "https://player.louisvuitton.com/embed/1487441",
           "@type": "ImageObject",
@@ -396,8 +196,6 @@
           "@context": "http://schema.org"
         },
         {
-=======
->>>>>>> f874bc27c744c01e3afa8224b3f1e7db3ee9b091
           "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-エンブロイダードコットンカーディガン--HQN64WAUR809_PM1_Worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
           "@type": "ImageObject",
           "name": "Worn view",
@@ -600,7 +398,6 @@
           "@context": "http://schema.org"
         },
         {
-<<<<<<< HEAD
           "playerType": "freecaster",
           "contentUrl": "https://player.louisvuitton.com/embed/1487416",
           "@type": "ImageObject",
@@ -608,8 +405,6 @@
           "@context": "http://schema.org"
         },
         {
-=======
->>>>>>> f874bc27c744c01e3afa8224b3f1e7db3ee9b091
           "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-クラシックコットンシャツ--HQS60WFZV002_PM1_Worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
           "@type": "ImageObject",
           "name": "Worn view",
@@ -768,211 +563,6 @@
       "@context": "http://schema.org",
       "identifier": "1AFJAI",
       "defaultFamilySapDisplayName": "SHIRT LS DAY M"
-<<<<<<< HEAD
-=======
-    },
-    {
-      "productVisible": true,
-      "macroColor": "マロン",
-      "_links": {
-        "look": {
-          "href": "/api/catalog/jpn-jp/skus/1AFJ01/look"
-        },
-        "parent": {
-          "href": "/api/catalog/jpn-jp/product/nvprod4940245v"
-        },
-        "self": {
-          "href": "/api/catalog/jpn-jp/product/1AFJ01"
-        },
-        "perso-details": {
-          "href": "/api/catalog/jpn-jp/skus/1AFJ01/perso-detail"
-        },
-        "/api/rels/jpn-jp/add-to-cart-base/nvprod4940245v/1AFJ01/1": {
-          "name": "add-to-cart",
-          "href": "/api/cart/jpn-jp"
-        }
-      },
-      "@type": "ProductModel",
-      "identifierKey": "7001d69483d3d05b0efe3e1d10d56bdc",
-      "productDetailTabs": [],
-      "name": "エンブロイダードプリーツショーツ",
-      "packagingVariation": "",
-      "offers": {
-        "priceSpecification": {
-          "priceCurrency": "JPY",
-          "price": 430100
-        },
-        "@type": "Offer",
-        "price": "¥430,100"
-      },
-      "disambiguatingDescription": "2024春夏ファッションショーのランウェイに登場したモダンなひねりを効かせたエレガントなショーツ。LV シグネチャーを散りばめ、アーティスト ヘンリー･テイラーによる肖像画風のモチーフを精細な刺繍であしらいました。同シリーズのジャケットと合わせれば、洗練と遊び心が薫るシルエットに。本コレクションならではのダンディなテーマが際立つ1着です。<p>ご不明な点がございましたら、クライアントサービスまでお気軽にお問合せください。専任のクライアントアドバイザーが、素材やサイズなどの製品詳細、モデル着用イメージや関連アイテムのご案内など、お客様のご要望に合わせたスタイリング・アドバイスをご提供いたします。</p><p>また、サイズ違いなどによる返品・交換のご相談も承ります。詳細は<a href='https://jp.louisvuitton.com/jpn-jp/legal-privacy'><b>こちら。</b></a></p>",
-      "image": [
-        {
-          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-エンブロイダードプリーツショーツ--HQP65WIER809_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
-          "@type": "ImageObject",
-          "name": "Front view",
-          "@context": "http://schema.org"
-        },
-        {
-          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-エンブロイダードプリーツショーツ--HQP65WIER809_PM1_Worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
-          "@type": "ImageObject",
-          "name": "Worn view",
-          "@context": "http://schema.org"
-        },
-        {
-          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-エンブロイダードプリーツショーツ--HQP65WIER809_PM1_Ambiance view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
-          "@type": "ImageObject",
-          "name": "Ambiance view",
-          "@context": "http://schema.org"
-        },
-        {
-          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-エンブロイダードプリーツショーツ--HQP65WIER809_PM1_Cropped view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
-          "@type": "ImageObject",
-          "name": "Cropped view",
-          "@context": "http://schema.org"
-        },
-        {
-          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-エンブロイダードプリーツショーツ--HQP65WIER809_PM1_Cropped worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
-          "@type": "ImageObject",
-          "name": "Cropped worn view",
-          "@context": "http://schema.org"
-        }
-      ],
-      "url": "/jpn-jp/products/embroidered-pleated-shorts-nvprod4940245v",
-      "highEndTemplate": false,
-      "sizeDisplayName": "50",
-      "productId": "nvprod4940245v",
-      "hasLanguagePanel": false,
-      "additionalProperty": [
-        {
-          "@type": "PropertyValue",
-          "name": "colorIconURL",
-          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-RTW-Ebony.jpg"
-        },
-        {
-          "@type": "PropertyValue",
-          "name": "detailedDescription",
-          "value": "<ul><li>本体：ポリエステル 100%</li><li>オーバーサイズフィット</li><li>ヘンリー･テイラーの肖像画の刺繍</li><li>前後にプリーツ</li><li>サイドポケットx2</li><li>イタリア製</li><li>REF：HQP65WIER</li></ul>"
-        },
-        {
-          "@type": "PropertyValue",
-          "name": "englishProductName",
-          "value": "Embroidered Pleated Shorts"
-        },
-        {
-          "@type": "PropertyValue",
-          "name": "activateEngraving",
-          "value": false
-        },
-        {
-          "@type": "PropertyValue",
-          "name": "sellable",
-          "value": true
-        },
-        {
-          "@type": "PropertyValue",
-          "name": "cscSellable",
-          "value": true
-        },
-        {
-          "@type": "PropertyValue",
-          "name": "mom",
-          "value": false
-        },
-        {
-          "@type": "PropertyValue",
-          "name": "locateInStore",
-          "value": false
-        },
-        {
-          "@type": "PropertyValue",
-          "name": "materialGroupCode",
-          "value": "Z05"
-        },
-        {
-          "@type": "PropertyValue",
-          "name": "filterCategories",
-          "value": "Ready_To_Wear_Men"
-        },
-        {
-          "@type": "PropertyValue",
-          "name": "backOrderDisclaimer",
-          "value": true
-        },
-        {
-          "@type": "PropertyValue",
-          "name": "backOrderFullDeposit",
-          "value": false
-        },
-        {
-          "@type": "PropertyValue",
-          "name": "diamondEngravingEnabled",
-          "value": false
-        },
-        {
-          "@type": "PropertyValue",
-          "name": "tryOnEnabled",
-          "value": false
-        },
-        {
-          "@type": "PropertyValue",
-          "name": "video360Enabled",
-          "value": false
-        },
-        {
-          "@type": "PropertyValue",
-          "name": "isBundle",
-          "value": false
-        },
-        {
-          "@type": "PropertyValue",
-          "name": "eligibleToAgec",
-          "value": true
-        },
-        {
-          "@type": "PropertyValue",
-          "name": "hasLanguagePanel",
-          "value": false
-        }
-      ],
-      "category": [
-        {
-          "@type": "Thing",
-          "url": "/jpn-jp/men/_/N-t18ui4cq",
-          "alternateName": "men",
-          "name": "メンズ",
-          "identifier": "homme"
-        },
-        {
-          "@type": "Thing",
-          "url": "/jpn-jp/men/ready-to-wear/_/N-t1b9f3zb",
-          "alternateName": "ready-to-wear",
-          "name": "プレタポルテ(洋服)",
-          "identifier": "m-readytowear"
-        },
-        {
-          "@type": "Thing",
-          "url": "/jpn-jp/men/ready-to-wear/pants/_/N-tdylled",
-          "alternateName": "pants",
-          "name": "メンズ パンツ",
-          "identifier": "m-pants-mrtw"
-        }
-      ],
-      "careLink": {
-        "sections": []
-      },
-      "disclaimers": {
-        "customDisclaimer": false,
-        "value": "dynamic_shipping_warning_bo",
-        "popInContent": "dynamic_global_backorder_info_popin_content",
-        "popInTitle": "dynamic_global_backorder_info_popin_title"
-      },
-      "collectibles": false,
-      "color": "Ebony",
-      "@context": "http://schema.org",
-      "identifier": "1AFJ01",
-      "defaultFamilySapDisplayName": "SHORT M"
->>>>>>> f874bc27c744c01e3afa8224b3f1e7db3ee9b091
     }
   ],
   "_links": {
@@ -1024,11 +614,7 @@
         "unitText": "cm"
       },
       "productDetailTabs": [],
-<<<<<<< HEAD
       "name": "ネクタイ･ダミエ･ポップ",
-=======
-      "name": "ネクタイ・ダミエ・ポップ",
->>>>>>> f874bc27c744c01e3afa8224b3f1e7db3ee9b091
       "packagingVariation": "",
       "mainMaterial2": "SILK",
       "offers": {
@@ -1042,61 +628,37 @@
       "disambiguatingDescription": "ラグジュアリーな手触りのシルク100％の素材で仕立てた｢ネクタイ･ダミエ･ポップ｣。2024春夏メンズ･ファッションショーで披露された新たなダミエ･パターンを、モダンな魅力を放つ上品なベージュとブラウンが引き立てます。ビジネススタイルに欠かせないアイテムには、フランス語で｢Louis Vuitton Marque Déposée｣のシグネチャーが添えられています。",
       "image": [
         {
-<<<<<<< HEAD
           "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ネクタイ･ダミエ･ポップ--M79657_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
-=======
-          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ネクタイ・ダミエ・ポップ--M79657_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
->>>>>>> f874bc27c744c01e3afa8224b3f1e7db3ee9b091
           "@type": "ImageObject",
           "name": "Front view",
           "@context": "http://schema.org"
         },
         {
-<<<<<<< HEAD
           "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ネクタイ･ダミエ･ポップ--M79657_PM1_Worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
-=======
-          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ネクタイ・ダミエ・ポップ--M79657_PM1_Worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
->>>>>>> f874bc27c744c01e3afa8224b3f1e7db3ee9b091
           "@type": "ImageObject",
           "name": "Worn view",
           "@context": "http://schema.org"
         },
         {
-<<<<<<< HEAD
           "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ネクタイ･ダミエ･ポップ--M79657_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
-=======
-          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ネクタイ・ダミエ・ポップ--M79657_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
->>>>>>> f874bc27c744c01e3afa8224b3f1e7db3ee9b091
           "@type": "ImageObject",
           "name": "Side view",
           "@context": "http://schema.org"
         },
         {
-<<<<<<< HEAD
           "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ネクタイ･ダミエ･ポップ--M79657_PM1_Detail view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
-=======
-          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ネクタイ・ダミエ・ポップ--M79657_PM1_Detail view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
->>>>>>> f874bc27c744c01e3afa8224b3f1e7db3ee9b091
           "@type": "ImageObject",
           "name": "Detail view",
           "@context": "http://schema.org"
         },
         {
-<<<<<<< HEAD
           "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ネクタイ･ダミエ･ポップ--M79657_PM1_Back view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
-=======
-          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ネクタイ・ダミエ・ポップ--M79657_PM1_Back view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
->>>>>>> f874bc27c744c01e3afa8224b3f1e7db3ee9b091
           "@type": "ImageObject",
           "name": "Back view",
           "@context": "http://schema.org"
         },
         {
-<<<<<<< HEAD
           "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ネクタイ･ダミエ･ポップ--M79657_PM1_Cropped worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
-=======
-          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ネクタイ・ダミエ・ポップ--M79657_PM1_Cropped worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
->>>>>>> f874bc27c744c01e3afa8224b3f1e7db3ee9b091
           "@type": "ImageObject",
           "name": "Cropped worn view",
           "@context": "http://schema.org"
@@ -1276,11 +838,7 @@
         "unitText": "cm"
       },
       "productDetailTabs": [],
-<<<<<<< HEAD
       "name": "ソックス･ポケット ",
-=======
-      "name": "ソックス・ポケット ",
->>>>>>> f874bc27c744c01e3afa8224b3f1e7db3ee9b091
       "packagingVariation": "",
       "mainMaterial2": "COTTON",
       "offers": {
@@ -1294,31 +852,19 @@
       "disambiguatingDescription": "LV イニシャルを刻印した今シーズンを象徴するパール調のアクセサリーでアクセントを加えた｢ソックス･ポケット ｣。快適な履き心地のコットン100%の素材を使用し、スタイリッシュに仕立てました。ニュートラルなホワイトに伝統的なダミエ･パターンをさりげなく編み込んだ、カジュアルからフォーマルまであらゆる装いを引き立てるアイテムです。",
       "image": [
         {
-<<<<<<< HEAD
           "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ソックス･ポケット--M7355M_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
-=======
-          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ソックス・ポケット--M7355M_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
->>>>>>> f874bc27c744c01e3afa8224b3f1e7db3ee9b091
           "@type": "ImageObject",
           "name": "Front view",
           "@context": "http://schema.org"
         },
         {
-<<<<<<< HEAD
           "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ソックス･ポケット--M7355M_PM1_Detail view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
-=======
-          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ソックス・ポケット--M7355M_PM1_Detail view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
->>>>>>> f874bc27c744c01e3afa8224b3f1e7db3ee9b091
           "@type": "ImageObject",
           "name": "Detail view",
           "@context": "http://schema.org"
         },
         {
-<<<<<<< HEAD
           "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ソックス･ポケット--M7355M_PM1_Back view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
-=======
-          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ソックス・ポケット--M7355M_PM1_Back view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
->>>>>>> f874bc27c744c01e3afa8224b3f1e7db3ee9b091
           "@type": "ImageObject",
           "name": "Back view",
           "@context": "http://schema.org"
