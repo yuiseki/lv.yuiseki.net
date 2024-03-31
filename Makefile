@@ -31,7 +31,7 @@ tmp/sitemap.html:
 
 tmp/collections.txt:
 	cat tmp/homepage.html | htmlq --attribute href a | grep "N-" | rev | cut -d '/' -f 1 | rev | sed -e 's/N-//' > tmp/collections.txt
-	cat tmp/sitemap.html | htmlq --attribute href a | grep "N-" | rev | cut -d '/' -f 1 | rev | sed -e 's/N-//' >> tmp/collections.txt
+	# cat tmp/sitemap.html | htmlq --attribute href a | grep "N-" | rev | cut -d '/' -f 1 | rev | sed -e 's/N-//' >> tmp/collections.txt
 	cat tmp/collections.txt | sort | uniq > tmp/collections_uniq.txt
 
 .PHONY: fetch_homepage
