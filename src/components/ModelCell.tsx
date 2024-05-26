@@ -126,7 +126,6 @@ export const ModelCell: React.FC<{ productId: string; model: any }> =
             }}
           >
             <img
-              loading="lazy"
               sizes="656px"
               style={{
                 height: "100%",

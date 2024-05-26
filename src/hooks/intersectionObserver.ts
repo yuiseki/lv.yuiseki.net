@@ -1,5 +1,4 @@
-import { useCallback, useEffect, useRef } from 'react';
-
+import { useCallback, useEffect, useRef } from "react";
 
 export const useIntersectionObserver = (
   targetRef: React.RefObject<HTMLElement>,
@@ -22,8 +21,8 @@ export const useIntersectionObserver = (
   const observerRef = useRef(
     new IntersectionObserver(callback, {
       root: targetRef.current,
-      rootMargin: '15px',
-      threshold: 0.5,
+      rootMargin: "30px",
+      threshold: 0.0,
     })
   );
 
