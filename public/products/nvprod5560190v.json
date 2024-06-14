@@ -1,0 +1,622 @@
+{
+  "model": [
+    {
+      "productVisible": true,
+      "macroColor": "マロン",
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/1AFUDE/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod5560190v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/1AFUDE"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/1AFUDE/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod5560190v/1AFUDE/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "@type": "ProductModel",
+      "identifierKey": "301baa31765467cca265f5ebd7802b52",
+      "productDetailTabs": [],
+      "name": "シグネチャーショートリバーシブルラップコート",
+      "packagingVariation": "",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 1727000
+        },
+        "@type": "Offer",
+        "price": "¥1,727,000"
+      },
+      "disambiguatingDescription": "<br><br>ご不明な点がございましたら、クライアントサービスまでお気軽にお問合せください。専任のクライアントアドバイザーが、素材やサイズなどの製品詳細、モデル着用イメージや関連アイテムのご案内など、お客様のご要望に合わせたスタイリング・アドバイスをご提供いたします。<br>また、サイズ違いなどによる返品・交換のご相談も承ります。詳細は<a href='https://jp.louisvuitton.com/jpn-jp/legal-privacy'><b>こちら。</b></a>",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-シグネチャーショートリバーシブルラップコート-プレタポルテ-洋服--FRLC04TBH810_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-シグネチャーショートリバーシブルラップコート-プレタポルテ-洋服--FRLC04TBH810_PM1_Back view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Back view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/signature-short-reversible-wrap-coat-nvprod5560190v",
+      "highEndTemplate": false,
+      "sizeDisplayName": "34",
+      "productId": "nvprod5560190v",
+      "hasLanguagePanel": false,
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-RTW-810_marron_fonce.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>カラー：ブラウン</li><li>本体：羊革 80%、羊革 20%</li><li>イタリア製</li><li>REF：FRLC04TBH</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "Signature Short Reversible Wrap Coat"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z05"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Ready_To_Wear_Women"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "eligibleToAgec",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "hasLanguagePanel",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/_/N-tveguxb",
+          "alternateName": "women",
+          "name": "ウィメンズ",
+          "identifier": "femme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/ready-to-wear/_/N-t1kw5dkp",
+          "alternateName": "ready-to-wear",
+          "name": "プレタポルテ(洋服)",
+          "identifier": "w-readytowear"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/ready-to-wear/coats-and-jackets/_/N-t12kgz5u",
+          "alternateName": "coats-and-jackets",
+          "name": "ウィメンズ コート＆ジャケット",
+          "identifier": "w-jacketsandcoats-w"
+        }
+      ],
+      "careLink": {
+        "sections": []
+      },
+      "disclaimers": {
+        "customDisclaimer": false,
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "collectibles": false,
+      "color": "マロンフォンセ",
+      "@context": "http://schema.org",
+      "identifier": "1AFUDE",
+      "defaultFamilySapDisplayName": "VESTE CUIR W"
+    },
+    {
+      "productVisible": true,
+      "macroColor": "マロン",
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/1AFUDF/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod5560190v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/1AFUDF"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/1AFUDF/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod5560190v/1AFUDF/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "@type": "ProductModel",
+      "identifierKey": "ad012dbee8308ef031019ec7fa2d558e",
+      "productDetailTabs": [],
+      "name": "シグネチャーショートリバーシブルラップコート",
+      "packagingVariation": "",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 1727000
+        },
+        "@type": "Offer",
+        "price": "¥1,727,000"
+      },
+      "disambiguatingDescription": "<br><br>ご不明な点がございましたら、クライアントサービスまでお気軽にお問合せください。専任のクライアントアドバイザーが、素材やサイズなどの製品詳細、モデル着用イメージや関連アイテムのご案内など、お客様のご要望に合わせたスタイリング・アドバイスをご提供いたします。<br>また、サイズ違いなどによる返品・交換のご相談も承ります。詳細は<a href='https://jp.louisvuitton.com/jpn-jp/legal-privacy'><b>こちら。</b></a>",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-シグネチャーショートリバーシブルラップコート-プレタポルテ-洋服--FRLC04TBH810_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-シグネチャーショートリバーシブルラップコート-プレタポルテ-洋服--FRLC04TBH810_PM1_Back view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Back view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/signature-short-reversible-wrap-coat-nvprod5560190v",
+      "highEndTemplate": false,
+      "sizeDisplayName": "36",
+      "productId": "nvprod5560190v",
+      "hasLanguagePanel": false,
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-RTW-810_marron_fonce.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>カラー：ブラウン</li><li>本体：羊革 80%、羊革 20%</li><li>イタリア製</li><li>REF：FRLC04TBH</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "Signature Short Reversible Wrap Coat"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z05"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Ready_To_Wear_Women"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "eligibleToAgec",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "hasLanguagePanel",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/_/N-tveguxb",
+          "alternateName": "women",
+          "name": "ウィメンズ",
+          "identifier": "femme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/ready-to-wear/_/N-t1kw5dkp",
+          "alternateName": "ready-to-wear",
+          "name": "プレタポルテ(洋服)",
+          "identifier": "w-readytowear"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/ready-to-wear/coats-and-jackets/_/N-t12kgz5u",
+          "alternateName": "coats-and-jackets",
+          "name": "ウィメンズ コート＆ジャケット",
+          "identifier": "w-jacketsandcoats-w"
+        }
+      ],
+      "careLink": {
+        "sections": []
+      },
+      "disclaimers": {
+        "customDisclaimer": false,
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "collectibles": false,
+      "color": "マロンフォンセ",
+      "@context": "http://schema.org",
+      "identifier": "1AFUDF",
+      "defaultFamilySapDisplayName": "VESTE CUIR W"
+    },
+    {
+      "productVisible": true,
+      "macroColor": "マロン",
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/1AFUDG/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod5560190v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/1AFUDG"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/1AFUDG/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod5560190v/1AFUDG/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "@type": "ProductModel",
+      "identifierKey": "ec8f2acdf38b5bbc1453fbabfcc279a9",
+      "productDetailTabs": [],
+      "name": "シグネチャーショートリバーシブルラップコート",
+      "packagingVariation": "",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 1727000
+        },
+        "@type": "Offer",
+        "price": "¥1,727,000"
+      },
+      "disambiguatingDescription": "<br><br>ご不明な点がございましたら、クライアントサービスまでお気軽にお問合せください。専任のクライアントアドバイザーが、素材やサイズなどの製品詳細、モデル着用イメージや関連アイテムのご案内など、お客様のご要望に合わせたスタイリング・アドバイスをご提供いたします。<br>また、サイズ違いなどによる返品・交換のご相談も承ります。詳細は<a href='https://jp.louisvuitton.com/jpn-jp/legal-privacy'><b>こちら。</b></a>",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-シグネチャーショートリバーシブルラップコート-プレタポルテ-洋服--FRLC04TBH810_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-シグネチャーショートリバーシブルラップコート-プレタポルテ-洋服--FRLC04TBH810_PM1_Back view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Back view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/signature-short-reversible-wrap-coat-nvprod5560190v",
+      "highEndTemplate": false,
+      "sizeDisplayName": "38",
+      "productId": "nvprod5560190v",
+      "hasLanguagePanel": false,
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-RTW-810_marron_fonce.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>カラー：ブラウン</li><li>本体：羊革 80%、羊革 20%</li><li>イタリア製</li><li>REF：FRLC04TBH</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "Signature Short Reversible Wrap Coat"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z05"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Ready_To_Wear_Women"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "eligibleToAgec",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "hasLanguagePanel",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/_/N-tveguxb",
+          "alternateName": "women",
+          "name": "ウィメンズ",
+          "identifier": "femme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/ready-to-wear/_/N-t1kw5dkp",
+          "alternateName": "ready-to-wear",
+          "name": "プレタポルテ(洋服)",
+          "identifier": "w-readytowear"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/ready-to-wear/coats-and-jackets/_/N-t12kgz5u",
+          "alternateName": "coats-and-jackets",
+          "name": "ウィメンズ コート＆ジャケット",
+          "identifier": "w-jacketsandcoats-w"
+        }
+      ],
+      "careLink": {
+        "sections": []
+      },
+      "disclaimers": {
+        "customDisclaimer": false,
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "collectibles": false,
+      "color": "マロンフォンセ",
+      "@context": "http://schema.org",
+      "identifier": "1AFUDG",
+      "defaultFamilySapDisplayName": "VESTE CUIR W"
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "/api/catalog/jpn-jp/product/nvprod5560190v"
+    },
+    "push": {
+      "href": "/api/catalog/jpn-jp/product-push/nvprod5560190v"
+    },
+    "care-link": {
+      "href": "/api/catalog/jpn-jp/care-link/nvprod5560190v"
+    },
+    "size-guide": {
+      "href": "/api/catalog/jpn-jp/size-guide/nvprod5560190v"
+    },
+    "availability": {
+      "href": "/api/catalog/jpn-jp/availability/nvprod5560190v"
+    }
+  },
+  "@type": "Product",
+  "sku": "1AFUDF",
+  "isSimilarTo": [],
+  "productTips": [],
+  "url": "/jpn-jp/products/signature-short-reversible-wrap-coat-nvprod5560190v",
+  "category": [
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/women/_/N-tveguxb",
+      "alternateName": "women",
+      "name": "ウィメンズ",
+      "identifier": "femme"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/women/ready-to-wear/_/N-t1kw5dkp",
+      "alternateName": "ready-to-wear",
+      "name": "プレタポルテ(洋服)",
+      "identifier": "w-readytowear"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/women/ready-to-wear/coats-and-jackets/_/N-t12kgz5u",
+      "alternateName": "coats-and-jackets",
+      "name": "ウィメンズ コート＆ジャケット",
+      "identifier": "w-jacketsandcoats-w"
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "hidePrice",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "subType",
+      "value": "product"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "sizeGuide",
+      "value": true
+    }
+  ],
+  "name": "シグネチャーショートリバーシブルラップコート",
+  "isRelatedTo": [],
+  "@context": "http://schema.org",
+  "identifier": "nvprod5560190v"
+}

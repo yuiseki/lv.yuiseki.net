@@ -1,0 +1,779 @@
+{
+  "model": [
+    {
+      "productVisible": true,
+      "macroColor": "ブラック",
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/1AFV48/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod5560217v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/1AFV48"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/1AFV48/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod5560217v/1AFV48/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "@type": "ProductModel",
+      "identifierKey": "ff49cd84c07ef128740c51380f312536",
+      "productDetailTabs": [],
+      "name": "デイジープリントシルクスカート",
+      "packagingVariation": "",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 429000
+        },
+        "@type": "Offer",
+        "price": "¥429,000"
+      },
+      "disambiguatingDescription": "<br><br>ご不明な点がございましたら、クライアントサービスまでお気軽にお問合せください。専任のクライアントアドバイザーが、素材やサイズなどの製品詳細、モデル着用イメージや関連アイテムのご案内など、お客様のご要望に合わせたスタイリング・アドバイスをご提供いたします。<br>また、サイズ違いなどによる返品・交換のご相談も承ります。詳細は<a href='https://jp.louisvuitton.com/jpn-jp/legal-privacy'><b>こちら。</b></a>",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-デイジープリントシルクスカート-ウィメンズ-新着--FRSK38MOK900_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/daisy-print-silk-skirt-nvprod5560217v",
+      "highEndTemplate": false,
+      "sizeDisplayName": "34",
+      "productId": "nvprod5560217v",
+      "hasLanguagePanel": false,
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-RTW-900_noir.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>カラー：ブラック</li><li>本体：シルク 100%</li><li>イタリア製</li><li>REF：FRSK38MOK</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "Daisy Print Silk Skirt"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z05"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Ready_To_Wear_Women"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "eligibleToAgec",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "hasLanguagePanel",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/new/_/N-tlgzqru",
+          "alternateName": "new",
+          "name": "新着",
+          "identifier": "nvcat1830004v"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/new/for-women/_/N-t1j3oq9l",
+          "alternateName": "for-women",
+          "name": "ウィメンズ 新着",
+          "identifier": "nvcat1830005v"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/new/for-women/the-latest/_/N-t18gb9e5",
+          "alternateName": "the-latest",
+          "name": "ウィメンズ 新作コレクション",
+          "identifier": "nvcat2130003v"
+        }
+      ],
+      "careLink": {
+        "sections": []
+      },
+      "disclaimers": {
+        "customDisclaimer": false,
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "collectibles": false,
+      "color": "ノワール",
+      "@context": "http://schema.org",
+      "identifier": "1AFV48",
+      "defaultFamilySapDisplayName": "SKIRT DAY W"
+    },
+    {
+      "productVisible": true,
+      "macroColor": "ブラック",
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/1AFV49/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod5560217v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/1AFV49"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/1AFV49/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod5560217v/1AFV49/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "@type": "ProductModel",
+      "identifierKey": "5e97c90ecd9464f332318814b5ac6361",
+      "productDetailTabs": [],
+      "name": "デイジープリントシルクスカート",
+      "packagingVariation": "",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 429000
+        },
+        "@type": "Offer",
+        "price": "¥429,000"
+      },
+      "disambiguatingDescription": "<br><br>ご不明な点がございましたら、クライアントサービスまでお気軽にお問合せください。専任のクライアントアドバイザーが、素材やサイズなどの製品詳細、モデル着用イメージや関連アイテムのご案内など、お客様のご要望に合わせたスタイリング・アドバイスをご提供いたします。<br>また、サイズ違いなどによる返品・交換のご相談も承ります。詳細は<a href='https://jp.louisvuitton.com/jpn-jp/legal-privacy'><b>こちら。</b></a>",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-デイジープリントシルクスカート-ウィメンズ-新着--FRSK38MOK900_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/daisy-print-silk-skirt-nvprod5560217v",
+      "highEndTemplate": false,
+      "sizeDisplayName": "36",
+      "productId": "nvprod5560217v",
+      "hasLanguagePanel": false,
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-RTW-900_noir.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>カラー：ブラック</li><li>本体：シルク 100%</li><li>イタリア製</li><li>REF：FRSK38MOK</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "Daisy Print Silk Skirt"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z05"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Ready_To_Wear_Women"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "eligibleToAgec",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "hasLanguagePanel",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/new/_/N-tlgzqru",
+          "alternateName": "new",
+          "name": "新着",
+          "identifier": "nvcat1830004v"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/new/for-women/_/N-t1j3oq9l",
+          "alternateName": "for-women",
+          "name": "ウィメンズ 新着",
+          "identifier": "nvcat1830005v"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/new/for-women/the-latest/_/N-t18gb9e5",
+          "alternateName": "the-latest",
+          "name": "ウィメンズ 新作コレクション",
+          "identifier": "nvcat2130003v"
+        }
+      ],
+      "careLink": {
+        "sections": []
+      },
+      "disclaimers": {
+        "customDisclaimer": false,
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "collectibles": false,
+      "color": "ノワール",
+      "@context": "http://schema.org",
+      "identifier": "1AFV49",
+      "defaultFamilySapDisplayName": "SKIRT DAY W"
+    },
+    {
+      "productVisible": true,
+      "macroColor": "ブラック",
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/1AFV50/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod5560217v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/1AFV50"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/1AFV50/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod5560217v/1AFV50/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "@type": "ProductModel",
+      "identifierKey": "99180d9d637c252621b1766d1cb1b462",
+      "productDetailTabs": [],
+      "name": "デイジープリントシルクスカート",
+      "packagingVariation": "",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 429000
+        },
+        "@type": "Offer",
+        "price": "¥429,000"
+      },
+      "disambiguatingDescription": "<br><br>ご不明な点がございましたら、クライアントサービスまでお気軽にお問合せください。専任のクライアントアドバイザーが、素材やサイズなどの製品詳細、モデル着用イメージや関連アイテムのご案内など、お客様のご要望に合わせたスタイリング・アドバイスをご提供いたします。<br>また、サイズ違いなどによる返品・交換のご相談も承ります。詳細は<a href='https://jp.louisvuitton.com/jpn-jp/legal-privacy'><b>こちら。</b></a>",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-デイジープリントシルクスカート-ウィメンズ-新着--FRSK38MOK900_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/daisy-print-silk-skirt-nvprod5560217v",
+      "highEndTemplate": false,
+      "sizeDisplayName": "38",
+      "productId": "nvprod5560217v",
+      "hasLanguagePanel": false,
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-RTW-900_noir.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>カラー：ブラック</li><li>本体：シルク 100%</li><li>イタリア製</li><li>REF：FRSK38MOK</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "Daisy Print Silk Skirt"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z05"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Ready_To_Wear_Women"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "eligibleToAgec",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "hasLanguagePanel",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/new/_/N-tlgzqru",
+          "alternateName": "new",
+          "name": "新着",
+          "identifier": "nvcat1830004v"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/new/for-women/_/N-t1j3oq9l",
+          "alternateName": "for-women",
+          "name": "ウィメンズ 新着",
+          "identifier": "nvcat1830005v"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/new/for-women/the-latest/_/N-t18gb9e5",
+          "alternateName": "the-latest",
+          "name": "ウィメンズ 新作コレクション",
+          "identifier": "nvcat2130003v"
+        }
+      ],
+      "careLink": {
+        "sections": []
+      },
+      "disclaimers": {
+        "customDisclaimer": false,
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "collectibles": false,
+      "color": "ノワール",
+      "@context": "http://schema.org",
+      "identifier": "1AFV50",
+      "defaultFamilySapDisplayName": "SKIRT DAY W"
+    },
+    {
+      "productVisible": true,
+      "macroColor": "ブラック",
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/1AFV51/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod5560217v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/1AFV51"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/1AFV51/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod5560217v/1AFV51/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "@type": "ProductModel",
+      "identifierKey": "8ba6d6d343dd6e02e9c00289d038d4cf",
+      "productDetailTabs": [],
+      "name": "デイジープリントシルクスカート",
+      "packagingVariation": "",
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 429000
+        },
+        "@type": "Offer",
+        "price": "¥429,000"
+      },
+      "disambiguatingDescription": "<br><br>ご不明な点がございましたら、クライアントサービスまでお気軽にお問合せください。専任のクライアントアドバイザーが、素材やサイズなどの製品詳細、モデル着用イメージや関連アイテムのご案内など、お客様のご要望に合わせたスタイリング・アドバイスをご提供いたします。<br>また、サイズ違いなどによる返品・交換のご相談も承ります。詳細は<a href='https://jp.louisvuitton.com/jpn-jp/legal-privacy'><b>こちら。</b></a>",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-デイジープリントシルクスカート-ウィメンズ-新着--FRSK38MOK900_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/daisy-print-silk-skirt-nvprod5560217v",
+      "highEndTemplate": false,
+      "sizeDisplayName": "40",
+      "productId": "nvprod5560217v",
+      "hasLanguagePanel": false,
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-RTW-900_noir.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>カラー：ブラック</li><li>本体：シルク 100%</li><li>イタリア製</li><li>REF：FRSK38MOK</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "Daisy Print Silk Skirt"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z05"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Ready_To_Wear_Women"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "eligibleToAgec",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "hasLanguagePanel",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/new/_/N-tlgzqru",
+          "alternateName": "new",
+          "name": "新着",
+          "identifier": "nvcat1830004v"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/new/for-women/_/N-t1j3oq9l",
+          "alternateName": "for-women",
+          "name": "ウィメンズ 新着",
+          "identifier": "nvcat1830005v"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/new/for-women/the-latest/_/N-t18gb9e5",
+          "alternateName": "the-latest",
+          "name": "ウィメンズ 新作コレクション",
+          "identifier": "nvcat2130003v"
+        }
+      ],
+      "careLink": {
+        "sections": []
+      },
+      "disclaimers": {
+        "customDisclaimer": false,
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "collectibles": false,
+      "color": "ノワール",
+      "@context": "http://schema.org",
+      "identifier": "1AFV51",
+      "defaultFamilySapDisplayName": "SKIRT DAY W"
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "/api/catalog/jpn-jp/product/nvprod5560217v"
+    },
+    "push": {
+      "href": "/api/catalog/jpn-jp/product-push/nvprod5560217v"
+    },
+    "care-link": {
+      "href": "/api/catalog/jpn-jp/care-link/nvprod5560217v"
+    },
+    "availability": {
+      "href": "/api/catalog/jpn-jp/availability/nvprod5560217v"
+    }
+  },
+  "@type": "Product",
+  "sku": "1AFV49",
+  "isSimilarTo": [],
+  "productTips": [],
+  "url": "/jpn-jp/products/daisy-print-silk-skirt-nvprod5560217v",
+  "category": [
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/new/_/N-tlgzqru",
+      "alternateName": "new",
+      "name": "新着",
+      "identifier": "nvcat1830004v"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/new/for-women/_/N-t1j3oq9l",
+      "alternateName": "for-women",
+      "name": "ウィメンズ 新着",
+      "identifier": "nvcat1830005v"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/new/for-women/the-latest/_/N-t18gb9e5",
+      "alternateName": "the-latest",
+      "name": "ウィメンズ 新作コレクション",
+      "identifier": "nvcat2130003v"
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "hidePrice",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "subType",
+      "value": "product"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "sizeGuide",
+      "value": false
+    }
+  ],
+  "name": "デイジープリントシルクスカート",
+  "isRelatedTo": [],
+  "@context": "http://schema.org",
+  "identifier": "nvprod5560217v"
+}
