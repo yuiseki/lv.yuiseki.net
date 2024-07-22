@@ -8,10 +8,19 @@ all: \
 	fetch_products_json \
 	build_search_csv
 
-user_agent = Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
-
-echo:
-	echo $(user_agent)
+curl_options = -s \
+  -H 'accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7' \
+  -H 'accept-language: ja-JP,ja;q=0.9' \
+  -H 'priority: u=0, i' \
+  -H 'sec-ch-ua: "Not/A)Brand";v="8", "Chromium";v="126", "Google Chrome";v="126"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: document' \
+  -H 'sec-fetch-mode: navigate' \
+  -H 'sec-fetch-site: none' \
+  -H 'sec-fetch-user: ?1' \
+  -H 'upgrade-insecure-requests: 1' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36'
 
 clean:
 	rm -f ./tmp/homepage.html
@@ -24,10 +33,10 @@ clean-all:
 	rm -f ./public/search_*.csv
 
 tmp/homepage.html:
-	curl -s -o tmp/homepage.html -H "User-Agent: $(user_agent)" https://jp.louisvuitton.com/jpn-jp/homepage
+	curl -o tmp/homepage.html $(curl_options) https://jp.louisvuitton.com/jpn-jp/homepage
 
 tmp/sitemap.html:
-	curl -s -o tmp/sitemap.html -H "User-Agent: $(user_agent)" https://jp.louisvuitton.com/jpn-jp/sitemap
+	curl -o tmp/sitemap.html $(curl_options) https://jp.louisvuitton.com/jpn-jp/sitemap
 
 tmp/collections.txt:
 	cat tmp/homepage.html | htmlq --attribute href a | grep "N-" | rev | cut -d '/' -f 1 | rev | sed -e 's/N-//' > tmp/collections.txt
