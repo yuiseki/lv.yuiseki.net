@@ -26,6 +26,9 @@ for collection in $collections; do
       -H 'sec-fetch-site: none' \
       -H 'sec-fetch-user: ?1' \
       -H 'upgrade-insecure-requests: 1' \
+      -H 'referer: https://jp.louisvuitton.com/jpn-jp/sitemap' \
+      -H 'client_id: 607e3016889f431fb8020693311016c9' \
+      -H 'client_secret: 60bbcdcD722D411B88cBb72C8246a22F' \
       -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36' \
       $url | jq . > $firstoutfile
   fi
@@ -60,6 +63,9 @@ for collection in $collections; do
         -H 'sec-fetch-site: none' \
         -H 'sec-fetch-user: ?1' \
         -H 'upgrade-insecure-requests: 1' \
+        -H 'referer: https://jp.louisvuitton.com/jpn-jp/sitemap' \
+        -H 'client_id: 607e3016889f431fb8020693311016c9' \
+        -H 'client_secret: 60bbcdcD722D411B88cBb72C8246a22F' \
         -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36' \
         $url | jq . > $outfile
     fi
