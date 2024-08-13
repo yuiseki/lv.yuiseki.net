@@ -10,7 +10,7 @@ for collection in $collections; do
   if [ ! -s $firstoutfile ]; then
     url="https://api.louisvuitton.com/eco-eu/search-merch-eapi/v1/jpn-jp/plp/products/$collection?page=0&attributes=brandContent"
     echo $url
-    sleep 1
+    sleep 0.1
 
     time curl \
       -s \
@@ -47,7 +47,7 @@ for collection in $collections; do
     if [ ! -s $outfile ]; then
       url="https://api.louisvuitton.com/eco-eu/search-merch-eapi/v1/jpn-jp/plp/products/$collection?page=$i&attributes=brandContent"
       echo $url
-      sleep 1
+      sleep 0.1
 
       time curl \
         -s \
