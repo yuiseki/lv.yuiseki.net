@@ -1,4 +1,4 @@
-import { Fragment, useEffect, useRef, useState } from "react";
+import { Fragment, useEffect, useState } from "react";
 import {
   Combobox,
   ComboboxButton,
@@ -7,11 +7,7 @@ import {
   ComboboxOptions,
   Transition,
 } from "@headlessui/react";
-import {
-  CheckIcon,
-  ChevronUpDownIcon,
-  XMarkIcon,
-} from "@heroicons/react/20/solid";
+import { ChevronUpDownIcon, XMarkIcon } from "@heroicons/react/20/solid";
 
 const suggestWords = [
   "ビジュー",
@@ -44,6 +40,9 @@ export const SearchQueryInput: React.FC<{
   //const [isActive, setIsActive] = useState(true);
 
   useEffect(() => {
+    if (value.length === 0) {
+      return;
+    }
     _onChange(value);
   }, [value]);
 
@@ -57,7 +56,10 @@ export const SearchQueryInput: React.FC<{
       <Combobox
         value={value}
         onChange={(selectedValue) => {
-          setValue(selectedValue ? selectedValue : "");
+          if (!selectedValue) {
+            return null;
+          }
+          setValue(selectedValue);
           setIsActive(false);
         }}
       >
