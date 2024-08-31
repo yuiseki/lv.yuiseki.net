@@ -1,5 +1,12 @@
 import { Fragment, useEffect, useRef, useState } from "react";
-import { Combobox, Transition } from "@headlessui/react";
+import {
+  Combobox,
+  ComboboxButton,
+  ComboboxInput,
+  ComboboxOption,
+  ComboboxOptions,
+  Transition,
+} from "@headlessui/react";
 import {
   CheckIcon,
   ChevronUpDownIcon,
@@ -50,7 +57,7 @@ export const SearchQueryInput: React.FC<{
       <Combobox
         value={value}
         onChange={(selectedValue) => {
-          setValue(selectedValue);
+          setValue(selectedValue ? selectedValue : "");
           setIsActive(false);
         }}
       >
@@ -75,7 +82,7 @@ export const SearchQueryInput: React.FC<{
                 alignContent: "center",
               }}
             >
-              <Combobox.Input
+              <ComboboxInput
                 as={Fragment}
                 displayValue={() => {
                   return value;
@@ -104,7 +111,7 @@ export const SearchQueryInput: React.FC<{
                     backgroundColor: "#f6f5f3",
                   }}
                 />
-              </Combobox.Input>
+              </ComboboxInput>
               {value.length > 0 && (
                 <button
                   onClick={() => {
@@ -124,7 +131,7 @@ export const SearchQueryInput: React.FC<{
                   />
                 </button>
               )}
-              <Combobox.Button
+              <ComboboxButton
                 onClick={() => setIsActive(true)}
                 style={{
                   display: "block",
@@ -137,7 +144,7 @@ export const SearchQueryInput: React.FC<{
                   style={{ height: "1.5em", width: "1.5em" }}
                   aria-hidden="true"
                 />
-              </Combobox.Button>
+              </ComboboxButton>
             </div>
             <div
               style={{
@@ -149,7 +156,7 @@ export const SearchQueryInput: React.FC<{
               }}
             >
               <Transition as={Fragment} show={isActive}>
-                <Combobox.Options
+                <ComboboxOptions
                   style={{
                     display: "block",
                     background: "#fff",
@@ -164,7 +171,7 @@ export const SearchQueryInput: React.FC<{
                   static
                 >
                   {suggestWords.map((word) => (
-                    <Combobox.Option
+                    <ComboboxOption
                       key={word}
                       value={word}
                       style={{
@@ -174,9 +181,9 @@ export const SearchQueryInput: React.FC<{
                       }}
                     >
                       {word}
-                    </Combobox.Option>
+                    </ComboboxOption>
                   ))}
-                </Combobox.Options>
+                </ComboboxOptions>
               </Transition>
             </div>
           </div>
