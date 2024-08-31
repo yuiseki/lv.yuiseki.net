@@ -229,6 +229,9 @@ function App() {
                 >
                   <SearchQueryInput
                     onChange={(value) => {
+                      if (!value || value.length === 0) {
+                        return;
+                      }
                       debounce(() => {
                         setDebouncedQuery(value);
                       });
