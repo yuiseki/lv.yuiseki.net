@@ -1,0 +1,928 @@
+{
+  "model": [
+    {
+      "kitFlag": false,
+      "productVisible": true,
+      "macroColor": "ブラック",
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/M7792S/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod5760064v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/M7792S"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/M7792S/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod5760064v/M7792S/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "@type": "ProductModel",
+      "identifierKey": "3a3c3dd50a499945ee185414c768dfee",
+      "commercialTag": "フライト･モード",
+      "height": {
+        "@type": "QuantitativeValue",
+        "value": 20,
+        "unitText": "cm"
+      },
+      "productDetailTabs": [],
+      "name": "ハット･LV フラフィー",
+      "packagingVariation": "",
+      "mainMaterial2": "MOHAIR",
+      "kitExclusivity": false,
+      "width": {
+        "@type": "QuantitativeValue",
+        "value": 25,
+        "unitText": "cm"
+      },
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 84700
+        },
+        "@type": "Offer",
+        "price": "¥84,700"
+      },
+      "disambiguatingDescription": "トレンディなベルシェイプと特徴的なメゾンのシグネチャーが際立つ、ファッショナブルな雰囲気と機能性を兼ね備えた｢ハット･LV フラフィー｣。モヘアとメリノウールのラグジュアリーな混紡素材で仕上げ、クラウンには2つのモノグラム･フラワーを両脇に配した定番のLV イニシャルの刺繍が丁寧にあしらわれています。あらゆる冬の装いに目を引く印象を添える、暖かくとても快適なハットです。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ハット･lv-フラフィー-s00-帽子＆手袋--M7792S_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ハット･lv-フラフィー-s00-帽子＆手袋--M7792S_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ハット･lv-フラフィー-s00-帽子＆手袋--M7792S_PM1_Back view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Back view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/lv-fluffy-hat-s00-nvprod5760064v",
+      "material": "MOHAIR WOOL",
+      "highEndTemplate": false,
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 25,
+        "unitText": "cm"
+      },
+      "sizeDisplayName": "S",
+      "productId": "nvprod5760064v",
+      "hasLanguagePanel": false,
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-SHO-980_noir.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>カラー：ブラック</li><li>素材：モヘア 50%、ナイロン 32%、メリノウール 18%</li><li>3つのシグネチャーの刺繍入り</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "LV Fluffy Hat"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories;Sunglasses"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "eligibleToAgec",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "newArrivalsDate",
+          "value": 1726790400000
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "hasLanguagePanel",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/_/N-tveguxb",
+          "alternateName": "women",
+          "name": "ウィメンズ",
+          "identifier": "femme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/accessories/_/N-toxp7l2",
+          "alternateName": "accessories",
+          "name": "アクセサリー",
+          "identifier": "w-category-cat10155"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/accessories/hats-and-gloves/_/N-tmixwg8",
+          "alternateName": "hats-and-gloves",
+          "name": "帽子＆手袋",
+          "identifier": "nvcat1710020v"
+        }
+      ],
+      "careLink": {
+        "sections": []
+      },
+      "disclaimers": {
+        "customDisclaimer": false,
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "collectibles": false,
+      "color": "ノワール",
+      "@context": "http://schema.org",
+      "identifier": "M7792S",
+      "defaultFamilySapDisplayName": "HAT"
+    },
+    {
+      "kitFlag": false,
+      "productVisible": true,
+      "macroColor": "ブラック",
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/M7792M/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod5760064v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/M7792M"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/M7792M/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod5760064v/M7792M/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "@type": "ProductModel",
+      "identifierKey": "4a02507f97015df9df9d66bd01e60a31",
+      "commercialTag": "フライト･モード",
+      "height": {
+        "@type": "QuantitativeValue",
+        "value": 20,
+        "unitText": "cm"
+      },
+      "productDetailTabs": [],
+      "name": "ハット･LV フラフィー",
+      "packagingVariation": "",
+      "mainMaterial2": "MOHAIR",
+      "kitExclusivity": false,
+      "width": {
+        "@type": "QuantitativeValue",
+        "value": 25,
+        "unitText": "cm"
+      },
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 84700
+        },
+        "@type": "Offer",
+        "price": "¥84,700"
+      },
+      "disambiguatingDescription": "トレンディなベルシェイプと特徴的なメゾンのシグネチャーが際立つ、ファッショナブルな雰囲気と機能性を兼ね備えた｢ハット･LV フラフィー｣。モヘアとメリノウールのラグジュアリーな混紡素材で仕上げ、クラウンには2つのモノグラム･フラワーを両脇に配した定番のLV イニシャルの刺繍が丁寧にあしらわれています。あらゆる冬の装いに目を引く印象を添える、暖かくとても快適なハットです。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ハット･lv-フラフィー-s00-帽子＆手袋--M7792M_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ハット･lv-フラフィー-s00-帽子＆手袋--M7792M_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ハット･lv-フラフィー-s00-帽子＆手袋--M7792M_PM1_Back view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Back view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/lv-fluffy-hat-s00-nvprod5760064v",
+      "material": "MOHAIR WOOL",
+      "highEndTemplate": false,
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 25,
+        "unitText": "cm"
+      },
+      "sizeDisplayName": "M",
+      "productId": "nvprod5760064v",
+      "hasLanguagePanel": false,
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-SHO-980_noir.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>カラー：ブラック</li><li>素材：モヘア 50%、ナイロン 32%、メリノウール 18%</li><li>3つのシグネチャーの刺繍入り</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "LV Fluffy Hat"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories;Sunglasses"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "eligibleToAgec",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "newArrivalsDate",
+          "value": 1726790400000
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "hasLanguagePanel",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/_/N-tveguxb",
+          "alternateName": "women",
+          "name": "ウィメンズ",
+          "identifier": "femme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/accessories/_/N-toxp7l2",
+          "alternateName": "accessories",
+          "name": "アクセサリー",
+          "identifier": "w-category-cat10155"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/accessories/hats-and-gloves/_/N-tmixwg8",
+          "alternateName": "hats-and-gloves",
+          "name": "帽子＆手袋",
+          "identifier": "nvcat1710020v"
+        }
+      ],
+      "careLink": {
+        "sections": []
+      },
+      "disclaimers": {
+        "customDisclaimer": false,
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "collectibles": false,
+      "color": "ノワール",
+      "@context": "http://schema.org",
+      "identifier": "M7792M",
+      "defaultFamilySapDisplayName": "HAT"
+    },
+    {
+      "kitFlag": false,
+      "productVisible": true,
+      "macroColor": "ベージュ",
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/M1184S/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod5760064v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/M1184S"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/M1184S/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod5760064v/M1184S/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "@type": "ProductModel",
+      "identifierKey": "d7186eef4f7ec03145de550f68138950",
+      "commercialTag": "フライト･モード",
+      "height": {
+        "@type": "QuantitativeValue",
+        "value": 20,
+        "unitText": "cm"
+      },
+      "productDetailTabs": [],
+      "name": "ハット･LV フラフィー",
+      "packagingVariation": "",
+      "mainMaterial2": "MOHAIR",
+      "kitExclusivity": false,
+      "width": {
+        "@type": "QuantitativeValue",
+        "value": 25,
+        "unitText": "cm"
+      },
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 84700
+        },
+        "@type": "Offer",
+        "price": "¥84,700"
+      },
+      "disambiguatingDescription": "トレンディなベルシェイプと特徴的なメゾンのシグネチャーが際立つ、ファッショナブルな雰囲気と機能性を兼ね備えた｢ハット･LV フラフィー｣。モヘアとメリノウールのラグジュアリーな混紡素材で仕上げ、クラウンには2つのモノグラム･フラワーを両脇に配した定番のLV イニシャルの刺繍が丁寧にあしらわれています。あらゆる冬の装いに目を引く印象を添える、暖かくとても快適なハットです。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ハット･lv-フラフィー-s00-帽子＆手袋--M1184S_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ハット･lv-フラフィー-s00-帽子＆手袋--M1184S_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ハット･lv-フラフィー-s00-帽子＆手袋--M1184S_PM1_Back view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Back view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/lv-fluffy-hat-s00-nvprod5760064v",
+      "material": "MOHAIR WOOL",
+      "highEndTemplate": false,
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 25,
+        "unitText": "cm"
+      },
+      "sizeDisplayName": "S",
+      "productId": "nvprod5760064v",
+      "hasLanguagePanel": false,
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-ACC-9AG_safran.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>カラー：ベージュ</li><li>素材：モヘア 50%、ナイロン 32%、メリノウール 18%</li><li>3つのシグネチャーの刺繍入り</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "LV Fluffy Hat"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories;Sunglasses"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "eligibleToAgec",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "newArrivalsDate",
+          "value": 1726790400000
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "hasLanguagePanel",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/_/N-tveguxb",
+          "alternateName": "women",
+          "name": "ウィメンズ",
+          "identifier": "femme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/accessories/_/N-toxp7l2",
+          "alternateName": "accessories",
+          "name": "アクセサリー",
+          "identifier": "w-category-cat10155"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/accessories/hats-and-gloves/_/N-tmixwg8",
+          "alternateName": "hats-and-gloves",
+          "name": "帽子＆手袋",
+          "identifier": "nvcat1710020v"
+        }
+      ],
+      "careLink": {
+        "sections": []
+      },
+      "disclaimers": {
+        "customDisclaimer": false,
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "collectibles": false,
+      "color": "サフラン",
+      "@context": "http://schema.org",
+      "identifier": "M1184S",
+      "defaultFamilySapDisplayName": "HAT"
+    },
+    {
+      "kitFlag": false,
+      "productVisible": true,
+      "macroColor": "ベージュ",
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/M1184M/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod5760064v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/M1184M"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/M1184M/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod5760064v/M1184M/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "@type": "ProductModel",
+      "identifierKey": "15ce3b678e3f1ec9985f66a1972b8099",
+      "commercialTag": "フライト･モード",
+      "height": {
+        "@type": "QuantitativeValue",
+        "value": 20,
+        "unitText": "cm"
+      },
+      "productDetailTabs": [],
+      "name": "ハット･LV フラフィー",
+      "packagingVariation": "",
+      "mainMaterial2": "MOHAIR",
+      "kitExclusivity": false,
+      "width": {
+        "@type": "QuantitativeValue",
+        "value": 25,
+        "unitText": "cm"
+      },
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 84700
+        },
+        "@type": "Offer",
+        "price": "¥84,700"
+      },
+      "disambiguatingDescription": "トレンディなベルシェイプと特徴的なメゾンのシグネチャーが際立つ、ファッショナブルな雰囲気と機能性を兼ね備えた｢ハット･LV フラフィー｣。モヘアとメリノウールのラグジュアリーな混紡素材で仕上げ、クラウンには2つのモノグラム･フラワーを両脇に配した定番のLV イニシャルの刺繍が丁寧にあしらわれています。あらゆる冬の装いに目を引く印象を添える、暖かくとても快適なハットです。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ハット･lv-フラフィー-s00-帽子＆手袋--M1184M_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ハット･lv-フラフィー-s00-帽子＆手袋--M1184M_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ハット･lv-フラフィー-s00-帽子＆手袋--M1184M_PM1_Back view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Back view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/lv-fluffy-hat-s00-nvprod5760064v",
+      "material": "MOHAIR WOOL",
+      "highEndTemplate": false,
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 25,
+        "unitText": "cm"
+      },
+      "sizeDisplayName": "M",
+      "productId": "nvprod5760064v",
+      "hasLanguagePanel": false,
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-ACC-9AG_safran.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>カラー：ベージュ</li><li>素材：モヘア 50%、ナイロン 32%、メリノウール 18%</li><li>3つのシグネチャーの刺繍入り</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "LV Fluffy Hat"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories;Sunglasses"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "eligibleToAgec",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "newArrivalsDate",
+          "value": 1726790400000
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "hasLanguagePanel",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/_/N-tveguxb",
+          "alternateName": "women",
+          "name": "ウィメンズ",
+          "identifier": "femme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/accessories/_/N-toxp7l2",
+          "alternateName": "accessories",
+          "name": "アクセサリー",
+          "identifier": "w-category-cat10155"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/accessories/hats-and-gloves/_/N-tmixwg8",
+          "alternateName": "hats-and-gloves",
+          "name": "帽子＆手袋",
+          "identifier": "nvcat1710020v"
+        }
+      ],
+      "careLink": {
+        "sections": []
+      },
+      "disclaimers": {
+        "customDisclaimer": false,
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "collectibles": false,
+      "color": "サフラン",
+      "@context": "http://schema.org",
+      "identifier": "M1184M",
+      "defaultFamilySapDisplayName": "HAT"
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "/api/catalog/jpn-jp/product/nvprod5760064v"
+    },
+    "push": {
+      "href": "/api/catalog/jpn-jp/product-push/nvprod5760064v"
+    },
+    "care-link": {
+      "href": "/api/catalog/jpn-jp/care-link/nvprod5760064v"
+    },
+    "availability": {
+      "href": "/api/catalog/jpn-jp/availability/nvprod5760064v"
+    }
+  },
+  "@type": "Product",
+  "sku": "M1184M",
+  "isSimilarTo": [],
+  "productTips": [],
+  "url": "/jpn-jp/products/lv-fluffy-hat-s00-nvprod5760064v",
+  "material": "NOT APPLICABLE ACC",
+  "category": [
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/women/_/N-tveguxb",
+      "alternateName": "women",
+      "name": "ウィメンズ",
+      "identifier": "femme"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/women/accessories/_/N-toxp7l2",
+      "alternateName": "accessories",
+      "name": "アクセサリー",
+      "identifier": "w-category-cat10155"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/women/accessories/hats-and-gloves/_/N-tmixwg8",
+      "alternateName": "hats-and-gloves",
+      "name": "帽子＆手袋",
+      "identifier": "nvcat1710020v"
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "hidePrice",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "subType",
+      "value": "product"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "sizeGuide",
+      "value": false
+    }
+  ],
+  "name": "ハット･LV フラフィー",
+  "isRelatedTo": [],
+  "@context": "http://schema.org",
+  "identifier": "nvprod5760064v"
+}
