@@ -1,0 +1,949 @@
+{
+  "model": [
+    {
+      "kitFlag": false,
+      "productVisible": true,
+      "macroColor": "マロン",
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/GI1175/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod5880138v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/GI1175"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/GI1175/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod5880138v/GI1175/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "@type": "ProductModel",
+      "identifierKey": "53137df4ab9a00136b87d5b4094cc5e9",
+      "height": {
+        "@type": "QuantitativeValue",
+        "value": 14.5,
+        "unitText": "cm"
+      },
+      "productDetailTabs": [],
+      "name": "ローラーボールペン･ドック",
+      "packagingVariation": "",
+      "mainMaterial2": "BRASS",
+      "kitExclusivity": false,
+      "width": {
+        "@type": "QuantitativeValue",
+        "value": 1.8,
+        "unitText": "cm"
+      },
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 160600
+        },
+        "@type": "Offer",
+        "price": "¥160,600"
+      },
+      "disambiguatingDescription": "<BR>",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ローラーボールペン･ドック-書籍-ステーショナリー--GI1175_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ローラーボールペン･ドック-書籍-ステーショナリー--GI1175_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ローラーボールペン･ドック-書籍-ステーショナリー--GI1175_PM1_Interior view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Interior view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ローラーボールペン･ドック-書籍-ステーショナリー--GI1175_PM1_Detail view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Detail view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/doc-rollerball-pen-nvprod5880138v",
+      "material": "LEATHER",
+      "highEndTemplate": false,
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 1.5,
+        "unitText": "cm"
+      },
+      "productId": "nvprod5880138v",
+      "hasLanguagePanel": false,
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-ACC-Monogram.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>カラー：モノグラム</li><li>サイズ：1.57 x 1.87 x 14.5 cm</li><li>素材：アクリル、レザー(皮革の種類：牛革)</li><li>ゴールド仕上げ</li><li>ブラックインクリフィル付属</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "Doc Rollerball Pen"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories;Sunglasses"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "eligibleToAgec",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "newArrivalsDate",
+          "value": 1730332800000
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "hasLanguagePanel",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/trunks-travel-and-home/_/N-tmb5aeq",
+          "alternateName": "trunks-travel-and-home",
+          "name": "トランク、トラベル & ホーム",
+          "identifier": "nvcat1840004v"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/trunks-travel-and-home/library/_/N-taxtu88",
+          "alternateName": "books-and-stationery",
+          "name": "書籍 & ステーショナリー",
+          "identifier": "nvcat1840009v"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/trunks-travel-and-home/library/office-and-writing/_/N-tmmwrir",
+          "alternateName": "office-and-writing",
+          "name": "オフィス & ステーショナリー",
+          "identifier": "nvcat1840026v"
+        }
+      ],
+      "careLink": {
+        "sections": []
+      },
+      "disclaimers": {
+        "customDisclaimer": false,
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "collectibles": false,
+      "color": "モノグラム",
+      "@context": "http://schema.org",
+      "identifier": "GI1175",
+      "defaultFamilySapDisplayName": "STATIONERY"
+    },
+    {
+      "kitFlag": false,
+      "productVisible": true,
+      "macroColor": "ブルー",
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/GI1231/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod5880138v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/GI1231"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/GI1231/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod5880138v/GI1231/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "@type": "ProductModel",
+      "identifierKey": "ba4213b5f2583f31e5469c43d8bed7de",
+      "height": {
+        "@type": "QuantitativeValue",
+        "value": 14.5,
+        "unitText": "cm"
+      },
+      "productDetailTabs": [],
+      "name": "ローラーボールペン･ドック",
+      "packagingVariation": "",
+      "mainMaterial2": "BRASS",
+      "kitExclusivity": false,
+      "width": {
+        "@type": "QuantitativeValue",
+        "value": 1.8,
+        "unitText": "cm"
+      },
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 160600
+        },
+        "@type": "Offer",
+        "price": "¥160,600"
+      },
+      "disambiguatingDescription": "<BR>",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ローラーボールペン･ドック-書籍-ステーショナリー--GI1231_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ローラーボールペン･ドック-書籍-ステーショナリー--GI1231_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ローラーボールペン･ドック-書籍-ステーショナリー--GI1231_PM1_Interior view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Interior view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ローラーボールペン･ドック-書籍-ステーショナリー--GI1231_PM1_Detail view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Detail view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/doc-rollerball-pen-nvprod5880138v",
+      "material": "LEATHER",
+      "highEndTemplate": false,
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 1.5,
+        "unitText": "cm"
+      },
+      "productId": "nvprod5880138v",
+      "hasLanguagePanel": false,
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-LG-IndigoBlue.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>カラー：インディゴブルー</li><li>サイズ：1.57 x 1.87 x 14.5 cm</li><li>素材：アクリル、レザー(皮革の種類：牛革)</li><li>シルバー仕上げ</li><li>ブラックインクリフィル付属</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "Doc Rollerball Pen"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories;Sunglasses"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "eligibleToAgec",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "newArrivalsDate",
+          "value": 1730332800000
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "hasLanguagePanel",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/trunks-travel-and-home/_/N-tmb5aeq",
+          "alternateName": "trunks-travel-and-home",
+          "name": "トランク、トラベル & ホーム",
+          "identifier": "nvcat1840004v"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/trunks-travel-and-home/library/_/N-taxtu88",
+          "alternateName": "books-and-stationery",
+          "name": "書籍 & ステーショナリー",
+          "identifier": "nvcat1840009v"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/trunks-travel-and-home/library/office-and-writing/_/N-tmmwrir",
+          "alternateName": "office-and-writing",
+          "name": "オフィス & ステーショナリー",
+          "identifier": "nvcat1840026v"
+        }
+      ],
+      "careLink": {
+        "sections": []
+      },
+      "disclaimers": {
+        "customDisclaimer": false,
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "collectibles": false,
+      "color": "アンディゴブルー",
+      "@context": "http://schema.org",
+      "identifier": "GI1231",
+      "defaultFamilySapDisplayName": "STATIONERY"
+    },
+    {
+      "kitFlag": false,
+      "productVisible": true,
+      "macroColor": "レッド",
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/GI1233/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod5880138v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/GI1233"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/GI1233/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod5880138v/GI1233/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "@type": "ProductModel",
+      "identifierKey": "bc1b3ec98eebf8bce9b77c33b183b004",
+      "height": {
+        "@type": "QuantitativeValue",
+        "value": 14.5,
+        "unitText": "cm"
+      },
+      "productDetailTabs": [],
+      "name": "ローラーボールペン･ドック",
+      "packagingVariation": "",
+      "mainMaterial2": "BRASS",
+      "kitExclusivity": false,
+      "width": {
+        "@type": "QuantitativeValue",
+        "value": 1.8,
+        "unitText": "cm"
+      },
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 160600
+        },
+        "@type": "Offer",
+        "price": "¥160,600"
+      },
+      "disambiguatingDescription": "<BR>",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ローラーボールペン･ドック-書籍-ステーショナリー--GI1233_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ローラーボールペン･ドック-書籍-ステーショナリー--GI1233_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ローラーボールペン･ドック-書籍-ステーショナリー--GI1233_PM1_Interior view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Interior view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ローラーボールペン･ドック-書籍-ステーショナリー--GI1233_PM1_Detail view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Detail view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/doc-rollerball-pen-nvprod5880138v",
+      "material": "LEATHER",
+      "highEndTemplate": false,
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 1.5,
+        "unitText": "cm"
+      },
+      "productId": "nvprod5880138v",
+      "hasLanguagePanel": false,
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-LG-Sari Red.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>カラー：サリー レッド</li><li>サイズ：1.57 x 1.87 x 14.5 cm</li><li>素材：アクリル、レザー(皮革の種類：牛革)</li><li>シルバー仕上げ</li><li>ブラックインクリフィル付属</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "Doc Rollerball Pen"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories;Sunglasses"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "eligibleToAgec",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "newArrivalsDate",
+          "value": 1730332800000
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "hasLanguagePanel",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/trunks-travel-and-home/_/N-tmb5aeq",
+          "alternateName": "trunks-travel-and-home",
+          "name": "トランク、トラベル & ホーム",
+          "identifier": "nvcat1840004v"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/trunks-travel-and-home/library/_/N-taxtu88",
+          "alternateName": "books-and-stationery",
+          "name": "書籍 & ステーショナリー",
+          "identifier": "nvcat1840009v"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/trunks-travel-and-home/library/office-and-writing/_/N-tmmwrir",
+          "alternateName": "office-and-writing",
+          "name": "オフィス & ステーショナリー",
+          "identifier": "nvcat1840026v"
+        }
+      ],
+      "careLink": {
+        "sections": []
+      },
+      "disclaimers": {
+        "customDisclaimer": false,
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "collectibles": false,
+      "color": "サリレッド",
+      "@context": "http://schema.org",
+      "identifier": "GI1233",
+      "defaultFamilySapDisplayName": "STATIONERY"
+    },
+    {
+      "kitFlag": false,
+      "productVisible": true,
+      "macroColor": "オレンジ",
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/GI1236/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod5880138v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/GI1236"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/GI1236/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod5880138v/GI1236/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "@type": "ProductModel",
+      "identifierKey": "43bc06ea61866b5b6b20fb3e1f6891d8",
+      "height": {
+        "@type": "QuantitativeValue",
+        "value": 14.5,
+        "unitText": "cm"
+      },
+      "productDetailTabs": [],
+      "name": "ローラーボールペン･ドック",
+      "packagingVariation": "",
+      "mainMaterial2": "BRASS",
+      "kitExclusivity": false,
+      "width": {
+        "@type": "QuantitativeValue",
+        "value": 1.8,
+        "unitText": "cm"
+      },
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 160600
+        },
+        "@type": "Offer",
+        "price": "¥160,600"
+      },
+      "disambiguatingDescription": "<BR>",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ローラーボールペン･ドック-書籍-ステーショナリー--GI1236_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ローラーボールペン･ドック-書籍-ステーショナリー--GI1236_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ローラーボールペン･ドック-書籍-ステーショナリー--GI1236_PM1_Interior view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Interior view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ローラーボールペン･ドック-書籍-ステーショナリー--GI1236_PM1_Detail view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Detail view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/doc-rollerball-pen-nvprod5880138v",
+      "material": "LEATHER",
+      "highEndTemplate": false,
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 1.5,
+        "unitText": "cm"
+      },
+      "productId": "nvprod5880138v",
+      "hasLanguagePanel": false,
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-LG-PondicheryPink.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>カラー：ポンディシェリー ピンク</li><li>サイズ：1.57 x 1.87 x 14.5 cm</li><li>素材：アクリル、レザー(皮革の種類：牛革)</li><li>シルバー仕上げ</li><li>ブラックインクリフィル付属</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "Doc Rollerball Pen"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories;Sunglasses"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "eligibleToAgec",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "newArrivalsDate",
+          "value": 1730332800000
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "hasLanguagePanel",
+          "value": false
+        }
+      ],
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/trunks-travel-and-home/_/N-tmb5aeq",
+          "alternateName": "trunks-travel-and-home",
+          "name": "トランク、トラベル & ホーム",
+          "identifier": "nvcat1840004v"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/trunks-travel-and-home/library/_/N-taxtu88",
+          "alternateName": "books-and-stationery",
+          "name": "書籍 & ステーショナリー",
+          "identifier": "nvcat1840009v"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/trunks-travel-and-home/library/office-and-writing/_/N-tmmwrir",
+          "alternateName": "office-and-writing",
+          "name": "オフィス & ステーショナリー",
+          "identifier": "nvcat1840026v"
+        }
+      ],
+      "careLink": {
+        "sections": []
+      },
+      "disclaimers": {
+        "customDisclaimer": false,
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "collectibles": false,
+      "color": "ポンディシェリピンク",
+      "@context": "http://schema.org",
+      "identifier": "GI1236",
+      "defaultFamilySapDisplayName": "STATIONERY"
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "/api/catalog/jpn-jp/product/nvprod5880138v"
+    },
+    "push": {
+      "href": "/api/catalog/jpn-jp/product-push/nvprod5880138v"
+    },
+    "care-link": {
+      "href": "/api/catalog/jpn-jp/care-link/nvprod5880138v"
+    },
+    "availability": {
+      "href": "/api/catalog/jpn-jp/availability/nvprod5880138v"
+    }
+  },
+  "@type": "Product",
+  "sku": "GI1175",
+  "isSimilarTo": [],
+  "productTips": [],
+  "url": "/jpn-jp/products/doc-rollerball-pen-nvprod5880138v",
+  "material": "SANS LIGNE ESTHETIQUE",
+  "category": [
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/trunks-travel-and-home/_/N-tmb5aeq",
+      "alternateName": "trunks-travel-and-home",
+      "name": "トランク、トラベル & ホーム",
+      "identifier": "nvcat1840004v"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/trunks-travel-and-home/library/_/N-taxtu88",
+      "alternateName": "books-and-stationery",
+      "name": "書籍 & ステーショナリー",
+      "identifier": "nvcat1840009v"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/trunks-travel-and-home/library/office-and-writing/_/N-tmmwrir",
+      "alternateName": "office-and-writing",
+      "name": "オフィス & ステーショナリー",
+      "identifier": "nvcat1840026v"
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "hidePrice",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "subType",
+      "value": "product"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "materialIconURL",
+      "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--AEL-LG-N00_sans_ligne_esthetique.jpg"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "sizeGuide",
+      "value": false
+    }
+  ],
+  "name": "ローラーボールペン･ドック",
+  "isRelatedTo": [],
+  "@context": "http://schema.org",
+  "identifier": "nvprod5880138v"
+}
