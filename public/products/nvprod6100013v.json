@@ -1,0 +1,814 @@
+{
+  "model": [
+    {
+      "kitFlag": false,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/M8927S/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod6100013v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/M8927S"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/M8927S/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod6100013v/M8927S/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ブラック",
+      "@type": "ProductModel",
+      "identifierKey": "34ca79062846f8a1aefb5375eccd4559",
+      "productDetailTabs": [],
+      "kitExclusivity": false,
+      "width": {
+        "@type": "QuantitativeValue",
+        "value": 3.5,
+        "unitText": "cm"
+      },
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 118800
+        },
+        "@type": "Offer",
+        "price": "¥118,800"
+      },
+      "disambiguatingDescription": "ビジネスカジュアルからフォーマルなルックまで、控えめで多用途に活躍する｢ベルト･LV ヘリテージ 35MM リバーシブル｣。ストラップには上質でエレガントなスムースレザーを使用しています。メゾンのイニシャルをフラット & モダンなスタイルで表現したLV ヘリテージのバックルを中央に配しました。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ベルト･lv-ヘリテージ-35mm-リバーシブル-メンズ･ベルト--M8927S_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ベルト･lv-ヘリテージ-35mm-リバーシブル-メンズ･ベルト--M8927S_PM1_Worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Worn view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ベルト･lv-ヘリテージ-35mm-リバーシブル-メンズ･ベルト--M8927S_PM1_Detail view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Detail view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ベルト･lv-ヘリテージ-35mm-リバーシブル-メンズ･ベルト--M8927S_PM1_Other view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Other view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ベルト･lv-ヘリテージ-35mm-リバーシブル-メンズ･ベルト--M8927S_PM1_Cropped worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Cropped worn view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 100,
+        "unitText": "cm"
+      },
+      "url": "/jpn-jp/products/lv-heritage-35mm-reversible-belt-nvprod6100013v",
+      "sizeDisplayName": "100 CM",
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-t18ui4cq",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/accessories/_/N-t11ae5nz",
+          "alternateName": "accessories",
+          "name": "アクセサリー",
+          "identifier": "m-category-cat10052"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/accessories/belts/_/N-t1g9dx5w",
+          "alternateName": "belts",
+          "name": "メンズ･ベルト",
+          "identifier": "m-category-cat1410153"
+        }
+      ],
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-ACC-980_black.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>カラー：ブラック</li><li>スムースレザーのストラップ</li><li>シルバーカラーのLV ヘリテージのバックル</li><li>スペイン製</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "LV Heritage 35mm Reversible Belt"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories;Sunglasses"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "eligibleToAgec",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "newArrivalsDate",
+          "value": 1740009600000
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "hasLanguagePanel",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "bannerList",
+          "value": [
+            {
+              "commercialBanner": "top_banner_content_category_1"
+            },
+            {
+              "commercialBanner": "top_banner_content_category_2"
+            },
+            {
+              "commercialBanner": "top_banner_content_category_3"
+            },
+            {
+              "commercialBanner": "top_banner_content_category_4"
+            }
+          ]
+        }
+      ],
+      "careLink": {
+        "sections": []
+      },
+      "collectibles": false,
+      "identifier": "M8927S",
+      "defaultFamilySapDisplayName": "CEINTURE MONTEE",
+      "productVisible": true,
+      "collection": "Z321",
+      "name": "ベルト･LV ヘリテージ 35MM リバーシブル",
+      "packagingVariation": "",
+      "mainMaterial2": "Calf",
+      "highEndTemplate": false,
+      "material": "CALF",
+      "productId": "nvprod6100013v",
+      "hasLanguagePanel": false,
+      "disclaimers": {
+        "customDisclaimer": false,
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "color": "ノワール",
+      "@context": "http://schema.org"
+    },
+    {
+      "kitFlag": false,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/M8927T/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod6100013v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/M8927T"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/M8927T/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod6100013v/M8927T/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ブラック",
+      "@type": "ProductModel",
+      "identifierKey": "619a99a30693d9ba2f9841e993f79e5f",
+      "productDetailTabs": [],
+      "kitExclusivity": false,
+      "width": {
+        "@type": "QuantitativeValue",
+        "value": 3.5,
+        "unitText": "cm"
+      },
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 118800
+        },
+        "@type": "Offer",
+        "price": "¥118,800"
+      },
+      "disambiguatingDescription": "ビジネスカジュアルからフォーマルなルックまで、控えめで多用途に活躍する｢ベルト･LV ヘリテージ 35MM リバーシブル｣。ストラップには上質でエレガントなスムースレザーを使用しています。メゾンのイニシャルをフラット & モダンなスタイルで表現したLV ヘリテージのバックルを中央に配しました。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ベルト･lv-ヘリテージ-35mm-リバーシブル-メンズ･ベルト--M8927T_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ベルト･lv-ヘリテージ-35mm-リバーシブル-メンズ･ベルト--M8927T_PM1_Worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Worn view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ベルト･lv-ヘリテージ-35mm-リバーシブル-メンズ･ベルト--M8927T_PM1_Detail view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Detail view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ベルト･lv-ヘリテージ-35mm-リバーシブル-メンズ･ベルト--M8927T_PM1_Other view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Other view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ベルト･lv-ヘリテージ-35mm-リバーシブル-メンズ･ベルト--M8927T_PM1_Cropped worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Cropped worn view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 95,
+        "unitText": "cm"
+      },
+      "url": "/jpn-jp/products/lv-heritage-35mm-reversible-belt-nvprod6100013v",
+      "sizeDisplayName": "95 CM",
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-t18ui4cq",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/accessories/_/N-t11ae5nz",
+          "alternateName": "accessories",
+          "name": "アクセサリー",
+          "identifier": "m-category-cat10052"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/accessories/belts/_/N-t1g9dx5w",
+          "alternateName": "belts",
+          "name": "メンズ･ベルト",
+          "identifier": "m-category-cat1410153"
+        }
+      ],
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-ACC-980_black.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>カラー：ブラック</li><li>スムースレザーのストラップ</li><li>シルバーカラーのLV ヘリテージのバックル</li><li>スペイン製</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "LV Heritage 35mm Reversible Belt"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories;Sunglasses"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "eligibleToAgec",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "newArrivalsDate",
+          "value": 1740009600000
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "hasLanguagePanel",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "bannerList",
+          "value": [
+            {
+              "commercialBanner": "top_banner_content_category_1"
+            },
+            {
+              "commercialBanner": "top_banner_content_category_2"
+            },
+            {
+              "commercialBanner": "top_banner_content_category_3"
+            },
+            {
+              "commercialBanner": "top_banner_content_category_4"
+            }
+          ]
+        }
+      ],
+      "careLink": {
+        "sections": []
+      },
+      "collectibles": false,
+      "identifier": "M8927T",
+      "defaultFamilySapDisplayName": "CEINTURE MONTEE",
+      "productVisible": true,
+      "collection": "Z321",
+      "name": "ベルト･LV ヘリテージ 35MM リバーシブル",
+      "packagingVariation": "",
+      "mainMaterial2": "Calf",
+      "highEndTemplate": false,
+      "material": "CALF",
+      "productId": "nvprod6100013v",
+      "hasLanguagePanel": false,
+      "disclaimers": {
+        "customDisclaimer": false,
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "color": "ノワール",
+      "@context": "http://schema.org"
+    },
+    {
+      "kitFlag": false,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/M8927U/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod6100013v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/M8927U"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/M8927U/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod6100013v/M8927U/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ブラック",
+      "@type": "ProductModel",
+      "identifierKey": "7001328dd3743aa1c6b77c15b66e8e01",
+      "productDetailTabs": [],
+      "kitExclusivity": false,
+      "width": {
+        "@type": "QuantitativeValue",
+        "value": 3.5,
+        "unitText": "cm"
+      },
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 118800
+        },
+        "@type": "Offer",
+        "price": "¥118,800"
+      },
+      "disambiguatingDescription": "ビジネスカジュアルからフォーマルなルックまで、控えめで多用途に活躍する｢ベルト･LV ヘリテージ 35MM リバーシブル｣。ストラップには上質でエレガントなスムースレザーを使用しています。メゾンのイニシャルをフラット & モダンなスタイルで表現したLV ヘリテージのバックルを中央に配しました。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ベルト･lv-ヘリテージ-35mm-リバーシブル-メンズ･ベルト--M8927U_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ベルト･lv-ヘリテージ-35mm-リバーシブル-メンズ･ベルト--M8927U_PM1_Worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Worn view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ベルト･lv-ヘリテージ-35mm-リバーシブル-メンズ･ベルト--M8927U_PM1_Detail view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Detail view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ベルト･lv-ヘリテージ-35mm-リバーシブル-メンズ･ベルト--M8927U_PM1_Other view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Other view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ベルト･lv-ヘリテージ-35mm-リバーシブル-メンズ･ベルト--M8927U_PM1_Cropped worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Cropped worn view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 90,
+        "unitText": "cm"
+      },
+      "url": "/jpn-jp/products/lv-heritage-35mm-reversible-belt-nvprod6100013v",
+      "sizeDisplayName": "90 CM",
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-t18ui4cq",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/accessories/_/N-t11ae5nz",
+          "alternateName": "accessories",
+          "name": "アクセサリー",
+          "identifier": "m-category-cat10052"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/accessories/belts/_/N-t1g9dx5w",
+          "alternateName": "belts",
+          "name": "メンズ･ベルト",
+          "identifier": "m-category-cat1410153"
+        }
+      ],
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-ACC-980_black.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>カラー：ブラック</li><li>スムースレザーのストラップ</li><li>シルバーカラーのLV ヘリテージのバックル</li><li>スペイン製</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "LV Heritage 35mm Reversible Belt"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories;Sunglasses"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "eligibleToAgec",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "newArrivalsDate",
+          "value": 1740009600000
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "hasLanguagePanel",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "bannerList",
+          "value": [
+            {
+              "commercialBanner": "top_banner_content_category_1"
+            },
+            {
+              "commercialBanner": "top_banner_content_category_2"
+            },
+            {
+              "commercialBanner": "top_banner_content_category_3"
+            },
+            {
+              "commercialBanner": "top_banner_content_category_4"
+            }
+          ]
+        }
+      ],
+      "careLink": {
+        "sections": []
+      },
+      "collectibles": false,
+      "identifier": "M8927U",
+      "defaultFamilySapDisplayName": "CEINTURE MONTEE",
+      "productVisible": true,
+      "collection": "Z321",
+      "name": "ベルト･LV ヘリテージ 35MM リバーシブル",
+      "packagingVariation": "",
+      "mainMaterial2": "Calf",
+      "highEndTemplate": false,
+      "material": "CALF",
+      "productId": "nvprod6100013v",
+      "hasLanguagePanel": false,
+      "disclaimers": {
+        "customDisclaimer": false,
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "color": "ノワール",
+      "@context": "http://schema.org"
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "/api/catalog/jpn-jp/product/nvprod6100013v"
+    },
+    "push": {
+      "href": "/api/catalog/jpn-jp/product-push/nvprod6100013v"
+    },
+    "care-link": {
+      "href": "/api/catalog/jpn-jp/care-link/nvprod6100013v"
+    },
+    "size-guide": {
+      "href": "/api/catalog/jpn-jp/size-guide/nvprod6100013v"
+    },
+    "availability": {
+      "href": "/api/catalog/jpn-jp/availability/nvprod6100013v"
+    }
+  },
+  "@type": "Product",
+  "sku": "M8927U",
+  "isSimilarTo": [],
+  "productTips": [],
+  "url": "/jpn-jp/products/lv-heritage-35mm-reversible-belt-nvprod6100013v",
+  "material": "SANS LIGNE ESTHETIQUE",
+  "category": [
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/_/N-t18ui4cq",
+      "alternateName": "men",
+      "name": "メンズ",
+      "identifier": "homme"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/accessories/_/N-t11ae5nz",
+      "alternateName": "accessories",
+      "name": "アクセサリー",
+      "identifier": "m-category-cat10052"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/accessories/belts/_/N-t1g9dx5w",
+      "alternateName": "belts",
+      "name": "メンズ･ベルト",
+      "identifier": "m-category-cat1410153"
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "hidePrice",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "subType",
+      "value": "product"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "materialIconURL",
+      "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--AEL-LG-N00_sans_ligne_esthetique.jpg"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "sizeGuide",
+      "value": true
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "bannerList",
+      "value": [
+        {
+          "commercialBanner": "top_banner_content_category_1"
+        },
+        {
+          "commercialBanner": "top_banner_content_category_2"
+        },
+        {
+          "commercialBanner": "top_banner_content_category_3"
+        },
+        {
+          "commercialBanner": "top_banner_content_category_4"
+        }
+      ]
+    }
+  ],
+  "name": "ベルト･LV ヘリテージ 35MM リバーシブル",
+  "isRelatedTo": [],
+  "@context": "http://schema.org",
+  "identifier": "nvprod6100013v"
+}

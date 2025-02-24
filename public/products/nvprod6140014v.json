@@ -1,0 +1,846 @@
+{
+  "model": [
+    {
+      "kitFlag": false,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/1AHGSN/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod6140014v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/1AHGSN"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/1AHGSN/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod6140014v/1AHGSN/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ブラック",
+      "@type": "ProductModel",
+      "identifierKey": "5be16a454ff89002074fb7db6e407aea",
+      "commercialTag": "近日発売予定",
+      "productDetailTabs": [],
+      "kitExclusivity": false,
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 456500
+        },
+        "@type": "Offer",
+        "price": "¥456,500"
+      },
+      "disambiguatingDescription": "<br><br>ご不明な点がございましたら、クライアントサービスまでお気軽にお問合せください。専任のクライアントアドバイザーが、素材やサイズなどの製品詳細、モデル着用イメージや関連アイテムのご案内など、お客様のご要望に合わせたスタイリング・アドバイスをご提供いたします。<br>また、サイズ違いなどによる返品・交換のご相談も承ります。詳細は<a href='https://jp.louisvuitton.com/jpn-jp/legal-privacy'><b>こちら。</b></a><br><br>※本製品は、2025年2月28日(金)より一部のルイ・ヴィトン ストアおよび公式サイトにて順次発売予定です。尚、入荷状況などにより、発売時期が前後する場合もございますので予めご了承ください。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ジュエルボタン-デニムウエストコート-プレタポルテ-洋服--FSVE53BT9900_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ジュエルボタン-デニムウエストコート-プレタポルテ-洋服--FSVE53BT9900_PM1_Cropped view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Cropped view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ジュエルボタン-デニムウエストコート-プレタポルテ-洋服--FSVE53BT9900_PM1_Cropped worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Cropped worn view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/jewel-button-denim-waistcoat-nvprod6140014v",
+      "sizeDisplayName": "34",
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/_/N-tveguxb",
+          "alternateName": "women",
+          "name": "ウィメンズ",
+          "identifier": "femme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/ready-to-wear/_/N-t1kw5dkp",
+          "alternateName": "ready-to-wear",
+          "name": "プレタポルテ(洋服)",
+          "identifier": "w-readytowear"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/ready-to-wear/coats-and-jackets/_/N-t12kgz5u",
+          "alternateName": "coats-and-jackets",
+          "name": "ウィメンズ コート＆ジャケット",
+          "identifier": "w-jacketsandcoats-w"
+        }
+      ],
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-RTW-900_noir.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<BR>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "Jewel Button Denim Waistcoat "
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z05"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Ready_To_Wear_Women"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "eligibleToAgec",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "hasLanguagePanel",
+          "value": false
+        }
+      ],
+      "careLink": {
+        "sections": []
+      },
+      "collectibles": false,
+      "identifier": "1AHGSN",
+      "defaultFamilySapDisplayName": "JACKET DAY W",
+      "productVisible": true,
+      "collection": "Z269",
+      "name": "ジュエルボタン デニムウエストコート",
+      "packagingVariation": "",
+      "highEndTemplate": false,
+      "productId": "nvprod6140014v",
+      "hasLanguagePanel": false,
+      "disclaimers": {
+        "customDisclaimer": false,
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "color": "ノワール",
+      "@context": "http://schema.org"
+    },
+    {
+      "kitFlag": false,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/1AHGSO/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod6140014v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/1AHGSO"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/1AHGSO/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod6140014v/1AHGSO/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ブラック",
+      "@type": "ProductModel",
+      "identifierKey": "432a44d1d588c8227dc2e9908a446088",
+      "commercialTag": "近日発売予定",
+      "productDetailTabs": [],
+      "kitExclusivity": false,
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 456500
+        },
+        "@type": "Offer",
+        "price": "¥456,500"
+      },
+      "disambiguatingDescription": "<br><br>ご不明な点がございましたら、クライアントサービスまでお気軽にお問合せください。専任のクライアントアドバイザーが、素材やサイズなどの製品詳細、モデル着用イメージや関連アイテムのご案内など、お客様のご要望に合わせたスタイリング・アドバイスをご提供いたします。<br>また、サイズ違いなどによる返品・交換のご相談も承ります。詳細は<a href='https://jp.louisvuitton.com/jpn-jp/legal-privacy'><b>こちら。</b></a><br><br>※本製品は、2025年2月28日(金)より一部のルイ・ヴィトン ストアおよび公式サイトにて順次発売予定です。尚、入荷状況などにより、発売時期が前後する場合もございますので予めご了承ください。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ジュエルボタン-デニムウエストコート-プレタポルテ-洋服--FSVE53BT9900_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ジュエルボタン-デニムウエストコート-プレタポルテ-洋服--FSVE53BT9900_PM1_Cropped view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Cropped view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ジュエルボタン-デニムウエストコート-プレタポルテ-洋服--FSVE53BT9900_PM1_Cropped worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Cropped worn view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/jewel-button-denim-waistcoat-nvprod6140014v",
+      "sizeDisplayName": "36",
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/_/N-tveguxb",
+          "alternateName": "women",
+          "name": "ウィメンズ",
+          "identifier": "femme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/ready-to-wear/_/N-t1kw5dkp",
+          "alternateName": "ready-to-wear",
+          "name": "プレタポルテ(洋服)",
+          "identifier": "w-readytowear"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/ready-to-wear/coats-and-jackets/_/N-t12kgz5u",
+          "alternateName": "coats-and-jackets",
+          "name": "ウィメンズ コート＆ジャケット",
+          "identifier": "w-jacketsandcoats-w"
+        }
+      ],
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-RTW-900_noir.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<BR>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "Jewel Button Denim Waistcoat "
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z05"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Ready_To_Wear_Women"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "eligibleToAgec",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "hasLanguagePanel",
+          "value": false
+        }
+      ],
+      "careLink": {
+        "sections": []
+      },
+      "collectibles": false,
+      "identifier": "1AHGSO",
+      "defaultFamilySapDisplayName": "JACKET DAY W",
+      "productVisible": true,
+      "collection": "Z269",
+      "name": "ジュエルボタン デニムウエストコート",
+      "packagingVariation": "",
+      "highEndTemplate": false,
+      "productId": "nvprod6140014v",
+      "hasLanguagePanel": false,
+      "disclaimers": {
+        "customDisclaimer": false,
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "color": "ノワール",
+      "@context": "http://schema.org"
+    },
+    {
+      "kitFlag": false,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/1AHGSP/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod6140014v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/1AHGSP"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/1AHGSP/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod6140014v/1AHGSP/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ブラック",
+      "@type": "ProductModel",
+      "identifierKey": "eebe08a78e3f0ca5f7a4ebf2ea637c2a",
+      "commercialTag": "近日発売予定",
+      "productDetailTabs": [],
+      "kitExclusivity": false,
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 456500
+        },
+        "@type": "Offer",
+        "price": "¥456,500"
+      },
+      "disambiguatingDescription": "<br><br>ご不明な点がございましたら、クライアントサービスまでお気軽にお問合せください。専任のクライアントアドバイザーが、素材やサイズなどの製品詳細、モデル着用イメージや関連アイテムのご案内など、お客様のご要望に合わせたスタイリング・アドバイスをご提供いたします。<br>また、サイズ違いなどによる返品・交換のご相談も承ります。詳細は<a href='https://jp.louisvuitton.com/jpn-jp/legal-privacy'><b>こちら。</b></a><br><br>※本製品は、2025年2月28日(金)より一部のルイ・ヴィトン ストアおよび公式サイトにて順次発売予定です。尚、入荷状況などにより、発売時期が前後する場合もございますので予めご了承ください。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ジュエルボタン-デニムウエストコート-プレタポルテ-洋服--FSVE53BT9900_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ジュエルボタン-デニムウエストコート-プレタポルテ-洋服--FSVE53BT9900_PM1_Cropped view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Cropped view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ジュエルボタン-デニムウエストコート-プレタポルテ-洋服--FSVE53BT9900_PM1_Cropped worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Cropped worn view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/jewel-button-denim-waistcoat-nvprod6140014v",
+      "sizeDisplayName": "38",
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/_/N-tveguxb",
+          "alternateName": "women",
+          "name": "ウィメンズ",
+          "identifier": "femme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/ready-to-wear/_/N-t1kw5dkp",
+          "alternateName": "ready-to-wear",
+          "name": "プレタポルテ(洋服)",
+          "identifier": "w-readytowear"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/ready-to-wear/coats-and-jackets/_/N-t12kgz5u",
+          "alternateName": "coats-and-jackets",
+          "name": "ウィメンズ コート＆ジャケット",
+          "identifier": "w-jacketsandcoats-w"
+        }
+      ],
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-RTW-900_noir.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<BR>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "Jewel Button Denim Waistcoat "
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z05"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Ready_To_Wear_Women"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "eligibleToAgec",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "hasLanguagePanel",
+          "value": false
+        }
+      ],
+      "careLink": {
+        "sections": []
+      },
+      "collectibles": false,
+      "identifier": "1AHGSP",
+      "defaultFamilySapDisplayName": "JACKET DAY W",
+      "productVisible": true,
+      "collection": "Z269",
+      "name": "ジュエルボタン デニムウエストコート",
+      "packagingVariation": "",
+      "highEndTemplate": false,
+      "productId": "nvprod6140014v",
+      "hasLanguagePanel": false,
+      "disclaimers": {
+        "customDisclaimer": false,
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "color": "ノワール",
+      "@context": "http://schema.org"
+    },
+    {
+      "kitFlag": false,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/1AHGSQ/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod6140014v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/1AHGSQ"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/1AHGSQ/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod6140014v/1AHGSQ/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ブラック",
+      "@type": "ProductModel",
+      "identifierKey": "d68b4612b2813472fdb00026030b305d",
+      "commercialTag": "近日発売予定",
+      "productDetailTabs": [],
+      "kitExclusivity": false,
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 456500
+        },
+        "@type": "Offer",
+        "price": "¥456,500"
+      },
+      "disambiguatingDescription": "<br><br>ご不明な点がございましたら、クライアントサービスまでお気軽にお問合せください。専任のクライアントアドバイザーが、素材やサイズなどの製品詳細、モデル着用イメージや関連アイテムのご案内など、お客様のご要望に合わせたスタイリング・アドバイスをご提供いたします。<br>また、サイズ違いなどによる返品・交換のご相談も承ります。詳細は<a href='https://jp.louisvuitton.com/jpn-jp/legal-privacy'><b>こちら。</b></a><br><br>※本製品は、2025年2月28日(金)より一部のルイ・ヴィトン ストアおよび公式サイトにて順次発売予定です。尚、入荷状況などにより、発売時期が前後する場合もございますので予めご了承ください。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ジュエルボタン-デニムウエストコート-プレタポルテ-洋服--FSVE53BT9900_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ジュエルボタン-デニムウエストコート-プレタポルテ-洋服--FSVE53BT9900_PM1_Cropped view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Cropped view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ジュエルボタン-デニムウエストコート-プレタポルテ-洋服--FSVE53BT9900_PM1_Cropped worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Cropped worn view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/jewel-button-denim-waistcoat-nvprod6140014v",
+      "sizeDisplayName": "40",
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/_/N-tveguxb",
+          "alternateName": "women",
+          "name": "ウィメンズ",
+          "identifier": "femme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/ready-to-wear/_/N-t1kw5dkp",
+          "alternateName": "ready-to-wear",
+          "name": "プレタポルテ(洋服)",
+          "identifier": "w-readytowear"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/ready-to-wear/coats-and-jackets/_/N-t12kgz5u",
+          "alternateName": "coats-and-jackets",
+          "name": "ウィメンズ コート＆ジャケット",
+          "identifier": "w-jacketsandcoats-w"
+        }
+      ],
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-RTW-900_noir.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<BR>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "Jewel Button Denim Waistcoat "
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z05"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Ready_To_Wear_Women"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "eligibleToAgec",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "hasLanguagePanel",
+          "value": false
+        }
+      ],
+      "careLink": {
+        "sections": []
+      },
+      "collectibles": false,
+      "identifier": "1AHGSQ",
+      "defaultFamilySapDisplayName": "JACKET DAY W",
+      "productVisible": true,
+      "collection": "Z269",
+      "name": "ジュエルボタン デニムウエストコート",
+      "packagingVariation": "",
+      "highEndTemplate": false,
+      "productId": "nvprod6140014v",
+      "hasLanguagePanel": false,
+      "disclaimers": {
+        "customDisclaimer": false,
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "color": "ノワール",
+      "@context": "http://schema.org"
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "/api/catalog/jpn-jp/product/nvprod6140014v"
+    },
+    "push": {
+      "href": "/api/catalog/jpn-jp/product-push/nvprod6140014v"
+    },
+    "care-link": {
+      "href": "/api/catalog/jpn-jp/care-link/nvprod6140014v"
+    },
+    "size-guide": {
+      "href": "/api/catalog/jpn-jp/size-guide/nvprod6140014v"
+    },
+    "availability": {
+      "href": "/api/catalog/jpn-jp/availability/nvprod6140014v"
+    }
+  },
+  "@type": "Product",
+  "sku": "1AHGSP",
+  "isSimilarTo": [],
+  "productTips": [],
+  "url": "/jpn-jp/products/jewel-button-denim-waistcoat-nvprod6140014v",
+  "category": [
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/women/_/N-tveguxb",
+      "alternateName": "women",
+      "name": "ウィメンズ",
+      "identifier": "femme"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/women/ready-to-wear/_/N-t1kw5dkp",
+      "alternateName": "ready-to-wear",
+      "name": "プレタポルテ(洋服)",
+      "identifier": "w-readytowear"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/women/ready-to-wear/coats-and-jackets/_/N-t12kgz5u",
+      "alternateName": "coats-and-jackets",
+      "name": "ウィメンズ コート＆ジャケット",
+      "identifier": "w-jacketsandcoats-w"
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "hidePrice",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "subType",
+      "value": "product"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "sizeGuide",
+      "value": true
+    }
+  ],
+  "name": "ジュエルボタン デニムウエストコート",
+  "isRelatedTo": [],
+  "@context": "http://schema.org",
+  "identifier": "nvprod6140014v"
+}
