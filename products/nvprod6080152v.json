@@ -1,0 +1,888 @@
+{
+  "model": [
+    {
+      "kitFlag": false,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/1AGMH7/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod6080152v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/1AGMH7"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/1AGMH7/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod6080152v/1AGMH7/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ブルー",
+      "@type": "ProductModel",
+      "identifierKey": "8d922c7c4538e5d6826168937f5d6af8",
+      "productDetailTabs": [],
+      "kitExclusivity": false,
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 709500
+        },
+        "@type": "Offer",
+        "price": "¥709,500"
+      },
+      "disambiguatingDescription": "リラックス感のあるルックにラグジュアリーな雰囲気をさりげなく添える、タイムレスなスエードのトラッカージャケット。しなやかなダブルフェイスのラムレザーを使用し、外側には柔らかなベロアを、内側にはスムースレザーをあしらいました。襟の裏や袖口、ウエストバンドにエンボス加工で施されたモノグラム･パターンをはじめとする控えめなシグネチャーが特徴。<br><br>ご不明な点がございましたら、クライアントサービスまでお気軽にお問合せください。専任のクライアントアドバイザーが、素材やサイズなどの製品詳細、モデル着用イメージや関連アイテムのご案内など、お客様のご要望に合わせたスタイリング・アドバイスをご提供いたします。<br>また、サイズ違いなどによる返品・交換のご相談も承ります。詳細は<a href='https://jp.louisvuitton.com/jpn-jp/legal-privacy'><b>こちら。</b></a>",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-スエード-デニムジャケット-プレタポルテ-洋服--HSL51EZLN631_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/suede-denim-jacket-nvprod6080152v",
+      "sizeDisplayName": "46",
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-t18ui4cq",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/ready-to-wear/_/N-t1b9f3zb",
+          "alternateName": "ready-to-wear",
+          "name": "プレタポルテ(洋服)",
+          "identifier": "m-readytowear"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/ready-to-wear/all-ready-to-wear/_/N-tmfgzj3",
+          "alternateName": "all-ready-to-wear",
+          "name": "すべてのメンズプレタポルテ(洋服)",
+          "identifier": "nvcat910171v"
+        }
+      ],
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-RTW-Midnight_Blue.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>レギュラーフィット</li><li>襟の裏、袖口、ウエストバンドにエンボス加工で施されたモノグラム･パターン</li><li>ダブルフェイスのラムレザー(外側にスエード、内側にスムースレザー)</li><li>サイドポケット × 2</li><li>前面にボタン付きフラップポケット × 2</li><li>ミッドナイトブルーの内側に隠しポケット × 2</li><li>本体：羊革 100%</li><li>イタリア製</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "Suede Denim Jacket"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z05"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Ready_To_Wear_Men"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "eligibleToAgec",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "hasLanguagePanel",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "bannerList",
+          "value": [
+            {
+              "commercialBanner": "top_banner_content_category_1"
+            },
+            {
+              "commercialBanner": "top_banner_content_category_2"
+            },
+            {
+              "commercialBanner": "top_banner_content_category_3"
+            },
+            {
+              "commercialBanner": "top_banner_content_category_4"
+            }
+          ]
+        }
+      ],
+      "careLink": {
+        "sections": []
+      },
+      "collectibles": false,
+      "identifier": "1AGMH7",
+      "defaultFamilySapDisplayName": "JACKET LEATHER M",
+      "productVisible": true,
+      "name": "スエード デニムジャケット",
+      "packagingVariation": "",
+      "highEndTemplate": false,
+      "productId": "nvprod6080152v",
+      "hasLanguagePanel": false,
+      "disclaimers": {
+        "customDisclaimer": false,
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "color": "Midnight Blue",
+      "@context": "http://schema.org"
+    },
+    {
+      "kitFlag": false,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/1AGMH8/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod6080152v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/1AGMH8"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/1AGMH8/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod6080152v/1AGMH8/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ブルー",
+      "@type": "ProductModel",
+      "identifierKey": "bc695e941051271a572f63e896a4ff29",
+      "productDetailTabs": [],
+      "kitExclusivity": false,
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 709500
+        },
+        "@type": "Offer",
+        "price": "¥709,500"
+      },
+      "disambiguatingDescription": "リラックス感のあるルックにラグジュアリーな雰囲気をさりげなく添える、タイムレスなスエードのトラッカージャケット。しなやかなダブルフェイスのラムレザーを使用し、外側には柔らかなベロアを、内側にはスムースレザーをあしらいました。襟の裏や袖口、ウエストバンドにエンボス加工で施されたモノグラム･パターンをはじめとする控えめなシグネチャーが特徴。<br><br>ご不明な点がございましたら、クライアントサービスまでお気軽にお問合せください。専任のクライアントアドバイザーが、素材やサイズなどの製品詳細、モデル着用イメージや関連アイテムのご案内など、お客様のご要望に合わせたスタイリング・アドバイスをご提供いたします。<br>また、サイズ違いなどによる返品・交換のご相談も承ります。詳細は<a href='https://jp.louisvuitton.com/jpn-jp/legal-privacy'><b>こちら。</b></a>",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-スエード-デニムジャケット-プレタポルテ-洋服--HSL51EZLN631_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/suede-denim-jacket-nvprod6080152v",
+      "sizeDisplayName": "48",
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-t18ui4cq",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/ready-to-wear/_/N-t1b9f3zb",
+          "alternateName": "ready-to-wear",
+          "name": "プレタポルテ(洋服)",
+          "identifier": "m-readytowear"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/ready-to-wear/all-ready-to-wear/_/N-tmfgzj3",
+          "alternateName": "all-ready-to-wear",
+          "name": "すべてのメンズプレタポルテ(洋服)",
+          "identifier": "nvcat910171v"
+        }
+      ],
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-RTW-Midnight_Blue.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>レギュラーフィット</li><li>襟の裏、袖口、ウエストバンドにエンボス加工で施されたモノグラム･パターン</li><li>ダブルフェイスのラムレザー(外側にスエード、内側にスムースレザー)</li><li>サイドポケット × 2</li><li>前面にボタン付きフラップポケット × 2</li><li>ミッドナイトブルーの内側に隠しポケット × 2</li><li>本体：羊革 100%</li><li>イタリア製</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "Suede Denim Jacket"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z05"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Ready_To_Wear_Men"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "eligibleToAgec",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "hasLanguagePanel",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "bannerList",
+          "value": [
+            {
+              "commercialBanner": "top_banner_content_category_1"
+            },
+            {
+              "commercialBanner": "top_banner_content_category_2"
+            },
+            {
+              "commercialBanner": "top_banner_content_category_3"
+            },
+            {
+              "commercialBanner": "top_banner_content_category_4"
+            }
+          ]
+        }
+      ],
+      "careLink": {
+        "sections": []
+      },
+      "collectibles": false,
+      "identifier": "1AGMH8",
+      "defaultFamilySapDisplayName": "JACKET LEATHER M",
+      "productVisible": true,
+      "name": "スエード デニムジャケット",
+      "packagingVariation": "",
+      "highEndTemplate": false,
+      "productId": "nvprod6080152v",
+      "hasLanguagePanel": false,
+      "disclaimers": {
+        "customDisclaimer": false,
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "color": "Midnight Blue",
+      "@context": "http://schema.org"
+    },
+    {
+      "kitFlag": false,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/1AGMH9/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod6080152v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/1AGMH9"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/1AGMH9/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod6080152v/1AGMH9/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ブルー",
+      "@type": "ProductModel",
+      "identifierKey": "65afafbca0b2101196313b49cb17728e",
+      "productDetailTabs": [],
+      "kitExclusivity": false,
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 709500
+        },
+        "@type": "Offer",
+        "price": "¥709,500"
+      },
+      "disambiguatingDescription": "リラックス感のあるルックにラグジュアリーな雰囲気をさりげなく添える、タイムレスなスエードのトラッカージャケット。しなやかなダブルフェイスのラムレザーを使用し、外側には柔らかなベロアを、内側にはスムースレザーをあしらいました。襟の裏や袖口、ウエストバンドにエンボス加工で施されたモノグラム･パターンをはじめとする控えめなシグネチャーが特徴。<br><br>ご不明な点がございましたら、クライアントサービスまでお気軽にお問合せください。専任のクライアントアドバイザーが、素材やサイズなどの製品詳細、モデル着用イメージや関連アイテムのご案内など、お客様のご要望に合わせたスタイリング・アドバイスをご提供いたします。<br>また、サイズ違いなどによる返品・交換のご相談も承ります。詳細は<a href='https://jp.louisvuitton.com/jpn-jp/legal-privacy'><b>こちら。</b></a>",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-スエード-デニムジャケット-プレタポルテ-洋服--HSL51EZLN631_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/suede-denim-jacket-nvprod6080152v",
+      "sizeDisplayName": "50",
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-t18ui4cq",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/ready-to-wear/_/N-t1b9f3zb",
+          "alternateName": "ready-to-wear",
+          "name": "プレタポルテ(洋服)",
+          "identifier": "m-readytowear"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/ready-to-wear/all-ready-to-wear/_/N-tmfgzj3",
+          "alternateName": "all-ready-to-wear",
+          "name": "すべてのメンズプレタポルテ(洋服)",
+          "identifier": "nvcat910171v"
+        }
+      ],
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-RTW-Midnight_Blue.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>レギュラーフィット</li><li>襟の裏、袖口、ウエストバンドにエンボス加工で施されたモノグラム･パターン</li><li>ダブルフェイスのラムレザー(外側にスエード、内側にスムースレザー)</li><li>サイドポケット × 2</li><li>前面にボタン付きフラップポケット × 2</li><li>ミッドナイトブルーの内側に隠しポケット × 2</li><li>本体：羊革 100%</li><li>イタリア製</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "Suede Denim Jacket"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z05"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Ready_To_Wear_Men"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "eligibleToAgec",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "hasLanguagePanel",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "bannerList",
+          "value": [
+            {
+              "commercialBanner": "top_banner_content_category_1"
+            },
+            {
+              "commercialBanner": "top_banner_content_category_2"
+            },
+            {
+              "commercialBanner": "top_banner_content_category_3"
+            },
+            {
+              "commercialBanner": "top_banner_content_category_4"
+            }
+          ]
+        }
+      ],
+      "careLink": {
+        "sections": []
+      },
+      "collectibles": false,
+      "identifier": "1AGMH9",
+      "defaultFamilySapDisplayName": "JACKET LEATHER M",
+      "productVisible": true,
+      "name": "スエード デニムジャケット",
+      "packagingVariation": "",
+      "highEndTemplate": false,
+      "productId": "nvprod6080152v",
+      "hasLanguagePanel": false,
+      "disclaimers": {
+        "customDisclaimer": false,
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "color": "Midnight Blue",
+      "@context": "http://schema.org"
+    },
+    {
+      "kitFlag": false,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/1AGMHB/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod6080152v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/1AGMHB"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/1AGMHB/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod6080152v/1AGMHB/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ブルー",
+      "@type": "ProductModel",
+      "identifierKey": "b3f01f6a3135b9889e5a754510b880dd",
+      "productDetailTabs": [],
+      "kitExclusivity": false,
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 709500
+        },
+        "@type": "Offer",
+        "price": "¥709,500"
+      },
+      "disambiguatingDescription": "リラックス感のあるルックにラグジュアリーな雰囲気をさりげなく添える、タイムレスなスエードのトラッカージャケット。しなやかなダブルフェイスのラムレザーを使用し、外側には柔らかなベロアを、内側にはスムースレザーをあしらいました。襟の裏や袖口、ウエストバンドにエンボス加工で施されたモノグラム･パターンをはじめとする控えめなシグネチャーが特徴。<br><br>ご不明な点がございましたら、クライアントサービスまでお気軽にお問合せください。専任のクライアントアドバイザーが、素材やサイズなどの製品詳細、モデル着用イメージや関連アイテムのご案内など、お客様のご要望に合わせたスタイリング・アドバイスをご提供いたします。<br>また、サイズ違いなどによる返品・交換のご相談も承ります。詳細は<a href='https://jp.louisvuitton.com/jpn-jp/legal-privacy'><b>こちら。</b></a>",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-スエード-デニムジャケット-プレタポルテ-洋服--HSL51EZLN631_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/suede-denim-jacket-nvprod6080152v",
+      "sizeDisplayName": "54",
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-t18ui4cq",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/ready-to-wear/_/N-t1b9f3zb",
+          "alternateName": "ready-to-wear",
+          "name": "プレタポルテ(洋服)",
+          "identifier": "m-readytowear"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/ready-to-wear/all-ready-to-wear/_/N-tmfgzj3",
+          "alternateName": "all-ready-to-wear",
+          "name": "すべてのメンズプレタポルテ(洋服)",
+          "identifier": "nvcat910171v"
+        }
+      ],
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-RTW-Midnight_Blue.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>レギュラーフィット</li><li>襟の裏、袖口、ウエストバンドにエンボス加工で施されたモノグラム･パターン</li><li>ダブルフェイスのラムレザー(外側にスエード、内側にスムースレザー)</li><li>サイドポケット × 2</li><li>前面にボタン付きフラップポケット × 2</li><li>ミッドナイトブルーの内側に隠しポケット × 2</li><li>本体：羊革 100%</li><li>イタリア製</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "Suede Denim Jacket"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z05"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Ready_To_Wear_Men"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "eligibleToAgec",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "hasLanguagePanel",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "bannerList",
+          "value": [
+            {
+              "commercialBanner": "top_banner_content_category_1"
+            },
+            {
+              "commercialBanner": "top_banner_content_category_2"
+            },
+            {
+              "commercialBanner": "top_banner_content_category_3"
+            },
+            {
+              "commercialBanner": "top_banner_content_category_4"
+            }
+          ]
+        }
+      ],
+      "careLink": {
+        "sections": []
+      },
+      "collectibles": false,
+      "identifier": "1AGMHB",
+      "defaultFamilySapDisplayName": "JACKET LEATHER M",
+      "productVisible": true,
+      "name": "スエード デニムジャケット",
+      "packagingVariation": "",
+      "highEndTemplate": false,
+      "productId": "nvprod6080152v",
+      "hasLanguagePanel": false,
+      "disclaimers": {
+        "customDisclaimer": false,
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "color": "Midnight Blue",
+      "@context": "http://schema.org"
+    }
+  ],
+  "panelInformations": [
+    {
+      "@type": "ProductCare",
+      "title": "素材とお手入れ方法、修理",
+      "description": "<ul>\n  <li>家庭での洗濯禁止</li>\n  <li>塩素系および酸素系漂白剤は使用禁止</li>\n  <li>タンブル乾燥禁止</li>\n  <li>アイロン仕上げ禁止</li>\n  <li>ドライクリーニング不可</li>\n  <li>信頼のおける皮革専門店にご相談ください</li>\n  <li>洗濯の前に付属品を保護してください</li>\n  <li>クリーニングの前に付属品を外してください</li>\n</ul>",
+      "introduction": "<p>本製品のお手入れに際しては、次の取扱い表示をご確認いただき、末永くご愛用くださいますようお願い申しあげます。</p>"
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "/api/catalog/jpn-jp/product/nvprod6080152v"
+    },
+    "push": {
+      "href": "/api/catalog/jpn-jp/product-push/nvprod6080152v"
+    },
+    "care-link": {
+      "href": "/api/catalog/jpn-jp/care-link/nvprod6080152v"
+    },
+    "size-guide": {
+      "href": "/api/catalog/jpn-jp/size-guide/nvprod6080152v"
+    },
+    "availability": {
+      "href": "/api/catalog/jpn-jp/availability/nvprod6080152v"
+    }
+  },
+  "@type": "Product",
+  "sku": "1AGMH9",
+  "isSimilarTo": [],
+  "productTips": [],
+  "url": "/jpn-jp/products/suede-denim-jacket-nvprod6080152v",
+  "category": [
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/_/N-t18ui4cq",
+      "alternateName": "men",
+      "name": "メンズ",
+      "identifier": "homme"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/ready-to-wear/_/N-t1b9f3zb",
+      "alternateName": "ready-to-wear",
+      "name": "プレタポルテ(洋服)",
+      "identifier": "m-readytowear"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/ready-to-wear/all-ready-to-wear/_/N-tmfgzj3",
+      "alternateName": "all-ready-to-wear",
+      "name": "すべてのメンズプレタポルテ(洋服)",
+      "identifier": "nvcat910171v"
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "hidePrice",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "subType",
+      "value": "product"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "sizeGuide",
+      "value": true
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "bannerList",
+      "value": [
+        {
+          "commercialBanner": "top_banner_content_category_1"
+        },
+        {
+          "commercialBanner": "top_banner_content_category_2"
+        },
+        {
+          "commercialBanner": "top_banner_content_category_3"
+        },
+        {
+          "commercialBanner": "top_banner_content_category_4"
+        }
+      ]
+    }
+  ],
+  "name": "スエード デニムジャケット",
+  "isRelatedTo": [],
+  "@context": "http://schema.org",
+  "identifier": "nvprod6080152v"
+}
