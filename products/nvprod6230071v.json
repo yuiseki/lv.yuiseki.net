@@ -1,0 +1,307 @@
+{
+  "relatedFinishOptions": [],
+  "model": [
+    {
+      "kitFlag": false,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/M96748/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod6230071v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/M96748"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/M96748/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod6230071v/M96748/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ブルー",
+      "@type": "ProductModel",
+      "identifierKey": "4ef4a9ad2c7a07072561ab0050f72d50",
+      "height": {
+        "@type": "QuantitativeValue",
+        "value": 31.5,
+        "unitText": "cm"
+      },
+      "productDetailTabs": [],
+      "kitExclusivity": false,
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 29700
+        },
+        "@type": "Offer",
+        "price": "¥29,700"
+      },
+      "disambiguatingDescription": "時代を超えて活躍する深みのあるブルーで仕上げた、シルク100%の｢ポケットスクエア･フェーディング モノグラム｣。LV イニシャルとモノグラム･フラワーの両方を全面にあしらったこの万能なアイテムは、メゾンのタイムレスなサヴォアフェール(匠の技)を表現しています。カジュアルやフォーマルなスタイルに合わせることができる一品。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ポケットスクエア･フェーディング-モノグラム-s00-ネクタイ、ポケットチーフ--M96748_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ポケットスクエア･フェーディング-モノグラム-s00-ネクタイ、ポケットチーフ--M96748_PM1_Detail view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Detail view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/fading-monogram-pocket-square-s00-nvprod6230071v",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 31.5,
+        "unitText": "cm"
+      },
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-t18ui4cq",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/accessories/_/N-t11ae5nz",
+          "alternateName": "accessories",
+          "name": "アクセサリー",
+          "identifier": "m-category-cat10052"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/accessories/ties-and-pocket-squares/_/N-tv1f2za",
+          "alternateName": "ties-and-pocket-squares",
+          "name": "ネクタイ、ポケットチーフ",
+          "identifier": "nvcat1170023v"
+        }
+      ],
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-ACC-9AH_marine_bleu.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>カラー：ネイビー</li><li>素材：シルク 100%</li><li>モノグラムのさりげないシグネチャー</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "Fading Monogram Pocket Square"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories;Sunglasses"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "eligibleToAgec",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "newArrivalsDate",
+          "value": 1745452800000
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "hasLanguagePanel",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "bannerList",
+          "value": [
+            {
+              "commercialBanner": "top_banner_content_category_1"
+            },
+            {
+              "commercialBanner": "top_banner_content_category_2"
+            },
+            {
+              "commercialBanner": "top_banner_content_category_3"
+            },
+            {
+              "commercialBanner": "top_banner_content_category_4"
+            }
+          ]
+        }
+      ],
+      "careLink": {
+        "sections": []
+      },
+      "collectibles": false,
+      "identifier": "M96748",
+      "defaultFamilySapDisplayName": "CRAVATES",
+      "productVisible": true,
+      "name": "ポケットスクエア･フェーディング モノグラム",
+      "packagingVariation": "",
+      "mainMaterial2": "SILK",
+      "highEndTemplate": false,
+      "material": "SILK",
+      "productId": "nvprod6230071v",
+      "hasLanguagePanel": false,
+      "disclaimers": {
+        "customDisclaimer": false,
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "color": "マリーヌ",
+      "@context": "http://schema.org"
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "/api/catalog/jpn-jp/product/nvprod6230071v"
+    },
+    "push": {
+      "href": "/api/catalog/jpn-jp/product-push/nvprod6230071v"
+    },
+    "care-link": {
+      "href": "/api/catalog/jpn-jp/care-link/nvprod6230071v"
+    },
+    "availability": {
+      "href": "/api/catalog/jpn-jp/availability/nvprod6230071v"
+    }
+  },
+  "@type": "Product",
+  "sku": "M96748",
+  "isSimilarTo": [],
+  "productTips": [],
+  "url": "/jpn-jp/products/fading-monogram-pocket-square-s00-nvprod6230071v",
+  "material": "NOT APPLICABLE ACC",
+  "category": [
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/_/N-t18ui4cq",
+      "alternateName": "men",
+      "name": "メンズ",
+      "identifier": "homme"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/accessories/_/N-t11ae5nz",
+      "alternateName": "accessories",
+      "name": "アクセサリー",
+      "identifier": "m-category-cat10052"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/accessories/ties-and-pocket-squares/_/N-tv1f2za",
+      "alternateName": "ties-and-pocket-squares",
+      "name": "ネクタイ、ポケットチーフ",
+      "identifier": "nvcat1170023v"
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "hidePrice",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "subType",
+      "value": "product"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "sizeGuide",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "bannerList",
+      "value": [
+        {
+          "commercialBanner": "top_banner_content_category_1"
+        },
+        {
+          "commercialBanner": "top_banner_content_category_2"
+        },
+        {
+          "commercialBanner": "top_banner_content_category_3"
+        },
+        {
+          "commercialBanner": "top_banner_content_category_4"
+        }
+      ]
+    }
+  ],
+  "name": "ポケットスクエア･フェーディング モノグラム",
+  "isRelatedTo": [],
+  "@context": "http://schema.org",
+  "identifier": "nvprod6230071v"
+}
