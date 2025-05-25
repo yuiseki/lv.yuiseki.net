@@ -3,11 +3,11 @@ import { PRICE_LIMIT, PRICE_STEP } from "../lib/const";
 import { yenFormat } from "../lib/yen";
 
 export const PriceRangeInput: React.FC<{
+  minPrice: number;
+  maxPrice: number;
   onChangeMinPrice: (value: number) => void;
   onChangeMaxPrice: (value: number) => void;
-}> = ({ onChangeMinPrice, onChangeMaxPrice }) => {
-  const [minPrice, setMinPrice] = useState(0);
-  const [maxPrice, setMaxPrice] = useState(PRICE_LIMIT);
+}> = ({ minPrice, maxPrice, onChangeMinPrice, onChangeMaxPrice }) => {
   return (
     <>
       <div
@@ -31,7 +31,6 @@ export const PriceRangeInput: React.FC<{
           onChange={(e) => {
             const newMinPrice = parseInt(e.target.value);
             if (newMinPrice < maxPrice) {
-              setMinPrice(newMinPrice);
               onChangeMinPrice(newMinPrice);
             }
           }}
@@ -54,7 +53,6 @@ export const PriceRangeInput: React.FC<{
           onChange={(e) => {
             const newMaxPrice = parseInt(e.target.value);
             if (minPrice < newMaxPrice) {
-              setMaxPrice(newMaxPrice);
               onChangeMaxPrice(newMaxPrice);
             }
           }}

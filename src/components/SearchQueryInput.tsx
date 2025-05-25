@@ -1,4 +1,4 @@
-import { Fragment, useEffect, useRef, useState } from "react";
+import { Fragment, useState } from "react";
 import { Combobox, Transition } from "@headlessui/react";
 import {
   CheckIcon,
@@ -30,15 +30,10 @@ const suggestWords = [
 ];
 
 export const SearchQueryInput: React.FC<{
+  query: string;
   onChange: (value: string) => void;
-}> = ({ onChange: _onChange }) => {
-  const [value, setValue] = useState("");
+}> = ({ query, onChange }) => {
   const [isActive, setIsActive] = useState(false);
-  //const [isActive, setIsActive] = useState(true);
-
-  useEffect(() => {
-    _onChange(value);
-  }, [value]);
 
   return (
     <div
@@ -48,9 +43,9 @@ export const SearchQueryInput: React.FC<{
       }}
     >
       <Combobox
-        value={value}
+        value={query}
         onChange={(selectedValue) => {
-          setValue(selectedValue);
+          onChange(selectedValue);
           setIsActive(false);
         }}
       >
@@ -78,18 +73,18 @@ export const SearchQueryInput: React.FC<{
               <Combobox.Input
                 as={Fragment}
                 displayValue={() => {
-                  return value;
+                  return query;
                 }}
                 onChange={(e) => {
-                  setValue(e.currentTarget.value);
+                  onChange(e.currentTarget.value);
                   setIsActive(e.currentTarget.value.length === 0);
                 }}
               >
                 <input
-                  onFocus={() => !open && setIsActive(true)}
+                  onFocus={() => !open && query.length === 0 && setIsActive(true)}
                   onBlur={() =>
                     setTimeout(() => {
-                      open && setIsActive(false);
+                    setIsActive(false);
                     }, 100)
                   }
                   placeholder="Search by word..."
@@ -105,10 +100,10 @@ export const SearchQueryInput: React.FC<{
                   }}
                 />
               </Combobox.Input>
-              {value.length > 0 && (
+              {query.length > 0 && (
                 <button
                   onClick={() => {
-                    setValue("");
+                    onChange("");
                     setIsActive(false);
                   }}
                   style={{
