@@ -1,6 +1,4 @@
 
-browser="User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36"
-
 products=`cat ./public/products.txt`
 
 IFS=$'\n'
@@ -32,7 +30,7 @@ for product in $products; do
       -H 'sec-fetch-dest: empty' \
       -H 'sec-fetch-mode: cors' \
       -H 'sec-fetch-site: same-site' \
-      -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36' \
+      -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36' \
       https://api.louisvuitton.com/api/jpn-jp/catalog/product/$product | jq . > $outfile
     date '+%F %T'
     # echo path
