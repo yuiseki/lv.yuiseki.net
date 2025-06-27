@@ -27,7 +27,7 @@ for collection in $collections; do
       -H 'pragma: no-cache' \
       -H 'priority: u=1, i' \
       -H 'referer: https://jp.louisvuitton.com/jpn-jp/homepage' \
-      -H 'sec-ch-ua: "Chromium";v="130", "Google Chrome";v="130", "Not?A_Brand";v="99"' \
+      -H 'sec-ch-ua: "Google Chrome";v="137", "Chromium";v="137", "Not/A)Brand";v="24"' \
       -H 'sec-ch-ua-mobile: ?0' \
       -H 'sec-ch-ua-platform: "Windows"' \
       -H 'sec-fetch-dest: empty' \
@@ -65,7 +65,7 @@ for collection in $collections; do
         -H 'pragma: no-cache' \
         -H 'priority: u=1, i' \
         -H 'referer: https://jp.louisvuitton.com/jpn-jp/homepage' \
-        -H 'sec-ch-ua: "Chromium";v="130", "Google Chrome";v="130", "Not?A_Brand";v="99"' \
+        -H 'sec-ch-ua: ""Google Chrome";v="137", "Chromium";v="137", "Not/A)Brand";v="24"' \
         -H 'sec-ch-ua-mobile: ?0' \
         -H 'sec-ch-ua-platform: "Windows"' \
         -H 'sec-fetch-dest: empty' \
