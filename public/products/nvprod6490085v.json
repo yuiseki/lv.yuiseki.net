@@ -1,0 +1,666 @@
+{
+  "relatedFinishOptions": [],
+  "model": [
+    {
+      "kitFlag": false,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/M1740S/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod6490085v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/M1740S"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/M1740S/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod6490085v/M1740S/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ゴールド",
+      "@type": "ProductModel",
+      "identifierKey": "79bcd17c50daab47e087c797021cb78c",
+      "productDetailTabs": [],
+      "kitExclusivity": false,
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 59400
+        },
+        "@type": "Offer",
+        "price": "¥59,400"
+      },
+      "disambiguatingDescription": "ルイ･ヴィトン定番の3つのアイコンを表現した、驚くほどエレガントな｢リング･LV フローラグラム｣。光沢感のあるゴールドカラーのバンドに取付けられたエンブレマティックなLV イニシャルの両側に2つの異なるモノグラム･フラワーを配し、メゾンならではのシグネチャーを添えました。あらゆる装いに洗練されたフェミニンな印象を加える、繊細に仕上げられたリング。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-リング･lv-フローラグラム-s00-ウィメンズ-新着--M1740S_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-リング･lv-フローラグラム-s00-ウィメンズ-新着--M1740S_PM1_Interior view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Interior view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/lv-floragram-ring-s00-nvprod6490085v",
+      "sizeDisplayName": "S",
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/new/_/N-tlgzqru",
+          "alternateName": "new",
+          "name": "新着",
+          "identifier": "nvcat1830004v"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/new/for-women/_/N-t1j3oq9l",
+          "alternateName": "for-women",
+          "name": "ウィメンズ 新着",
+          "identifier": "nvcat1830005v"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/new/for-women/the-latest/_/N-t18gb9e5",
+          "alternateName": "the-latest",
+          "name": "ウィメンズ 新作コレクション",
+          "identifier": "nvcat2130003v"
+        }
+      ],
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-RTW-450_dore.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>Sサイズ(ヨーロッパ表記)：49、50、51(ヨーロッパ表記から40を引いたものが、日本のサイズにほぼ該当します)</li><li>メタル(色：ゴールド)</li><li>シグネチャーディテール</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "LV Floragram Ring"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isPerso",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories;Sunglasses"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "eligibleToAgec",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "newArrivalsDate",
+          "value": 1750982400000
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "hasLanguagePanel",
+          "value": false
+        }
+      ],
+      "careLink": {
+        "sections": []
+      },
+      "collectibles": false,
+      "identifier": "M1740S",
+      "defaultFamilySapDisplayName": "RINGS",
+      "productVisible": true,
+      "name": "リング･LV フローラグラム",
+      "packagingVariation": "",
+      "mainMaterial2": "BRASS",
+      "highEndTemplate": false,
+      "material": "METAL & RESIN",
+      "productId": "nvprod6490085v",
+      "hasLanguagePanel": false,
+      "disclaimers": {
+        "customDisclaimer": false,
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "color": "ドレ",
+      "@context": "http://schema.org"
+    },
+    {
+      "kitFlag": false,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/M1740M/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod6490085v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/M1740M"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/M1740M/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod6490085v/M1740M/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ゴールド",
+      "@type": "ProductModel",
+      "identifierKey": "b520793ebacf104f3bb7b0755fd144c3",
+      "productDetailTabs": [],
+      "kitExclusivity": false,
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 59400
+        },
+        "@type": "Offer",
+        "price": "¥59,400"
+      },
+      "disambiguatingDescription": "ルイ･ヴィトン定番の3つのアイコンを表現した、驚くほどエレガントな｢リング･LV フローラグラム｣。光沢感のあるゴールドカラーのバンドに取付けられたエンブレマティックなLV イニシャルの両側に2つの異なるモノグラム･フラワーを配し、メゾンならではのシグネチャーを添えました。あらゆる装いに洗練されたフェミニンな印象を加える、繊細に仕上げられたリング。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-リング･lv-フローラグラム-s00-ウィメンズ-新着--M1740M_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-リング･lv-フローラグラム-s00-ウィメンズ-新着--M1740M_PM1_Interior view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Interior view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/lv-floragram-ring-s00-nvprod6490085v",
+      "sizeDisplayName": "M",
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/new/_/N-tlgzqru",
+          "alternateName": "new",
+          "name": "新着",
+          "identifier": "nvcat1830004v"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/new/for-women/_/N-t1j3oq9l",
+          "alternateName": "for-women",
+          "name": "ウィメンズ 新着",
+          "identifier": "nvcat1830005v"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/new/for-women/the-latest/_/N-t18gb9e5",
+          "alternateName": "the-latest",
+          "name": "ウィメンズ 新作コレクション",
+          "identifier": "nvcat2130003v"
+        }
+      ],
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-RTW-450_dore.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>Mサイズ(ヨーロッパ表記)：52、53、54(ヨーロッパ表記から40を引いたものが、日本のサイズにほぼ該当します)</li><li>メタル(色：ゴールド)</li><li>シグネチャーディテール</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "LV Floragram Ring"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isPerso",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories;Sunglasses"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "eligibleToAgec",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "newArrivalsDate",
+          "value": 1750982400000
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "hasLanguagePanel",
+          "value": false
+        }
+      ],
+      "careLink": {
+        "sections": []
+      },
+      "collectibles": false,
+      "identifier": "M1740M",
+      "defaultFamilySapDisplayName": "RINGS",
+      "productVisible": true,
+      "name": "リング･LV フローラグラム",
+      "packagingVariation": "",
+      "mainMaterial2": "BRASS",
+      "highEndTemplate": false,
+      "material": "METAL & RESIN",
+      "productId": "nvprod6490085v",
+      "hasLanguagePanel": false,
+      "disclaimers": {
+        "customDisclaimer": false,
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "color": "ドレ",
+      "@context": "http://schema.org"
+    },
+    {
+      "kitFlag": false,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/M1740L/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod6490085v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/M1740L"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/M1740L/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod6490085v/M1740L/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ゴールド",
+      "@type": "ProductModel",
+      "identifierKey": "3343be047742db36f357c3f2fe6b5f6a",
+      "productDetailTabs": [],
+      "kitExclusivity": false,
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 59400
+        },
+        "@type": "Offer",
+        "price": "¥59,400"
+      },
+      "disambiguatingDescription": "ルイ･ヴィトン定番の3つのアイコンを表現した、驚くほどエレガントな｢リング･LV フローラグラム｣。光沢感のあるゴールドカラーのバンドに取付けられたエンブレマティックなLV イニシャルの両側に2つの異なるモノグラム･フラワーを配し、メゾンならではのシグネチャーを添えました。あらゆる装いに洗練されたフェミニンな印象を加える、繊細に仕上げられたリング。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-リング･lv-フローラグラム-s00-ウィメンズ-新着--M1740L_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-リング･lv-フローラグラム-s00-ウィメンズ-新着--M1740L_PM1_Interior view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Interior view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/lv-floragram-ring-s00-nvprod6490085v",
+      "sizeDisplayName": "L",
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/new/_/N-tlgzqru",
+          "alternateName": "new",
+          "name": "新着",
+          "identifier": "nvcat1830004v"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/new/for-women/_/N-t1j3oq9l",
+          "alternateName": "for-women",
+          "name": "ウィメンズ 新着",
+          "identifier": "nvcat1830005v"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/new/for-women/the-latest/_/N-t18gb9e5",
+          "alternateName": "the-latest",
+          "name": "ウィメンズ 新作コレクション",
+          "identifier": "nvcat2130003v"
+        }
+      ],
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-RTW-450_dore.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>Lサイズ(ヨーロッパ表記)：55、56、57(ヨーロッパ表記から40を引いたものが、日本のサイズにほぼ該当します)</li><li>メタル(色：ゴールド)</li><li>シグネチャーディテール</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "LV Floragram Ring"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isPerso",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories;Sunglasses"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "eligibleToAgec",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "newArrivalsDate",
+          "value": 1750982400000
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "hasLanguagePanel",
+          "value": false
+        }
+      ],
+      "careLink": {
+        "sections": []
+      },
+      "collectibles": false,
+      "identifier": "M1740L",
+      "defaultFamilySapDisplayName": "RINGS",
+      "productVisible": true,
+      "name": "リング･LV フローラグラム",
+      "packagingVariation": "",
+      "mainMaterial2": "BRASS",
+      "highEndTemplate": false,
+      "material": "METAL & RESIN",
+      "productId": "nvprod6490085v",
+      "hasLanguagePanel": false,
+      "disclaimers": {
+        "customDisclaimer": false,
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "color": "ドレ",
+      "@context": "http://schema.org"
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "/api/catalog/jpn-jp/product/nvprod6490085v"
+    },
+    "push": {
+      "href": "/api/catalog/jpn-jp/product-push/nvprod6490085v"
+    },
+    "care-link": {
+      "href": "/api/catalog/jpn-jp/care-link/nvprod6490085v"
+    },
+    "size-guide": {
+      "href": "/api/catalog/jpn-jp/size-guide/nvprod6490085v"
+    },
+    "availability": {
+      "href": "/api/catalog/jpn-jp/availability/nvprod6490085v"
+    }
+  },
+  "@type": "Product",
+  "sku": "M1740S",
+  "isSimilarTo": [],
+  "productTips": [],
+  "url": "/jpn-jp/products/lv-floragram-ring-s00-nvprod6490085v",
+  "material": "NOT APPLICABLE ACC",
+  "category": [
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/new/_/N-tlgzqru",
+      "alternateName": "new",
+      "name": "新着",
+      "identifier": "nvcat1830004v"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/new/for-women/_/N-t1j3oq9l",
+      "alternateName": "for-women",
+      "name": "ウィメンズ 新着",
+      "identifier": "nvcat1830005v"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/new/for-women/the-latest/_/N-t18gb9e5",
+      "alternateName": "the-latest",
+      "name": "ウィメンズ 新作コレクション",
+      "identifier": "nvcat2130003v"
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "hidePrice",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "subType",
+      "value": "product"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "sizeGuide",
+      "value": true
+    }
+  ],
+  "name": "リング･LV フローラグラム",
+  "isRelatedTo": [],
+  "@context": "http://schema.org",
+  "identifier": "nvprod6490085v"
+}

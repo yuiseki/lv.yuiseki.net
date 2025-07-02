@@ -1,0 +1,702 @@
+{
+  "relatedFinishOptions": [],
+  "model": [
+    {
+      "kitFlag": false,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/M02912/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod6370014v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/M02912"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/M02912/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod6370014v/M02912/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "オレンジ",
+      "@type": "ProductModel",
+      "identifierKey": "39f36ba05335dd6d5aecc456bdff88e0",
+      "productDetailTabs": [],
+      "kitExclusivity": false,
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 108900
+        },
+        "@type": "Offer",
+        "price": "¥108,900"
+      },
+      "disambiguatingDescription": "2つの機能を兼ね備えた、独創的でトレンド感溢れるデザインの｢バッグチャーム･LV ヘアクリップ｣。色鮮やかなプレキシガラスでエンブレマティックなモノグラム･フラワーのシェイプを模り、メゾンならではのタッチを添えるLV イニシャルでアクセントを加えました。お気に入りのバッグを飾るのにぴったりなこのアイテムは、ゴールドカラーのチェーンを外せば使いやすいヘアクリップにもなります。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-バッグチャーム･lv-ヘアクリップ-s00-キーホルダー＆バッグチャーム--M02912_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-バッグチャーム･lv-ヘアクリップ-s00-キーホルダー＆バッグチャーム--M02912_PM1_Worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Worn view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-バッグチャーム･lv-ヘアクリップ-s00-キーホルダー＆バッグチャーム--M02912_PM1_Detail view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Detail view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-バッグチャーム･lv-ヘアクリップ-s00-キーホルダー＆バッグチャーム--M02912_PM1_Other view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Other view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-バッグチャーム･lv-ヘアクリップ-s00-キーホルダー＆バッグチャーム--M02912_PM1_Cropped worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Cropped worn view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/lv-hair-clip-bag-charm-s00-nvprod6370014v",
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/_/N-tveguxb",
+          "alternateName": "women",
+          "name": "ウィメンズ",
+          "identifier": "femme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/accessories/_/N-toxp7l2",
+          "alternateName": "accessories",
+          "name": "アクセサリー",
+          "identifier": "w-category-cat10155"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/accessories/key-holders-and-bag-charms/_/N-tui7c0x",
+          "alternateName": "key-holders-and-more",
+          "name": "キーホルダー＆バッグチャーム",
+          "identifier": "w-category-cat1410416"
+        }
+      ],
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-LG-96Q_rose_the.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>カラー：ピンク</li><li>素材：プレキシガラス</li><li>金具(色：ゴールド)</li><li>シグネチャーのディテール</li><li>取外し可能なチェーン</li><li>スナップフックにLV シグネチャー</li><li>バッグチャーム兼ヘアクリップ</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "LV Hair Clip Bag Charm"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isPerso",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories;Sunglasses"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "eligibleToAgec",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "newArrivalsDate",
+          "value": 1745539200000
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "hasLanguagePanel",
+          "value": false
+        }
+      ],
+      "careLink": {
+        "sections": []
+      },
+      "collectibles": false,
+      "identifier": "M02912",
+      "defaultFamilySapDisplayName": "DOUBLE FUNCTION",
+      "productVisible": true,
+      "name": "バッグチャーム･LV ヘアクリップ",
+      "packagingVariation": "",
+      "mainMaterial2": "ZAMAK",
+      "highEndTemplate": false,
+      "material": "METAL",
+      "productId": "nvprod6370014v",
+      "hasLanguagePanel": false,
+      "disclaimers": {
+        "customDisclaimer": false,
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "color": "ローズ",
+      "@context": "http://schema.org"
+    },
+    {
+      "kitFlag": false,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/M02868/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod6370014v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/M02868"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/M02868/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod6370014v/M02868/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ナチュラル",
+      "@type": "ProductModel",
+      "identifierKey": "ab5de255a7b638bbedcdeffc3c03b4d7",
+      "productDetailTabs": [],
+      "kitExclusivity": false,
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 108900
+        },
+        "@type": "Offer",
+        "price": "¥108,900"
+      },
+      "disambiguatingDescription": "2つの機能を兼ね備えた、独創的でトレンド感溢れるデザインの｢バッグチャーム･LV ヘアクリップ｣。色鮮やかなプレキシガラスでエンブレマティックなモノグラム･フラワーのシェイプを模り、メゾンならではのタッチを添えるLV イニシャルでアクセントを加えました。お気に入りのバッグを飾るのにぴったりなこのアイテムは、ゴールドカラーのチェーンを外せば使いやすいヘアクリップにもなります。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-バッグチャーム･lv-ヘアクリップ-s00-キーホルダー＆バッグチャーム--M02868_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-バッグチャーム･lv-ヘアクリップ-s00-キーホルダー＆バッグチャーム--M02868_PM1_Worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Worn view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-バッグチャーム･lv-ヘアクリップ-s00-キーホルダー＆バッグチャーム--M02868_PM1_Detail view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Detail view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-バッグチャーム･lv-ヘアクリップ-s00-キーホルダー＆バッグチャーム--M02868_PM1_Other view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Other view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-バッグチャーム･lv-ヘアクリップ-s00-キーホルダー＆バッグチャーム--M02868_PM1_Cropped worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Cropped worn view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/lv-hair-clip-bag-charm-s00-nvprod6370014v",
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/_/N-tveguxb",
+          "alternateName": "women",
+          "name": "ウィメンズ",
+          "identifier": "femme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/accessories/_/N-toxp7l2",
+          "alternateName": "accessories",
+          "name": "アクセサリー",
+          "identifier": "w-category-cat10155"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/accessories/key-holders-and-bag-charms/_/N-tui7c0x",
+          "alternateName": "key-holders-and-more",
+          "name": "キーホルダー＆バッグチャーム",
+          "identifier": "w-category-cat1410416"
+        }
+      ],
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-SHO-935_creme.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>カラー：クリームベージュ</li><li>素材：プレキシガラス</li><li>金具(色：ゴールド)</li><li>シグネチャーのディテール</li><li>取外し可能なチェーン</li><li>スナップフックにLV シグネチャー</li><li>バッグチャーム兼ヘアクリップ</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "LV Hair Clip Bag Charm"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isPerso",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories;Sunglasses"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "eligibleToAgec",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "newArrivalsDate",
+          "value": 1745539200000
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "hasLanguagePanel",
+          "value": false
+        }
+      ],
+      "careLink": {
+        "sections": []
+      },
+      "collectibles": false,
+      "identifier": "M02868",
+      "defaultFamilySapDisplayName": "DOUBLE FUNCTION",
+      "productVisible": true,
+      "name": "バッグチャーム･LV ヘアクリップ",
+      "packagingVariation": "",
+      "mainMaterial2": "ZAMAK",
+      "highEndTemplate": false,
+      "material": "METAL",
+      "productId": "nvprod6370014v",
+      "hasLanguagePanel": false,
+      "disclaimers": {
+        "customDisclaimer": false,
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "color": "クレーム",
+      "@context": "http://schema.org"
+    },
+    {
+      "kitFlag": false,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/M02911/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod6370014v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/M02911"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/M02911/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod6370014v/M02911/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "マロン",
+      "@type": "ProductModel",
+      "identifierKey": "3497a71b7573c6ecd314e1718b089f2e",
+      "productDetailTabs": [],
+      "kitExclusivity": false,
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 108900
+        },
+        "@type": "Offer",
+        "price": "¥108,900"
+      },
+      "disambiguatingDescription": "2つの機能を兼ね備えた、ユニークで独創的なアクセサリー｢バッグチャーム･LV ヘアクリップ｣。耐久性のあるプレキシガラスでアイコニックなモノグラム･フラワーを彷彿させるシェイプに仕上げ、モノグラム･モチーフのアクセントで一目でルイ･ヴィトンと分かるシグネチャーを表現しました。バッグにトレンド感を加えたり、ゴールドカラーのチェーンを外して髪をまとめたりするのにも最適。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-バッグチャーム･lv-ヘアクリップ-s00-キーホルダー＆バッグチャーム--M02911_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-バッグチャーム･lv-ヘアクリップ-s00-キーホルダー＆バッグチャーム--M02911_PM1_Detail view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Detail view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-バッグチャーム･lv-ヘアクリップ-s00-キーホルダー＆バッグチャーム--M02911_PM1_Other view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Other view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/lv-hair-clip-bag-charm-s00-nvprod6370014v",
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/_/N-tveguxb",
+          "alternateName": "women",
+          "name": "ウィメンズ",
+          "identifier": "femme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/accessories/_/N-toxp7l2",
+          "alternateName": "accessories",
+          "name": "アクセサリー",
+          "identifier": "w-category-cat10155"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/accessories/key-holders-and-bag-charms/_/N-tui7c0x",
+          "alternateName": "key-holders-and-more",
+          "name": "キーホルダー＆バッグチャーム",
+          "identifier": "w-category-cat1410416"
+        }
+      ],
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-ACC-9Z4_dk_tortoise.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>カラー：トータス</li><li>素材：プレキシガラス</li><li>金具(色：ゴールド)</li><li>シグネチャーのディテール</li><li>取外し可能なチェーン</li><li>スナップフックにLV シグネチャー</li><li>バッグチャーム兼ヘアクリップ</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "LV Hair Clip Bag Charm"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isPerso",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories;Sunglasses"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "eligibleToAgec",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "newArrivalsDate",
+          "value": 1748563200000
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "hasLanguagePanel",
+          "value": false
+        }
+      ],
+      "careLink": {
+        "sections": []
+      },
+      "collectibles": false,
+      "identifier": "M02911",
+      "defaultFamilySapDisplayName": "DOUBLE FUNCTION",
+      "productVisible": true,
+      "name": "バッグチャーム･LV ヘアクリップ",
+      "packagingVariation": "",
+      "mainMaterial2": "ZAMAK",
+      "highEndTemplate": false,
+      "material": "METAL",
+      "productId": "nvprod6370014v",
+      "hasLanguagePanel": false,
+      "disclaimers": {
+        "customDisclaimer": false,
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "color": "Dark Tortoise",
+      "@context": "http://schema.org"
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "/api/catalog/jpn-jp/product/nvprod6370014v"
+    },
+    "push": {
+      "href": "/api/catalog/jpn-jp/product-push/nvprod6370014v"
+    },
+    "care-link": {
+      "href": "/api/catalog/jpn-jp/care-link/nvprod6370014v"
+    },
+    "availability": {
+      "href": "/api/catalog/jpn-jp/availability/nvprod6370014v"
+    }
+  },
+  "@type": "Product",
+  "sku": "M02911",
+  "isSimilarTo": [],
+  "productTips": [],
+  "url": "/jpn-jp/products/lv-hair-clip-bag-charm-s00-nvprod6370014v",
+  "material": "NOT APPLICABLE ACC",
+  "category": [
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/women/_/N-tveguxb",
+      "alternateName": "women",
+      "name": "ウィメンズ",
+      "identifier": "femme"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/women/accessories/_/N-toxp7l2",
+      "alternateName": "accessories",
+      "name": "アクセサリー",
+      "identifier": "w-category-cat10155"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/women/accessories/key-holders-and-bag-charms/_/N-tui7c0x",
+      "alternateName": "key-holders-and-more",
+      "name": "キーホルダー＆バッグチャーム",
+      "identifier": "w-category-cat1410416"
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "hidePrice",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "subType",
+      "value": "product"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "sizeGuide",
+      "value": false
+    }
+  ],
+  "name": "バッグチャーム･LV ヘアクリップ",
+  "isRelatedTo": [],
+  "@context": "http://schema.org",
+  "identifier": "nvprod6370014v"
+}
