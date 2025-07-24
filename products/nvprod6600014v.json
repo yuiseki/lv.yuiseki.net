@@ -1,0 +1,482 @@
+{
+  "relatedFinishOptions": [],
+  "model": [
+    {
+      "kitFlag": false,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/M4283Z/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod6600014v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/M4283Z"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/M4283Z/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod6600014v/M4283Z/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ブラック",
+      "@type": "ProductModel",
+      "identifierKey": "bbc130f7e2a906a023e737675b4a574d",
+      "productDetailTabs": [],
+      "kitExclusivity": false,
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 56100
+        },
+        "@type": "Offer",
+        "price": "¥56,100"
+      },
+      "disambiguatingDescription": "メゾンを象徴するアイコンをフレッシュでクリエイティブに再解釈した個性的な｢ブレスレット･ツイン ロックド｣。デイリールックにさりげない華やぎを添えるアイテムです。しなやかな編み上げのコードは、印象的なLV イニシャルとモノグラム･フラワーをあしらった2つのゴールドカラーのパドロック(錠前)で固定されています。ルイ･ヴィトンのトランク製造の伝統を彷彿させる、タイムレスでエレガントなアクセサリー。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ブレスレット･ツイン-ロックド-ファッションジュエリー--M4283Z_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ブレスレット･ツイン-ロックド-ファッションジュエリー--M4283Z_PM1_Interior view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Interior view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ブレスレット･ツイン-ロックド-ファッションジュエリー--M4283Z_PM1_Detail view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Detail view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/twin-locked-bracelet-nvprod6600014v",
+      "sizeDisplayName": "NA",
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/_/N-tveguxb",
+          "alternateName": "women",
+          "name": "ウィメンズ",
+          "identifier": "femme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/fashion-jewelry/_/N-t1dmhbcs",
+          "alternateName": "fashion-jewelry",
+          "name": "ファッションジュエリー",
+          "identifier": "nvcat3210040v"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/fashion-jewelry/bracelets/_/N-t7sxnbc",
+          "alternateName": "bracelets",
+          "name": "ブレスレット",
+          "identifier": "nvcat3210044v"
+        }
+      ],
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-SHO-980_noir.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>ブラックのテキスタイルのコード</li><li>金具(色：ゴールド)</li><li>シグネチャーディテール</li><li>LV サークルのエンブレム</li><li>2つのパドロック(錠前)開閉式</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "Twin Locked Bracelet"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isPerso",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories;Sunglasses"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "eligibleToAgec",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "newArrivalsDate",
+          "value": 1753401600000
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "hasLanguagePanel",
+          "value": false
+        }
+      ],
+      "careLink": {
+        "sections": []
+      },
+      "collectibles": false,
+      "identifier": "M4283Z",
+      "defaultFamilySapDisplayName": "BRACELETS",
+      "productVisible": true,
+      "name": "ブレスレット･ツイン ロックド",
+      "packagingVariation": "",
+      "mainMaterial2": "MIX OF TEXTILES",
+      "highEndTemplate": false,
+      "material": "TEXTILE",
+      "productId": "nvprod6600014v",
+      "hasLanguagePanel": false,
+      "disclaimers": {
+        "customDisclaimer": false,
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "color": "ノワール",
+      "@context": "http://schema.org"
+    },
+    {
+      "kitFlag": false,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/M4284Z/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod6600014v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/M4284Z"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/M4284Z/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod6600014v/M4284Z/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "レッド",
+      "@type": "ProductModel",
+      "identifierKey": "a0451bcc2768bba6bcd4c846a702fb3c",
+      "productDetailTabs": [],
+      "kitExclusivity": false,
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 56100
+        },
+        "@type": "Offer",
+        "price": "¥56,100"
+      },
+      "disambiguatingDescription": "メゾンを象徴するアイコンをフレッシュでクリエイティブに再解釈した個性的な｢ブレスレット･ツイン ロックド｣。デイリールックにさりげない華やぎを添えるアイテムです。しなやかな編み上げのコードは、印象的なLV イニシャルとモノグラム･フラワーをあしらった2つのゴールドカラーのパドロック(錠前)で固定されています。ルイ･ヴィトンのトランク製造の伝統を彷彿させる、タイムレスでエレガントなアクセサリー。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ブレスレット･ツイン-ロックド-ファッションジュエリー--M4284Z_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ブレスレット･ツイン-ロックド-ファッションジュエリー--M4284Z_PM1_Interior view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Interior view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ブレスレット･ツイン-ロックド-ファッションジュエリー--M4284Z_PM1_Detail view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Detail view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/twin-locked-bracelet-nvprod6600014v",
+      "sizeDisplayName": "NA",
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/_/N-tveguxb",
+          "alternateName": "women",
+          "name": "ウィメンズ",
+          "identifier": "femme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/fashion-jewelry/_/N-t1dmhbcs",
+          "alternateName": "fashion-jewelry",
+          "name": "ファッションジュエリー",
+          "identifier": "nvcat3210040v"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/fashion-jewelry/bracelets/_/N-t7sxnbc",
+          "alternateName": "bracelets",
+          "name": "ブレスレット",
+          "identifier": "nvcat3210044v"
+        }
+      ],
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-ACC-997_red.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>レッドのテキスタイルのコード</li><li>金具(色：ゴールド)</li><li>シグネチャーディテール</li><li>LV サークルのエンブレム</li><li>2つのパドロック(錠前)開閉式</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "Twin Locked Bracelet"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isPerso",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories;Sunglasses"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "eligibleToAgec",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "newArrivalsDate",
+          "value": 1753401600000
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "hasLanguagePanel",
+          "value": false
+        }
+      ],
+      "careLink": {
+        "sections": []
+      },
+      "collectibles": false,
+      "identifier": "M4284Z",
+      "defaultFamilySapDisplayName": "BRACELETS",
+      "productVisible": true,
+      "name": "ブレスレット･ツイン ロックド",
+      "packagingVariation": "",
+      "mainMaterial2": "MIX OF TEXTILES",
+      "highEndTemplate": false,
+      "material": "TEXTILE",
+      "productId": "nvprod6600014v",
+      "hasLanguagePanel": false,
+      "disclaimers": {
+        "customDisclaimer": false,
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "color": "ルージュ",
+      "@context": "http://schema.org"
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "/api/catalog/jpn-jp/product/nvprod6600014v"
+    },
+    "push": {
+      "href": "/api/catalog/jpn-jp/product-push/nvprod6600014v"
+    },
+    "care-link": {
+      "href": "/api/catalog/jpn-jp/care-link/nvprod6600014v"
+    },
+    "availability": {
+      "href": "/api/catalog/jpn-jp/availability/nvprod6600014v"
+    }
+  },
+  "@type": "Product",
+  "sku": "M4284Z",
+  "isSimilarTo": [],
+  "productTips": [],
+  "url": "/jpn-jp/products/twin-locked-bracelet-nvprod6600014v",
+  "material": "SANS LIGNE ESTHETIQUE",
+  "category": [
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/women/_/N-tveguxb",
+      "alternateName": "women",
+      "name": "ウィメンズ",
+      "identifier": "femme"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/women/fashion-jewelry/_/N-t1dmhbcs",
+      "alternateName": "fashion-jewelry",
+      "name": "ファッションジュエリー",
+      "identifier": "nvcat3210040v"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/women/fashion-jewelry/bracelets/_/N-t7sxnbc",
+      "alternateName": "bracelets",
+      "name": "ブレスレット",
+      "identifier": "nvcat3210044v"
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "hidePrice",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "subType",
+      "value": "product"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "materialIconURL",
+      "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--AEL-LG-N00_sans_ligne_esthetique.jpg"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "sizeGuide",
+      "value": false
+    }
+  ],
+  "name": "ブレスレット･ツイン ロックド",
+  "isRelatedTo": [],
+  "@context": "http://schema.org",
+  "identifier": "nvprod6600014v"
+}
