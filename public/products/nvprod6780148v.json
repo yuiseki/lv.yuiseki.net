@@ -1,0 +1,693 @@
+{
+  "relatedFinishOptions": [],
+  "model": [
+    {
+      "kitFlag": false,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/M1804S/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod6780148v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/M1804S"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/M1804S/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod6780148v/M1804S/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ゴールド",
+      "@type": "ProductModel",
+      "identifierKey": "85b6eeaa0b2c091c870a994e2eac475e",
+      "commercialTag": "新作",
+      "productDetailTabs": [],
+      "kitExclusivity": false,
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 56100
+        },
+        "@type": "Offer",
+        "price": "¥56,100"
+      },
+      "disambiguatingDescription": "2025春夏のランウェイで注目を集めた、大胆かつ美しいメゾンのシグネチャーから着想を得てユニークなデザインに仕上げた｢リング･LV スクリプト｣。光沢感のあるゴールドカラーのメタルで模ったリングには｢Louis Vuitton｣が流れるような手書き風の文字でなめらかに綴られています。トレンド感とエレガンスを備えた、カジュアルルックや、よりフォーマルな装いにも合わせやすいアイキャッチーなアクセサリー。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-リング･lv-スクリプト-s00-ファッションジュエリー--M1804S_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "playerType": "freecaster",
+          "contentUrl": "https://player.freecaster.com/embed/9fb21a54-2ad2-415c-866d-db9cb4ff80ef",
+          "@type": "ImageObject",
+          "name": "freeCaster Media Worn View",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-リング･lv-スクリプト-s00-ファッションジュエリー--M1804S_PM1_Interior view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Interior view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/lv-script-ring-s00-nvprod6780148v",
+      "sizeDisplayName": "S",
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/_/N-tveguxb",
+          "alternateName": "women",
+          "name": "ウィメンズ",
+          "identifier": "femme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/fashion-jewelry/_/N-t1dmhbcs",
+          "alternateName": "fashion-jewelry",
+          "name": "ファッションジュエリー",
+          "identifier": "nvcat3210040v"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/fashion-jewelry/rings/_/N-t175idqj",
+          "alternateName": "rings",
+          "name": "リング",
+          "identifier": "nvcat3210045v"
+        }
+      ],
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-LG-948_gold.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>Sサイズ(ヨーロッパ表記)：49、50、51(ヨーロッパ表記から40を引いたものが、日本のサイズにほぼ該当します)</li><li>金具(色：ゴールド)</li><li>LV スクリプトのシグネチャー</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "LV Script Ring"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isPerso",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories;Sunglasses"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "eligibleToAgec",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "newArrivalsDate",
+          "value": 1756425600000
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "hasLanguagePanel",
+          "value": false
+        }
+      ],
+      "careLink": {
+        "sections": []
+      },
+      "collectibles": false,
+      "identifier": "M1804S",
+      "defaultFamilySapDisplayName": "RINGS",
+      "productVisible": true,
+      "collection": "Z65",
+      "name": "リング･LV スクリプト",
+      "packagingVariation": "",
+      "mainMaterial2": "BRASS",
+      "highEndTemplate": false,
+      "material": "METAL",
+      "productId": "nvprod6780148v",
+      "hasLanguagePanel": false,
+      "disclaimers": {
+        "customDisclaimer": false,
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "color": "ゴールド",
+      "@context": "http://schema.org"
+    },
+    {
+      "kitFlag": false,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/M1804M/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod6780148v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/M1804M"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/M1804M/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod6780148v/M1804M/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ゴールド",
+      "@type": "ProductModel",
+      "identifierKey": "06be7cd83b6746f8ea8cee5228395ca5",
+      "commercialTag": "新作",
+      "productDetailTabs": [],
+      "kitExclusivity": false,
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 56100
+        },
+        "@type": "Offer",
+        "price": "¥56,100"
+      },
+      "disambiguatingDescription": "2025春夏のランウェイで注目を集めた、大胆かつ美しいメゾンのシグネチャーから着想を得てユニークなデザインに仕上げた｢リング･LV スクリプト｣。光沢感のあるゴールドカラーのメタルで模ったリングには｢Louis Vuitton｣が流れるような手書き風の文字でなめらかに綴られています。トレンド感とエレガンスを備えた、カジュアルルックや、よりフォーマルな装いにも合わせやすいアイキャッチーなアクセサリー。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-リング･lv-スクリプト-s00-ファッションジュエリー--M1804M_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "playerType": "freecaster",
+          "contentUrl": "https://player.freecaster.com/embed/9fb21a53-34cf-4404-9875-70670f772c02",
+          "@type": "ImageObject",
+          "name": "freeCaster Media Worn View",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-リング･lv-スクリプト-s00-ファッションジュエリー--M1804M_PM1_Interior view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Interior view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/lv-script-ring-s00-nvprod6780148v",
+      "sizeDisplayName": "M",
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/_/N-tveguxb",
+          "alternateName": "women",
+          "name": "ウィメンズ",
+          "identifier": "femme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/fashion-jewelry/_/N-t1dmhbcs",
+          "alternateName": "fashion-jewelry",
+          "name": "ファッションジュエリー",
+          "identifier": "nvcat3210040v"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/fashion-jewelry/rings/_/N-t175idqj",
+          "alternateName": "rings",
+          "name": "リング",
+          "identifier": "nvcat3210045v"
+        }
+      ],
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-LG-948_gold.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>Mサイズ(ヨーロッパ表記)：52、53、54(ヨーロッパ表記から40を引いたものが、日本のサイズにほぼ該当します)</li><li>金具(色：ゴールド)</li><li>LV スクリプトのシグネチャー</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "LV Script Ring"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isPerso",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories;Sunglasses"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "eligibleToAgec",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "newArrivalsDate",
+          "value": 1756425600000
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "hasLanguagePanel",
+          "value": false
+        }
+      ],
+      "careLink": {
+        "sections": []
+      },
+      "collectibles": false,
+      "identifier": "M1804M",
+      "defaultFamilySapDisplayName": "RINGS",
+      "productVisible": true,
+      "collection": "Z65",
+      "name": "リング･LV スクリプト",
+      "packagingVariation": "",
+      "mainMaterial2": "BRASS",
+      "highEndTemplate": false,
+      "material": "METAL",
+      "productId": "nvprod6780148v",
+      "hasLanguagePanel": false,
+      "disclaimers": {
+        "customDisclaimer": false,
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "color": "ゴールド",
+      "@context": "http://schema.org"
+    },
+    {
+      "kitFlag": false,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/M1804L/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod6780148v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/M1804L"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/M1804L/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod6780148v/M1804L/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ゴールド",
+      "@type": "ProductModel",
+      "identifierKey": "0c02c4934e7c37e6ee09b133103fa242",
+      "commercialTag": "新作",
+      "productDetailTabs": [],
+      "kitExclusivity": false,
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 56100
+        },
+        "@type": "Offer",
+        "price": "¥56,100"
+      },
+      "disambiguatingDescription": "2025春夏のランウェイで注目を集めた、大胆かつ美しいメゾンのシグネチャーから着想を得てユニークなデザインに仕上げた｢リング･LV スクリプト｣。光沢感のあるゴールドカラーのメタルで模ったリングには｢Louis Vuitton｣が流れるような手書き風の文字でなめらかに綴られています。トレンド感とエレガンスを備えた、カジュアルルックや、よりフォーマルな装いにも合わせやすいアイキャッチーなアクセサリー。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-リング･lv-スクリプト-s00-ファッションジュエリー--M1804L_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "playerType": "freecaster",
+          "contentUrl": "https://player.freecaster.com/embed/9fb21a55-557d-45fa-bf07-57a535cd5cce",
+          "@type": "ImageObject",
+          "name": "freeCaster Media Worn View",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-リング･lv-スクリプト-s00-ファッションジュエリー--M1804L_PM1_Interior view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Interior view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/lv-script-ring-s00-nvprod6780148v",
+      "sizeDisplayName": "L",
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/_/N-tveguxb",
+          "alternateName": "women",
+          "name": "ウィメンズ",
+          "identifier": "femme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/fashion-jewelry/_/N-t1dmhbcs",
+          "alternateName": "fashion-jewelry",
+          "name": "ファッションジュエリー",
+          "identifier": "nvcat3210040v"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/fashion-jewelry/rings/_/N-t175idqj",
+          "alternateName": "rings",
+          "name": "リング",
+          "identifier": "nvcat3210045v"
+        }
+      ],
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-LG-948_gold.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>Lサイズ(ヨーロッパ表記)：55、56、57(ヨーロッパ表記から40を引いたものが、日本のサイズにほぼ該当します)</li><li>金具(色：ゴールド)</li><li>LV スクリプトのシグネチャー</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "LV Script Ring"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isPerso",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories;Sunglasses"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "eligibleToAgec",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "newArrivalsDate",
+          "value": 1756425600000
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "hasLanguagePanel",
+          "value": false
+        }
+      ],
+      "careLink": {
+        "sections": []
+      },
+      "collectibles": false,
+      "identifier": "M1804L",
+      "defaultFamilySapDisplayName": "RINGS",
+      "productVisible": true,
+      "collection": "Z65",
+      "name": "リング･LV スクリプト",
+      "packagingVariation": "",
+      "mainMaterial2": "BRASS",
+      "highEndTemplate": false,
+      "material": "METAL",
+      "productId": "nvprod6780148v",
+      "hasLanguagePanel": false,
+      "disclaimers": {
+        "customDisclaimer": false,
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "color": "ゴールド",
+      "@context": "http://schema.org"
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "/api/catalog/jpn-jp/product/nvprod6780148v"
+    },
+    "push": {
+      "href": "/api/catalog/jpn-jp/product-push/nvprod6780148v"
+    },
+    "care-link": {
+      "href": "/api/catalog/jpn-jp/care-link/nvprod6780148v"
+    },
+    "size-guide": {
+      "href": "/api/catalog/jpn-jp/size-guide/nvprod6780148v"
+    },
+    "availability": {
+      "href": "/api/catalog/jpn-jp/availability/nvprod6780148v"
+    }
+  },
+  "@type": "Product",
+  "sku": "M1804S",
+  "isSimilarTo": [],
+  "productTips": [],
+  "url": "/jpn-jp/products/lv-script-ring-s00-nvprod6780148v",
+  "material": "NOT APPLICABLE ACC",
+  "category": [
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/women/_/N-tveguxb",
+      "alternateName": "women",
+      "name": "ウィメンズ",
+      "identifier": "femme"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/women/fashion-jewelry/_/N-t1dmhbcs",
+      "alternateName": "fashion-jewelry",
+      "name": "ファッションジュエリー",
+      "identifier": "nvcat3210040v"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/women/fashion-jewelry/rings/_/N-t175idqj",
+      "alternateName": "rings",
+      "name": "リング",
+      "identifier": "nvcat3210045v"
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "hidePrice",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "subType",
+      "value": "product"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "sizeGuide",
+      "value": true
+    }
+  ],
+  "name": "リング･LV スクリプト",
+  "isRelatedTo": [],
+  "@context": "http://schema.org",
+  "identifier": "nvprod6780148v"
+}

@@ -1,0 +1,885 @@
+{
+  "relatedFinishOptions": [],
+  "model": [
+    {
+      "kitFlag": false,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/M1744S/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod6720042v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/M1744S"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/M1744S/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod6720042v/M1744S/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "レッド",
+      "@type": "ProductModel",
+      "identifierKey": "fafe6fdb4f4ccecfa0ebda6f9bee6daa",
+      "productDetailTabs": [],
+      "kitExclusivity": false,
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 113300
+        },
+        "@type": "Offer",
+        "price": "¥113,300"
+      },
+      "disambiguatingDescription": "ルイ･ヴィトンの伝統とタイムレスなエレガンスを讃える、ジュエリーの域を超えた｢カフ･LV クラウン｣。光沢感のあるゴールドカラーのメタルで模ったラウンド & ポインテッド モノグラム･フラワーのエッジが、贅沢なレザーライニングの質感や豊かな色合いと印象的なコントラストを描きます。メゾンの卓越したクラフツマンシップへオマージュを捧げる、真のステートメントアイテム。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-カフ･lv-クラウン-s00-ファッションジュエリー--M1744S_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-カフ･lv-クラウン-s00-ファッションジュエリー--M1744S_PM1_Interior view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Interior view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-カフ･lv-クラウン-s00-ファッションジュエリー--M1744S_PM1_Detail view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Detail view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/lv-crown-cuff-s00-nvprod6720042v",
+      "sizeDisplayName": "S",
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/_/N-tveguxb",
+          "alternateName": "women",
+          "name": "ウィメンズ",
+          "identifier": "femme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/fashion-jewelry/_/N-t1dmhbcs",
+          "alternateName": "fashion-jewelry",
+          "name": "ファッションジュエリー",
+          "identifier": "nvcat3210040v"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/fashion-jewelry/all-fashion-jewelry/_/N-tqnlr03",
+          "alternateName": "all-fashion-jewelry",
+          "name": "すべてのファッションジュエリー",
+          "identifier": "w-category-cat1410426"
+        }
+      ],
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-ACC-95G_grenat.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>ガーネットレザー</li><li>金具(色：ゴールド)</li><li>シグネチャーディテール</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "LV Crown Cuff"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isPerso",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories;Sunglasses"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "eligibleToAgec",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "newArrivalsDate",
+          "value": 1756425600000
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "hasLanguagePanel",
+          "value": false
+        }
+      ],
+      "careLink": {
+        "sections": []
+      },
+      "collectibles": false,
+      "identifier": "M1744S",
+      "defaultFamilySapDisplayName": "BRACELETS",
+      "productVisible": true,
+      "name": "カフ･LV クラウン",
+      "packagingVariation": "",
+      "mainMaterial2": "BRASS",
+      "highEndTemplate": false,
+      "material": "METAL & LEATHER",
+      "productId": "nvprod6720042v",
+      "hasLanguagePanel": false,
+      "disclaimers": {
+        "customDisclaimer": false,
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "color": "Grenat",
+      "@context": "http://schema.org"
+    },
+    {
+      "kitFlag": false,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/M1744M/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod6720042v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/M1744M"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/M1744M/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod6720042v/M1744M/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "レッド",
+      "@type": "ProductModel",
+      "identifierKey": "190b578367d10b8ca7eaaf9ab32cf1c2",
+      "productDetailTabs": [],
+      "kitExclusivity": false,
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 113300
+        },
+        "@type": "Offer",
+        "price": "¥113,300"
+      },
+      "disambiguatingDescription": "ルイ･ヴィトンの伝統とタイムレスなエレガンスを讃える、ジュエリーの域を超えた｢カフ･LV クラウン｣。光沢感のあるゴールドカラーのメタルで模ったラウンド & ポインテッド モノグラム･フラワーのエッジが、贅沢なレザーライニングの質感や豊かな色合いと印象的なコントラストを描きます。メゾンの卓越したクラフツマンシップへオマージュを捧げる、真のステートメントアイテム。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-カフ･lv-クラウン-s00-ファッションジュエリー--M1744M_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-カフ･lv-クラウン-s00-ファッションジュエリー--M1744M_PM1_Interior view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Interior view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-カフ･lv-クラウン-s00-ファッションジュエリー--M1744M_PM1_Detail view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Detail view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/lv-crown-cuff-s00-nvprod6720042v",
+      "sizeDisplayName": "M",
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/_/N-tveguxb",
+          "alternateName": "women",
+          "name": "ウィメンズ",
+          "identifier": "femme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/fashion-jewelry/_/N-t1dmhbcs",
+          "alternateName": "fashion-jewelry",
+          "name": "ファッションジュエリー",
+          "identifier": "nvcat3210040v"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/fashion-jewelry/all-fashion-jewelry/_/N-tqnlr03",
+          "alternateName": "all-fashion-jewelry",
+          "name": "すべてのファッションジュエリー",
+          "identifier": "w-category-cat1410426"
+        }
+      ],
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-ACC-95G_grenat.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>ガーネットレザー</li><li>金具(色：ゴールド)</li><li>シグネチャーディテール</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "LV Crown Cuff"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isPerso",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories;Sunglasses"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "eligibleToAgec",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "newArrivalsDate",
+          "value": 1756425600000
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "hasLanguagePanel",
+          "value": false
+        }
+      ],
+      "careLink": {
+        "sections": []
+      },
+      "collectibles": false,
+      "identifier": "M1744M",
+      "defaultFamilySapDisplayName": "BRACELETS",
+      "productVisible": true,
+      "name": "カフ･LV クラウン",
+      "packagingVariation": "",
+      "mainMaterial2": "BRASS",
+      "highEndTemplate": false,
+      "material": "METAL & LEATHER",
+      "productId": "nvprod6720042v",
+      "hasLanguagePanel": false,
+      "disclaimers": {
+        "customDisclaimer": false,
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "color": "Grenat",
+      "@context": "http://schema.org"
+    },
+    {
+      "kitFlag": false,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/M1728S/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod6720042v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/M1728S"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/M1728S/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod6720042v/M1728S/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ブラック",
+      "@type": "ProductModel",
+      "identifierKey": "9d14454a06081aac6857a71d8a9584f1",
+      "productDetailTabs": [],
+      "kitExclusivity": false,
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 113300
+        },
+        "@type": "Offer",
+        "price": "¥113,300"
+      },
+      "disambiguatingDescription": "ルイ･ヴィトンの伝統とタイムレスなエレガンスを讃える、ジュエリーの域を超えた｢カフ･LV クラウン｣。光沢感のあるゴールドカラーのメタルで模ったラウンド & ポインテッド モノグラム･フラワーのエッジが、贅沢なレザーライニングの質感や豊かな色合いと印象的なコントラストを描きます。メゾンの卓越したクラフツマンシップへオマージュを捧げる、真のステートメントアイテム。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-カフ･lv-クラウン-s00-ファッションジュエリー--M1728S_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-カフ･lv-クラウン-s00-ファッションジュエリー--M1728S_PM1_Interior view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Interior view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-カフ･lv-クラウン-s00-ファッションジュエリー--M1728S_PM1_Detail view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Detail view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/lv-crown-cuff-s00-nvprod6720042v",
+      "sizeDisplayName": "S",
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/_/N-tveguxb",
+          "alternateName": "women",
+          "name": "ウィメンズ",
+          "identifier": "femme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/fashion-jewelry/_/N-t1dmhbcs",
+          "alternateName": "fashion-jewelry",
+          "name": "ファッションジュエリー",
+          "identifier": "nvcat3210040v"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/fashion-jewelry/all-fashion-jewelry/_/N-tqnlr03",
+          "alternateName": "all-fashion-jewelry",
+          "name": "すべてのファッションジュエリー",
+          "identifier": "w-category-cat1410426"
+        }
+      ],
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-WAT-Z17_black.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>ブラックレザー</li><li>金具(色：ゴールド)</li><li>シグネチャーディテール</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "LV Crown Cuff"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isPerso",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories;Sunglasses"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "eligibleToAgec",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "newArrivalsDate",
+          "value": 1756425600000
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "hasLanguagePanel",
+          "value": false
+        }
+      ],
+      "careLink": {
+        "sections": []
+      },
+      "collectibles": false,
+      "identifier": "M1728S",
+      "defaultFamilySapDisplayName": "BRACELETS",
+      "productVisible": true,
+      "name": "カフ･LV クラウン",
+      "packagingVariation": "",
+      "mainMaterial2": "BRASS",
+      "highEndTemplate": false,
+      "material": "METAL & LEATHER",
+      "productId": "nvprod6720042v",
+      "hasLanguagePanel": false,
+      "disclaimers": {
+        "customDisclaimer": false,
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "color": "Black",
+      "@context": "http://schema.org"
+    },
+    {
+      "kitFlag": false,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/M1728M/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod6720042v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/M1728M"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/M1728M/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod6720042v/M1728M/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ブラック",
+      "@type": "ProductModel",
+      "identifierKey": "831e90acc44de90aa815da55c41c525c",
+      "productDetailTabs": [],
+      "kitExclusivity": false,
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 113300
+        },
+        "@type": "Offer",
+        "price": "¥113,300"
+      },
+      "disambiguatingDescription": "ルイ･ヴィトンの伝統とタイムレスなエレガンスを讃える、ジュエリーの域を超えた｢カフ･LV クラウン｣。光沢感のあるゴールドカラーのメタルで模ったラウンド & ポインテッド モノグラム･フラワーのエッジが、贅沢なレザーライニングの質感や豊かな色合いと印象的なコントラストを描きます。メゾンの卓越したクラフツマンシップへオマージュを捧げる、真のステートメントアイテム。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-カフ･lv-クラウン-s00-ファッションジュエリー--M1728M_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-カフ･lv-クラウン-s00-ファッションジュエリー--M1728M_PM1_Interior view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Interior view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-カフ･lv-クラウン-s00-ファッションジュエリー--M1728M_PM1_Detail view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Detail view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/lv-crown-cuff-s00-nvprod6720042v",
+      "sizeDisplayName": "M",
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/_/N-tveguxb",
+          "alternateName": "women",
+          "name": "ウィメンズ",
+          "identifier": "femme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/fashion-jewelry/_/N-t1dmhbcs",
+          "alternateName": "fashion-jewelry",
+          "name": "ファッションジュエリー",
+          "identifier": "nvcat3210040v"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/fashion-jewelry/all-fashion-jewelry/_/N-tqnlr03",
+          "alternateName": "all-fashion-jewelry",
+          "name": "すべてのファッションジュエリー",
+          "identifier": "w-category-cat1410426"
+        }
+      ],
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-WAT-Z17_black.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>素材：モノグラム･キャンバス</li><li>トリミング：カウハイドレザー(皮革の種類：牛革)</li><li>ライニング：マイクロファイバー</li><li>金具(色：ゴールド)</li><li>フック開閉式</li><li>取外し可能なファスナ―式内コンパートメント</li><li>両サイドにスナップスタイルの留め具</li><li>外側にファスナー式フロントポケット</li><li>チェーン</li><li>13インチのノートパソコン、スマートフォン、ジッピー･ウォレット、鍵、リップスティックなど収納可能</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "LV Crown Cuff"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isPerso",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories;Sunglasses"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "eligibleToAgec",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "newArrivalsDate",
+          "value": 1756425600000
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "hasLanguagePanel",
+          "value": false
+        }
+      ],
+      "careLink": {
+        "sections": []
+      },
+      "collectibles": false,
+      "identifier": "M1728M",
+      "defaultFamilySapDisplayName": "BRACELETS",
+      "productVisible": true,
+      "name": "カフ･LV クラウン",
+      "packagingVariation": "",
+      "mainMaterial2": "BRASS",
+      "highEndTemplate": false,
+      "material": "METAL & LEATHER",
+      "productId": "nvprod6720042v",
+      "hasLanguagePanel": false,
+      "disclaimers": {
+        "customDisclaimer": false,
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "color": "Black",
+      "@context": "http://schema.org"
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "/api/catalog/jpn-jp/product/nvprod6720042v"
+    },
+    "push": {
+      "href": "/api/catalog/jpn-jp/product-push/nvprod6720042v"
+    },
+    "care-link": {
+      "href": "/api/catalog/jpn-jp/care-link/nvprod6720042v"
+    },
+    "availability": {
+      "href": "/api/catalog/jpn-jp/availability/nvprod6720042v"
+    }
+  },
+  "@type": "Product",
+  "sku": "M1744S",
+  "isSimilarTo": [],
+  "productTips": [],
+  "url": "/jpn-jp/products/lv-crown-cuff-s00-nvprod6720042v",
+  "material": "NOT APPLICABLE ACC",
+  "category": [
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/women/_/N-tveguxb",
+      "alternateName": "women",
+      "name": "ウィメンズ",
+      "identifier": "femme"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/women/fashion-jewelry/_/N-t1dmhbcs",
+      "alternateName": "fashion-jewelry",
+      "name": "ファッションジュエリー",
+      "identifier": "nvcat3210040v"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/women/fashion-jewelry/all-fashion-jewelry/_/N-tqnlr03",
+      "alternateName": "all-fashion-jewelry",
+      "name": "すべてのファッションジュエリー",
+      "identifier": "w-category-cat1410426"
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "hidePrice",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "subType",
+      "value": "product"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "sizeGuide",
+      "value": false
+    }
+  ],
+  "name": "カフ･LV クラウン",
+  "isRelatedTo": [],
+  "@context": "http://schema.org",
+  "identifier": "nvprod6720042v"
+}
