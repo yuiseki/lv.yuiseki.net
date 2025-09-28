@@ -1,0 +1,515 @@
+{
+  "relatedFinishOptions": [],
+  "model": [
+    {
+      "kitFlag": false,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/M97179/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod6690009v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/M97179"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/M97179/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod6690009v/M97179/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ブラック",
+      "@type": "ProductModel",
+      "identifierKey": "10421dcfad6ce555a0e73129c3fc6038",
+      "height": {
+        "@type": "QuantitativeValue",
+        "value": 44,
+        "unitText": "cm"
+      },
+      "productDetailTabs": [],
+      "macroFamilySap": "Scarves, Hats & More",
+      "kitExclusivity": false,
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 123200
+        },
+        "@type": "Offer",
+        "price": "¥123,200"
+      },
+      "disambiguatingDescription": "ラグジュアリーなウール＆シルクの混紡素材で仕上げたカジュアルシックな｢マフラー･スノーウィ カレイドスコープ｣。この上ない暖かさとメゾンを象徴するクリエイティブなスタイルを両立させました。万華鏡のように広がるモノグラム･モチーフに、スターシェイプのモノグラム･フラワーを半分にした形のコントラストカラーのレザーパッチがアクセントをプラス。さまざまなスタイルを楽しめるファッショナブルなマフラーは冬に毎日使いたいマストハブアイテムです。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-マフラー･スノーウィ-カレイドスコープ-s00-マフラー--M97179_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-マフラー･スノーウィ-カレイドスコープ-s00-マフラー--M97179_PM1_Interior view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Interior view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-マフラー･スノーウィ-カレイドスコープ-s00-マフラー--M97179_PM1_Detail view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Detail view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/snowy-kaleidoscope-scarf-s00-nvprod6690009v",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 252,
+        "unitText": "cm"
+      },
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/_/N-tveguxb",
+          "alternateName": "women",
+          "name": "ウィメンズ",
+          "identifier": "femme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/accessories/_/N-toxp7l2",
+          "alternateName": "accessories",
+          "name": "アクセサリー",
+          "identifier": "w-category-cat10155"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/accessories/scarves/_/N-tmr7ugu",
+          "alternateName": "scarves",
+          "name": "マフラー",
+          "identifier": "nvcat2810007v"
+        }
+      ],
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-SHO-980_noir.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>カラー：ブラック</li><li>素材：ウール 80%、シルク 20%</li><li>モノグラム･シグネチャーのレザーパッチ</li><li>モノグラムのモチーフ</li><li>フリンジ仕上げ</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "Snowy Kaleidoscope Scarf"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isPerso",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories;Sunglasses"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "eligibleToAgec",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "newArrivalsDate",
+          "value": 1758844800000
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "hasLanguagePanel",
+          "value": false
+        }
+      ],
+      "careLink": {
+        "sections": []
+      },
+      "collectibles": false,
+      "identifier": "M97179",
+      "defaultFamilySapDisplayName": "SCARF",
+      "productVisible": true,
+      "name": "マフラー･スノーウィ カレイドスコープ",
+      "packagingVariation": "",
+      "mainMaterial2": "WOOL",
+      "highEndTemplate": false,
+      "material": "WOOL",
+      "productId": "nvprod6690009v",
+      "hasLanguagePanel": false,
+      "disclaimers": {
+        "customDisclaimer": false,
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "color": "ノワール",
+      "@context": "http://schema.org"
+    },
+    {
+      "kitFlag": false,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/M97654/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod6690009v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/M97654"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/M97654/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod6690009v/M97654/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "イエロー",
+      "@type": "ProductModel",
+      "identifierKey": "45de5f1f916c81639fa09a98eaff1963",
+      "height": {
+        "@type": "QuantitativeValue",
+        "value": 44,
+        "unitText": "cm"
+      },
+      "productDetailTabs": [],
+      "macroFamilySap": "Scarves, Hats & More",
+      "kitExclusivity": false,
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 123200
+        },
+        "@type": "Offer",
+        "price": "¥123,200"
+      },
+      "disambiguatingDescription": "ラグジュアリーなウール＆シルクの混紡素材で仕上げたカジュアルシックな｢マフラー･スノーウィ カレイドスコープ｣。この上ない暖かさとメゾンを象徴するクリエイティブなスタイルを両立させました。万華鏡のように広がるモノグラム･モチーフに、スターシェイプのモノグラム･フラワーを半分にした形のコントラストカラーのレザーパッチがアクセントをプラス。さまざまなスタイルを楽しめるファッショナブルなマフラーは冬に毎日使いたいマストハブアイテムです。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-マフラー･スノーウィ-カレイドスコープ-s00-マフラー--M97654_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-マフラー･スノーウィ-カレイドスコープ-s00-マフラー--M97654_PM1_Worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Worn view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-マフラー･スノーウィ-カレイドスコープ-s00-マフラー--M97654_PM1_Interior view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Interior view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-マフラー･スノーウィ-カレイドスコープ-s00-マフラー--M97654_PM1_Detail view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Detail view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-マフラー･スノーウィ-カレイドスコープ-s00-マフラー--M97654_PM1_Other view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Other view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-マフラー･スノーウィ-カレイドスコープ-s00-マフラー--M97654_PM1_Cropped worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Cropped worn view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/snowy-kaleidoscope-scarf-s00-nvprod6690009v",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 252,
+        "unitText": "cm"
+      },
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/_/N-tveguxb",
+          "alternateName": "women",
+          "name": "ウィメンズ",
+          "identifier": "femme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/accessories/_/N-toxp7l2",
+          "alternateName": "accessories",
+          "name": "アクセサリー",
+          "identifier": "w-category-cat10155"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/accessories/scarves/_/N-tmr7ugu",
+          "alternateName": "scarves",
+          "name": "マフラー",
+          "identifier": "nvcat2810007v"
+        }
+      ],
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-RTW-422_jaune_2.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>カラー：イエロー</li><li>素材：ウール 80%、シルク 20%</li><li>モノグラム･シグネチャーのレザーパッチ</li><li>モノグラムのモチーフ</li><li>フリンジ仕上げ</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "Snowy Kaleidoscope Scarf"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isPerso",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories;Sunglasses"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "eligibleToAgec",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "newArrivalsDate",
+          "value": 1758844800000
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "hasLanguagePanel",
+          "value": false
+        }
+      ],
+      "careLink": {
+        "sections": []
+      },
+      "collectibles": false,
+      "identifier": "M97654",
+      "defaultFamilySapDisplayName": "SCARF",
+      "productVisible": true,
+      "name": "マフラー･スノーウィ カレイドスコープ",
+      "packagingVariation": "",
+      "mainMaterial2": "WOOL",
+      "highEndTemplate": false,
+      "material": "WOOL",
+      "productId": "nvprod6690009v",
+      "hasLanguagePanel": false,
+      "disclaimers": {
+        "customDisclaimer": false,
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "color": "ジョーヌ",
+      "@context": "http://schema.org"
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "/api/catalog/jpn-jp/product/nvprod6690009v"
+    },
+    "push": {
+      "href": "/api/catalog/jpn-jp/product-push/nvprod6690009v"
+    },
+    "care-link": {
+      "href": "/api/catalog/jpn-jp/care-link/nvprod6690009v"
+    },
+    "availability": {
+      "href": "/api/catalog/jpn-jp/availability/nvprod6690009v"
+    }
+  },
+  "@type": "Product",
+  "sku": "M97179",
+  "isSimilarTo": [],
+  "productTips": [],
+  "url": "/jpn-jp/products/snowy-kaleidoscope-scarf-s00-nvprod6690009v",
+  "material": "NOT APPLICABLE ACC",
+  "category": [
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/women/_/N-tveguxb",
+      "alternateName": "women",
+      "name": "ウィメンズ",
+      "identifier": "femme"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/women/accessories/_/N-toxp7l2",
+      "alternateName": "accessories",
+      "name": "アクセサリー",
+      "identifier": "w-category-cat10155"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/women/accessories/scarves/_/N-tmr7ugu",
+      "alternateName": "scarves",
+      "name": "マフラー",
+      "identifier": "nvcat2810007v"
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "hidePrice",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "subType",
+      "value": "product"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "sizeGuide",
+      "value": false
+    }
+  ],
+  "name": "マフラー･スノーウィ カレイドスコープ",
+  "isRelatedTo": [],
+  "@context": "http://schema.org",
+  "identifier": "nvprod6690009v"
+}
