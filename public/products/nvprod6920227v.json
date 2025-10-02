@@ -1,0 +1,5946 @@
+{
+  "relatedFinishOptions": [],
+  "model": [
+    {
+      "kitFlag": false,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/1AJAHD/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod6920227v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/1AJAHD"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/1AJAHD/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod6920227v/1AJAHD/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ブラック",
+      "@type": "ProductModel",
+      "identifierKey": "b5bd1e22f34cfaeef991f6c6ea8772ef",
+      "productDetailTabs": [],
+      "macroFamilySap": "Shoes",
+      "kitExclusivity": false,
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 240900
+        },
+        "@type": "Offer",
+        "price": "¥240,900"
+      },
+      "disambiguatingDescription": "ご不明な点がございましたら、クライアントサービスまでお気軽にお問合せください。専任のクライアントアドバイザーが、素材やサイズなどの製品詳細、モデル着用イメージや関連アイテムのご案内など、お客様のご要望に合わせたスタイリング・アドバイスをご提供いたします。<br>また、サイズ違いなどによる返品・交換のご相談も承ります。詳細は<a href='https://jp.louisvuitton.com/jpn-jp/legal-privacy'><b>こちら。</b></a>",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-トレイナー-スニーカー-シューズ--BVU023PC02_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-トレイナー-スニーカー-シューズ--BVU023PC02_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-トレイナー-スニーカー-シューズ--BVU023PC02_PM1_Interior view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Interior view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-トレイナー-スニーカー-シューズ--BVU023PC02_PM1_Back view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Back view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-トレイナー-スニーカー-シューズ--BVU023PC02_PM1_Other view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Other view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/lv-trainer-sneaker-nvprod6920227v",
+      "sizeDisplayName": "04.0",
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-t18ui4cq",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/shoes/_/N-t1gm1r5t",
+          "alternateName": "shoes",
+          "name": "シューズ",
+          "identifier": "m-category-cat10037"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/shoes/sneakers/_/N-t1fud07g",
+          "alternateName": "sneakers",
+          "name": "メンズ スニーカー",
+          "identifier": "nvcat60002v-11"
+        }
+      ],
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-SHO-02_noir.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<br>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "LV Trainer Sneaker"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isPerso",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z04"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Shoe_Men"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "eligibleToAgec",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "hasLanguagePanel",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "categorySize",
+          "value": "men_shoes"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "bannerList",
+          "value": [
+            {
+              "commercialBanner": "top_banner_content_category_1"
+            },
+            {
+              "commercialBanner": "top_banner_content_category_2"
+            },
+            {
+              "commercialBanner": "top_banner_content_category_3"
+            },
+            {
+              "commercialBanner": "top_banner_content_category_4"
+            }
+          ]
+        }
+      ],
+      "careLink": {
+        "sections": []
+      },
+      "collectibles": false,
+      "identifier": "1AJAHD",
+      "defaultFamilySapDisplayName": "SNEAKER",
+      "productVisible": true,
+      "name": "LV トレイナー スニーカー",
+      "packagingVariation": "",
+      "mainMaterial2": "CalfXX",
+      "highEndTemplate": false,
+      "productId": "nvprod6920227v",
+      "hasLanguagePanel": false,
+      "disclaimers": {
+        "customDisclaimer": false,
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "color": "ノワール",
+      "@context": "http://schema.org"
+    },
+    {
+      "kitFlag": false,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/1AJAHE/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod6920227v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/1AJAHE"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/1AJAHE/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod6920227v/1AJAHE/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ブラック",
+      "@type": "ProductModel",
+      "identifierKey": "2ca3c2247beebb7f8e590d389709be1c",
+      "productDetailTabs": [],
+      "macroFamilySap": "Shoes",
+      "kitExclusivity": false,
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 240900
+        },
+        "@type": "Offer",
+        "price": "¥240,900"
+      },
+      "disambiguatingDescription": "ご不明な点がございましたら、クライアントサービスまでお気軽にお問合せください。専任のクライアントアドバイザーが、素材やサイズなどの製品詳細、モデル着用イメージや関連アイテムのご案内など、お客様のご要望に合わせたスタイリング・アドバイスをご提供いたします。<br>また、サイズ違いなどによる返品・交換のご相談も承ります。詳細は<a href='https://jp.louisvuitton.com/jpn-jp/legal-privacy'><b>こちら。</b></a>",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-トレイナー-スニーカー-シューズ--BVU023PC02_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-トレイナー-スニーカー-シューズ--BVU023PC02_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-トレイナー-スニーカー-シューズ--BVU023PC02_PM1_Interior view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Interior view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-トレイナー-スニーカー-シューズ--BVU023PC02_PM1_Back view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Back view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-トレイナー-スニーカー-シューズ--BVU023PC02_PM1_Other view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Other view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/lv-trainer-sneaker-nvprod6920227v",
+      "sizeDisplayName": "05.0",
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-t18ui4cq",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/shoes/_/N-t1gm1r5t",
+          "alternateName": "shoes",
+          "name": "シューズ",
+          "identifier": "m-category-cat10037"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/shoes/sneakers/_/N-t1fud07g",
+          "alternateName": "sneakers",
+          "name": "メンズ スニーカー",
+          "identifier": "nvcat60002v-11"
+        }
+      ],
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-SHO-02_noir.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<br>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "LV Trainer Sneaker"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isPerso",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z04"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Shoe_Men"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "eligibleToAgec",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "hasLanguagePanel",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "categorySize",
+          "value": "men_shoes"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "bannerList",
+          "value": [
+            {
+              "commercialBanner": "top_banner_content_category_1"
+            },
+            {
+              "commercialBanner": "top_banner_content_category_2"
+            },
+            {
+              "commercialBanner": "top_banner_content_category_3"
+            },
+            {
+              "commercialBanner": "top_banner_content_category_4"
+            }
+          ]
+        }
+      ],
+      "careLink": {
+        "sections": []
+      },
+      "collectibles": false,
+      "identifier": "1AJAHE",
+      "defaultFamilySapDisplayName": "SNEAKER",
+      "productVisible": true,
+      "name": "LV トレイナー スニーカー",
+      "packagingVariation": "",
+      "mainMaterial2": "CalfXX",
+      "highEndTemplate": false,
+      "productId": "nvprod6920227v",
+      "hasLanguagePanel": false,
+      "disclaimers": {
+        "customDisclaimer": false,
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "color": "ノワール",
+      "@context": "http://schema.org"
+    },
+    {
+      "kitFlag": false,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/1AJAHF/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod6920227v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/1AJAHF"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/1AJAHF/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod6920227v/1AJAHF/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ブラック",
+      "@type": "ProductModel",
+      "identifierKey": "95382380c836bef6d09b7fb7b11c875b",
+      "productDetailTabs": [],
+      "macroFamilySap": "Shoes",
+      "kitExclusivity": false,
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 240900
+        },
+        "@type": "Offer",
+        "price": "¥240,900"
+      },
+      "disambiguatingDescription": "ご不明な点がございましたら、クライアントサービスまでお気軽にお問合せください。専任のクライアントアドバイザーが、素材やサイズなどの製品詳細、モデル着用イメージや関連アイテムのご案内など、お客様のご要望に合わせたスタイリング・アドバイスをご提供いたします。<br>また、サイズ違いなどによる返品・交換のご相談も承ります。詳細は<a href='https://jp.louisvuitton.com/jpn-jp/legal-privacy'><b>こちら。</b></a>",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-トレイナー-スニーカー-シューズ--BVU023PC02_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-トレイナー-スニーカー-シューズ--BVU023PC02_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-トレイナー-スニーカー-シューズ--BVU023PC02_PM1_Interior view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Interior view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-トレイナー-スニーカー-シューズ--BVU023PC02_PM1_Back view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Back view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-トレイナー-スニーカー-シューズ--BVU023PC02_PM1_Other view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Other view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/lv-trainer-sneaker-nvprod6920227v",
+      "sizeDisplayName": "05.5",
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-t18ui4cq",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/shoes/_/N-t1gm1r5t",
+          "alternateName": "shoes",
+          "name": "シューズ",
+          "identifier": "m-category-cat10037"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/shoes/sneakers/_/N-t1fud07g",
+          "alternateName": "sneakers",
+          "name": "メンズ スニーカー",
+          "identifier": "nvcat60002v-11"
+        }
+      ],
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-SHO-02_noir.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<br>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "LV Trainer Sneaker"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isPerso",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z04"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Shoe_Men"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "eligibleToAgec",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "hasLanguagePanel",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "categorySize",
+          "value": "men_shoes"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "bannerList",
+          "value": [
+            {
+              "commercialBanner": "top_banner_content_category_1"
+            },
+            {
+              "commercialBanner": "top_banner_content_category_2"
+            },
+            {
+              "commercialBanner": "top_banner_content_category_3"
+            },
+            {
+              "commercialBanner": "top_banner_content_category_4"
+            }
+          ]
+        }
+      ],
+      "careLink": {
+        "sections": []
+      },
+      "collectibles": false,
+      "identifier": "1AJAHF",
+      "defaultFamilySapDisplayName": "SNEAKER",
+      "productVisible": true,
+      "name": "LV トレイナー スニーカー",
+      "packagingVariation": "",
+      "mainMaterial2": "CalfXX",
+      "highEndTemplate": false,
+      "productId": "nvprod6920227v",
+      "hasLanguagePanel": false,
+      "disclaimers": {
+        "customDisclaimer": false,
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "color": "ノワール",
+      "@context": "http://schema.org"
+    },
+    {
+      "kitFlag": false,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/1AJAHG/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod6920227v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/1AJAHG"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/1AJAHG/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod6920227v/1AJAHG/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ブラック",
+      "@type": "ProductModel",
+      "identifierKey": "b1bc7bc7e34abb43962a43d213709c84",
+      "productDetailTabs": [],
+      "macroFamilySap": "Shoes",
+      "kitExclusivity": false,
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 240900
+        },
+        "@type": "Offer",
+        "price": "¥240,900"
+      },
+      "disambiguatingDescription": "ご不明な点がございましたら、クライアントサービスまでお気軽にお問合せください。専任のクライアントアドバイザーが、素材やサイズなどの製品詳細、モデル着用イメージや関連アイテムのご案内など、お客様のご要望に合わせたスタイリング・アドバイスをご提供いたします。<br>また、サイズ違いなどによる返品・交換のご相談も承ります。詳細は<a href='https://jp.louisvuitton.com/jpn-jp/legal-privacy'><b>こちら。</b></a>",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-トレイナー-スニーカー-シューズ--BVU023PC02_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-トレイナー-スニーカー-シューズ--BVU023PC02_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-トレイナー-スニーカー-シューズ--BVU023PC02_PM1_Interior view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Interior view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-トレイナー-スニーカー-シューズ--BVU023PC02_PM1_Back view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Back view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-トレイナー-スニーカー-シューズ--BVU023PC02_PM1_Other view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Other view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/lv-trainer-sneaker-nvprod6920227v",
+      "sizeDisplayName": "06.0",
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-t18ui4cq",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/shoes/_/N-t1gm1r5t",
+          "alternateName": "shoes",
+          "name": "シューズ",
+          "identifier": "m-category-cat10037"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/shoes/sneakers/_/N-t1fud07g",
+          "alternateName": "sneakers",
+          "name": "メンズ スニーカー",
+          "identifier": "nvcat60002v-11"
+        }
+      ],
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-SHO-02_noir.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<br>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "LV Trainer Sneaker"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isPerso",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z04"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Shoe_Men"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "eligibleToAgec",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "hasLanguagePanel",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "categorySize",
+          "value": "men_shoes"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "bannerList",
+          "value": [
+            {
+              "commercialBanner": "top_banner_content_category_1"
+            },
+            {
+              "commercialBanner": "top_banner_content_category_2"
+            },
+            {
+              "commercialBanner": "top_banner_content_category_3"
+            },
+            {
+              "commercialBanner": "top_banner_content_category_4"
+            }
+          ]
+        }
+      ],
+      "careLink": {
+        "sections": []
+      },
+      "collectibles": false,
+      "identifier": "1AJAHG",
+      "defaultFamilySapDisplayName": "SNEAKER",
+      "productVisible": true,
+      "name": "LV トレイナー スニーカー",
+      "packagingVariation": "",
+      "mainMaterial2": "CalfXX",
+      "highEndTemplate": false,
+      "productId": "nvprod6920227v",
+      "hasLanguagePanel": false,
+      "disclaimers": {
+        "customDisclaimer": false,
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "color": "ノワール",
+      "@context": "http://schema.org"
+    },
+    {
+      "kitFlag": false,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/1AJAHH/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod6920227v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/1AJAHH"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/1AJAHH/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod6920227v/1AJAHH/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ブラック",
+      "@type": "ProductModel",
+      "identifierKey": "6c065703076694badc2ab396f306a2e7",
+      "productDetailTabs": [],
+      "macroFamilySap": "Shoes",
+      "kitExclusivity": false,
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 240900
+        },
+        "@type": "Offer",
+        "price": "¥240,900"
+      },
+      "disambiguatingDescription": "ご不明な点がございましたら、クライアントサービスまでお気軽にお問合せください。専任のクライアントアドバイザーが、素材やサイズなどの製品詳細、モデル着用イメージや関連アイテムのご案内など、お客様のご要望に合わせたスタイリング・アドバイスをご提供いたします。<br>また、サイズ違いなどによる返品・交換のご相談も承ります。詳細は<a href='https://jp.louisvuitton.com/jpn-jp/legal-privacy'><b>こちら。</b></a>",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-トレイナー-スニーカー-シューズ--BVU023PC02_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-トレイナー-スニーカー-シューズ--BVU023PC02_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-トレイナー-スニーカー-シューズ--BVU023PC02_PM1_Interior view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Interior view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-トレイナー-スニーカー-シューズ--BVU023PC02_PM1_Back view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Back view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-トレイナー-スニーカー-シューズ--BVU023PC02_PM1_Other view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Other view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/lv-trainer-sneaker-nvprod6920227v",
+      "sizeDisplayName": "06.5",
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-t18ui4cq",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/shoes/_/N-t1gm1r5t",
+          "alternateName": "shoes",
+          "name": "シューズ",
+          "identifier": "m-category-cat10037"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/shoes/sneakers/_/N-t1fud07g",
+          "alternateName": "sneakers",
+          "name": "メンズ スニーカー",
+          "identifier": "nvcat60002v-11"
+        }
+      ],
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-SHO-02_noir.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<br>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "LV Trainer Sneaker"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isPerso",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z04"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Shoe_Men"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "eligibleToAgec",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "hasLanguagePanel",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "categorySize",
+          "value": "men_shoes"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "bannerList",
+          "value": [
+            {
+              "commercialBanner": "top_banner_content_category_1"
+            },
+            {
+              "commercialBanner": "top_banner_content_category_2"
+            },
+            {
+              "commercialBanner": "top_banner_content_category_3"
+            },
+            {
+              "commercialBanner": "top_banner_content_category_4"
+            }
+          ]
+        }
+      ],
+      "careLink": {
+        "sections": []
+      },
+      "collectibles": false,
+      "identifier": "1AJAHH",
+      "defaultFamilySapDisplayName": "SNEAKER",
+      "productVisible": true,
+      "name": "LV トレイナー スニーカー",
+      "packagingVariation": "",
+      "mainMaterial2": "CalfXX",
+      "highEndTemplate": false,
+      "productId": "nvprod6920227v",
+      "hasLanguagePanel": false,
+      "disclaimers": {
+        "customDisclaimer": false,
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "color": "ノワール",
+      "@context": "http://schema.org"
+    },
+    {
+      "kitFlag": false,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/1AJAHI/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod6920227v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/1AJAHI"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/1AJAHI/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod6920227v/1AJAHI/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ブラック",
+      "@type": "ProductModel",
+      "identifierKey": "7cf03d13f6bc6c9a178c9989127cc0c9",
+      "productDetailTabs": [],
+      "macroFamilySap": "Shoes",
+      "kitExclusivity": false,
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 240900
+        },
+        "@type": "Offer",
+        "price": "¥240,900"
+      },
+      "disambiguatingDescription": "ご不明な点がございましたら、クライアントサービスまでお気軽にお問合せください。専任のクライアントアドバイザーが、素材やサイズなどの製品詳細、モデル着用イメージや関連アイテムのご案内など、お客様のご要望に合わせたスタイリング・アドバイスをご提供いたします。<br>また、サイズ違いなどによる返品・交換のご相談も承ります。詳細は<a href='https://jp.louisvuitton.com/jpn-jp/legal-privacy'><b>こちら。</b></a>",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-トレイナー-スニーカー-シューズ--BVU023PC02_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-トレイナー-スニーカー-シューズ--BVU023PC02_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-トレイナー-スニーカー-シューズ--BVU023PC02_PM1_Interior view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Interior view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-トレイナー-スニーカー-シューズ--BVU023PC02_PM1_Back view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Back view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-トレイナー-スニーカー-シューズ--BVU023PC02_PM1_Other view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Other view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/lv-trainer-sneaker-nvprod6920227v",
+      "sizeDisplayName": "07.0",
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-t18ui4cq",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/shoes/_/N-t1gm1r5t",
+          "alternateName": "shoes",
+          "name": "シューズ",
+          "identifier": "m-category-cat10037"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/shoes/sneakers/_/N-t1fud07g",
+          "alternateName": "sneakers",
+          "name": "メンズ スニーカー",
+          "identifier": "nvcat60002v-11"
+        }
+      ],
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-SHO-02_noir.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<br>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "LV Trainer Sneaker"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isPerso",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z04"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Shoe_Men"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "eligibleToAgec",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "hasLanguagePanel",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "categorySize",
+          "value": "men_shoes"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "bannerList",
+          "value": [
+            {
+              "commercialBanner": "top_banner_content_category_1"
+            },
+            {
+              "commercialBanner": "top_banner_content_category_2"
+            },
+            {
+              "commercialBanner": "top_banner_content_category_3"
+            },
+            {
+              "commercialBanner": "top_banner_content_category_4"
+            }
+          ]
+        }
+      ],
+      "careLink": {
+        "sections": []
+      },
+      "collectibles": false,
+      "identifier": "1AJAHI",
+      "defaultFamilySapDisplayName": "SNEAKER",
+      "productVisible": true,
+      "name": "LV トレイナー スニーカー",
+      "packagingVariation": "",
+      "mainMaterial2": "CalfXX",
+      "highEndTemplate": false,
+      "productId": "nvprod6920227v",
+      "hasLanguagePanel": false,
+      "disclaimers": {
+        "customDisclaimer": false,
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "color": "ノワール",
+      "@context": "http://schema.org"
+    },
+    {
+      "kitFlag": false,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/1AJAHJ/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod6920227v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/1AJAHJ"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/1AJAHJ/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod6920227v/1AJAHJ/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ブラック",
+      "@type": "ProductModel",
+      "identifierKey": "81cd1fdaf36e37e497f0977cbfe6537d",
+      "productDetailTabs": [],
+      "macroFamilySap": "Shoes",
+      "kitExclusivity": false,
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 240900
+        },
+        "@type": "Offer",
+        "price": "¥240,900"
+      },
+      "disambiguatingDescription": "ご不明な点がございましたら、クライアントサービスまでお気軽にお問合せください。専任のクライアントアドバイザーが、素材やサイズなどの製品詳細、モデル着用イメージや関連アイテムのご案内など、お客様のご要望に合わせたスタイリング・アドバイスをご提供いたします。<br>また、サイズ違いなどによる返品・交換のご相談も承ります。詳細は<a href='https://jp.louisvuitton.com/jpn-jp/legal-privacy'><b>こちら。</b></a>",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-トレイナー-スニーカー-シューズ--BVU023PC02_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-トレイナー-スニーカー-シューズ--BVU023PC02_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-トレイナー-スニーカー-シューズ--BVU023PC02_PM1_Interior view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Interior view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-トレイナー-スニーカー-シューズ--BVU023PC02_PM1_Back view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Back view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-トレイナー-スニーカー-シューズ--BVU023PC02_PM1_Other view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Other view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/lv-trainer-sneaker-nvprod6920227v",
+      "sizeDisplayName": "07.5",
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-t18ui4cq",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/shoes/_/N-t1gm1r5t",
+          "alternateName": "shoes",
+          "name": "シューズ",
+          "identifier": "m-category-cat10037"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/shoes/sneakers/_/N-t1fud07g",
+          "alternateName": "sneakers",
+          "name": "メンズ スニーカー",
+          "identifier": "nvcat60002v-11"
+        }
+      ],
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-SHO-02_noir.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<br>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "LV Trainer Sneaker"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isPerso",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z04"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Shoe_Men"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "eligibleToAgec",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "hasLanguagePanel",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "categorySize",
+          "value": "men_shoes"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "bannerList",
+          "value": [
+            {
+              "commercialBanner": "top_banner_content_category_1"
+            },
+            {
+              "commercialBanner": "top_banner_content_category_2"
+            },
+            {
+              "commercialBanner": "top_banner_content_category_3"
+            },
+            {
+              "commercialBanner": "top_banner_content_category_4"
+            }
+          ]
+        }
+      ],
+      "careLink": {
+        "sections": []
+      },
+      "collectibles": false,
+      "identifier": "1AJAHJ",
+      "defaultFamilySapDisplayName": "SNEAKER",
+      "productVisible": true,
+      "name": "LV トレイナー スニーカー",
+      "packagingVariation": "",
+      "mainMaterial2": "CalfXX",
+      "highEndTemplate": false,
+      "productId": "nvprod6920227v",
+      "hasLanguagePanel": false,
+      "disclaimers": {
+        "customDisclaimer": false,
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "color": "ノワール",
+      "@context": "http://schema.org"
+    },
+    {
+      "kitFlag": false,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/1AJAHK/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod6920227v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/1AJAHK"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/1AJAHK/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod6920227v/1AJAHK/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ブラック",
+      "@type": "ProductModel",
+      "identifierKey": "f4f4a6d56caa34ca6de6a73f9b9c2020",
+      "productDetailTabs": [],
+      "macroFamilySap": "Shoes",
+      "kitExclusivity": false,
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 240900
+        },
+        "@type": "Offer",
+        "price": "¥240,900"
+      },
+      "disambiguatingDescription": "ご不明な点がございましたら、クライアントサービスまでお気軽にお問合せください。専任のクライアントアドバイザーが、素材やサイズなどの製品詳細、モデル着用イメージや関連アイテムのご案内など、お客様のご要望に合わせたスタイリング・アドバイスをご提供いたします。<br>また、サイズ違いなどによる返品・交換のご相談も承ります。詳細は<a href='https://jp.louisvuitton.com/jpn-jp/legal-privacy'><b>こちら。</b></a>",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-トレイナー-スニーカー-シューズ--BVU023PC02_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-トレイナー-スニーカー-シューズ--BVU023PC02_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-トレイナー-スニーカー-シューズ--BVU023PC02_PM1_Interior view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Interior view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-トレイナー-スニーカー-シューズ--BVU023PC02_PM1_Back view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Back view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-トレイナー-スニーカー-シューズ--BVU023PC02_PM1_Other view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Other view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/lv-trainer-sneaker-nvprod6920227v",
+      "sizeDisplayName": "08.0",
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-t18ui4cq",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/shoes/_/N-t1gm1r5t",
+          "alternateName": "shoes",
+          "name": "シューズ",
+          "identifier": "m-category-cat10037"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/shoes/sneakers/_/N-t1fud07g",
+          "alternateName": "sneakers",
+          "name": "メンズ スニーカー",
+          "identifier": "nvcat60002v-11"
+        }
+      ],
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-SHO-02_noir.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<br>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "LV Trainer Sneaker"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isPerso",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z04"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Shoe_Men"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "eligibleToAgec",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "hasLanguagePanel",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "categorySize",
+          "value": "men_shoes"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "bannerList",
+          "value": [
+            {
+              "commercialBanner": "top_banner_content_category_1"
+            },
+            {
+              "commercialBanner": "top_banner_content_category_2"
+            },
+            {
+              "commercialBanner": "top_banner_content_category_3"
+            },
+            {
+              "commercialBanner": "top_banner_content_category_4"
+            }
+          ]
+        }
+      ],
+      "careLink": {
+        "sections": []
+      },
+      "collectibles": false,
+      "identifier": "1AJAHK",
+      "defaultFamilySapDisplayName": "SNEAKER",
+      "productVisible": true,
+      "name": "LV トレイナー スニーカー",
+      "packagingVariation": "",
+      "mainMaterial2": "CalfXX",
+      "highEndTemplate": false,
+      "productId": "nvprod6920227v",
+      "hasLanguagePanel": false,
+      "disclaimers": {
+        "customDisclaimer": false,
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "color": "ノワール",
+      "@context": "http://schema.org"
+    },
+    {
+      "kitFlag": false,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/1AJAHL/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod6920227v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/1AJAHL"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/1AJAHL/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod6920227v/1AJAHL/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ブラック",
+      "@type": "ProductModel",
+      "identifierKey": "222576fa4d36671b9fc5f72b106494db",
+      "productDetailTabs": [],
+      "macroFamilySap": "Shoes",
+      "kitExclusivity": false,
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 240900
+        },
+        "@type": "Offer",
+        "price": "¥240,900"
+      },
+      "disambiguatingDescription": "ご不明な点がございましたら、クライアントサービスまでお気軽にお問合せください。専任のクライアントアドバイザーが、素材やサイズなどの製品詳細、モデル着用イメージや関連アイテムのご案内など、お客様のご要望に合わせたスタイリング・アドバイスをご提供いたします。<br>また、サイズ違いなどによる返品・交換のご相談も承ります。詳細は<a href='https://jp.louisvuitton.com/jpn-jp/legal-privacy'><b>こちら。</b></a>",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-トレイナー-スニーカー-シューズ--BVU023PC02_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-トレイナー-スニーカー-シューズ--BVU023PC02_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-トレイナー-スニーカー-シューズ--BVU023PC02_PM1_Interior view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Interior view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-トレイナー-スニーカー-シューズ--BVU023PC02_PM1_Back view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Back view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-トレイナー-スニーカー-シューズ--BVU023PC02_PM1_Other view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Other view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/lv-trainer-sneaker-nvprod6920227v",
+      "sizeDisplayName": "08.5",
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-t18ui4cq",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/shoes/_/N-t1gm1r5t",
+          "alternateName": "shoes",
+          "name": "シューズ",
+          "identifier": "m-category-cat10037"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/shoes/sneakers/_/N-t1fud07g",
+          "alternateName": "sneakers",
+          "name": "メンズ スニーカー",
+          "identifier": "nvcat60002v-11"
+        }
+      ],
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-SHO-02_noir.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<br>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "LV Trainer Sneaker"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isPerso",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z04"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Shoe_Men"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "eligibleToAgec",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "hasLanguagePanel",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "categorySize",
+          "value": "men_shoes"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "bannerList",
+          "value": [
+            {
+              "commercialBanner": "top_banner_content_category_1"
+            },
+            {
+              "commercialBanner": "top_banner_content_category_2"
+            },
+            {
+              "commercialBanner": "top_banner_content_category_3"
+            },
+            {
+              "commercialBanner": "top_banner_content_category_4"
+            }
+          ]
+        }
+      ],
+      "careLink": {
+        "sections": []
+      },
+      "collectibles": false,
+      "identifier": "1AJAHL",
+      "defaultFamilySapDisplayName": "SNEAKER",
+      "productVisible": true,
+      "name": "LV トレイナー スニーカー",
+      "packagingVariation": "",
+      "mainMaterial2": "CalfXX",
+      "highEndTemplate": false,
+      "productId": "nvprod6920227v",
+      "hasLanguagePanel": false,
+      "disclaimers": {
+        "customDisclaimer": false,
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "color": "ノワール",
+      "@context": "http://schema.org"
+    },
+    {
+      "kitFlag": false,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/1AJAHM/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod6920227v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/1AJAHM"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/1AJAHM/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod6920227v/1AJAHM/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ブラック",
+      "@type": "ProductModel",
+      "identifierKey": "056f7dfb6753c31f63dc6f66d4e7d5dd",
+      "productDetailTabs": [],
+      "macroFamilySap": "Shoes",
+      "kitExclusivity": false,
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 240900
+        },
+        "@type": "Offer",
+        "price": "¥240,900"
+      },
+      "disambiguatingDescription": "ご不明な点がございましたら、クライアントサービスまでお気軽にお問合せください。専任のクライアントアドバイザーが、素材やサイズなどの製品詳細、モデル着用イメージや関連アイテムのご案内など、お客様のご要望に合わせたスタイリング・アドバイスをご提供いたします。<br>また、サイズ違いなどによる返品・交換のご相談も承ります。詳細は<a href='https://jp.louisvuitton.com/jpn-jp/legal-privacy'><b>こちら。</b></a>",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-トレイナー-スニーカー-シューズ--BVU023PC02_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-トレイナー-スニーカー-シューズ--BVU023PC02_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-トレイナー-スニーカー-シューズ--BVU023PC02_PM1_Interior view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Interior view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-トレイナー-スニーカー-シューズ--BVU023PC02_PM1_Back view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Back view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-トレイナー-スニーカー-シューズ--BVU023PC02_PM1_Other view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Other view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/lv-trainer-sneaker-nvprod6920227v",
+      "sizeDisplayName": "09.0",
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-t18ui4cq",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/shoes/_/N-t1gm1r5t",
+          "alternateName": "shoes",
+          "name": "シューズ",
+          "identifier": "m-category-cat10037"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/shoes/sneakers/_/N-t1fud07g",
+          "alternateName": "sneakers",
+          "name": "メンズ スニーカー",
+          "identifier": "nvcat60002v-11"
+        }
+      ],
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-SHO-02_noir.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<br>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "LV Trainer Sneaker"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isPerso",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z04"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Shoe_Men"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "eligibleToAgec",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "hasLanguagePanel",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "categorySize",
+          "value": "men_shoes"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "bannerList",
+          "value": [
+            {
+              "commercialBanner": "top_banner_content_category_1"
+            },
+            {
+              "commercialBanner": "top_banner_content_category_2"
+            },
+            {
+              "commercialBanner": "top_banner_content_category_3"
+            },
+            {
+              "commercialBanner": "top_banner_content_category_4"
+            }
+          ]
+        }
+      ],
+      "careLink": {
+        "sections": []
+      },
+      "collectibles": false,
+      "identifier": "1AJAHM",
+      "defaultFamilySapDisplayName": "SNEAKER",
+      "productVisible": true,
+      "name": "LV トレイナー スニーカー",
+      "packagingVariation": "",
+      "mainMaterial2": "CalfXX",
+      "highEndTemplate": false,
+      "productId": "nvprod6920227v",
+      "hasLanguagePanel": false,
+      "disclaimers": {
+        "customDisclaimer": false,
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "color": "ノワール",
+      "@context": "http://schema.org"
+    },
+    {
+      "kitFlag": false,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/1AJAHN/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod6920227v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/1AJAHN"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/1AJAHN/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod6920227v/1AJAHN/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ブラック",
+      "@type": "ProductModel",
+      "identifierKey": "f6cb5da21da3d1486d2284f4bbbfd245",
+      "productDetailTabs": [],
+      "macroFamilySap": "Shoes",
+      "kitExclusivity": false,
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 240900
+        },
+        "@type": "Offer",
+        "price": "¥240,900"
+      },
+      "disambiguatingDescription": "ご不明な点がございましたら、クライアントサービスまでお気軽にお問合せください。専任のクライアントアドバイザーが、素材やサイズなどの製品詳細、モデル着用イメージや関連アイテムのご案内など、お客様のご要望に合わせたスタイリング・アドバイスをご提供いたします。<br>また、サイズ違いなどによる返品・交換のご相談も承ります。詳細は<a href='https://jp.louisvuitton.com/jpn-jp/legal-privacy'><b>こちら。</b></a>",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-トレイナー-スニーカー-シューズ--BVU023PC02_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-トレイナー-スニーカー-シューズ--BVU023PC02_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-トレイナー-スニーカー-シューズ--BVU023PC02_PM1_Interior view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Interior view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-トレイナー-スニーカー-シューズ--BVU023PC02_PM1_Back view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Back view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-トレイナー-スニーカー-シューズ--BVU023PC02_PM1_Other view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Other view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/lv-trainer-sneaker-nvprod6920227v",
+      "sizeDisplayName": "09.5",
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-t18ui4cq",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/shoes/_/N-t1gm1r5t",
+          "alternateName": "shoes",
+          "name": "シューズ",
+          "identifier": "m-category-cat10037"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/shoes/sneakers/_/N-t1fud07g",
+          "alternateName": "sneakers",
+          "name": "メンズ スニーカー",
+          "identifier": "nvcat60002v-11"
+        }
+      ],
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-SHO-02_noir.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<br>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "LV Trainer Sneaker"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isPerso",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z04"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Shoe_Men"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "eligibleToAgec",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "hasLanguagePanel",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "categorySize",
+          "value": "men_shoes"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "bannerList",
+          "value": [
+            {
+              "commercialBanner": "top_banner_content_category_1"
+            },
+            {
+              "commercialBanner": "top_banner_content_category_2"
+            },
+            {
+              "commercialBanner": "top_banner_content_category_3"
+            },
+            {
+              "commercialBanner": "top_banner_content_category_4"
+            }
+          ]
+        }
+      ],
+      "careLink": {
+        "sections": []
+      },
+      "collectibles": false,
+      "identifier": "1AJAHN",
+      "defaultFamilySapDisplayName": "SNEAKER",
+      "productVisible": true,
+      "name": "LV トレイナー スニーカー",
+      "packagingVariation": "",
+      "mainMaterial2": "CalfXX",
+      "highEndTemplate": false,
+      "productId": "nvprod6920227v",
+      "hasLanguagePanel": false,
+      "disclaimers": {
+        "customDisclaimer": false,
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "color": "ノワール",
+      "@context": "http://schema.org"
+    },
+    {
+      "kitFlag": false,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/1AJAHO/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod6920227v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/1AJAHO"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/1AJAHO/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod6920227v/1AJAHO/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ブラック",
+      "@type": "ProductModel",
+      "identifierKey": "08ad348d9ce18e8a77a612acce2b1bc1",
+      "productDetailTabs": [],
+      "macroFamilySap": "Shoes",
+      "kitExclusivity": false,
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 240900
+        },
+        "@type": "Offer",
+        "price": "¥240,900"
+      },
+      "disambiguatingDescription": "ご不明な点がございましたら、クライアントサービスまでお気軽にお問合せください。専任のクライアントアドバイザーが、素材やサイズなどの製品詳細、モデル着用イメージや関連アイテムのご案内など、お客様のご要望に合わせたスタイリング・アドバイスをご提供いたします。<br>また、サイズ違いなどによる返品・交換のご相談も承ります。詳細は<a href='https://jp.louisvuitton.com/jpn-jp/legal-privacy'><b>こちら。</b></a>",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-トレイナー-スニーカー-シューズ--BVU023PC02_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-トレイナー-スニーカー-シューズ--BVU023PC02_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-トレイナー-スニーカー-シューズ--BVU023PC02_PM1_Interior view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Interior view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-トレイナー-スニーカー-シューズ--BVU023PC02_PM1_Back view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Back view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-トレイナー-スニーカー-シューズ--BVU023PC02_PM1_Other view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Other view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/lv-trainer-sneaker-nvprod6920227v",
+      "sizeDisplayName": "10.0",
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-t18ui4cq",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/shoes/_/N-t1gm1r5t",
+          "alternateName": "shoes",
+          "name": "シューズ",
+          "identifier": "m-category-cat10037"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/shoes/sneakers/_/N-t1fud07g",
+          "alternateName": "sneakers",
+          "name": "メンズ スニーカー",
+          "identifier": "nvcat60002v-11"
+        }
+      ],
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-SHO-02_noir.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<br>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "LV Trainer Sneaker"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isPerso",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z04"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Shoe_Men"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "eligibleToAgec",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "hasLanguagePanel",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "categorySize",
+          "value": "men_shoes"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "bannerList",
+          "value": [
+            {
+              "commercialBanner": "top_banner_content_category_1"
+            },
+            {
+              "commercialBanner": "top_banner_content_category_2"
+            },
+            {
+              "commercialBanner": "top_banner_content_category_3"
+            },
+            {
+              "commercialBanner": "top_banner_content_category_4"
+            }
+          ]
+        }
+      ],
+      "careLink": {
+        "sections": []
+      },
+      "collectibles": false,
+      "identifier": "1AJAHO",
+      "defaultFamilySapDisplayName": "SNEAKER",
+      "productVisible": true,
+      "name": "LV トレイナー スニーカー",
+      "packagingVariation": "",
+      "mainMaterial2": "CalfXX",
+      "highEndTemplate": false,
+      "productId": "nvprod6920227v",
+      "hasLanguagePanel": false,
+      "disclaimers": {
+        "customDisclaimer": false,
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "color": "ノワール",
+      "@context": "http://schema.org"
+    },
+    {
+      "kitFlag": false,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/1AJAHQ/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod6920227v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/1AJAHQ"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/1AJAHQ/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod6920227v/1AJAHQ/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ブラック",
+      "@type": "ProductModel",
+      "identifierKey": "f02715c2f14b2a128f3bceafe4774804",
+      "productDetailTabs": [],
+      "macroFamilySap": "Shoes",
+      "kitExclusivity": false,
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 240900
+        },
+        "@type": "Offer",
+        "price": "¥240,900"
+      },
+      "disambiguatingDescription": "ご不明な点がございましたら、クライアントサービスまでお気軽にお問合せください。専任のクライアントアドバイザーが、素材やサイズなどの製品詳細、モデル着用イメージや関連アイテムのご案内など、お客様のご要望に合わせたスタイリング・アドバイスをご提供いたします。<br>また、サイズ違いなどによる返品・交換のご相談も承ります。詳細は<a href='https://jp.louisvuitton.com/jpn-jp/legal-privacy'><b>こちら。</b></a>",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-トレイナー-スニーカー-シューズ--BVU023PC02_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-トレイナー-スニーカー-シューズ--BVU023PC02_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-トレイナー-スニーカー-シューズ--BVU023PC02_PM1_Interior view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Interior view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-トレイナー-スニーカー-シューズ--BVU023PC02_PM1_Back view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Back view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-トレイナー-スニーカー-シューズ--BVU023PC02_PM1_Other view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Other view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/lv-trainer-sneaker-nvprod6920227v",
+      "sizeDisplayName": "11.0",
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-t18ui4cq",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/shoes/_/N-t1gm1r5t",
+          "alternateName": "shoes",
+          "name": "シューズ",
+          "identifier": "m-category-cat10037"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/shoes/sneakers/_/N-t1fud07g",
+          "alternateName": "sneakers",
+          "name": "メンズ スニーカー",
+          "identifier": "nvcat60002v-11"
+        }
+      ],
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-SHO-02_noir.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<br>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "LV Trainer Sneaker"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isPerso",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z04"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Shoe_Men"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "eligibleToAgec",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "hasLanguagePanel",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "categorySize",
+          "value": "men_shoes"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "bannerList",
+          "value": [
+            {
+              "commercialBanner": "top_banner_content_category_1"
+            },
+            {
+              "commercialBanner": "top_banner_content_category_2"
+            },
+            {
+              "commercialBanner": "top_banner_content_category_3"
+            },
+            {
+              "commercialBanner": "top_banner_content_category_4"
+            }
+          ]
+        }
+      ],
+      "careLink": {
+        "sections": []
+      },
+      "collectibles": false,
+      "identifier": "1AJAHQ",
+      "defaultFamilySapDisplayName": "SNEAKER",
+      "productVisible": true,
+      "name": "LV トレイナー スニーカー",
+      "packagingVariation": "",
+      "mainMaterial2": "CalfXX",
+      "highEndTemplate": false,
+      "productId": "nvprod6920227v",
+      "hasLanguagePanel": false,
+      "disclaimers": {
+        "customDisclaimer": false,
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "color": "ノワール",
+      "@context": "http://schema.org"
+    },
+    {
+      "kitFlag": false,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/1AJAHX/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod6920227v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/1AJAHX"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/1AJAHX/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod6920227v/1AJAHX/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "グレー",
+      "@type": "ProductModel",
+      "identifierKey": "d0a7486d894aed1eea2a093e9acc362a",
+      "productDetailTabs": [],
+      "macroFamilySap": "Shoes",
+      "kitExclusivity": false,
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 240900
+        },
+        "@type": "Offer",
+        "price": "¥240,900"
+      },
+      "disambiguatingDescription": "ご不明な点がございましたら、クライアントサービスまでお気軽にお問合せください。専任のクライアントアドバイザーが、素材やサイズなどの製品詳細、モデル着用イメージや関連アイテムのご案内など、お客様のご要望に合わせたスタイリング・アドバイスをご提供いたします。<br>また、サイズ違いなどによる返品・交換のご相談も承ります。詳細は<a href='https://jp.louisvuitton.com/jpn-jp/legal-privacy'><b>こちら。</b></a>",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-トレイナー-スニーカー-シューズ--BVU023PC54_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-トレイナー-スニーカー-シューズ--BVU023PC54_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-トレイナー-スニーカー-シューズ--BVU023PC54_PM1_Interior view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Interior view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-トレイナー-スニーカー-シューズ--BVU023PC54_PM1_Back view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Back view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-トレイナー-スニーカー-シューズ--BVU023PC54_PM1_Other view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Other view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/lv-trainer-sneaker-nvprod6920227v",
+      "sizeDisplayName": "04.0",
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-t18ui4cq",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/shoes/_/N-t1gm1r5t",
+          "alternateName": "shoes",
+          "name": "シューズ",
+          "identifier": "m-category-cat10037"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/shoes/sneakers/_/N-t1fud07g",
+          "alternateName": "sneakers",
+          "name": "メンズ スニーカー",
+          "identifier": "nvcat60002v-11"
+        }
+      ],
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-SHO-54_gris.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<br>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "LV Trainer Sneaker"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isPerso",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z04"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Shoe_Men"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "eligibleToAgec",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "hasLanguagePanel",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "categorySize",
+          "value": "men_shoes"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "bannerList",
+          "value": [
+            {
+              "commercialBanner": "top_banner_content_category_1"
+            },
+            {
+              "commercialBanner": "top_banner_content_category_2"
+            },
+            {
+              "commercialBanner": "top_banner_content_category_3"
+            },
+            {
+              "commercialBanner": "top_banner_content_category_4"
+            }
+          ]
+        }
+      ],
+      "careLink": {
+        "sections": []
+      },
+      "collectibles": false,
+      "identifier": "1AJAHX",
+      "defaultFamilySapDisplayName": "SNEAKER",
+      "productVisible": true,
+      "name": "LV トレイナー スニーカー",
+      "packagingVariation": "",
+      "mainMaterial2": "CalfXX",
+      "highEndTemplate": false,
+      "productId": "nvprod6920227v",
+      "hasLanguagePanel": false,
+      "disclaimers": {
+        "customDisclaimer": false,
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "color": "グリ",
+      "@context": "http://schema.org"
+    },
+    {
+      "kitFlag": false,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/1AJAHY/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod6920227v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/1AJAHY"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/1AJAHY/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod6920227v/1AJAHY/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "グレー",
+      "@type": "ProductModel",
+      "identifierKey": "b7cdac94b4336663d8b55853b3f8a71b",
+      "productDetailTabs": [],
+      "macroFamilySap": "Shoes",
+      "kitExclusivity": false,
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 240900
+        },
+        "@type": "Offer",
+        "price": "¥240,900"
+      },
+      "disambiguatingDescription": "ご不明な点がございましたら、クライアントサービスまでお気軽にお問合せください。専任のクライアントアドバイザーが、素材やサイズなどの製品詳細、モデル着用イメージや関連アイテムのご案内など、お客様のご要望に合わせたスタイリング・アドバイスをご提供いたします。<br>また、サイズ違いなどによる返品・交換のご相談も承ります。詳細は<a href='https://jp.louisvuitton.com/jpn-jp/legal-privacy'><b>こちら。</b></a>",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-トレイナー-スニーカー-シューズ--BVU023PC54_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-トレイナー-スニーカー-シューズ--BVU023PC54_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-トレイナー-スニーカー-シューズ--BVU023PC54_PM1_Interior view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Interior view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-トレイナー-スニーカー-シューズ--BVU023PC54_PM1_Back view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Back view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-トレイナー-スニーカー-シューズ--BVU023PC54_PM1_Other view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Other view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/lv-trainer-sneaker-nvprod6920227v",
+      "sizeDisplayName": "05.0",
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-t18ui4cq",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/shoes/_/N-t1gm1r5t",
+          "alternateName": "shoes",
+          "name": "シューズ",
+          "identifier": "m-category-cat10037"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/shoes/sneakers/_/N-t1fud07g",
+          "alternateName": "sneakers",
+          "name": "メンズ スニーカー",
+          "identifier": "nvcat60002v-11"
+        }
+      ],
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-SHO-54_gris.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<br>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "LV Trainer Sneaker"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isPerso",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z04"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Shoe_Men"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "eligibleToAgec",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "hasLanguagePanel",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "categorySize",
+          "value": "men_shoes"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "bannerList",
+          "value": [
+            {
+              "commercialBanner": "top_banner_content_category_1"
+            },
+            {
+              "commercialBanner": "top_banner_content_category_2"
+            },
+            {
+              "commercialBanner": "top_banner_content_category_3"
+            },
+            {
+              "commercialBanner": "top_banner_content_category_4"
+            }
+          ]
+        }
+      ],
+      "careLink": {
+        "sections": []
+      },
+      "collectibles": false,
+      "identifier": "1AJAHY",
+      "defaultFamilySapDisplayName": "SNEAKER",
+      "productVisible": true,
+      "name": "LV トレイナー スニーカー",
+      "packagingVariation": "",
+      "mainMaterial2": "CalfXX",
+      "highEndTemplate": false,
+      "productId": "nvprod6920227v",
+      "hasLanguagePanel": false,
+      "disclaimers": {
+        "customDisclaimer": false,
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "color": "グリ",
+      "@context": "http://schema.org"
+    },
+    {
+      "kitFlag": false,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/1AJAHZ/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod6920227v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/1AJAHZ"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/1AJAHZ/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod6920227v/1AJAHZ/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "グレー",
+      "@type": "ProductModel",
+      "identifierKey": "5a125979052efaad5f0322dfc36e7940",
+      "productDetailTabs": [],
+      "macroFamilySap": "Shoes",
+      "kitExclusivity": false,
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 240900
+        },
+        "@type": "Offer",
+        "price": "¥240,900"
+      },
+      "disambiguatingDescription": "ご不明な点がございましたら、クライアントサービスまでお気軽にお問合せください。専任のクライアントアドバイザーが、素材やサイズなどの製品詳細、モデル着用イメージや関連アイテムのご案内など、お客様のご要望に合わせたスタイリング・アドバイスをご提供いたします。<br>また、サイズ違いなどによる返品・交換のご相談も承ります。詳細は<a href='https://jp.louisvuitton.com/jpn-jp/legal-privacy'><b>こちら。</b></a>",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-トレイナー-スニーカー-シューズ--BVU023PC54_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-トレイナー-スニーカー-シューズ--BVU023PC54_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-トレイナー-スニーカー-シューズ--BVU023PC54_PM1_Interior view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Interior view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-トレイナー-スニーカー-シューズ--BVU023PC54_PM1_Back view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Back view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-トレイナー-スニーカー-シューズ--BVU023PC54_PM1_Other view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Other view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/lv-trainer-sneaker-nvprod6920227v",
+      "sizeDisplayName": "05.5",
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-t18ui4cq",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/shoes/_/N-t1gm1r5t",
+          "alternateName": "shoes",
+          "name": "シューズ",
+          "identifier": "m-category-cat10037"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/shoes/sneakers/_/N-t1fud07g",
+          "alternateName": "sneakers",
+          "name": "メンズ スニーカー",
+          "identifier": "nvcat60002v-11"
+        }
+      ],
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-SHO-54_gris.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<br>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "LV Trainer Sneaker"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isPerso",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z04"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Shoe_Men"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "eligibleToAgec",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "hasLanguagePanel",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "categorySize",
+          "value": "men_shoes"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "bannerList",
+          "value": [
+            {
+              "commercialBanner": "top_banner_content_category_1"
+            },
+            {
+              "commercialBanner": "top_banner_content_category_2"
+            },
+            {
+              "commercialBanner": "top_banner_content_category_3"
+            },
+            {
+              "commercialBanner": "top_banner_content_category_4"
+            }
+          ]
+        }
+      ],
+      "careLink": {
+        "sections": []
+      },
+      "collectibles": false,
+      "identifier": "1AJAHZ",
+      "defaultFamilySapDisplayName": "SNEAKER",
+      "productVisible": true,
+      "name": "LV トレイナー スニーカー",
+      "packagingVariation": "",
+      "mainMaterial2": "CalfXX",
+      "highEndTemplate": false,
+      "productId": "nvprod6920227v",
+      "hasLanguagePanel": false,
+      "disclaimers": {
+        "customDisclaimer": false,
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "color": "グリ",
+      "@context": "http://schema.org"
+    },
+    {
+      "kitFlag": false,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/1AJAI0/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod6920227v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/1AJAI0"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/1AJAI0/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod6920227v/1AJAI0/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "グレー",
+      "@type": "ProductModel",
+      "identifierKey": "691fd76b81351564bb0cef0e2e221d82",
+      "productDetailTabs": [],
+      "macroFamilySap": "Shoes",
+      "kitExclusivity": false,
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 240900
+        },
+        "@type": "Offer",
+        "price": "¥240,900"
+      },
+      "disambiguatingDescription": "ご不明な点がございましたら、クライアントサービスまでお気軽にお問合せください。専任のクライアントアドバイザーが、素材やサイズなどの製品詳細、モデル着用イメージや関連アイテムのご案内など、お客様のご要望に合わせたスタイリング・アドバイスをご提供いたします。<br>また、サイズ違いなどによる返品・交換のご相談も承ります。詳細は<a href='https://jp.louisvuitton.com/jpn-jp/legal-privacy'><b>こちら。</b></a>",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-トレイナー-スニーカー-シューズ--BVU023PC54_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-トレイナー-スニーカー-シューズ--BVU023PC54_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-トレイナー-スニーカー-シューズ--BVU023PC54_PM1_Interior view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Interior view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-トレイナー-スニーカー-シューズ--BVU023PC54_PM1_Back view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Back view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-トレイナー-スニーカー-シューズ--BVU023PC54_PM1_Other view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Other view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/lv-trainer-sneaker-nvprod6920227v",
+      "sizeDisplayName": "06.0",
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-t18ui4cq",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/shoes/_/N-t1gm1r5t",
+          "alternateName": "shoes",
+          "name": "シューズ",
+          "identifier": "m-category-cat10037"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/shoes/sneakers/_/N-t1fud07g",
+          "alternateName": "sneakers",
+          "name": "メンズ スニーカー",
+          "identifier": "nvcat60002v-11"
+        }
+      ],
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-SHO-54_gris.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<br>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "LV Trainer Sneaker"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isPerso",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z04"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Shoe_Men"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "eligibleToAgec",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "hasLanguagePanel",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "categorySize",
+          "value": "men_shoes"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "bannerList",
+          "value": [
+            {
+              "commercialBanner": "top_banner_content_category_1"
+            },
+            {
+              "commercialBanner": "top_banner_content_category_2"
+            },
+            {
+              "commercialBanner": "top_banner_content_category_3"
+            },
+            {
+              "commercialBanner": "top_banner_content_category_4"
+            }
+          ]
+        }
+      ],
+      "careLink": {
+        "sections": []
+      },
+      "collectibles": false,
+      "identifier": "1AJAI0",
+      "defaultFamilySapDisplayName": "SNEAKER",
+      "productVisible": true,
+      "name": "LV トレイナー スニーカー",
+      "packagingVariation": "",
+      "mainMaterial2": "CalfXX",
+      "highEndTemplate": false,
+      "productId": "nvprod6920227v",
+      "hasLanguagePanel": false,
+      "disclaimers": {
+        "customDisclaimer": false,
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "color": "グリ",
+      "@context": "http://schema.org"
+    },
+    {
+      "kitFlag": false,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/1AJAI1/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod6920227v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/1AJAI1"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/1AJAI1/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod6920227v/1AJAI1/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "グレー",
+      "@type": "ProductModel",
+      "identifierKey": "cdafb1cb0765ba63acf5162805464a41",
+      "productDetailTabs": [],
+      "macroFamilySap": "Shoes",
+      "kitExclusivity": false,
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 240900
+        },
+        "@type": "Offer",
+        "price": "¥240,900"
+      },
+      "disambiguatingDescription": "ご不明な点がございましたら、クライアントサービスまでお気軽にお問合せください。専任のクライアントアドバイザーが、素材やサイズなどの製品詳細、モデル着用イメージや関連アイテムのご案内など、お客様のご要望に合わせたスタイリング・アドバイスをご提供いたします。<br>また、サイズ違いなどによる返品・交換のご相談も承ります。詳細は<a href='https://jp.louisvuitton.com/jpn-jp/legal-privacy'><b>こちら。</b></a>",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-トレイナー-スニーカー-シューズ--BVU023PC54_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-トレイナー-スニーカー-シューズ--BVU023PC54_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-トレイナー-スニーカー-シューズ--BVU023PC54_PM1_Interior view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Interior view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-トレイナー-スニーカー-シューズ--BVU023PC54_PM1_Back view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Back view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-トレイナー-スニーカー-シューズ--BVU023PC54_PM1_Other view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Other view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/lv-trainer-sneaker-nvprod6920227v",
+      "sizeDisplayName": "06.5",
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-t18ui4cq",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/shoes/_/N-t1gm1r5t",
+          "alternateName": "shoes",
+          "name": "シューズ",
+          "identifier": "m-category-cat10037"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/shoes/sneakers/_/N-t1fud07g",
+          "alternateName": "sneakers",
+          "name": "メンズ スニーカー",
+          "identifier": "nvcat60002v-11"
+        }
+      ],
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-SHO-54_gris.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<br>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "LV Trainer Sneaker"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isPerso",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z04"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Shoe_Men"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "eligibleToAgec",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "hasLanguagePanel",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "categorySize",
+          "value": "men_shoes"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "bannerList",
+          "value": [
+            {
+              "commercialBanner": "top_banner_content_category_1"
+            },
+            {
+              "commercialBanner": "top_banner_content_category_2"
+            },
+            {
+              "commercialBanner": "top_banner_content_category_3"
+            },
+            {
+              "commercialBanner": "top_banner_content_category_4"
+            }
+          ]
+        }
+      ],
+      "careLink": {
+        "sections": []
+      },
+      "collectibles": false,
+      "identifier": "1AJAI1",
+      "defaultFamilySapDisplayName": "SNEAKER",
+      "productVisible": true,
+      "name": "LV トレイナー スニーカー",
+      "packagingVariation": "",
+      "mainMaterial2": "CalfXX",
+      "highEndTemplate": false,
+      "productId": "nvprod6920227v",
+      "hasLanguagePanel": false,
+      "disclaimers": {
+        "customDisclaimer": false,
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "color": "グリ",
+      "@context": "http://schema.org"
+    },
+    {
+      "kitFlag": false,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/1AJAI2/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod6920227v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/1AJAI2"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/1AJAI2/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod6920227v/1AJAI2/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "グレー",
+      "@type": "ProductModel",
+      "identifierKey": "366e5b49cf2242d9c49700c6c958b34b",
+      "productDetailTabs": [],
+      "macroFamilySap": "Shoes",
+      "kitExclusivity": false,
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 240900
+        },
+        "@type": "Offer",
+        "price": "¥240,900"
+      },
+      "disambiguatingDescription": "ご不明な点がございましたら、クライアントサービスまでお気軽にお問合せください。専任のクライアントアドバイザーが、素材やサイズなどの製品詳細、モデル着用イメージや関連アイテムのご案内など、お客様のご要望に合わせたスタイリング・アドバイスをご提供いたします。<br>また、サイズ違いなどによる返品・交換のご相談も承ります。詳細は<a href='https://jp.louisvuitton.com/jpn-jp/legal-privacy'><b>こちら。</b></a>",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-トレイナー-スニーカー-シューズ--BVU023PC54_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-トレイナー-スニーカー-シューズ--BVU023PC54_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-トレイナー-スニーカー-シューズ--BVU023PC54_PM1_Interior view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Interior view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-トレイナー-スニーカー-シューズ--BVU023PC54_PM1_Back view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Back view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-トレイナー-スニーカー-シューズ--BVU023PC54_PM1_Other view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Other view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/lv-trainer-sneaker-nvprod6920227v",
+      "sizeDisplayName": "07.0",
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-t18ui4cq",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/shoes/_/N-t1gm1r5t",
+          "alternateName": "shoes",
+          "name": "シューズ",
+          "identifier": "m-category-cat10037"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/shoes/sneakers/_/N-t1fud07g",
+          "alternateName": "sneakers",
+          "name": "メンズ スニーカー",
+          "identifier": "nvcat60002v-11"
+        }
+      ],
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-SHO-54_gris.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<br>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "LV Trainer Sneaker"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isPerso",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z04"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Shoe_Men"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "eligibleToAgec",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "hasLanguagePanel",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "categorySize",
+          "value": "men_shoes"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "bannerList",
+          "value": [
+            {
+              "commercialBanner": "top_banner_content_category_1"
+            },
+            {
+              "commercialBanner": "top_banner_content_category_2"
+            },
+            {
+              "commercialBanner": "top_banner_content_category_3"
+            },
+            {
+              "commercialBanner": "top_banner_content_category_4"
+            }
+          ]
+        }
+      ],
+      "careLink": {
+        "sections": []
+      },
+      "collectibles": false,
+      "identifier": "1AJAI2",
+      "defaultFamilySapDisplayName": "SNEAKER",
+      "productVisible": true,
+      "name": "LV トレイナー スニーカー",
+      "packagingVariation": "",
+      "mainMaterial2": "CalfXX",
+      "highEndTemplate": false,
+      "productId": "nvprod6920227v",
+      "hasLanguagePanel": false,
+      "disclaimers": {
+        "customDisclaimer": false,
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "color": "グリ",
+      "@context": "http://schema.org"
+    },
+    {
+      "kitFlag": false,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/1AJAI3/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod6920227v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/1AJAI3"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/1AJAI3/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod6920227v/1AJAI3/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "グレー",
+      "@type": "ProductModel",
+      "identifierKey": "3569634e88e7dd0d6c5c975e6d0f5c7f",
+      "productDetailTabs": [],
+      "macroFamilySap": "Shoes",
+      "kitExclusivity": false,
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 240900
+        },
+        "@type": "Offer",
+        "price": "¥240,900"
+      },
+      "disambiguatingDescription": "ご不明な点がございましたら、クライアントサービスまでお気軽にお問合せください。専任のクライアントアドバイザーが、素材やサイズなどの製品詳細、モデル着用イメージや関連アイテムのご案内など、お客様のご要望に合わせたスタイリング・アドバイスをご提供いたします。<br>また、サイズ違いなどによる返品・交換のご相談も承ります。詳細は<a href='https://jp.louisvuitton.com/jpn-jp/legal-privacy'><b>こちら。</b></a>",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-トレイナー-スニーカー-シューズ--BVU023PC54_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-トレイナー-スニーカー-シューズ--BVU023PC54_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-トレイナー-スニーカー-シューズ--BVU023PC54_PM1_Interior view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Interior view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-トレイナー-スニーカー-シューズ--BVU023PC54_PM1_Back view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Back view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-トレイナー-スニーカー-シューズ--BVU023PC54_PM1_Other view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Other view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/lv-trainer-sneaker-nvprod6920227v",
+      "sizeDisplayName": "07.5",
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-t18ui4cq",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/shoes/_/N-t1gm1r5t",
+          "alternateName": "shoes",
+          "name": "シューズ",
+          "identifier": "m-category-cat10037"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/shoes/sneakers/_/N-t1fud07g",
+          "alternateName": "sneakers",
+          "name": "メンズ スニーカー",
+          "identifier": "nvcat60002v-11"
+        }
+      ],
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-SHO-54_gris.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<br>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "LV Trainer Sneaker"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isPerso",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z04"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Shoe_Men"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "eligibleToAgec",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "hasLanguagePanel",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "categorySize",
+          "value": "men_shoes"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "bannerList",
+          "value": [
+            {
+              "commercialBanner": "top_banner_content_category_1"
+            },
+            {
+              "commercialBanner": "top_banner_content_category_2"
+            },
+            {
+              "commercialBanner": "top_banner_content_category_3"
+            },
+            {
+              "commercialBanner": "top_banner_content_category_4"
+            }
+          ]
+        }
+      ],
+      "careLink": {
+        "sections": []
+      },
+      "collectibles": false,
+      "identifier": "1AJAI3",
+      "defaultFamilySapDisplayName": "SNEAKER",
+      "productVisible": true,
+      "name": "LV トレイナー スニーカー",
+      "packagingVariation": "",
+      "mainMaterial2": "CalfXX",
+      "highEndTemplate": false,
+      "productId": "nvprod6920227v",
+      "hasLanguagePanel": false,
+      "disclaimers": {
+        "customDisclaimer": false,
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "color": "グリ",
+      "@context": "http://schema.org"
+    },
+    {
+      "kitFlag": false,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/1AJAI4/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod6920227v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/1AJAI4"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/1AJAI4/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod6920227v/1AJAI4/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "グレー",
+      "@type": "ProductModel",
+      "identifierKey": "92e653dc9e6f9d5aff0684d4f7c401c6",
+      "productDetailTabs": [],
+      "macroFamilySap": "Shoes",
+      "kitExclusivity": false,
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 240900
+        },
+        "@type": "Offer",
+        "price": "¥240,900"
+      },
+      "disambiguatingDescription": "ご不明な点がございましたら、クライアントサービスまでお気軽にお問合せください。専任のクライアントアドバイザーが、素材やサイズなどの製品詳細、モデル着用イメージや関連アイテムのご案内など、お客様のご要望に合わせたスタイリング・アドバイスをご提供いたします。<br>また、サイズ違いなどによる返品・交換のご相談も承ります。詳細は<a href='https://jp.louisvuitton.com/jpn-jp/legal-privacy'><b>こちら。</b></a>",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-トレイナー-スニーカー-シューズ--BVU023PC54_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-トレイナー-スニーカー-シューズ--BVU023PC54_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-トレイナー-スニーカー-シューズ--BVU023PC54_PM1_Interior view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Interior view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-トレイナー-スニーカー-シューズ--BVU023PC54_PM1_Back view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Back view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-トレイナー-スニーカー-シューズ--BVU023PC54_PM1_Other view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Other view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/lv-trainer-sneaker-nvprod6920227v",
+      "sizeDisplayName": "08.0",
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-t18ui4cq",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/shoes/_/N-t1gm1r5t",
+          "alternateName": "shoes",
+          "name": "シューズ",
+          "identifier": "m-category-cat10037"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/shoes/sneakers/_/N-t1fud07g",
+          "alternateName": "sneakers",
+          "name": "メンズ スニーカー",
+          "identifier": "nvcat60002v-11"
+        }
+      ],
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-SHO-54_gris.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<br>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "LV Trainer Sneaker"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isPerso",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z04"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Shoe_Men"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "eligibleToAgec",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "hasLanguagePanel",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "categorySize",
+          "value": "men_shoes"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "bannerList",
+          "value": [
+            {
+              "commercialBanner": "top_banner_content_category_1"
+            },
+            {
+              "commercialBanner": "top_banner_content_category_2"
+            },
+            {
+              "commercialBanner": "top_banner_content_category_3"
+            },
+            {
+              "commercialBanner": "top_banner_content_category_4"
+            }
+          ]
+        }
+      ],
+      "careLink": {
+        "sections": []
+      },
+      "collectibles": false,
+      "identifier": "1AJAI4",
+      "defaultFamilySapDisplayName": "SNEAKER",
+      "productVisible": true,
+      "name": "LV トレイナー スニーカー",
+      "packagingVariation": "",
+      "mainMaterial2": "CalfXX",
+      "highEndTemplate": false,
+      "productId": "nvprod6920227v",
+      "hasLanguagePanel": false,
+      "disclaimers": {
+        "customDisclaimer": false,
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "color": "グリ",
+      "@context": "http://schema.org"
+    },
+    {
+      "kitFlag": false,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/1AJAI5/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod6920227v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/1AJAI5"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/1AJAI5/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod6920227v/1AJAI5/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "グレー",
+      "@type": "ProductModel",
+      "identifierKey": "eeb9e1991f8389c09909002401d117fd",
+      "productDetailTabs": [],
+      "macroFamilySap": "Shoes",
+      "kitExclusivity": false,
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 240900
+        },
+        "@type": "Offer",
+        "price": "¥240,900"
+      },
+      "disambiguatingDescription": "ご不明な点がございましたら、クライアントサービスまでお気軽にお問合せください。専任のクライアントアドバイザーが、素材やサイズなどの製品詳細、モデル着用イメージや関連アイテムのご案内など、お客様のご要望に合わせたスタイリング・アドバイスをご提供いたします。<br>また、サイズ違いなどによる返品・交換のご相談も承ります。詳細は<a href='https://jp.louisvuitton.com/jpn-jp/legal-privacy'><b>こちら。</b></a>",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-トレイナー-スニーカー-シューズ--BVU023PC54_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-トレイナー-スニーカー-シューズ--BVU023PC54_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-トレイナー-スニーカー-シューズ--BVU023PC54_PM1_Interior view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Interior view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-トレイナー-スニーカー-シューズ--BVU023PC54_PM1_Back view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Back view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-トレイナー-スニーカー-シューズ--BVU023PC54_PM1_Other view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Other view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/lv-trainer-sneaker-nvprod6920227v",
+      "sizeDisplayName": "08.5",
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-t18ui4cq",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/shoes/_/N-t1gm1r5t",
+          "alternateName": "shoes",
+          "name": "シューズ",
+          "identifier": "m-category-cat10037"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/shoes/sneakers/_/N-t1fud07g",
+          "alternateName": "sneakers",
+          "name": "メンズ スニーカー",
+          "identifier": "nvcat60002v-11"
+        }
+      ],
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-SHO-54_gris.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<br>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "LV Trainer Sneaker"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isPerso",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z04"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Shoe_Men"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "eligibleToAgec",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "hasLanguagePanel",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "categorySize",
+          "value": "men_shoes"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "bannerList",
+          "value": [
+            {
+              "commercialBanner": "top_banner_content_category_1"
+            },
+            {
+              "commercialBanner": "top_banner_content_category_2"
+            },
+            {
+              "commercialBanner": "top_banner_content_category_3"
+            },
+            {
+              "commercialBanner": "top_banner_content_category_4"
+            }
+          ]
+        }
+      ],
+      "careLink": {
+        "sections": []
+      },
+      "collectibles": false,
+      "identifier": "1AJAI5",
+      "defaultFamilySapDisplayName": "SNEAKER",
+      "productVisible": true,
+      "name": "LV トレイナー スニーカー",
+      "packagingVariation": "",
+      "mainMaterial2": "CalfXX",
+      "highEndTemplate": false,
+      "productId": "nvprod6920227v",
+      "hasLanguagePanel": false,
+      "disclaimers": {
+        "customDisclaimer": false,
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "color": "グリ",
+      "@context": "http://schema.org"
+    },
+    {
+      "kitFlag": false,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/1AJAI6/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod6920227v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/1AJAI6"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/1AJAI6/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod6920227v/1AJAI6/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "グレー",
+      "@type": "ProductModel",
+      "identifierKey": "357773e88cb7d2716da7bf806e53d319",
+      "productDetailTabs": [],
+      "macroFamilySap": "Shoes",
+      "kitExclusivity": false,
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 240900
+        },
+        "@type": "Offer",
+        "price": "¥240,900"
+      },
+      "disambiguatingDescription": "ご不明な点がございましたら、クライアントサービスまでお気軽にお問合せください。専任のクライアントアドバイザーが、素材やサイズなどの製品詳細、モデル着用イメージや関連アイテムのご案内など、お客様のご要望に合わせたスタイリング・アドバイスをご提供いたします。<br>また、サイズ違いなどによる返品・交換のご相談も承ります。詳細は<a href='https://jp.louisvuitton.com/jpn-jp/legal-privacy'><b>こちら。</b></a>",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-トレイナー-スニーカー-シューズ--BVU023PC54_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-トレイナー-スニーカー-シューズ--BVU023PC54_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-トレイナー-スニーカー-シューズ--BVU023PC54_PM1_Interior view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Interior view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-トレイナー-スニーカー-シューズ--BVU023PC54_PM1_Back view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Back view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-トレイナー-スニーカー-シューズ--BVU023PC54_PM1_Other view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Other view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/lv-trainer-sneaker-nvprod6920227v",
+      "sizeDisplayName": "09.0",
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-t18ui4cq",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/shoes/_/N-t1gm1r5t",
+          "alternateName": "shoes",
+          "name": "シューズ",
+          "identifier": "m-category-cat10037"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/shoes/sneakers/_/N-t1fud07g",
+          "alternateName": "sneakers",
+          "name": "メンズ スニーカー",
+          "identifier": "nvcat60002v-11"
+        }
+      ],
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-SHO-54_gris.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<br>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "LV Trainer Sneaker"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isPerso",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z04"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Shoe_Men"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "eligibleToAgec",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "hasLanguagePanel",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "categorySize",
+          "value": "men_shoes"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "bannerList",
+          "value": [
+            {
+              "commercialBanner": "top_banner_content_category_1"
+            },
+            {
+              "commercialBanner": "top_banner_content_category_2"
+            },
+            {
+              "commercialBanner": "top_banner_content_category_3"
+            },
+            {
+              "commercialBanner": "top_banner_content_category_4"
+            }
+          ]
+        }
+      ],
+      "careLink": {
+        "sections": []
+      },
+      "collectibles": false,
+      "identifier": "1AJAI6",
+      "defaultFamilySapDisplayName": "SNEAKER",
+      "productVisible": true,
+      "name": "LV トレイナー スニーカー",
+      "packagingVariation": "",
+      "mainMaterial2": "CalfXX",
+      "highEndTemplate": false,
+      "productId": "nvprod6920227v",
+      "hasLanguagePanel": false,
+      "disclaimers": {
+        "customDisclaimer": false,
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "color": "グリ",
+      "@context": "http://schema.org"
+    },
+    {
+      "kitFlag": false,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/1AJAI7/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod6920227v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/1AJAI7"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/1AJAI7/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod6920227v/1AJAI7/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "グレー",
+      "@type": "ProductModel",
+      "identifierKey": "0de300a246d0815905c26da1cc006aa9",
+      "productDetailTabs": [],
+      "macroFamilySap": "Shoes",
+      "kitExclusivity": false,
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 240900
+        },
+        "@type": "Offer",
+        "price": "¥240,900"
+      },
+      "disambiguatingDescription": "ご不明な点がございましたら、クライアントサービスまでお気軽にお問合せください。専任のクライアントアドバイザーが、素材やサイズなどの製品詳細、モデル着用イメージや関連アイテムのご案内など、お客様のご要望に合わせたスタイリング・アドバイスをご提供いたします。<br>また、サイズ違いなどによる返品・交換のご相談も承ります。詳細は<a href='https://jp.louisvuitton.com/jpn-jp/legal-privacy'><b>こちら。</b></a>",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-トレイナー-スニーカー-シューズ--BVU023PC54_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-トレイナー-スニーカー-シューズ--BVU023PC54_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-トレイナー-スニーカー-シューズ--BVU023PC54_PM1_Interior view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Interior view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-トレイナー-スニーカー-シューズ--BVU023PC54_PM1_Back view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Back view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-トレイナー-スニーカー-シューズ--BVU023PC54_PM1_Other view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Other view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/lv-trainer-sneaker-nvprod6920227v",
+      "sizeDisplayName": "09.5",
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-t18ui4cq",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/shoes/_/N-t1gm1r5t",
+          "alternateName": "shoes",
+          "name": "シューズ",
+          "identifier": "m-category-cat10037"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/shoes/sneakers/_/N-t1fud07g",
+          "alternateName": "sneakers",
+          "name": "メンズ スニーカー",
+          "identifier": "nvcat60002v-11"
+        }
+      ],
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-SHO-54_gris.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<br>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "LV Trainer Sneaker"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isPerso",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z04"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Shoe_Men"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "eligibleToAgec",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "hasLanguagePanel",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "categorySize",
+          "value": "men_shoes"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "bannerList",
+          "value": [
+            {
+              "commercialBanner": "top_banner_content_category_1"
+            },
+            {
+              "commercialBanner": "top_banner_content_category_2"
+            },
+            {
+              "commercialBanner": "top_banner_content_category_3"
+            },
+            {
+              "commercialBanner": "top_banner_content_category_4"
+            }
+          ]
+        }
+      ],
+      "careLink": {
+        "sections": []
+      },
+      "collectibles": false,
+      "identifier": "1AJAI7",
+      "defaultFamilySapDisplayName": "SNEAKER",
+      "productVisible": true,
+      "name": "LV トレイナー スニーカー",
+      "packagingVariation": "",
+      "mainMaterial2": "CalfXX",
+      "highEndTemplate": false,
+      "productId": "nvprod6920227v",
+      "hasLanguagePanel": false,
+      "disclaimers": {
+        "customDisclaimer": false,
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "color": "グリ",
+      "@context": "http://schema.org"
+    },
+    {
+      "kitFlag": false,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/1AJAI8/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod6920227v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/1AJAI8"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/1AJAI8/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod6920227v/1AJAI8/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "グレー",
+      "@type": "ProductModel",
+      "identifierKey": "40e5a69116e73987995e3f08412f175c",
+      "productDetailTabs": [],
+      "macroFamilySap": "Shoes",
+      "kitExclusivity": false,
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 240900
+        },
+        "@type": "Offer",
+        "price": "¥240,900"
+      },
+      "disambiguatingDescription": "ご不明な点がございましたら、クライアントサービスまでお気軽にお問合せください。専任のクライアントアドバイザーが、素材やサイズなどの製品詳細、モデル着用イメージや関連アイテムのご案内など、お客様のご要望に合わせたスタイリング・アドバイスをご提供いたします。<br>また、サイズ違いなどによる返品・交換のご相談も承ります。詳細は<a href='https://jp.louisvuitton.com/jpn-jp/legal-privacy'><b>こちら。</b></a>",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-トレイナー-スニーカー-シューズ--BVU023PC54_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-トレイナー-スニーカー-シューズ--BVU023PC54_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-トレイナー-スニーカー-シューズ--BVU023PC54_PM1_Interior view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Interior view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-トレイナー-スニーカー-シューズ--BVU023PC54_PM1_Back view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Back view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-トレイナー-スニーカー-シューズ--BVU023PC54_PM1_Other view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Other view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/lv-trainer-sneaker-nvprod6920227v",
+      "sizeDisplayName": "10.0",
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-t18ui4cq",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/shoes/_/N-t1gm1r5t",
+          "alternateName": "shoes",
+          "name": "シューズ",
+          "identifier": "m-category-cat10037"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/shoes/sneakers/_/N-t1fud07g",
+          "alternateName": "sneakers",
+          "name": "メンズ スニーカー",
+          "identifier": "nvcat60002v-11"
+        }
+      ],
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-SHO-54_gris.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<br>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "LV Trainer Sneaker"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isPerso",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z04"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Shoe_Men"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "eligibleToAgec",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "hasLanguagePanel",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "categorySize",
+          "value": "men_shoes"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "bannerList",
+          "value": [
+            {
+              "commercialBanner": "top_banner_content_category_1"
+            },
+            {
+              "commercialBanner": "top_banner_content_category_2"
+            },
+            {
+              "commercialBanner": "top_banner_content_category_3"
+            },
+            {
+              "commercialBanner": "top_banner_content_category_4"
+            }
+          ]
+        }
+      ],
+      "careLink": {
+        "sections": []
+      },
+      "collectibles": false,
+      "identifier": "1AJAI8",
+      "defaultFamilySapDisplayName": "SNEAKER",
+      "productVisible": true,
+      "name": "LV トレイナー スニーカー",
+      "packagingVariation": "",
+      "mainMaterial2": "CalfXX",
+      "highEndTemplate": false,
+      "productId": "nvprod6920227v",
+      "hasLanguagePanel": false,
+      "disclaimers": {
+        "customDisclaimer": false,
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "color": "グリ",
+      "@context": "http://schema.org"
+    }
+  ],
+  "panelInformations": [
+    {
+      "@type": "ProductCare",
+      "title": "素材とお手入れ方法、修理",
+      "introduction": "<p>以下の注意点をお読みいただき、末永くご愛用くださいますようお願い申しあげます。</p>"
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "/api/catalog/jpn-jp/product/nvprod6920227v"
+    },
+    "push": {
+      "href": "/api/catalog/jpn-jp/product-push/nvprod6920227v"
+    },
+    "care-link": {
+      "href": "/api/catalog/jpn-jp/care-link/nvprod6920227v"
+    },
+    "size-guide": {
+      "href": "/api/catalog/jpn-jp/size-guide/nvprod6920227v"
+    },
+    "availability": {
+      "href": "/api/catalog/jpn-jp/availability/nvprod6920227v"
+    }
+  },
+  "@type": "Product",
+  "sku": "1AJAHK",
+  "isSimilarTo": [],
+  "productTips": [],
+  "url": "/jpn-jp/products/lv-trainer-sneaker-nvprod6920227v",
+  "category": [
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/_/N-t18ui4cq",
+      "alternateName": "men",
+      "name": "メンズ",
+      "identifier": "homme"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/shoes/_/N-t1gm1r5t",
+      "alternateName": "shoes",
+      "name": "シューズ",
+      "identifier": "m-category-cat10037"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/shoes/sneakers/_/N-t1fud07g",
+      "alternateName": "sneakers",
+      "name": "メンズ スニーカー",
+      "identifier": "nvcat60002v-11"
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "hidePrice",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "subType",
+      "value": "product"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "sizeGuide",
+      "value": true
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "bannerList",
+      "value": [
+        {
+          "commercialBanner": "top_banner_content_category_1"
+        },
+        {
+          "commercialBanner": "top_banner_content_category_2"
+        },
+        {
+          "commercialBanner": "top_banner_content_category_3"
+        },
+        {
+          "commercialBanner": "top_banner_content_category_4"
+        }
+      ]
+    }
+  ],
+  "name": "LV トレイナー スニーカー",
+  "isRelatedTo": [],
+  "@context": "http://schema.org",
+  "identifier": "nvprod6920227v"
+}
