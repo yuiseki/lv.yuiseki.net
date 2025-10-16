@@ -19,7 +19,7 @@ curl_options = -s \
   -H 'sec-fetch-mode: navigate' \
   -H 'sec-fetch-site: none' \
   -H 'sec-fetch-user: ?1' \
-  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36'
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36'
 
 clean:
 	rm -f ./tmp/homepage.html

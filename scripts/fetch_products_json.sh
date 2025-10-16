@@ -24,13 +24,13 @@ for product in $products; do
       -H 'pragma: no-cache' \
       -H 'priority: u=1, i' \
       -H 'referer: https://jp.louisvuitton.com/jpn-jp/women/handbags/lv-icons/onthego/_/N-td4mq4v-akt29qbc' \
-      -H 'sec-ch-ua: "Google Chrome";v="137", "Chromium";v="137", "Not/A)Brand";v="24"' \
+      -H 'sec-ch-ua: "Brave";v="141", "Not?A_Brand";v="8", "Chromium";v="141"' \
       -H 'sec-ch-ua-mobile: ?0' \
       -H 'sec-ch-ua-platform: "Windows"' \
       -H 'sec-fetch-dest: empty' \
       -H 'sec-fetch-mode: cors' \
       -H 'sec-fetch-site: same-site' \
-      -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36' \
+      -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36' \
       https://api.louisvuitton.com/api/jpn-jp/catalog/product/$product | jq . > $outfile
     date '+%F %T'
     # echo path
