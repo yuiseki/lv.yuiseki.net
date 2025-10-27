@@ -1,0 +1,557 @@
+{
+  "relatedFinishOptions": [],
+  "model": [
+    {
+      "kitFlag": false,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/M5341M/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod6850025v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/M5341M"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/M5341M/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod6850025v/M5341M/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "グリーン",
+      "@type": "ProductModel",
+      "identifierKey": "c57834ba4fb553fe61bc48d9712ed0a9",
+      "commercialTag": "先行予約",
+      "height": {
+        "@type": "QuantitativeValue",
+        "value": 24,
+        "unitText": "cm"
+      },
+      "productDetailTabs": [],
+      "macroFamilySap": "Scarves, Hats & More",
+      "kitExclusivity": false,
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 42900
+        },
+        "@type": "Offer",
+        "price": "¥42,900"
+      },
+      "disambiguatingDescription": "肌触りのよいコットン混紡素材を使用した、イタリア製の｢ソックス･モノグラム サープラス｣。未来を見据えたコンテンポラリーな要素を組み合わせたデザインです。ミリタリーウェアを想わせるグリーンを基調に、ふくらはぎ部分には｢Louis Vuitton Malletier｣の織り上げラベルを、足裏には｢LV Vers Skate｣シグネチャーをあしらいました。<br><br>本製品は、2025年10月30日(木)の一般発売に先駆け、10月23日(木)-10月29日(水)まで、先行予約を承ります。但し、先行予約は期間内であっても予定数に達し次第受付を終了させていただきます。製品は2025年10月30日(木)より順次発送予定。尚、入荷状況などにより、発売時期が前後する場合もございますので、予めご了承ください。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ソックス･モノグラム-サープラス-s00-ホームテキスタイル--M5341M_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ソックス･モノグラム-サープラス-s00-ホームテキスタイル--M5341M_PM1_Detail view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Detail view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ソックス･モノグラム-サープラス-s00-ホームテキスタイル--M5341M_PM1_Back view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Back view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/monogram-surplus-socks-s00-nvprod6850025v",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 26,
+        "unitText": "cm"
+      },
+      "sizeDisplayName": "M",
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-t18ui4cq",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/accessories/_/N-t11ae5nz",
+          "alternateName": "accessories",
+          "name": "アクセサリー",
+          "identifier": "m-category-cat10052"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/accessories/home-textile/_/N-tblw1mp",
+          "alternateName": "home-textile",
+          "name": "ホームテキスタイル",
+          "identifier": "nvcat3440005v"
+        }
+      ],
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-ACC-9GN_green_.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>カラー：カーキ</li><li>素材：コットン 67%、ナイロン 27%、ポリウレタン 6%</li><li>全面にモノグラム･サープラス</li><li>｢Louis Vuitton Malletier｣の織り上げラベル</li><li>｢LV Vers Skate｣シグネチャー</li><li>イタリア製</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "Monogram Surplus Socks"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isPerso",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories;Sunglasses"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "eligibleToAgec",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "newArrivalsDate",
+          "value": 1761782400000
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "hasLanguagePanel",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "bannerList",
+          "value": [
+            {
+              "commercialBanner": "top_banner_content_category_1"
+            },
+            {
+              "commercialBanner": "top_banner_content_category_2"
+            },
+            {
+              "commercialBanner": "top_banner_content_category_3"
+            },
+            {
+              "commercialBanner": "top_banner_content_category_4"
+            }
+          ]
+        }
+      ],
+      "careLink": {
+        "sections": []
+      },
+      "collectibles": false,
+      "identifier": "M5341M",
+      "defaultFamilySapDisplayName": "OTHER TEXTILE",
+      "productVisible": true,
+      "collection": "Z336",
+      "name": "ソックス･モノグラム サープラス",
+      "packagingVariation": "",
+      "mainMaterial2": "COTTON",
+      "highEndTemplate": false,
+      "material": "COTTON",
+      "productId": "nvprod6850025v",
+      "hasLanguagePanel": false,
+      "disclaimers": {
+        "customDisclaimer": false,
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "color": "グリーン",
+      "@context": "http://schema.org"
+    },
+    {
+      "kitFlag": false,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/M5341L/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod6850025v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/M5341L"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/M5341L/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod6850025v/M5341L/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "グリーン",
+      "@type": "ProductModel",
+      "identifierKey": "1dcec02b7f294da00caac98b5b6c1081",
+      "commercialTag": "先行予約",
+      "height": {
+        "@type": "QuantitativeValue",
+        "value": 24,
+        "unitText": "cm"
+      },
+      "productDetailTabs": [],
+      "macroFamilySap": "Scarves, Hats & More",
+      "kitExclusivity": false,
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 42900
+        },
+        "@type": "Offer",
+        "price": "¥42,900"
+      },
+      "disambiguatingDescription": "肌触りのよいコットン混紡素材を使用した、イタリア製の｢ソックス･モノグラム サープラス｣。未来を見据えたコンテンポラリーな要素を組み合わせたデザインです。ミリタリーウェアを想わせるグリーンを基調に、ふくらはぎ部分には｢Louis Vuitton Malletier｣の織り上げラベルを、足裏には｢LV Vers Skate｣シグネチャーをあしらいました。<br><br>本製品は、2025年10月30日(木)の一般発売に先駆け、10月23日(木)-10月29日(水)まで、先行予約を承ります。但し、先行予約は期間内であっても予定数に達し次第受付を終了させていただきます。製品は2025年10月30日(木)より順次発送予定。尚、入荷状況などにより、発売時期が前後する場合もございますので、予めご了承ください。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ソックス･モノグラム-サープラス-s00-ホームテキスタイル--M5341L_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ソックス･モノグラム-サープラス-s00-ホームテキスタイル--M5341L_PM1_Detail view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Detail view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ソックス･モノグラム-サープラス-s00-ホームテキスタイル--M5341L_PM1_Back view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Back view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/monogram-surplus-socks-s00-nvprod6850025v",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 26,
+        "unitText": "cm"
+      },
+      "sizeDisplayName": "L",
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-t18ui4cq",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/accessories/_/N-t11ae5nz",
+          "alternateName": "accessories",
+          "name": "アクセサリー",
+          "identifier": "m-category-cat10052"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/accessories/home-textile/_/N-tblw1mp",
+          "alternateName": "home-textile",
+          "name": "ホームテキスタイル",
+          "identifier": "nvcat3440005v"
+        }
+      ],
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-ACC-9GN_green_.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>カラー：カーキ</li><li>素材：コットン 67%、ナイロン 27%、ポリウレタン 6%</li><li>全面にモノグラム･サープラス</li><li>｢Louis Vuitton Malletier｣の織り上げラベル</li><li>｢LV Vers Skate｣シグネチャー</li><li>イタリア製</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "Monogram Surplus Socks"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isPerso",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories;Sunglasses"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "eligibleToAgec",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "newArrivalsDate",
+          "value": 1761782400000
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "hasLanguagePanel",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "bannerList",
+          "value": [
+            {
+              "commercialBanner": "top_banner_content_category_1"
+            },
+            {
+              "commercialBanner": "top_banner_content_category_2"
+            },
+            {
+              "commercialBanner": "top_banner_content_category_3"
+            },
+            {
+              "commercialBanner": "top_banner_content_category_4"
+            }
+          ]
+        }
+      ],
+      "careLink": {
+        "sections": []
+      },
+      "collectibles": false,
+      "identifier": "M5341L",
+      "defaultFamilySapDisplayName": "OTHER TEXTILE",
+      "productVisible": true,
+      "collection": "Z336",
+      "name": "ソックス･モノグラム サープラス",
+      "packagingVariation": "",
+      "mainMaterial2": "COTTON",
+      "highEndTemplate": false,
+      "material": "COTTON",
+      "productId": "nvprod6850025v",
+      "hasLanguagePanel": false,
+      "disclaimers": {
+        "customDisclaimer": false,
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "color": "グリーン",
+      "@context": "http://schema.org"
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "/api/catalog/jpn-jp/product/nvprod6850025v"
+    },
+    "push": {
+      "href": "/api/catalog/jpn-jp/product-push/nvprod6850025v"
+    },
+    "care-link": {
+      "href": "/api/catalog/jpn-jp/care-link/nvprod6850025v"
+    },
+    "availability": {
+      "href": "/api/catalog/jpn-jp/availability/nvprod6850025v"
+    }
+  },
+  "@type": "Product",
+  "sku": "M5341L",
+  "isSimilarTo": [],
+  "productTips": [],
+  "url": "/jpn-jp/products/monogram-surplus-socks-s00-nvprod6850025v",
+  "material": "NOT APPLICABLE ACC",
+  "category": [
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/_/N-t18ui4cq",
+      "alternateName": "men",
+      "name": "メンズ",
+      "identifier": "homme"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/accessories/_/N-t11ae5nz",
+      "alternateName": "accessories",
+      "name": "アクセサリー",
+      "identifier": "m-category-cat10052"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/accessories/home-textile/_/N-tblw1mp",
+      "alternateName": "home-textile",
+      "name": "ホームテキスタイル",
+      "identifier": "nvcat3440005v"
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "hidePrice",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "subType",
+      "value": "product"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "sizeGuide",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "bannerList",
+      "value": [
+        {
+          "commercialBanner": "top_banner_content_category_1"
+        },
+        {
+          "commercialBanner": "top_banner_content_category_2"
+        },
+        {
+          "commercialBanner": "top_banner_content_category_3"
+        },
+        {
+          "commercialBanner": "top_banner_content_category_4"
+        }
+      ]
+    }
+  ],
+  "name": "ソックス･モノグラム サープラス",
+  "isRelatedTo": [],
+  "@context": "http://schema.org",
+  "identifier": "nvprod6850025v"
+}
