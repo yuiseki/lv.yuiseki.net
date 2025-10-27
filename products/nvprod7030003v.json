@@ -1,0 +1,784 @@
+{
+  "relatedFinishOptions": [],
+  "model": [
+    {
+      "kitFlag": false,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/M1795L/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod7030003v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/M1795L"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/M1795L/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod7030003v/M1795L/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "シルバー",
+      "@type": "ProductModel",
+      "identifierKey": "b869f64e179f5496f692a25d1c91edf6",
+      "productDetailTabs": [],
+      "macroFamilySap": "BIJOUX FANTAISIES",
+      "kitExclusivity": false,
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 68200
+        },
+        "@type": "Offer",
+        "price": "¥68,200"
+      },
+      "disambiguatingDescription": "伝統をシックに讃える、光沢感のあるスターリングシルバーで仕上げた｢リング･LV スパイク｣。リングの周りに刻印されたモノグラム･モチーフとそれを囲む2本の繊細なラインには、ブラックのエナメル加工を施しました。長きにわたって受け継がれてきたメゾンのシンボルが美しく映え、ミニマリズムを端正に表現しています。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-リング･lv-スパイク-s00-ファッションジュエリー--M1795L_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-リング･lv-スパイク-s00-ファッションジュエリー--M1795L_PM1_Worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Worn view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-リング･lv-スパイク-s00-ファッションジュエリー--M1795L_PM1_Interior view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Interior view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-リング･lv-スパイク-s00-ファッションジュエリー--M1795L_PM1_Cropped worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Cropped worn view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/lv-spike-ring-s00-nvprod7030003v",
+      "sizeDisplayName": "L",
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-t18ui4cq",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/fashion-jewelry/_/N-t12lza17",
+          "alternateName": "fashion-jewelry",
+          "name": "ファッションジュエリー",
+          "identifier": "nvcat3650003v"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/fashion-jewelry/rings/_/N-t1l6jm7c",
+          "alternateName": "rings",
+          "name": "メンズ リング",
+          "identifier": "nvcat3650006v"
+        }
+      ],
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-ACC-9SL_silver_.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>幅：0.6 cm</li><li>素材：スターリングシルバー</li><li>ブラックエナメルのシグネチャー</li><li>イタリア製</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "LV Spike Ring"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isPerso",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories;Sunglasses"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "eligibleToAgec",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "newArrivalsDate",
+          "value": 1760572800000
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "hasLanguagePanel",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "bannerList",
+          "value": [
+            {
+              "commercialBanner": "top_banner_content_category_1"
+            },
+            {
+              "commercialBanner": "top_banner_content_category_2"
+            },
+            {
+              "commercialBanner": "top_banner_content_category_3"
+            },
+            {
+              "commercialBanner": "top_banner_content_category_4"
+            }
+          ]
+        }
+      ],
+      "careLink": {
+        "sections": []
+      },
+      "collectibles": false,
+      "identifier": "M1795L",
+      "defaultFamilySapDisplayName": "RINGS",
+      "productVisible": true,
+      "name": "リング･LV スパイク",
+      "packagingVariation": "",
+      "mainMaterial2": "SILVER",
+      "highEndTemplate": false,
+      "material": "SILVER",
+      "productId": "nvprod7030003v",
+      "hasLanguagePanel": false,
+      "disclaimers": {
+        "customDisclaimer": false,
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "color": "シルバー",
+      "@context": "http://schema.org"
+    },
+    {
+      "kitFlag": false,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/M1795M/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod7030003v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/M1795M"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/M1795M/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod7030003v/M1795M/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "シルバー",
+      "@type": "ProductModel",
+      "identifierKey": "53837ae9d0353e75ca51d15091d7080b",
+      "productDetailTabs": [],
+      "macroFamilySap": "BIJOUX FANTAISIES",
+      "kitExclusivity": false,
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 68200
+        },
+        "@type": "Offer",
+        "price": "¥68,200"
+      },
+      "disambiguatingDescription": "伝統をシックに讃える、光沢感のあるスターリングシルバーで仕上げた｢リング･LV スパイク｣。リングの周りに刻印されたモノグラム･モチーフとそれを囲む2本の繊細なラインには、ブラックのエナメル加工を施しました。長きにわたって受け継がれてきたメゾンのシンボルが美しく映え、ミニマリズムを端正に表現しています。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-リング･lv-スパイク-s00-ファッションジュエリー--M1795M_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-リング･lv-スパイク-s00-ファッションジュエリー--M1795M_PM1_Worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Worn view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-リング･lv-スパイク-s00-ファッションジュエリー--M1795M_PM1_Interior view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Interior view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-リング･lv-スパイク-s00-ファッションジュエリー--M1795M_PM1_Cropped worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Cropped worn view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/lv-spike-ring-s00-nvprod7030003v",
+      "sizeDisplayName": "M",
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-t18ui4cq",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/fashion-jewelry/_/N-t12lza17",
+          "alternateName": "fashion-jewelry",
+          "name": "ファッションジュエリー",
+          "identifier": "nvcat3650003v"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/fashion-jewelry/rings/_/N-t1l6jm7c",
+          "alternateName": "rings",
+          "name": "メンズ リング",
+          "identifier": "nvcat3650006v"
+        }
+      ],
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-ACC-9SL_silver_.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>幅：0.6 cm</li><li>素材：スターリングシルバー</li><li>ブラックエナメルのシグネチャー</li><li>イタリア製</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "LV Spike Ring"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isPerso",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories;Sunglasses"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "eligibleToAgec",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "newArrivalsDate",
+          "value": 1760572800000
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "hasLanguagePanel",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "bannerList",
+          "value": [
+            {
+              "commercialBanner": "top_banner_content_category_1"
+            },
+            {
+              "commercialBanner": "top_banner_content_category_2"
+            },
+            {
+              "commercialBanner": "top_banner_content_category_3"
+            },
+            {
+              "commercialBanner": "top_banner_content_category_4"
+            }
+          ]
+        }
+      ],
+      "careLink": {
+        "sections": []
+      },
+      "collectibles": false,
+      "identifier": "M1795M",
+      "defaultFamilySapDisplayName": "RINGS",
+      "productVisible": true,
+      "name": "リング･LV スパイク",
+      "packagingVariation": "",
+      "mainMaterial2": "SILVER",
+      "highEndTemplate": false,
+      "material": "SILVER",
+      "productId": "nvprod7030003v",
+      "hasLanguagePanel": false,
+      "disclaimers": {
+        "customDisclaimer": false,
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "color": "シルバー",
+      "@context": "http://schema.org"
+    },
+    {
+      "kitFlag": false,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/M1795S/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod7030003v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/M1795S"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/M1795S/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod7030003v/M1795S/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "シルバー",
+      "@type": "ProductModel",
+      "identifierKey": "34cb8a5a026c1c724d6d3d41749ed792",
+      "productDetailTabs": [],
+      "macroFamilySap": "BIJOUX FANTAISIES",
+      "kitExclusivity": false,
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 68200
+        },
+        "@type": "Offer",
+        "price": "¥68,200"
+      },
+      "disambiguatingDescription": "伝統をシックに讃える、光沢感のあるスターリングシルバーで仕上げた｢リング･LV スパイク｣。リングの周りに刻印されたモノグラム･モチーフとそれを囲む2本の繊細なラインには、ブラックのエナメル加工を施しました。長きにわたって受け継がれてきたメゾンのシンボルが美しく映え、ミニマリズムを端正に表現しています。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-リング･lv-スパイク-s00-ファッションジュエリー--M1795S_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-リング･lv-スパイク-s00-ファッションジュエリー--M1795S_PM1_Worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Worn view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-リング･lv-スパイク-s00-ファッションジュエリー--M1795S_PM1_Interior view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Interior view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-リング･lv-スパイク-s00-ファッションジュエリー--M1795S_PM1_Cropped worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Cropped worn view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/lv-spike-ring-s00-nvprod7030003v",
+      "sizeDisplayName": "S",
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-t18ui4cq",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/fashion-jewelry/_/N-t12lza17",
+          "alternateName": "fashion-jewelry",
+          "name": "ファッションジュエリー",
+          "identifier": "nvcat3650003v"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/fashion-jewelry/rings/_/N-t1l6jm7c",
+          "alternateName": "rings",
+          "name": "メンズ リング",
+          "identifier": "nvcat3650006v"
+        }
+      ],
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-ACC-9SL_silver_.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>幅：0.6 cm</li><li>素材：スターリングシルバー</li><li>ブラックエナメルのシグネチャー</li><li>イタリア製</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "LV Spike Ring"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isPerso",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories;Sunglasses"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "eligibleToAgec",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "newArrivalsDate",
+          "value": 1760572800000
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "hasLanguagePanel",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "bannerList",
+          "value": [
+            {
+              "commercialBanner": "top_banner_content_category_1"
+            },
+            {
+              "commercialBanner": "top_banner_content_category_2"
+            },
+            {
+              "commercialBanner": "top_banner_content_category_3"
+            },
+            {
+              "commercialBanner": "top_banner_content_category_4"
+            }
+          ]
+        }
+      ],
+      "careLink": {
+        "sections": []
+      },
+      "collectibles": false,
+      "identifier": "M1795S",
+      "defaultFamilySapDisplayName": "RINGS",
+      "productVisible": true,
+      "name": "リング･LV スパイク",
+      "packagingVariation": "",
+      "mainMaterial2": "SILVER",
+      "highEndTemplate": false,
+      "material": "SILVER",
+      "productId": "nvprod7030003v",
+      "hasLanguagePanel": false,
+      "disclaimers": {
+        "customDisclaimer": false,
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "color": "シルバー",
+      "@context": "http://schema.org"
+    }
+  ],
+  "panelInformations": [
+    {
+      "@type": "ProductCare",
+      "title": "素材とお手入れ方法、修理",
+      "description": "<p>シルバー･ファッションジュエリーのお手入れ方法については<a href=\"https://www.louisvuitton.com/documents/user-guides/silver-men-fashion-jewelry\" title><strong>こちら</strong></a>をご覧ください。</p>"
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "/api/catalog/jpn-jp/product/nvprod7030003v"
+    },
+    "push": {
+      "href": "/api/catalog/jpn-jp/product-push/nvprod7030003v"
+    },
+    "care-link": {
+      "href": "/api/catalog/jpn-jp/care-link/nvprod7030003v"
+    },
+    "size-guide": {
+      "href": "/api/catalog/jpn-jp/size-guide/nvprod7030003v"
+    },
+    "availability": {
+      "href": "/api/catalog/jpn-jp/availability/nvprod7030003v"
+    }
+  },
+  "@type": "Product",
+  "sku": "M1795L",
+  "isSimilarTo": [],
+  "productTips": [],
+  "url": "/jpn-jp/products/lv-spike-ring-s00-nvprod7030003v",
+  "material": "NOT APPLICABLE ACC",
+  "category": [
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/_/N-t18ui4cq",
+      "alternateName": "men",
+      "name": "メンズ",
+      "identifier": "homme"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/fashion-jewelry/_/N-t12lza17",
+      "alternateName": "fashion-jewelry",
+      "name": "ファッションジュエリー",
+      "identifier": "nvcat3650003v"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/fashion-jewelry/rings/_/N-t1l6jm7c",
+      "alternateName": "rings",
+      "name": "メンズ リング",
+      "identifier": "nvcat3650006v"
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "hidePrice",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "subType",
+      "value": "product"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "sizeGuide",
+      "value": true
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "bannerList",
+      "value": [
+        {
+          "commercialBanner": "top_banner_content_category_1"
+        },
+        {
+          "commercialBanner": "top_banner_content_category_2"
+        },
+        {
+          "commercialBanner": "top_banner_content_category_3"
+        },
+        {
+          "commercialBanner": "top_banner_content_category_4"
+        }
+      ]
+    }
+  ],
+  "name": "リング･LV スパイク",
+  "isRelatedTo": [],
+  "@context": "http://schema.org",
+  "identifier": "nvprod7030003v"
+}
