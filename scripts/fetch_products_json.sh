@@ -12,6 +12,7 @@ for product in $products; do
     sleep 0.1
 
     time curl \
+      -c ./tmp/cookie.txt -b ./tmp/cookie.txt \
       -s \
       -o - \
       -H 'accept: application/json, text/plain, */*' \
@@ -23,14 +24,14 @@ for product in $products; do
       -H 'origin: https://jp.louisvuitton.com' \
       -H 'pragma: no-cache' \
       -H 'priority: u=1, i' \
-      -H 'referer: https://jp.louisvuitton.com/jpn-jp/women/handbags/lv-icons/onthego/_/N-td4mq4v-akt29qbc' \
-      -H 'sec-ch-ua: "Brave";v="141", "Not?A_Brand";v="8", "Chromium";v="141"' \
+      -H 'referer: https://jp.louisvuitton.com/jpn-jp/homepage?search' \
+      -H 'sec-ch-ua: "Chromium";v="142", "Google Chrome";v="142", "Not_A Brand";v="99"' \
       -H 'sec-ch-ua-mobile: ?0' \
       -H 'sec-ch-ua-platform: "Windows"' \
       -H 'sec-fetch-dest: empty' \
       -H 'sec-fetch-mode: cors' \
       -H 'sec-fetch-site: same-site' \
-      -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36' \
+      -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36' \
       https://api.louisvuitton.com/api/jpn-jp/catalog/product/$product | jq . > $outfile
     date '+%F %T'
     # echo path
