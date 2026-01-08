@@ -1,0 +1,555 @@
+{
+  "relatedFinishOptions": [],
+  "model": [
+    {
+      "kitFlag": false,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/M5447L/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod7270116v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/M5447L"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/M5447L/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod7270116v/M5447L/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "マロン",
+      "@type": "ProductModel",
+      "identifierKey": "36534909d34a7437a1117f2adbffb843",
+      "height": {
+        "@type": "QuantitativeValue",
+        "value": 25,
+        "unitText": "cm"
+      },
+      "productDetailTabs": [],
+      "macroFamilySap": "Scarves, Hats & More",
+      "kitExclusivity": false,
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 42900
+        },
+        "@type": "Offer",
+        "price": "¥42,900"
+      },
+      "disambiguatingDescription": "<p>インドの装いや色彩におけるエネルギーを讃える、2026春夏コレクションのエスプリを表現した｢LV × ザ･ダージリン リミテッド ソックス｣。2007年に発表された同映画のために特別にデザインされた、ルイ･ヴィトンのラゲージに見られるアニマル･モチーフをあしらいました。このモチーフは今もなお、同国と本コレクションにおけるダンディズムを豊かに表現したアイコンとして輝き続けています。</p>",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-×-ザ･ダージリン-リミテッド-ソックス-s00-メンズ-帽子、ニット帽、手袋--M5447L_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-×-ザ･ダージリン-リミテッド-ソックス-s00-メンズ-帽子、ニット帽、手袋--M5447L_PM1_Detail view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Detail view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-×-ザ･ダージリン-リミテッド-ソックス-s00-メンズ-帽子、ニット帽、手袋--M5447L_PM1_Back view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Back view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/lv-x-the-darjeling-limited-socks-s00-nvprod7270116v",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 24,
+        "unitText": "cm"
+      },
+      "sizeDisplayName": "L",
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-t18ui4cq",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/accessories/_/N-t11ae5nz",
+          "alternateName": "accessories",
+          "name": "アクセサリー",
+          "identifier": "m-category-cat10052"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/accessories/hats-beanies-and-gloves/_/N-t1fq44ws",
+          "alternateName": "hats-beanies-and-gloves",
+          "name": "メンズ 帽子、ニット帽、手袋",
+          "identifier": "nvcat1690008v"
+        }
+      ],
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-ACC-9D4_ebony.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>カラー：ブラウン</li><li>素材：コットン 69%、ナイロン 24%、ポリウレタン 7%</li><li>LV x DL ジャカード･パターン</li><li>ジャカード織りの｢L.V.M.｣</li><li>｢LOUIS VUITTON PARIS｣のシグネチャー</li><li>イタリア製</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "LV x The Darjeling Limited Socks"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isPerso",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories;Sunglasses"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "eligibleToAgec",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "newArrivalsDate",
+          "value": 1767312000000
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "hasLanguagePanel",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "bannerList",
+          "value": [
+            {
+              "commercialBanner": "top_banner_content_category_1"
+            },
+            {
+              "commercialBanner": "top_banner_content_category_2"
+            },
+            {
+              "commercialBanner": "top_banner_content_category_3"
+            },
+            {
+              "commercialBanner": "top_banner_content_category_4"
+            }
+          ]
+        }
+      ],
+      "careLink": {
+        "sections": []
+      },
+      "collectibles": false,
+      "identifier": "M5447L",
+      "defaultFamilySapDisplayName": "OTHER TEXTILE",
+      "productVisible": true,
+      "collection": "Z372",
+      "name": "LV × ザ･ダージリン リミテッド ソックス",
+      "packagingVariation": "",
+      "mainMaterial2": "COTTON",
+      "highEndTemplate": false,
+      "material": "COTTON",
+      "productId": "nvprod7270116v",
+      "hasLanguagePanel": false,
+      "disclaimers": {
+        "customDisclaimer": false,
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "color": "Brown",
+      "@context": "http://schema.org"
+    },
+    {
+      "kitFlag": false,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/M5447M/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod7270116v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/M5447M"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/M5447M/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod7270116v/M5447M/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "マロン",
+      "@type": "ProductModel",
+      "identifierKey": "16b7050df5dc87fb253f87bf2c8c40d5",
+      "height": {
+        "@type": "QuantitativeValue",
+        "value": 25,
+        "unitText": "cm"
+      },
+      "productDetailTabs": [],
+      "macroFamilySap": "Scarves, Hats & More",
+      "kitExclusivity": false,
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 42900
+        },
+        "@type": "Offer",
+        "price": "¥42,900"
+      },
+      "disambiguatingDescription": "<p>インドの装いや色彩におけるエネルギーを讃える、2026春夏コレクションのエスプリを表現した｢LV × ザ･ダージリン リミテッド ソックス｣。2007年に発表された同映画のために特別にデザインされた、ルイ･ヴィトンのラゲージに見られるアニマル･モチーフをあしらいました。このモチーフは今もなお、同国と本コレクションにおけるダンディズムを豊かに表現したアイコンとして輝き続けています。</p>",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-×-ザ･ダージリン-リミテッド-ソックス-s00-メンズ-帽子、ニット帽、手袋--M5447M_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-×-ザ･ダージリン-リミテッド-ソックス-s00-メンズ-帽子、ニット帽、手袋--M5447M_PM1_Detail view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Detail view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-×-ザ･ダージリン-リミテッド-ソックス-s00-メンズ-帽子、ニット帽、手袋--M5447M_PM1_Back view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Back view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/lv-x-the-darjeling-limited-socks-s00-nvprod7270116v",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 24,
+        "unitText": "cm"
+      },
+      "sizeDisplayName": "M",
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-t18ui4cq",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/accessories/_/N-t11ae5nz",
+          "alternateName": "accessories",
+          "name": "アクセサリー",
+          "identifier": "m-category-cat10052"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/accessories/hats-beanies-and-gloves/_/N-t1fq44ws",
+          "alternateName": "hats-beanies-and-gloves",
+          "name": "メンズ 帽子、ニット帽、手袋",
+          "identifier": "nvcat1690008v"
+        }
+      ],
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-ACC-9D4_ebony.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>カラー：ブラウン</li><li>素材：コットン 69%、ナイロン 24%、ポリウレタン 7%</li><li>LV x DL ジャカード･パターン</li><li>ジャカード織りの｢L.V.M.｣</li><li>｢LOUIS VUITTON PARIS｣のシグネチャー</li><li>イタリア製</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "LV x The Darjeling Limited Socks"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isPerso",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories;Sunglasses"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "eligibleToAgec",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "newArrivalsDate",
+          "value": 1767312000000
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "hasLanguagePanel",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "bannerList",
+          "value": [
+            {
+              "commercialBanner": "top_banner_content_category_1"
+            },
+            {
+              "commercialBanner": "top_banner_content_category_2"
+            },
+            {
+              "commercialBanner": "top_banner_content_category_3"
+            },
+            {
+              "commercialBanner": "top_banner_content_category_4"
+            }
+          ]
+        }
+      ],
+      "careLink": {
+        "sections": []
+      },
+      "collectibles": false,
+      "identifier": "M5447M",
+      "defaultFamilySapDisplayName": "OTHER TEXTILE",
+      "productVisible": true,
+      "collection": "Z372",
+      "name": "LV × ザ･ダージリン リミテッド ソックス",
+      "packagingVariation": "",
+      "mainMaterial2": "COTTON",
+      "highEndTemplate": false,
+      "material": "COTTON",
+      "productId": "nvprod7270116v",
+      "hasLanguagePanel": false,
+      "disclaimers": {
+        "customDisclaimer": false,
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "color": "Brown",
+      "@context": "http://schema.org"
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "/api/catalog/jpn-jp/product/nvprod7270116v"
+    },
+    "push": {
+      "href": "/api/catalog/jpn-jp/product-push/nvprod7270116v"
+    },
+    "care-link": {
+      "href": "/api/catalog/jpn-jp/care-link/nvprod7270116v"
+    },
+    "availability": {
+      "href": "/api/catalog/jpn-jp/availability/nvprod7270116v"
+    }
+  },
+  "@type": "Product",
+  "sku": "M5447L",
+  "isSimilarTo": [],
+  "productTips": [],
+  "url": "/jpn-jp/products/lv-x-the-darjeling-limited-socks-s00-nvprod7270116v",
+  "material": "NOT APPLICABLE ACC",
+  "category": [
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/_/N-t18ui4cq",
+      "alternateName": "men",
+      "name": "メンズ",
+      "identifier": "homme"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/accessories/_/N-t11ae5nz",
+      "alternateName": "accessories",
+      "name": "アクセサリー",
+      "identifier": "m-category-cat10052"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/accessories/hats-beanies-and-gloves/_/N-t1fq44ws",
+      "alternateName": "hats-beanies-and-gloves",
+      "name": "メンズ 帽子、ニット帽、手袋",
+      "identifier": "nvcat1690008v"
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "hidePrice",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "subType",
+      "value": "product"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "sizeGuide",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "bannerList",
+      "value": [
+        {
+          "commercialBanner": "top_banner_content_category_1"
+        },
+        {
+          "commercialBanner": "top_banner_content_category_2"
+        },
+        {
+          "commercialBanner": "top_banner_content_category_3"
+        },
+        {
+          "commercialBanner": "top_banner_content_category_4"
+        }
+      ]
+    }
+  ],
+  "name": "LV × ザ･ダージリン リミテッド ソックス",
+  "isRelatedTo": [],
+  "@context": "http://schema.org",
+  "identifier": "nvprod7270116v"
+}

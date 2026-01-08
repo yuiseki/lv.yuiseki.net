@@ -1,0 +1,917 @@
+{
+  "relatedFinishOptions": [],
+  "model": [
+    {
+      "kitFlag": false,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/1AJVEH/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod7220231v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/1AJVEH"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/1AJVEH/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod7220231v/1AJVEH/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "マロン",
+      "@type": "ProductModel",
+      "identifierKey": "b2d3a5bb3671a0820e04bb3ccb832fd8",
+      "productDetailTabs": [],
+      "macroFamilySap": "FOURRURE M",
+      "kitExclusivity": false,
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 3531000
+        },
+        "@type": "Offer",
+        "price": "¥3,531,000"
+      },
+      "disambiguatingDescription": "<p>2026春夏ファッションショーに登場したエレガントなミンクジャケット。トラッカーのシルエットに洗練されたひねりを加えています。深みのあるチェスナットカラーの贅沢なファーを、定番のデニムジャケットのパネル構造を想わせる立体的なインターシャ(象嵌細工)の技法で仕上げました。シグネチャーのレザーパッチが片側の胸ポケットを彩り、クォーツ風ボタンがダンディな印象を添えます。</p><br><br>ご不明な点がございましたら、クライアントサービスまでお気軽にお問合せください。専任のクライアントアドバイザーが、素材やサイズなどの製品詳細、モデル着用イメージや関連アイテムのご案内など、お客様のご要望に合わせたスタイリング・アドバイスをご提供いたします。<br>また、サイズ違いなどによる返品・交換のご相談も承ります。詳細は<a href='https://jp.louisvuitton.com/jpn-jp/legal-privacy'><b>こちら。</b></a>",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ミンク-トラッカージャケット-ウェア-洋服--HUF98EAI9810_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/mink-trucker-jacket-nvprod7220231v",
+      "sizeDisplayName": "46",
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-t18ui4cq",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/ready-to-wear/_/N-t1b9f3zb",
+          "alternateName": "ready-to-wear",
+          "name": "ウェア(洋服)",
+          "identifier": "m-readytowear"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/ready-to-wear/outerwear-and-coats/_/N-t1epdz97",
+          "alternateName": "outerwear-and-coats",
+          "name": "メンズ アウター＆コート",
+          "identifier": "nvcat160001v"
+        }
+      ],
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-RTW-Dark_Brown.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>レギュラーフィット</li><li>カラー：ダークブラウン</li><li>本体：ミンク 100%</li><li>ライニング：シルク</li><li>ファスニングとポケットにタイガーアイクォーツ風ボタン</li><li>胸元にフラップポケット x 2</li><li>サイドポケット x 2</li><li>胸ポケットにシグネチャーのレザーパッチ</li><li>フランス製</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "Mink Trucker Jacket"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isPerso",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z05"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Ready_To_Wear_Men"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "eligibleToAgec",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "hasLanguagePanel",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "bannerList",
+          "value": [
+            {
+              "commercialBanner": "top_banner_content_category_1"
+            },
+            {
+              "commercialBanner": "top_banner_content_category_2"
+            },
+            {
+              "commercialBanner": "top_banner_content_category_3"
+            },
+            {
+              "commercialBanner": "top_banner_content_category_4"
+            }
+          ]
+        }
+      ],
+      "careLink": {
+        "sections": []
+      },
+      "collectibles": false,
+      "identifier": "1AJVEH",
+      "defaultFamilySapDisplayName": "JACKET FUR M",
+      "productVisible": true,
+      "collection": "Z372",
+      "name": "ミンク トラッカージャケット",
+      "packagingVariation": "",
+      "highEndTemplate": false,
+      "productId": "nvprod7220231v",
+      "hasLanguagePanel": false,
+      "disclaimers": {
+        "customDisclaimer": false,
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "color": "Dark Brown",
+      "@context": "http://schema.org"
+    },
+    {
+      "kitFlag": false,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/1AJVEI/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod7220231v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/1AJVEI"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/1AJVEI/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod7220231v/1AJVEI/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "マロン",
+      "@type": "ProductModel",
+      "identifierKey": "187017bae6308945ccdb8cd2efed0775",
+      "productDetailTabs": [],
+      "macroFamilySap": "FOURRURE M",
+      "kitExclusivity": false,
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 3531000
+        },
+        "@type": "Offer",
+        "price": "¥3,531,000"
+      },
+      "disambiguatingDescription": "<p>2026春夏ファッションショーに登場したエレガントなミンクジャケット。トラッカーのシルエットに洗練されたひねりを加えています。深みのあるチェスナットカラーの贅沢なファーを、定番のデニムジャケットのパネル構造を想わせる立体的なインターシャ(象嵌細工)の技法で仕上げました。シグネチャーのレザーパッチが片側の胸ポケットを彩り、クォーツ風ボタンがダンディな印象を添えます。</p><br><br>ご不明な点がございましたら、クライアントサービスまでお気軽にお問合せください。専任のクライアントアドバイザーが、素材やサイズなどの製品詳細、モデル着用イメージや関連アイテムのご案内など、お客様のご要望に合わせたスタイリング・アドバイスをご提供いたします。<br>また、サイズ違いなどによる返品・交換のご相談も承ります。詳細は<a href='https://jp.louisvuitton.com/jpn-jp/legal-privacy'><b>こちら。</b></a>",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ミンク-トラッカージャケット-ウェア-洋服--HUF98EAI9810_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/mink-trucker-jacket-nvprod7220231v",
+      "sizeDisplayName": "48",
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-t18ui4cq",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/ready-to-wear/_/N-t1b9f3zb",
+          "alternateName": "ready-to-wear",
+          "name": "ウェア(洋服)",
+          "identifier": "m-readytowear"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/ready-to-wear/outerwear-and-coats/_/N-t1epdz97",
+          "alternateName": "outerwear-and-coats",
+          "name": "メンズ アウター＆コート",
+          "identifier": "nvcat160001v"
+        }
+      ],
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-RTW-Dark_Brown.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>レギュラーフィット</li><li>カラー：ダークブラウン</li><li>本体：ミンク 100%</li><li>ライニング：シルク</li><li>ファスニングとポケットにタイガーアイクォーツ風ボタン</li><li>胸元にフラップポケット x 2</li><li>サイドポケット x 2</li><li>胸ポケットにシグネチャーのレザーパッチ</li><li>フランス製</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "Mink Trucker Jacket"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isPerso",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z05"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Ready_To_Wear_Men"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "eligibleToAgec",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "hasLanguagePanel",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "bannerList",
+          "value": [
+            {
+              "commercialBanner": "top_banner_content_category_1"
+            },
+            {
+              "commercialBanner": "top_banner_content_category_2"
+            },
+            {
+              "commercialBanner": "top_banner_content_category_3"
+            },
+            {
+              "commercialBanner": "top_banner_content_category_4"
+            }
+          ]
+        }
+      ],
+      "careLink": {
+        "sections": []
+      },
+      "collectibles": false,
+      "identifier": "1AJVEI",
+      "defaultFamilySapDisplayName": "JACKET FUR M",
+      "productVisible": true,
+      "collection": "Z372",
+      "name": "ミンク トラッカージャケット",
+      "packagingVariation": "",
+      "highEndTemplate": false,
+      "productId": "nvprod7220231v",
+      "hasLanguagePanel": false,
+      "disclaimers": {
+        "customDisclaimer": false,
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "color": "Dark Brown",
+      "@context": "http://schema.org"
+    },
+    {
+      "kitFlag": false,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/1AJVEJ/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod7220231v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/1AJVEJ"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/1AJVEJ/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod7220231v/1AJVEJ/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "マロン",
+      "@type": "ProductModel",
+      "identifierKey": "915a143159d05b9c1099ec81757da89d",
+      "productDetailTabs": [],
+      "macroFamilySap": "FOURRURE M",
+      "kitExclusivity": false,
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 3531000
+        },
+        "@type": "Offer",
+        "price": "¥3,531,000"
+      },
+      "disambiguatingDescription": "<p>2026春夏ファッションショーに登場したエレガントなミンクジャケット。トラッカーのシルエットに洗練されたひねりを加えています。深みのあるチェスナットカラーの贅沢なファーを、定番のデニムジャケットのパネル構造を想わせる立体的なインターシャ(象嵌細工)の技法で仕上げました。シグネチャーのレザーパッチが片側の胸ポケットを彩り、クォーツ風ボタンがダンディな印象を添えます。</p><br><br>ご不明な点がございましたら、クライアントサービスまでお気軽にお問合せください。専任のクライアントアドバイザーが、素材やサイズなどの製品詳細、モデル着用イメージや関連アイテムのご案内など、お客様のご要望に合わせたスタイリング・アドバイスをご提供いたします。<br>また、サイズ違いなどによる返品・交換のご相談も承ります。詳細は<a href='https://jp.louisvuitton.com/jpn-jp/legal-privacy'><b>こちら。</b></a>",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ミンク-トラッカージャケット-ウェア-洋服--HUF98EAI9810_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/mink-trucker-jacket-nvprod7220231v",
+      "sizeDisplayName": "50",
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-t18ui4cq",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/ready-to-wear/_/N-t1b9f3zb",
+          "alternateName": "ready-to-wear",
+          "name": "ウェア(洋服)",
+          "identifier": "m-readytowear"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/ready-to-wear/outerwear-and-coats/_/N-t1epdz97",
+          "alternateName": "outerwear-and-coats",
+          "name": "メンズ アウター＆コート",
+          "identifier": "nvcat160001v"
+        }
+      ],
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-RTW-Dark_Brown.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>レギュラーフィット</li><li>カラー：ダークブラウン</li><li>本体：ミンク 100%</li><li>ライニング：シルク</li><li>ファスニングとポケットにタイガーアイクォーツ風ボタン</li><li>胸元にフラップポケット x 2</li><li>サイドポケット x 2</li><li>胸ポケットにシグネチャーのレザーパッチ</li><li>フランス製</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "Mink Trucker Jacket"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isPerso",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z05"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Ready_To_Wear_Men"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "eligibleToAgec",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "hasLanguagePanel",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "bannerList",
+          "value": [
+            {
+              "commercialBanner": "top_banner_content_category_1"
+            },
+            {
+              "commercialBanner": "top_banner_content_category_2"
+            },
+            {
+              "commercialBanner": "top_banner_content_category_3"
+            },
+            {
+              "commercialBanner": "top_banner_content_category_4"
+            }
+          ]
+        }
+      ],
+      "careLink": {
+        "sections": []
+      },
+      "collectibles": false,
+      "identifier": "1AJVEJ",
+      "defaultFamilySapDisplayName": "JACKET FUR M",
+      "productVisible": true,
+      "collection": "Z372",
+      "name": "ミンク トラッカージャケット",
+      "packagingVariation": "",
+      "highEndTemplate": false,
+      "productId": "nvprod7220231v",
+      "hasLanguagePanel": false,
+      "disclaimers": {
+        "customDisclaimer": false,
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "color": "Dark Brown",
+      "@context": "http://schema.org"
+    },
+    {
+      "kitFlag": false,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/1AJVEK/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod7220231v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/1AJVEK"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/1AJVEK/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod7220231v/1AJVEK/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "マロン",
+      "@type": "ProductModel",
+      "identifierKey": "e0720fb90dbae0d2fe07c09b440e96e2",
+      "productDetailTabs": [],
+      "macroFamilySap": "FOURRURE M",
+      "kitExclusivity": false,
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 3531000
+        },
+        "@type": "Offer",
+        "price": "¥3,531,000"
+      },
+      "disambiguatingDescription": "<p>2026春夏ファッションショーに登場したエレガントなミンクジャケット。トラッカーのシルエットに洗練されたひねりを加えています。深みのあるチェスナットカラーの贅沢なファーを、定番のデニムジャケットのパネル構造を想わせる立体的なインターシャ(象嵌細工)の技法で仕上げました。シグネチャーのレザーパッチが片側の胸ポケットを彩り、クォーツ風ボタンがダンディな印象を添えます。</p><br><br>ご不明な点がございましたら、クライアントサービスまでお気軽にお問合せください。専任のクライアントアドバイザーが、素材やサイズなどの製品詳細、モデル着用イメージや関連アイテムのご案内など、お客様のご要望に合わせたスタイリング・アドバイスをご提供いたします。<br>また、サイズ違いなどによる返品・交換のご相談も承ります。詳細は<a href='https://jp.louisvuitton.com/jpn-jp/legal-privacy'><b>こちら。</b></a>",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ミンク-トラッカージャケット-ウェア-洋服--HUF98EAI9810_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/mink-trucker-jacket-nvprod7220231v",
+      "sizeDisplayName": "52",
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-t18ui4cq",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/ready-to-wear/_/N-t1b9f3zb",
+          "alternateName": "ready-to-wear",
+          "name": "ウェア(洋服)",
+          "identifier": "m-readytowear"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/ready-to-wear/outerwear-and-coats/_/N-t1epdz97",
+          "alternateName": "outerwear-and-coats",
+          "name": "メンズ アウター＆コート",
+          "identifier": "nvcat160001v"
+        }
+      ],
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-RTW-Dark_Brown.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>レギュラーフィット</li><li>カラー：ダークブラウン</li><li>本体：ミンク 100%</li><li>ライニング：シルク</li><li>ファスニングとポケットにタイガーアイクォーツ風ボタン</li><li>胸元にフラップポケット x 2</li><li>サイドポケット x 2</li><li>胸ポケットにシグネチャーのレザーパッチ</li><li>フランス製</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "Mink Trucker Jacket"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isPerso",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z05"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Ready_To_Wear_Men"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "eligibleToAgec",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "hasLanguagePanel",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "bannerList",
+          "value": [
+            {
+              "commercialBanner": "top_banner_content_category_1"
+            },
+            {
+              "commercialBanner": "top_banner_content_category_2"
+            },
+            {
+              "commercialBanner": "top_banner_content_category_3"
+            },
+            {
+              "commercialBanner": "top_banner_content_category_4"
+            }
+          ]
+        }
+      ],
+      "careLink": {
+        "sections": []
+      },
+      "collectibles": false,
+      "identifier": "1AJVEK",
+      "defaultFamilySapDisplayName": "JACKET FUR M",
+      "productVisible": true,
+      "collection": "Z372",
+      "name": "ミンク トラッカージャケット",
+      "packagingVariation": "",
+      "highEndTemplate": false,
+      "productId": "nvprod7220231v",
+      "hasLanguagePanel": false,
+      "disclaimers": {
+        "customDisclaimer": false,
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "color": "Dark Brown",
+      "@context": "http://schema.org"
+    }
+  ],
+  "panelInformations": [
+    {
+      "@type": "ProductCare",
+      "title": "素材とお手入れ方法、修理",
+      "description": "<ul><li>家庭での洗濯禁止</li><li>塩素系および酸素系漂白剤は使用禁止</li><li>タンブル乾燥禁止</li><li>アイロン仕上げ禁止</li><li>ドライクリーニング不可</li><li>ドライクリーニング不可</li><li>信頼のおける毛皮専門店にご相談ください</li></ul>",
+      "introduction": "<div class=\"popinHeader uppercase\">本製品のお手入れに際しては、次の取扱い表示をご確認いただき、末永くご愛用くださいますようお願い申しあげます。</div>"
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "/api/catalog/jpn-jp/product/nvprod7220231v"
+    },
+    "push": {
+      "href": "/api/catalog/jpn-jp/product-push/nvprod7220231v"
+    },
+    "care-link": {
+      "href": "/api/catalog/jpn-jp/care-link/nvprod7220231v"
+    },
+    "size-guide": {
+      "href": "/api/catalog/jpn-jp/size-guide/nvprod7220231v"
+    },
+    "availability": {
+      "href": "/api/catalog/jpn-jp/availability/nvprod7220231v"
+    }
+  },
+  "@type": "Product",
+  "sku": "1AJVEI",
+  "isSimilarTo": [],
+  "productTips": [],
+  "url": "/jpn-jp/products/mink-trucker-jacket-nvprod7220231v",
+  "category": [
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/_/N-t18ui4cq",
+      "alternateName": "men",
+      "name": "メンズ",
+      "identifier": "homme"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/ready-to-wear/_/N-t1b9f3zb",
+      "alternateName": "ready-to-wear",
+      "name": "ウェア(洋服)",
+      "identifier": "m-readytowear"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/ready-to-wear/outerwear-and-coats/_/N-t1epdz97",
+      "alternateName": "outerwear-and-coats",
+      "name": "メンズ アウター＆コート",
+      "identifier": "nvcat160001v"
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "hidePrice",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "subType",
+      "value": "product"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "sizeGuide",
+      "value": true
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "bannerList",
+      "value": [
+        {
+          "commercialBanner": "top_banner_content_category_1"
+        },
+        {
+          "commercialBanner": "top_banner_content_category_2"
+        },
+        {
+          "commercialBanner": "top_banner_content_category_3"
+        },
+        {
+          "commercialBanner": "top_banner_content_category_4"
+        }
+      ]
+    }
+  ],
+  "name": "ミンク トラッカージャケット",
+  "isRelatedTo": [],
+  "@context": "http://schema.org",
+  "identifier": "nvprod7220231v"
+}
