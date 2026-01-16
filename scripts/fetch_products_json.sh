@@ -9,7 +9,7 @@ for product in $products; do
   outfile="./public/products/$product.json"
   if [ ! -e $outfile ]; then
     date '+%F %T'
-    sleep 0.1
+    sleep 1
 
     time curl \
       -c ./tmp/cookie.txt -b ./tmp/cookie.txt \

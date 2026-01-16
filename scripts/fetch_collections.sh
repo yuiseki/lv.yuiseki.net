@@ -13,7 +13,7 @@ for collection in $collections; do
   if [ ! -s $firstoutfile ]; then
     url="https://api.louisvuitton.com/eco-eu/search-merch-eapi/v1/jpn-jp/plp/products/$collection?page=0&attributes=brandContent&viewMore=true"
     echo $url
-    sleep 0.1
+    sleep 1
 
     time curl \
       -c ./tmp/cookie.txt -b ./tmp/cookie.txt \
