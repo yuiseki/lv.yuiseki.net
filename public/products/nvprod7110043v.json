@@ -1,0 +1,322 @@
+{
+  "relatedFinishOptions": [],
+  "model": [
+    {
+      "kitFlag": false,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/M03200/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod7110043v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/M03200"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/M03200/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod7110043v/M03200/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "シルバー",
+      "@type": "ProductModel",
+      "identifierKey": "dc40f335f3ca63c9b4cf8dda28f8a89d",
+      "productDetailTabs": [],
+      "macroFamilySap": "BIJOUX FANTAISIES",
+      "kitExclusivity": false,
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 202400
+        },
+        "@type": "Offer",
+        "price": "¥202,400"
+      },
+      "disambiguatingDescription": "光沢感のあるスターリングシルバーを使用した、目を引くデザインの｢ネックレス･LV バンブー チェーン｣。メゾンのシグネチャーとモノグラム･モチーフの刻印入りチューブ状リンクを組み合わせたチェーンで、洗練された本コレクションの他のバンブー風スタイルと完璧にマッチします。長さを短くしてチョーカー丈にしたり、ロングネックレスのように使うことも。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ネックレス･lv-バンブー-チェーン-s00-ファッションジュエリー--M03200_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ネックレス･lv-バンブー-チェーン-s00-ファッションジュエリー--M03200_PM1_Worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Worn view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ネックレス･lv-バンブー-チェーン-s00-ファッションジュエリー--M03200_PM1_Detail view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Detail view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ネックレス･lv-バンブー-チェーン-s00-ファッションジュエリー--M03200_PM1_Cropped worn view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Cropped worn view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/lv-bambou-chain-necklace-s00-nvprod7110043v",
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-t18ui4cq",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/fashion-jewelry/_/N-t12lza17",
+          "alternateName": "fashion-jewelry",
+          "name": "ファッションジュエリー",
+          "identifier": "nvcat3650003v"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/fashion-jewelry/necklaces-and-pendants/_/N-t79dl9r",
+          "alternateName": "necklaces-and-pendants",
+          "name": "メンズ ネックレス＆ペンダント",
+          "identifier": "nvcat3650004v"
+        }
+      ],
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-ACC-9SL_silver_.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>長さ：21.5 - 25.5 cm</li><li>素材：スターリングシルバー</li><li>シグネチャーのチャーム</li><li>ロブスタークラスプ開閉式</li><li>調節可能</li><li>イタリア製</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "LV Bambou Chain Necklace"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isPerso",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories;Sunglasses"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "eligibleToAgec",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "newArrivalsDate",
+          "value": 1768435200000
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "hasLanguagePanel",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "bannerList",
+          "value": [
+            {
+              "commercialBanner": "top_banner_content_category_1"
+            },
+            {
+              "commercialBanner": "top_banner_content_category_2"
+            },
+            {
+              "commercialBanner": "top_banner_content_category_3"
+            },
+            {
+              "commercialBanner": "top_banner_content_category_4"
+            }
+          ]
+        }
+      ],
+      "careLink": {
+        "sections": []
+      },
+      "collectibles": false,
+      "identifier": "M03200",
+      "defaultFamilySapDisplayName": "NECKLACES",
+      "productVisible": true,
+      "name": "ネックレス･LV バンブー チェーン",
+      "packagingVariation": "",
+      "mainMaterial2": "SILVER",
+      "highEndTemplate": false,
+      "material": "SILVER",
+      "productId": "nvprod7110043v",
+      "hasLanguagePanel": false,
+      "disclaimers": {
+        "customDisclaimer": false,
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "color": "シルバー",
+      "@context": "http://schema.org"
+    }
+  ],
+  "panelInformations": [
+    {
+      "@type": "ProductCare",
+      "title": "素材とお手入れ方法、修理",
+      "description": "<p>ルイ･ヴィトンのシルバー･ファッションジュエリーのお手入れ方法は<a href=\"https://www.louisvuitton.com/documents/user-guides/silver-men-fashion-jewelry\" rel=\"noopener noreferrer\"><strong>こちら。</strong></a></p>"
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "/api/catalog/jpn-jp/product/nvprod7110043v"
+    },
+    "push": {
+      "href": "/api/catalog/jpn-jp/product-push/nvprod7110043v"
+    },
+    "care-link": {
+      "href": "/api/catalog/jpn-jp/care-link/nvprod7110043v"
+    },
+    "availability": {
+      "href": "/api/catalog/jpn-jp/availability/nvprod7110043v"
+    }
+  },
+  "@type": "Product",
+  "sku": "M03200",
+  "isSimilarTo": [],
+  "productTips": [],
+  "url": "/jpn-jp/products/lv-bambou-chain-necklace-s00-nvprod7110043v",
+  "material": "NOT APPLICABLE ACC",
+  "category": [
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/_/N-t18ui4cq",
+      "alternateName": "men",
+      "name": "メンズ",
+      "identifier": "homme"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/fashion-jewelry/_/N-t12lza17",
+      "alternateName": "fashion-jewelry",
+      "name": "ファッションジュエリー",
+      "identifier": "nvcat3650003v"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/fashion-jewelry/necklaces-and-pendants/_/N-t79dl9r",
+      "alternateName": "necklaces-and-pendants",
+      "name": "メンズ ネックレス＆ペンダント",
+      "identifier": "nvcat3650004v"
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "hidePrice",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "subType",
+      "value": "product"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "sizeGuide",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "bannerList",
+      "value": [
+        {
+          "commercialBanner": "top_banner_content_category_1"
+        },
+        {
+          "commercialBanner": "top_banner_content_category_2"
+        },
+        {
+          "commercialBanner": "top_banner_content_category_3"
+        },
+        {
+          "commercialBanner": "top_banner_content_category_4"
+        }
+      ]
+    }
+  ],
+  "name": "ネックレス･LV バンブー チェーン",
+  "isRelatedTo": [],
+  "@context": "http://schema.org",
+  "identifier": "nvprod7110043v"
+}
