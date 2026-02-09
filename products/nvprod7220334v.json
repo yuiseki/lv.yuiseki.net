@@ -1,0 +1,1737 @@
+{
+  "relatedFinishOptions": [],
+  "model": [
+    {
+      "kitFlag": false,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/1AJUWK/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod7220334v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/1AJUWK"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/1AJUWK/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod7220334v/1AJUWK/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "グレー",
+      "@type": "ProductModel",
+      "identifierKey": "2707faed7a809c76ddae715a87656757",
+      "productDetailTabs": [],
+      "macroFamilySap": "JERSEY M",
+      "kitExclusivity": false,
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 253000
+        },
+        "@type": "Offer",
+        "price": "¥253,000"
+      },
+      "disambiguatingDescription": "<p>カジュアルなワードローブに欠かせない、コットン100%のスウェットシャツ。柔らかなヘザーグレーのジャージー素材に、控えめなパープルのアクセントを添えました。襟やカフ、裾にはリブ編みのトリミングを施し、快適な着心地を実現。胸元にはゴールドカラーの｢LOUIS VUITTON PARIS｣のレタリングを、背面には｢Marque L. Vuitton Déposée｣のレザーパッチをあしらい、洗練された印象に仕上げました。</p><br><br>ご不明な点がございましたら、クライアントサービスまでお気軽にお問合せください。専任のクライアントアドバイザーが、素材やサイズなどの製品詳細、モデル着用イメージや関連アイテムのご案内など、お客様のご要望に合わせたスタイリング・アドバイスをご提供いたします。<br>また、サイズ違いなどによる返品・交換のご相談も承ります。詳細は<a href='https://jp.louisvuitton.com/jpn-jp/legal-privacy'><b>こちら。</b></a>",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-コットンジャージー-スウェットシャツ-ウェア-洋服--HUY70WXS5753_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/cotton-jersey-sweatshirt-nvprod7220334v",
+      "sizeDisplayName": "XS",
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-t18ui4cq",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/ready-to-wear/_/N-t1b9f3zb",
+          "alternateName": "ready-to-wear",
+          "name": "ウェア(洋服)",
+          "identifier": "m-readytowear"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/ready-to-wear/all-ready-to-wear/_/N-tmfgzj3",
+          "alternateName": "all-ready-to-wear",
+          "name": "すべてのメンズウェア(洋服)",
+          "identifier": "nvcat910171v"
+        }
+      ],
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-RTW-Gray_Mélangé.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>レギュラーフィット</li><li>カラー：グレーメランジ</li><li>本体：コットン 100%</li><li>リブ編みのカラー、カフ、ヘム</li><li>胸元にスタンプされたゴールドカラーのシグネチャー</li><li>背面にシグネチャーのレザーパッチ</li><li>イタリア製</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "Cotton Jersey Sweatshirt"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isPerso",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z05"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Ready_To_Wear_Men"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "eligibleToAgec",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "hasLanguagePanel",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "bannerList",
+          "value": [
+            {
+              "commercialBanner": "top_banner_content_category_1"
+            },
+            {
+              "commercialBanner": "top_banner_content_category_2"
+            },
+            {
+              "commercialBanner": "top_banner_content_category_3"
+            },
+            {
+              "commercialBanner": "top_banner_content_category_4"
+            }
+          ]
+        }
+      ],
+      "careLink": {
+        "sections": []
+      },
+      "collectibles": false,
+      "identifier": "1AJUWK",
+      "defaultFamilySapDisplayName": "SWEATER JERSEY M",
+      "productVisible": true,
+      "collection": "Z373",
+      "name": "コットンジャージー スウェットシャツ",
+      "packagingVariation": "",
+      "highEndTemplate": false,
+      "productId": "nvprod7220334v",
+      "hasLanguagePanel": false,
+      "disclaimers": {
+        "customDisclaimer": false,
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "color": "Gray Mélangé",
+      "@context": "http://schema.org"
+    },
+    {
+      "kitFlag": false,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/1AJUWL/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod7220334v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/1AJUWL"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/1AJUWL/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod7220334v/1AJUWL/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "グレー",
+      "@type": "ProductModel",
+      "identifierKey": "4bb07a64fec48ae746d481058f63bda0",
+      "productDetailTabs": [],
+      "macroFamilySap": "JERSEY M",
+      "kitExclusivity": false,
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 253000
+        },
+        "@type": "Offer",
+        "price": "¥253,000"
+      },
+      "disambiguatingDescription": "<p>カジュアルなワードローブに欠かせない、コットン100%のスウェットシャツ。柔らかなヘザーグレーのジャージー素材に、控えめなパープルのアクセントを添えました。襟やカフ、裾にはリブ編みのトリミングを施し、快適な着心地を実現。胸元にはゴールドカラーの｢LOUIS VUITTON PARIS｣のレタリングを、背面には｢Marque L. Vuitton Déposée｣のレザーパッチをあしらい、洗練された印象に仕上げました。</p><br><br>ご不明な点がございましたら、クライアントサービスまでお気軽にお問合せください。専任のクライアントアドバイザーが、素材やサイズなどの製品詳細、モデル着用イメージや関連アイテムのご案内など、お客様のご要望に合わせたスタイリング・アドバイスをご提供いたします。<br>また、サイズ違いなどによる返品・交換のご相談も承ります。詳細は<a href='https://jp.louisvuitton.com/jpn-jp/legal-privacy'><b>こちら。</b></a>",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-コットンジャージー-スウェットシャツ-ウェア-洋服--HUY70WXS5753_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/cotton-jersey-sweatshirt-nvprod7220334v",
+      "sizeDisplayName": "S0",
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-t18ui4cq",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/ready-to-wear/_/N-t1b9f3zb",
+          "alternateName": "ready-to-wear",
+          "name": "ウェア(洋服)",
+          "identifier": "m-readytowear"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/ready-to-wear/all-ready-to-wear/_/N-tmfgzj3",
+          "alternateName": "all-ready-to-wear",
+          "name": "すべてのメンズウェア(洋服)",
+          "identifier": "nvcat910171v"
+        }
+      ],
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-RTW-Gray_Mélangé.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>レギュラーフィット</li><li>カラー：グレーメランジ</li><li>本体：コットン 100%</li><li>リブ編みのカラー、カフ、ヘム</li><li>胸元にスタンプされたゴールドカラーのシグネチャー</li><li>背面にシグネチャーのレザーパッチ</li><li>イタリア製</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "Cotton Jersey Sweatshirt"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isPerso",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z05"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Ready_To_Wear_Men"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "eligibleToAgec",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "hasLanguagePanel",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "bannerList",
+          "value": [
+            {
+              "commercialBanner": "top_banner_content_category_1"
+            },
+            {
+              "commercialBanner": "top_banner_content_category_2"
+            },
+            {
+              "commercialBanner": "top_banner_content_category_3"
+            },
+            {
+              "commercialBanner": "top_banner_content_category_4"
+            }
+          ]
+        }
+      ],
+      "careLink": {
+        "sections": []
+      },
+      "collectibles": false,
+      "identifier": "1AJUWL",
+      "defaultFamilySapDisplayName": "SWEATER JERSEY M",
+      "productVisible": true,
+      "collection": "Z373",
+      "name": "コットンジャージー スウェットシャツ",
+      "packagingVariation": "",
+      "highEndTemplate": false,
+      "productId": "nvprod7220334v",
+      "hasLanguagePanel": false,
+      "disclaimers": {
+        "customDisclaimer": false,
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "color": "Gray Mélangé",
+      "@context": "http://schema.org"
+    },
+    {
+      "kitFlag": false,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/1AJUWM/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod7220334v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/1AJUWM"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/1AJUWM/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod7220334v/1AJUWM/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "グレー",
+      "@type": "ProductModel",
+      "identifierKey": "f84a680039780fbdb32883d99268e303",
+      "productDetailTabs": [],
+      "macroFamilySap": "JERSEY M",
+      "kitExclusivity": false,
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 253000
+        },
+        "@type": "Offer",
+        "price": "¥253,000"
+      },
+      "disambiguatingDescription": "<p>カジュアルなワードローブに欠かせない、コットン100%のスウェットシャツ。柔らかなヘザーグレーのジャージー素材に、控えめなパープルのアクセントを添えました。襟やカフ、裾にはリブ編みのトリミングを施し、快適な着心地を実現。胸元にはゴールドカラーの｢LOUIS VUITTON PARIS｣のレタリングを、背面には｢Marque L. Vuitton Déposée｣のレザーパッチをあしらい、洗練された印象に仕上げました。</p><br><br>ご不明な点がございましたら、クライアントサービスまでお気軽にお問合せください。専任のクライアントアドバイザーが、素材やサイズなどの製品詳細、モデル着用イメージや関連アイテムのご案内など、お客様のご要望に合わせたスタイリング・アドバイスをご提供いたします。<br>また、サイズ違いなどによる返品・交換のご相談も承ります。詳細は<a href='https://jp.louisvuitton.com/jpn-jp/legal-privacy'><b>こちら。</b></a>",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-コットンジャージー-スウェットシャツ-ウェア-洋服--HUY70WXS5753_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/cotton-jersey-sweatshirt-nvprod7220334v",
+      "sizeDisplayName": "M0",
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-t18ui4cq",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/ready-to-wear/_/N-t1b9f3zb",
+          "alternateName": "ready-to-wear",
+          "name": "ウェア(洋服)",
+          "identifier": "m-readytowear"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/ready-to-wear/all-ready-to-wear/_/N-tmfgzj3",
+          "alternateName": "all-ready-to-wear",
+          "name": "すべてのメンズウェア(洋服)",
+          "identifier": "nvcat910171v"
+        }
+      ],
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-RTW-Gray_Mélangé.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>レギュラーフィット</li><li>カラー：グレーメランジ</li><li>本体：コットン 100%</li><li>リブ編みのカラー、カフ、ヘム</li><li>胸元にスタンプされたゴールドカラーのシグネチャー</li><li>背面にシグネチャーのレザーパッチ</li><li>イタリア製</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "Cotton Jersey Sweatshirt"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isPerso",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z05"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Ready_To_Wear_Men"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "eligibleToAgec",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "hasLanguagePanel",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "bannerList",
+          "value": [
+            {
+              "commercialBanner": "top_banner_content_category_1"
+            },
+            {
+              "commercialBanner": "top_banner_content_category_2"
+            },
+            {
+              "commercialBanner": "top_banner_content_category_3"
+            },
+            {
+              "commercialBanner": "top_banner_content_category_4"
+            }
+          ]
+        }
+      ],
+      "careLink": {
+        "sections": []
+      },
+      "collectibles": false,
+      "identifier": "1AJUWM",
+      "defaultFamilySapDisplayName": "SWEATER JERSEY M",
+      "productVisible": true,
+      "collection": "Z373",
+      "name": "コットンジャージー スウェットシャツ",
+      "packagingVariation": "",
+      "highEndTemplate": false,
+      "productId": "nvprod7220334v",
+      "hasLanguagePanel": false,
+      "disclaimers": {
+        "customDisclaimer": false,
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "color": "Gray Mélangé",
+      "@context": "http://schema.org"
+    },
+    {
+      "kitFlag": false,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/1AJUWN/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod7220334v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/1AJUWN"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/1AJUWN/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod7220334v/1AJUWN/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "グレー",
+      "@type": "ProductModel",
+      "identifierKey": "876e4655279978b84e646cb745d72bd1",
+      "productDetailTabs": [],
+      "macroFamilySap": "JERSEY M",
+      "kitExclusivity": false,
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 253000
+        },
+        "@type": "Offer",
+        "price": "¥253,000"
+      },
+      "disambiguatingDescription": "<p>カジュアルなワードローブに欠かせない、コットン100%のスウェットシャツ。柔らかなヘザーグレーのジャージー素材に、控えめなパープルのアクセントを添えました。襟やカフ、裾にはリブ編みのトリミングを施し、快適な着心地を実現。胸元にはゴールドカラーの｢LOUIS VUITTON PARIS｣のレタリングを、背面には｢Marque L. Vuitton Déposée｣のレザーパッチをあしらい、洗練された印象に仕上げました。</p><br><br>ご不明な点がございましたら、クライアントサービスまでお気軽にお問合せください。専任のクライアントアドバイザーが、素材やサイズなどの製品詳細、モデル着用イメージや関連アイテムのご案内など、お客様のご要望に合わせたスタイリング・アドバイスをご提供いたします。<br>また、サイズ違いなどによる返品・交換のご相談も承ります。詳細は<a href='https://jp.louisvuitton.com/jpn-jp/legal-privacy'><b>こちら。</b></a>",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-コットンジャージー-スウェットシャツ-ウェア-洋服--HUY70WXS5753_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/cotton-jersey-sweatshirt-nvprod7220334v",
+      "sizeDisplayName": "L0",
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-t18ui4cq",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/ready-to-wear/_/N-t1b9f3zb",
+          "alternateName": "ready-to-wear",
+          "name": "ウェア(洋服)",
+          "identifier": "m-readytowear"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/ready-to-wear/all-ready-to-wear/_/N-tmfgzj3",
+          "alternateName": "all-ready-to-wear",
+          "name": "すべてのメンズウェア(洋服)",
+          "identifier": "nvcat910171v"
+        }
+      ],
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-RTW-Gray_Mélangé.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>レギュラーフィット</li><li>カラー：グレーメランジ</li><li>本体：コットン 100%</li><li>リブ編みのカラー、カフ、ヘム</li><li>胸元にスタンプされたゴールドカラーのシグネチャー</li><li>背面にシグネチャーのレザーパッチ</li><li>イタリア製</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "Cotton Jersey Sweatshirt"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isPerso",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z05"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Ready_To_Wear_Men"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "eligibleToAgec",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "hasLanguagePanel",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "bannerList",
+          "value": [
+            {
+              "commercialBanner": "top_banner_content_category_1"
+            },
+            {
+              "commercialBanner": "top_banner_content_category_2"
+            },
+            {
+              "commercialBanner": "top_banner_content_category_3"
+            },
+            {
+              "commercialBanner": "top_banner_content_category_4"
+            }
+          ]
+        }
+      ],
+      "careLink": {
+        "sections": []
+      },
+      "collectibles": false,
+      "identifier": "1AJUWN",
+      "defaultFamilySapDisplayName": "SWEATER JERSEY M",
+      "productVisible": true,
+      "collection": "Z373",
+      "name": "コットンジャージー スウェットシャツ",
+      "packagingVariation": "",
+      "highEndTemplate": false,
+      "productId": "nvprod7220334v",
+      "hasLanguagePanel": false,
+      "disclaimers": {
+        "customDisclaimer": false,
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "color": "Gray Mélangé",
+      "@context": "http://schema.org"
+    },
+    {
+      "kitFlag": false,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/1AJUWO/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod7220334v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/1AJUWO"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/1AJUWO/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod7220334v/1AJUWO/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "グレー",
+      "@type": "ProductModel",
+      "identifierKey": "e0524c7b2ce41fd7909c9189f44bd3c3",
+      "productDetailTabs": [],
+      "macroFamilySap": "JERSEY M",
+      "kitExclusivity": false,
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 253000
+        },
+        "@type": "Offer",
+        "price": "¥253,000"
+      },
+      "disambiguatingDescription": "<p>カジュアルなワードローブに欠かせない、コットン100%のスウェットシャツ。柔らかなヘザーグレーのジャージー素材に、控えめなパープルのアクセントを添えました。襟やカフ、裾にはリブ編みのトリミングを施し、快適な着心地を実現。胸元にはゴールドカラーの｢LOUIS VUITTON PARIS｣のレタリングを、背面には｢Marque L. Vuitton Déposée｣のレザーパッチをあしらい、洗練された印象に仕上げました。</p><br><br>ご不明な点がございましたら、クライアントサービスまでお気軽にお問合せください。専任のクライアントアドバイザーが、素材やサイズなどの製品詳細、モデル着用イメージや関連アイテムのご案内など、お客様のご要望に合わせたスタイリング・アドバイスをご提供いたします。<br>また、サイズ違いなどによる返品・交換のご相談も承ります。詳細は<a href='https://jp.louisvuitton.com/jpn-jp/legal-privacy'><b>こちら。</b></a>",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-コットンジャージー-スウェットシャツ-ウェア-洋服--HUY70WXS5753_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/cotton-jersey-sweatshirt-nvprod7220334v",
+      "sizeDisplayName": "XL",
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-t18ui4cq",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/ready-to-wear/_/N-t1b9f3zb",
+          "alternateName": "ready-to-wear",
+          "name": "ウェア(洋服)",
+          "identifier": "m-readytowear"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/ready-to-wear/all-ready-to-wear/_/N-tmfgzj3",
+          "alternateName": "all-ready-to-wear",
+          "name": "すべてのメンズウェア(洋服)",
+          "identifier": "nvcat910171v"
+        }
+      ],
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-RTW-Gray_Mélangé.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>レギュラーフィット</li><li>カラー：グレーメランジ</li><li>本体：コットン 100%</li><li>リブ編みのカラー、カフ、ヘム</li><li>胸元にスタンプされたゴールドカラーのシグネチャー</li><li>背面にシグネチャーのレザーパッチ</li><li>イタリア製</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "Cotton Jersey Sweatshirt"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isPerso",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z05"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Ready_To_Wear_Men"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "eligibleToAgec",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "hasLanguagePanel",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "bannerList",
+          "value": [
+            {
+              "commercialBanner": "top_banner_content_category_1"
+            },
+            {
+              "commercialBanner": "top_banner_content_category_2"
+            },
+            {
+              "commercialBanner": "top_banner_content_category_3"
+            },
+            {
+              "commercialBanner": "top_banner_content_category_4"
+            }
+          ]
+        }
+      ],
+      "careLink": {
+        "sections": []
+      },
+      "collectibles": false,
+      "identifier": "1AJUWO",
+      "defaultFamilySapDisplayName": "SWEATER JERSEY M",
+      "productVisible": true,
+      "collection": "Z373",
+      "name": "コットンジャージー スウェットシャツ",
+      "packagingVariation": "",
+      "highEndTemplate": false,
+      "productId": "nvprod7220334v",
+      "hasLanguagePanel": false,
+      "disclaimers": {
+        "customDisclaimer": false,
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "color": "Gray Mélangé",
+      "@context": "http://schema.org"
+    },
+    {
+      "kitFlag": false,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/1AJUWP/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod7220334v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/1AJUWP"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/1AJUWP/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod7220334v/1AJUWP/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "グレー",
+      "@type": "ProductModel",
+      "identifierKey": "9253aa2c52ce78ffb738ff84d3d8dcb7",
+      "productDetailTabs": [],
+      "macroFamilySap": "JERSEY M",
+      "kitExclusivity": false,
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 253000
+        },
+        "@type": "Offer",
+        "price": "¥253,000"
+      },
+      "disambiguatingDescription": "<p>カジュアルなワードローブに欠かせない、コットン100%のスウェットシャツ。柔らかなヘザーグレーのジャージー素材に、控えめなパープルのアクセントを添えました。襟やカフ、裾にはリブ編みのトリミングを施し、快適な着心地を実現。胸元にはゴールドカラーの｢LOUIS VUITTON PARIS｣のレタリングを、背面には｢Marque L. Vuitton Déposée｣のレザーパッチをあしらい、洗練された印象に仕上げました。</p><br><br>ご不明な点がございましたら、クライアントサービスまでお気軽にお問合せください。専任のクライアントアドバイザーが、素材やサイズなどの製品詳細、モデル着用イメージや関連アイテムのご案内など、お客様のご要望に合わせたスタイリング・アドバイスをご提供いたします。<br>また、サイズ違いなどによる返品・交換のご相談も承ります。詳細は<a href='https://jp.louisvuitton.com/jpn-jp/legal-privacy'><b>こちら。</b></a>",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-コットンジャージー-スウェットシャツ-ウェア-洋服--HUY70WXS5753_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/cotton-jersey-sweatshirt-nvprod7220334v",
+      "sizeDisplayName": "3L",
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-t18ui4cq",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/ready-to-wear/_/N-t1b9f3zb",
+          "alternateName": "ready-to-wear",
+          "name": "ウェア(洋服)",
+          "identifier": "m-readytowear"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/ready-to-wear/all-ready-to-wear/_/N-tmfgzj3",
+          "alternateName": "all-ready-to-wear",
+          "name": "すべてのメンズウェア(洋服)",
+          "identifier": "nvcat910171v"
+        }
+      ],
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-RTW-Gray_Mélangé.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>レギュラーフィット</li><li>カラー：グレーメランジ</li><li>本体：コットン 100%</li><li>リブ編みのカラー、カフ、ヘム</li><li>胸元にスタンプされたゴールドカラーのシグネチャー</li><li>背面にシグネチャーのレザーパッチ</li><li>イタリア製</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "Cotton Jersey Sweatshirt"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isPerso",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z05"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Ready_To_Wear_Men"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "eligibleToAgec",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "hasLanguagePanel",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "bannerList",
+          "value": [
+            {
+              "commercialBanner": "top_banner_content_category_1"
+            },
+            {
+              "commercialBanner": "top_banner_content_category_2"
+            },
+            {
+              "commercialBanner": "top_banner_content_category_3"
+            },
+            {
+              "commercialBanner": "top_banner_content_category_4"
+            }
+          ]
+        }
+      ],
+      "careLink": {
+        "sections": []
+      },
+      "collectibles": false,
+      "identifier": "1AJUWP",
+      "defaultFamilySapDisplayName": "SWEATER JERSEY M",
+      "productVisible": true,
+      "collection": "Z373",
+      "name": "コットンジャージー スウェットシャツ",
+      "packagingVariation": "",
+      "highEndTemplate": false,
+      "productId": "nvprod7220334v",
+      "hasLanguagePanel": false,
+      "disclaimers": {
+        "customDisclaimer": false,
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "color": "Gray Mélangé",
+      "@context": "http://schema.org"
+    },
+    {
+      "kitFlag": false,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/1AJUWQ/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod7220334v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/1AJUWQ"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/1AJUWQ/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod7220334v/1AJUWQ/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "グレー",
+      "@type": "ProductModel",
+      "identifierKey": "7e11f6635c72373d218279bf23176ae6",
+      "productDetailTabs": [],
+      "macroFamilySap": "JERSEY M",
+      "kitExclusivity": false,
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 253000
+        },
+        "@type": "Offer",
+        "price": "¥253,000"
+      },
+      "disambiguatingDescription": "<p>カジュアルなワードローブに欠かせない、コットン100%のスウェットシャツ。柔らかなヘザーグレーのジャージー素材に、控えめなパープルのアクセントを添えました。襟やカフ、裾にはリブ編みのトリミングを施し、快適な着心地を実現。胸元にはゴールドカラーの｢LOUIS VUITTON PARIS｣のレタリングを、背面には｢Marque L. Vuitton Déposée｣のレザーパッチをあしらい、洗練された印象に仕上げました。</p><br><br>ご不明な点がございましたら、クライアントサービスまでお気軽にお問合せください。専任のクライアントアドバイザーが、素材やサイズなどの製品詳細、モデル着用イメージや関連アイテムのご案内など、お客様のご要望に合わせたスタイリング・アドバイスをご提供いたします。<br>また、サイズ違いなどによる返品・交換のご相談も承ります。詳細は<a href='https://jp.louisvuitton.com/jpn-jp/legal-privacy'><b>こちら。</b></a>",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-コットンジャージー-スウェットシャツ-ウェア-洋服--HUY70WXS5753_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/cotton-jersey-sweatshirt-nvprod7220334v",
+      "sizeDisplayName": "4L",
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-t18ui4cq",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/ready-to-wear/_/N-t1b9f3zb",
+          "alternateName": "ready-to-wear",
+          "name": "ウェア(洋服)",
+          "identifier": "m-readytowear"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/ready-to-wear/all-ready-to-wear/_/N-tmfgzj3",
+          "alternateName": "all-ready-to-wear",
+          "name": "すべてのメンズウェア(洋服)",
+          "identifier": "nvcat910171v"
+        }
+      ],
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-RTW-Gray_Mélangé.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>レギュラーフィット</li><li>カラー：グレーメランジ</li><li>本体：コットン 100%</li><li>リブ編みのカラー、カフ、ヘム</li><li>胸元にスタンプされたゴールドカラーのシグネチャー</li><li>背面にシグネチャーのレザーパッチ</li><li>イタリア製</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "Cotton Jersey Sweatshirt"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isPerso",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z05"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Ready_To_Wear_Men"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "eligibleToAgec",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "hasLanguagePanel",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "bannerList",
+          "value": [
+            {
+              "commercialBanner": "top_banner_content_category_1"
+            },
+            {
+              "commercialBanner": "top_banner_content_category_2"
+            },
+            {
+              "commercialBanner": "top_banner_content_category_3"
+            },
+            {
+              "commercialBanner": "top_banner_content_category_4"
+            }
+          ]
+        }
+      ],
+      "careLink": {
+        "sections": []
+      },
+      "collectibles": false,
+      "identifier": "1AJUWQ",
+      "defaultFamilySapDisplayName": "SWEATER JERSEY M",
+      "productVisible": true,
+      "collection": "Z373",
+      "name": "コットンジャージー スウェットシャツ",
+      "packagingVariation": "",
+      "highEndTemplate": false,
+      "productId": "nvprod7220334v",
+      "hasLanguagePanel": false,
+      "disclaimers": {
+        "customDisclaimer": false,
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "color": "Gray Mélangé",
+      "@context": "http://schema.org"
+    },
+    {
+      "kitFlag": false,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/1AJUWR/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod7220334v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/1AJUWR"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/1AJUWR/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod7220334v/1AJUWR/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "グレー",
+      "@type": "ProductModel",
+      "identifierKey": "4ccabc9d697832f45f80691c8c82ce11",
+      "productDetailTabs": [],
+      "macroFamilySap": "JERSEY M",
+      "kitExclusivity": false,
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 253000
+        },
+        "@type": "Offer",
+        "price": "¥253,000"
+      },
+      "disambiguatingDescription": "<p>カジュアルなワードローブに欠かせない、コットン100%のスウェットシャツ。柔らかなヘザーグレーのジャージー素材に、控えめなパープルのアクセントを添えました。襟やカフ、裾にはリブ編みのトリミングを施し、快適な着心地を実現。胸元にはゴールドカラーの｢LOUIS VUITTON PARIS｣のレタリングを、背面には｢Marque L. Vuitton Déposée｣のレザーパッチをあしらい、洗練された印象に仕上げました。</p><br><br>ご不明な点がございましたら、クライアントサービスまでお気軽にお問合せください。専任のクライアントアドバイザーが、素材やサイズなどの製品詳細、モデル着用イメージや関連アイテムのご案内など、お客様のご要望に合わせたスタイリング・アドバイスをご提供いたします。<br>また、サイズ違いなどによる返品・交換のご相談も承ります。詳細は<a href='https://jp.louisvuitton.com/jpn-jp/legal-privacy'><b>こちら。</b></a>",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-コットンジャージー-スウェットシャツ-ウェア-洋服--HUY70WXS5753_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/cotton-jersey-sweatshirt-nvprod7220334v",
+      "sizeDisplayName": "5L",
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-t18ui4cq",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/ready-to-wear/_/N-t1b9f3zb",
+          "alternateName": "ready-to-wear",
+          "name": "ウェア(洋服)",
+          "identifier": "m-readytowear"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/ready-to-wear/all-ready-to-wear/_/N-tmfgzj3",
+          "alternateName": "all-ready-to-wear",
+          "name": "すべてのメンズウェア(洋服)",
+          "identifier": "nvcat910171v"
+        }
+      ],
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-RTW-Gray_Mélangé.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>レギュラーフィット</li><li>カラー：グレーメランジ</li><li>本体：コットン 100%</li><li>リブ編みのカラー、カフ、ヘム</li><li>胸元にスタンプされたゴールドカラーのシグネチャー</li><li>背面にシグネチャーのレザーパッチ</li><li>イタリア製</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "Cotton Jersey Sweatshirt"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isPerso",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z05"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Ready_To_Wear_Men"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "eligibleToAgec",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "hasLanguagePanel",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "bannerList",
+          "value": [
+            {
+              "commercialBanner": "top_banner_content_category_1"
+            },
+            {
+              "commercialBanner": "top_banner_content_category_2"
+            },
+            {
+              "commercialBanner": "top_banner_content_category_3"
+            },
+            {
+              "commercialBanner": "top_banner_content_category_4"
+            }
+          ]
+        }
+      ],
+      "careLink": {
+        "sections": []
+      },
+      "collectibles": false,
+      "identifier": "1AJUWR",
+      "defaultFamilySapDisplayName": "SWEATER JERSEY M",
+      "productVisible": true,
+      "collection": "Z373",
+      "name": "コットンジャージー スウェットシャツ",
+      "packagingVariation": "",
+      "highEndTemplate": false,
+      "productId": "nvprod7220334v",
+      "hasLanguagePanel": false,
+      "disclaimers": {
+        "customDisclaimer": false,
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "color": "Gray Mélangé",
+      "@context": "http://schema.org"
+    }
+  ],
+  "panelInformations": [
+    {
+      "@type": "ProductCare",
+      "title": "素材とお手入れ方法、修理",
+      "description": "<ul><li>手洗い可</li><li>塩素系および酸素系漂白剤は使用禁止</li><li>タンブル乾燥禁止</li><li>ソールプレートの温度110℃以下でアイロン仕上げ可(スチームなし)</li><li>ドライクリーニング不可</li><li>平干ししてください</li><li>洗濯の際は、裏返してネットに入れてください</li><li>アイロン掛けの際は、裏返しにしてあて布を使用してください</li></ul>",
+      "introduction": "<div class=\"popinHeader uppercase\">本製品のお手入れに際しては、次の取扱い表示をご確認いただき、末永くご愛用くださいますようお願い申しあげます。</div>"
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "/api/catalog/jpn-jp/product/nvprod7220334v"
+    },
+    "push": {
+      "href": "/api/catalog/jpn-jp/product-push/nvprod7220334v"
+    },
+    "care-link": {
+      "href": "/api/catalog/jpn-jp/care-link/nvprod7220334v"
+    },
+    "size-guide": {
+      "href": "/api/catalog/jpn-jp/size-guide/nvprod7220334v"
+    },
+    "availability": {
+      "href": "/api/catalog/jpn-jp/availability/nvprod7220334v"
+    }
+  },
+  "@type": "Product",
+  "sku": "1AJUWM",
+  "isSimilarTo": [],
+  "productTips": [],
+  "url": "/jpn-jp/products/cotton-jersey-sweatshirt-nvprod7220334v",
+  "category": [
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/_/N-t18ui4cq",
+      "alternateName": "men",
+      "name": "メンズ",
+      "identifier": "homme"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/ready-to-wear/_/N-t1b9f3zb",
+      "alternateName": "ready-to-wear",
+      "name": "ウェア(洋服)",
+      "identifier": "m-readytowear"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/ready-to-wear/all-ready-to-wear/_/N-tmfgzj3",
+      "alternateName": "all-ready-to-wear",
+      "name": "すべてのメンズウェア(洋服)",
+      "identifier": "nvcat910171v"
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "hidePrice",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "subType",
+      "value": "product"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "sizeGuide",
+      "value": true
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "bannerList",
+      "value": [
+        {
+          "commercialBanner": "top_banner_content_category_1"
+        },
+        {
+          "commercialBanner": "top_banner_content_category_2"
+        },
+        {
+          "commercialBanner": "top_banner_content_category_3"
+        },
+        {
+          "commercialBanner": "top_banner_content_category_4"
+        }
+      ]
+    }
+  ],
+  "name": "コットンジャージー スウェットシャツ",
+  "isRelatedTo": [],
+  "@context": "http://schema.org",
+  "identifier": "nvprod7220334v"
+}

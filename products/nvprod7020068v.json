@@ -1,0 +1,715 @@
+{
+  "relatedFinishOptions": [],
+  "model": [
+    {
+      "kitFlag": false,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/R94526/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod7020068v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/R94526"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/R94526/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod7020068v/R94526/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ホワイト",
+      "@type": "ProductModel",
+      "height": {
+        "@type": "QuantitativeValue",
+        "value": 80,
+        "unitText": "cm"
+      },
+      "productDetailTabs": [],
+      "macroFamilySap": "HOME DECOR",
+      "kitExclusivity": false,
+      "width": {
+        "@type": "QuantitativeValue",
+        "value": 15,
+        "unitText": "cm"
+      },
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 1732500
+        },
+        "@type": "Offer",
+        "price": "¥1,732,500"
+      },
+      "disambiguatingDescription": "<p>「オブジェ・ノマド コレクション」のために、オランダ人デザイナー マルセル・ワンダースがDiamond Screenが持つ幾何学的な美しさを再解釈したDiamond Mirror by Marcel Wanders。中央の八角形ミラーを24枚の小さな三角形ミラーが円状に囲み、面取り加工によってまばゆい輝きを放つ視覚効果を生み出しています。レザートリミングには、「Louis Vuitton」シグネチャーのコントラストを効かせたステッチを施し、洗練された印象をプラス。この詩的なダイヤモンドのような輝きはまるでプレシャスな宝石のように、見る者を魅了します。</p>",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-diamond-mirror-by-marcel-wanders-ホーム-テーブルウェア--R94526_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-diamond-mirror-by-marcel-wanders-ホーム-テーブルウェア--R94526_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/diamond-mirror-by-marcel-wanders-nvprod7020068v",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 80,
+        "unitText": "cm"
+      },
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/trunks-travel-and-home/_/N-tmb5aeq",
+          "alternateName": "trunks-travel-and-home",
+          "name": "トランク、トラベル & ホーム",
+          "identifier": "nvcat1840004v"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/trunks-travel-and-home/home-and-art-of-dining/_/N-t18m54i3",
+          "alternateName": "home-and-art-of-dining",
+          "name": "ホーム & テーブルウェア",
+          "identifier": "nvcat1840008v"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/trunks-travel-and-home/home-and-art-of-dining/decoration/_/N-tsvx655",
+          "alternateName": "decoration",
+          "name": "ホームデコレーション",
+          "identifier": "nvcat1840021v"
+        }
+      ],
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-LG-97D_milk.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>重さ：6 kg</li><li>コントラストを効かせたシグネチャーのステッチ</li><li>ガラスミラー</li><li>レザーライニングにマイクロファイバーの背面</li><li>金具（色：シルバー）</li><li>イタリア製</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "Diamond Mirror by Marcel Wanders"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isPerso",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z01"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "eligibleToAgec",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "newArrivalsDate",
+          "value": 1758844800000
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "hasLanguagePanel",
+          "value": false
+        }
+      ],
+      "careLink": {
+        "sections": []
+      },
+      "collectibles": false,
+      "identifier": "R94526",
+      "defaultFamilySapDisplayName": "DECORATIVE OBJECTS",
+      "productVisible": true,
+      "name": "Diamond Mirror by Marcel Wanders",
+      "packagingVariation": "",
+      "mainMaterial2": "GLASS",
+      "highEndTemplate": false,
+      "material": "GLASS",
+      "productId": "nvprod7020068v",
+      "hasLanguagePanel": false,
+      "disclaimers": {
+        "customDisclaimer": false,
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "color": "Milk",
+      "@context": "http://schema.org"
+    },
+    {
+      "kitFlag": false,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/R94527/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod7020068v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/R94527"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/R94527/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod7020068v/R94527/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "マロン",
+      "@type": "ProductModel",
+      "height": {
+        "@type": "QuantitativeValue",
+        "value": 80,
+        "unitText": "cm"
+      },
+      "productDetailTabs": [],
+      "macroFamilySap": "HOME DECOR",
+      "kitExclusivity": false,
+      "width": {
+        "@type": "QuantitativeValue",
+        "value": 15,
+        "unitText": "cm"
+      },
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 1732500
+        },
+        "@type": "Offer",
+        "price": "¥1,732,500"
+      },
+      "disambiguatingDescription": "<p>「オブジェ・ノマド コレクション」のために、オランダ人デザイナー マルセル・ワンダースがDiamond Screenが持つ幾何学的な美しさを再解釈したDiamond Mirror by Marcel Wanders。中央の八角形ミラーを24枚の小さな三角形ミラーが円状に囲み、面取り加工によってまばゆい輝きを放つ視覚効果を生み出しています。レザートリミングには、「Louis Vuitton」シグネチャーのコントラストを効かせたステッチを施し、洗練された印象をプラス。この詩的なダイヤモンドのような輝きはまるでプレシャスな宝石のように、見る者を魅了します。</p>",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-diamond-mirror-by-marcel-wanders-ホーム-テーブルウェア--R94527_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-diamond-mirror-by-marcel-wanders-ホーム-テーブルウェア--R94527_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/diamond-mirror-by-marcel-wanders-nvprod7020068v",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 80,
+        "unitText": "cm"
+      },
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/trunks-travel-and-home/_/N-tmb5aeq",
+          "alternateName": "trunks-travel-and-home",
+          "name": "トランク、トラベル & ホーム",
+          "identifier": "nvcat1840004v"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/trunks-travel-and-home/home-and-art-of-dining/_/N-t18m54i3",
+          "alternateName": "home-and-art-of-dining",
+          "name": "ホーム & テーブルウェア",
+          "identifier": "nvcat1840008v"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/trunks-travel-and-home/home-and-art-of-dining/decoration/_/N-tsvx655",
+          "alternateName": "decoration",
+          "name": "ホームデコレーション",
+          "identifier": "nvcat1840021v"
+        }
+      ],
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-SHO-36_caramel.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>重さ：6 kg</li><li>コントラストを効かせたシグネチャーのステッチ</li><li>ガラスミラー</li><li>レザーライニングにマイクロファイバーの背面</li><li>金具（色：シルバー）</li><li>イタリア製</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "Diamond Mirror by Marcel Wanders"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isPerso",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z01"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "eligibleToAgec",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "newArrivalsDate",
+          "value": 1758844800000
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "hasLanguagePanel",
+          "value": false
+        }
+      ],
+      "careLink": {
+        "sections": []
+      },
+      "collectibles": false,
+      "identifier": "R94527",
+      "defaultFamilySapDisplayName": "DECORATIVE OBJECTS",
+      "productVisible": true,
+      "name": "Diamond Mirror by Marcel Wanders",
+      "packagingVariation": "",
+      "mainMaterial2": "GLASS",
+      "highEndTemplate": false,
+      "material": "GLASS",
+      "productId": "nvprod7020068v",
+      "hasLanguagePanel": false,
+      "disclaimers": {
+        "customDisclaimer": false,
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "color": "CARAMEL",
+      "@context": "http://schema.org"
+    },
+    {
+      "kitFlag": false,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/R94528/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod7020068v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/R94528"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/R94528/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod7020068v/R94528/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ブラック",
+      "@type": "ProductModel",
+      "height": {
+        "@type": "QuantitativeValue",
+        "value": 80,
+        "unitText": "cm"
+      },
+      "productDetailTabs": [],
+      "macroFamilySap": "HOME DECOR",
+      "kitExclusivity": false,
+      "width": {
+        "@type": "QuantitativeValue",
+        "value": 15,
+        "unitText": "cm"
+      },
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 1732500
+        },
+        "@type": "Offer",
+        "price": "¥1,732,500"
+      },
+      "disambiguatingDescription": "<p>「オブジェ・ノマド コレクション」のために、オランダ人デザイナー マルセル・ワンダースがDiamond Screenが持つ幾何学的な美しさを再解釈したDiamond Mirror by Marcel Wanders。中央の八角形ミラーを24枚の小さな三角形ミラーが円状に囲み、面取り加工によってまばゆい輝きを放つ視覚効果を生み出しています。レザートリミングには、「Louis Vuitton」シグネチャーのコントラストを効かせたステッチを施し、洗練された印象をプラス。この詩的なダイヤモンドのような輝きはまるでプレシャスな宝石のように、見る者を魅了します。</p>",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-diamond-mirror-by-marcel-wanders-ホーム-テーブルウェア--R94528_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-diamond-mirror-by-marcel-wanders-ホーム-テーブルウェア--R94528_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/diamond-mirror-by-marcel-wanders-nvprod7020068v",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 80,
+        "unitText": "cm"
+      },
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/trunks-travel-and-home/_/N-tmb5aeq",
+          "alternateName": "trunks-travel-and-home",
+          "name": "トランク、トラベル & ホーム",
+          "identifier": "nvcat1840004v"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/trunks-travel-and-home/home-and-art-of-dining/_/N-t18m54i3",
+          "alternateName": "home-and-art-of-dining",
+          "name": "ホーム & テーブルウェア",
+          "identifier": "nvcat1840008v"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/trunks-travel-and-home/home-and-art-of-dining/decoration/_/N-tsvx655",
+          "alternateName": "decoration",
+          "name": "ホームデコレーション",
+          "identifier": "nvcat1840021v"
+        }
+      ],
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-WAT-Z17_black.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>重さ：6 kg</li><li>コントラストを効かせたシグネチャーのステッチ</li><li>ガラスミラー</li><li>レザーライニングにマイクロファイバーの背面</li><li>金具（色：シルバー）</li><li>イタリア製</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "Diamond Mirror by Marcel Wanders"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isPerso",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z01"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "eligibleToAgec",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "newArrivalsDate",
+          "value": 1758844800000
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "hasLanguagePanel",
+          "value": false
+        }
+      ],
+      "careLink": {
+        "sections": []
+      },
+      "collectibles": false,
+      "identifier": "R94528",
+      "defaultFamilySapDisplayName": "DECORATIVE OBJECTS",
+      "productVisible": true,
+      "name": "Diamond Mirror by Marcel Wanders",
+      "packagingVariation": "",
+      "mainMaterial2": "GLASS",
+      "highEndTemplate": false,
+      "material": "GLASS",
+      "productId": "nvprod7020068v",
+      "hasLanguagePanel": false,
+      "disclaimers": {
+        "customDisclaimer": false,
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "color": "Black",
+      "@context": "http://schema.org"
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "/api/catalog/jpn-jp/product/nvprod7020068v"
+    },
+    "push": {
+      "href": "/api/catalog/jpn-jp/product-push/nvprod7020068v"
+    },
+    "care-link": {
+      "href": "/api/catalog/jpn-jp/care-link/nvprod7020068v"
+    },
+    "availability": {
+      "href": "/api/catalog/jpn-jp/availability/nvprod7020068v"
+    }
+  },
+  "@type": "Product",
+  "sku": "R94526",
+  "isSimilarTo": [],
+  "productTips": [],
+  "url": "/jpn-jp/products/diamond-mirror-by-marcel-wanders-nvprod7020068v",
+  "material": "SANS LIGNE ESTHETIQUE",
+  "category": [
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/trunks-travel-and-home/_/N-tmb5aeq",
+      "alternateName": "trunks-travel-and-home",
+      "name": "トランク、トラベル & ホーム",
+      "identifier": "nvcat1840004v"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/trunks-travel-and-home/home-and-art-of-dining/_/N-t18m54i3",
+      "alternateName": "home-and-art-of-dining",
+      "name": "ホーム & テーブルウェア",
+      "identifier": "nvcat1840008v"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/trunks-travel-and-home/home-and-art-of-dining/decoration/_/N-tsvx655",
+      "alternateName": "decoration",
+      "name": "ホームデコレーション",
+      "identifier": "nvcat1840021v"
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "hidePrice",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "subType",
+      "value": "product"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "materialIconURL",
+      "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--AEL-LG-N00_sans_ligne_esthetique.jpg"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "careLink",
+      "value": "LGAESTHETICLINEZ24"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "sizeGuide",
+      "value": false
+    }
+  ],
+  "name": "Diamond Mirror by Marcel Wanders",
+  "isRelatedTo": [],
+  "@context": "http://schema.org",
+  "identifier": "nvprod7020068v"
+}
