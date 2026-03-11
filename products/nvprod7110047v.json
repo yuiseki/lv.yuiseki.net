@@ -1,0 +1,575 @@
+{
+  "relatedFinishOptions": [],
+  "model": [
+    {
+      "kitFlag": false,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/M5269L/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod7110047v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/M5269L"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/M5269L/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod7110047v/M5269L/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ブラック",
+      "@type": "ProductModel",
+      "identifierKey": "60afe6f0dbbf9b0c0cd2289daa951e08",
+      "height": {
+        "@type": "QuantitativeValue",
+        "value": 14,
+        "unitText": "cm"
+      },
+      "productDetailTabs": [],
+      "macroFamilySap": "Scarves, Hats & More",
+      "kitExclusivity": false,
+      "width": {
+        "@type": "QuantitativeValue",
+        "value": 17,
+        "unitText": "cm"
+      },
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 96800
+        },
+        "@type": "Offer",
+        "price": "¥96,800"
+      },
+      "disambiguatingDescription": "上品なストーングレーの色合いがムーディーな雰囲気を漂わせる、イタリア製の｢キャップ･モノグラム ブラスト｣。単色のバイザーと対照的に、パネルにはルイ･ヴィトンのシグネチャーをスクリーンプリントの技法であしらいました。撥水性のある素材と調節可能なバックストラップにより、カジュアルなスタイルを季節や気温を問わず楽しめるアイテム。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-キャップ･モノグラムブラスト-s00-メンズ-帽子、ニット帽、手袋、ソックス--M5269L_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-キャップ･モノグラムブラスト-s00-メンズ-帽子、ニット帽、手袋、ソックス--M5269L_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-キャップ･モノグラムブラスト-s00-メンズ-帽子、ニット帽、手袋、ソックス--M5269L_PM1_Interior view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Interior view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-キャップ･モノグラムブラスト-s00-メンズ-帽子、ニット帽、手袋、ソックス--M5269L_PM1_Back view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Back view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/monogram-blast-cap-s00-nvprod7110047v",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 30,
+        "unitText": "cm"
+      },
+      "sizeDisplayName": "L",
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-t18ui4cq",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/accessories/_/N-t11ae5nz",
+          "alternateName": "accessories",
+          "name": "アクセサリー",
+          "identifier": "m-category-cat10052"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/accessories/hats-beanies-and-gloves/_/N-t1fq44ws",
+          "alternateName": "hats-beanies-and-gloves",
+          "name": "メンズ 帽子、ニット帽、手袋、ソックス",
+          "identifier": "nvcat1690008v"
+        }
+      ],
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-ACC-980_black.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>カラー：ブラック</li><li>素材：ナイロン 100%</li><li>スクリーンプリントの技法で施したモノグラム･パターン</li><li>撥水加工</li><li>調節可能なバックストラップ</li><li>イタリア製</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "Monogram Blast Cap"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isPerso",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories;Sunglasses"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "eligibleToAgec",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "newArrivalsDate",
+          "value": 1771459200000
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "hasLanguagePanel",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "bannerList",
+          "value": [
+            {
+              "commercialBanner": "top_banner_content_category_1"
+            },
+            {
+              "commercialBanner": "top_banner_content_category_2"
+            },
+            {
+              "commercialBanner": "top_banner_content_category_3"
+            },
+            {
+              "commercialBanner": "top_banner_content_category_4"
+            }
+          ]
+        }
+      ],
+      "careLink": {
+        "sections": []
+      },
+      "collectibles": false,
+      "identifier": "M5269L",
+      "defaultFamilySapDisplayName": "HAT",
+      "productVisible": true,
+      "name": "キャップ･モノグラムブラスト",
+      "packagingVariation": "",
+      "mainMaterial2": "POLYESTER",
+      "highEndTemplate": false,
+      "material": "POLYESTER",
+      "productId": "nvprod7110047v",
+      "hasLanguagePanel": false,
+      "disclaimers": {
+        "customDisclaimer": false,
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "color": "ノワール",
+      "@context": "http://schema.org"
+    },
+    {
+      "kitFlag": false,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/M5269M/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod7110047v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/M5269M"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/M5269M/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod7110047v/M5269M/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ブラック",
+      "@type": "ProductModel",
+      "identifierKey": "9e8ae068ea0b68dcbf57c5acb7dfb175",
+      "height": {
+        "@type": "QuantitativeValue",
+        "value": 14,
+        "unitText": "cm"
+      },
+      "productDetailTabs": [],
+      "macroFamilySap": "Scarves, Hats & More",
+      "kitExclusivity": false,
+      "width": {
+        "@type": "QuantitativeValue",
+        "value": 17,
+        "unitText": "cm"
+      },
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 96800
+        },
+        "@type": "Offer",
+        "price": "¥96,800"
+      },
+      "disambiguatingDescription": "上品なストーングレーの色合いがムーディーな雰囲気を漂わせる、イタリア製の｢キャップ･モノグラム ブラスト｣。単色のバイザーと対照的に、パネルにはルイ･ヴィトンのシグネチャーをスクリーンプリントの技法であしらいました。撥水性のある素材と調節可能なバックストラップにより、カジュアルなスタイルを季節や気温を問わず楽しめるアイテム。",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-キャップ･モノグラムブラスト-s00-メンズ-帽子、ニット帽、手袋、ソックス--M5269M_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-キャップ･モノグラムブラスト-s00-メンズ-帽子、ニット帽、手袋、ソックス--M5269M_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-キャップ･モノグラムブラスト-s00-メンズ-帽子、ニット帽、手袋、ソックス--M5269M_PM1_Interior view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Interior view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-キャップ･モノグラムブラスト-s00-メンズ-帽子、ニット帽、手袋、ソックス--M5269M_PM1_Back view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Back view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/monogram-blast-cap-s00-nvprod7110047v",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 30,
+        "unitText": "cm"
+      },
+      "sizeDisplayName": "M",
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/_/N-t18ui4cq",
+          "alternateName": "men",
+          "name": "メンズ",
+          "identifier": "homme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/accessories/_/N-t11ae5nz",
+          "alternateName": "accessories",
+          "name": "アクセサリー",
+          "identifier": "m-category-cat10052"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/men/accessories/hats-beanies-and-gloves/_/N-t1fq44ws",
+          "alternateName": "hats-beanies-and-gloves",
+          "name": "メンズ 帽子、ニット帽、手袋、ソックス",
+          "identifier": "nvcat1690008v"
+        }
+      ],
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-ACC-980_black.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>カラー：ブラック</li><li>素材：ナイロン 100%</li><li>スクリーンプリントの技法で施したモノグラム･パターン</li><li>撥水加工</li><li>調節可能なバックストラップ</li><li>イタリア製</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "Monogram Blast Cap"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isPerso",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories;Sunglasses"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "eligibleToAgec",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "newArrivalsDate",
+          "value": 1771459200000
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "hasLanguagePanel",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "bannerList",
+          "value": [
+            {
+              "commercialBanner": "top_banner_content_category_1"
+            },
+            {
+              "commercialBanner": "top_banner_content_category_2"
+            },
+            {
+              "commercialBanner": "top_banner_content_category_3"
+            },
+            {
+              "commercialBanner": "top_banner_content_category_4"
+            }
+          ]
+        }
+      ],
+      "careLink": {
+        "sections": []
+      },
+      "collectibles": false,
+      "identifier": "M5269M",
+      "defaultFamilySapDisplayName": "HAT",
+      "productVisible": true,
+      "name": "キャップ･モノグラムブラスト",
+      "packagingVariation": "",
+      "mainMaterial2": "POLYESTER",
+      "highEndTemplate": false,
+      "material": "POLYESTER",
+      "productId": "nvprod7110047v",
+      "hasLanguagePanel": false,
+      "disclaimers": {
+        "customDisclaimer": false,
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "color": "ノワール",
+      "@context": "http://schema.org"
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "/api/catalog/jpn-jp/product/nvprod7110047v"
+    },
+    "push": {
+      "href": "/api/catalog/jpn-jp/product-push/nvprod7110047v"
+    },
+    "care-link": {
+      "href": "/api/catalog/jpn-jp/care-link/nvprod7110047v"
+    },
+    "availability": {
+      "href": "/api/catalog/jpn-jp/availability/nvprod7110047v"
+    }
+  },
+  "@type": "Product",
+  "sku": "M5269L",
+  "isSimilarTo": [],
+  "productTips": [],
+  "url": "/jpn-jp/products/monogram-blast-cap-s00-nvprod7110047v",
+  "material": "NOT APPLICABLE ACC",
+  "category": [
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/_/N-t18ui4cq",
+      "alternateName": "men",
+      "name": "メンズ",
+      "identifier": "homme"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/accessories/_/N-t11ae5nz",
+      "alternateName": "accessories",
+      "name": "アクセサリー",
+      "identifier": "m-category-cat10052"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/men/accessories/hats-beanies-and-gloves/_/N-t1fq44ws",
+      "alternateName": "hats-beanies-and-gloves",
+      "name": "メンズ 帽子、ニット帽、手袋、ソックス",
+      "identifier": "nvcat1690008v"
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "hidePrice",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "subType",
+      "value": "product"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "sizeGuide",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "bannerList",
+      "value": [
+        {
+          "commercialBanner": "top_banner_content_category_1"
+        },
+        {
+          "commercialBanner": "top_banner_content_category_2"
+        },
+        {
+          "commercialBanner": "top_banner_content_category_3"
+        },
+        {
+          "commercialBanner": "top_banner_content_category_4"
+        }
+      ]
+    }
+  ],
+  "name": "キャップ･モノグラムブラスト",
+  "isRelatedTo": [],
+  "@context": "http://schema.org",
+  "identifier": "nvprod7110047v"
+}
