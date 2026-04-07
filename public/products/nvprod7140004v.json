@@ -1,0 +1,957 @@
+{
+  "relatedFinishOptions": [],
+  "model": [
+    {
+      "kitFlag": false,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/M5368S/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod7140004v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/M5368S"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/M5368S/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod7140004v/M5368S/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ブルー",
+      "@type": "ProductModel",
+      "identifierKey": "e24341ce218674643d416b9f9eb113ff",
+      "commercialTag": "新作",
+      "height": {
+        "@type": "QuantitativeValue",
+        "value": 15,
+        "unitText": "cm"
+      },
+      "productDetailTabs": [],
+      "macroFamilySap": "Scarves, Hats & More",
+      "kitExclusivity": false,
+      "width": {
+        "@type": "QuantitativeValue",
+        "value": 27,
+        "unitText": "cm"
+      },
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 100100
+        },
+        "@type": "Offer",
+        "price": "¥100,100"
+      },
+      "disambiguatingDescription": "<p>洗練とカジュアルをエフォートレスに融合させた、｢バケットハット･デニム｣。定番のアクセサリーをフレッシュかつスポーティなスタイルに仕上げたアイテムです。デニム素材を使用し、モノグラム･パターンを全面にあしらうことで、メゾンならではの個性を演出。身に着けやすく幅広いシーンで活躍するこの帽子は、あらゆるコーディネートに洗練されたアクセントを添えます。</p>",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-バケットハット･デニム-s00-帽子、手袋-ソックス--M5368S_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-バケットハット･デニム-s00-帽子、手袋-ソックス--M5368S_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-バケットハット･デニム-s00-帽子、手袋-ソックス--M5368S_PM1_Back view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Back view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/denim-bob-s00-nvprod7140004v",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 27,
+        "unitText": "cm"
+      },
+      "sizeDisplayName": "S",
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/_/N-tveguxb",
+          "alternateName": "women",
+          "name": "ウィメンズ",
+          "identifier": "femme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/accessories/_/N-toxp7l2",
+          "alternateName": "accessories",
+          "name": "アクセサリー",
+          "identifier": "w-category-cat10155"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/accessories/hats-and-gloves/_/N-tmixwg8",
+          "alternateName": "hats-and-gloves",
+          "name": "帽子、手袋 & ソックス",
+          "identifier": "nvcat1710020v"
+        }
+      ],
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-RTW-Blue.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>ブルー</li><li>デニム 100%</li><li>モノグラム･パターン</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "Denim Bucket Hat"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isPerso",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories;Sunglasses"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "eligibleToAgec",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "newArrivalsDate",
+          "value": 1773360000000
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "hasLanguagePanel",
+          "value": false
+        }
+      ],
+      "careLink": {
+        "sections": []
+      },
+      "collectibles": false,
+      "identifier": "M5368S",
+      "defaultFamilySapDisplayName": "HAT",
+      "productVisible": true,
+      "collection": "Z350",
+      "name": "バケットハット･デニム",
+      "packagingVariation": "",
+      "mainMaterial2": "DENIM",
+      "highEndTemplate": false,
+      "material": "EPI DENIM",
+      "productId": "nvprod7140004v",
+      "hasLanguagePanel": false,
+      "disclaimers": {
+        "customDisclaimer": false,
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "color": "ブルー",
+      "@context": "http://schema.org"
+    },
+    {
+      "kitFlag": false,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/M5368M/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod7140004v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/M5368M"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/M5368M/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod7140004v/M5368M/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ブルー",
+      "@type": "ProductModel",
+      "identifierKey": "5e1a03fee658406ea8831293944403de",
+      "commercialTag": "新作",
+      "height": {
+        "@type": "QuantitativeValue",
+        "value": 15,
+        "unitText": "cm"
+      },
+      "productDetailTabs": [],
+      "macroFamilySap": "Scarves, Hats & More",
+      "kitExclusivity": false,
+      "width": {
+        "@type": "QuantitativeValue",
+        "value": 27,
+        "unitText": "cm"
+      },
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 100100
+        },
+        "@type": "Offer",
+        "price": "¥100,100"
+      },
+      "disambiguatingDescription": "<p>洗練とカジュアルをエフォートレスに融合させた、｢バケットハット･デニム｣。定番のアクセサリーをフレッシュかつスポーティなスタイルに仕上げたアイテムです。デニム素材を使用し、モノグラム･パターンを全面にあしらうことで、メゾンならではの個性を演出。身に着けやすく幅広いシーンで活躍するこの帽子は、あらゆるコーディネートに洗練されたアクセントを添えます。</p>",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-バケットハット･デニム-s00-帽子、手袋-ソックス--M5368M_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-バケットハット･デニム-s00-帽子、手袋-ソックス--M5368M_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-バケットハット･デニム-s00-帽子、手袋-ソックス--M5368M_PM1_Back view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Back view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/denim-bob-s00-nvprod7140004v",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 27,
+        "unitText": "cm"
+      },
+      "sizeDisplayName": "M",
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/_/N-tveguxb",
+          "alternateName": "women",
+          "name": "ウィメンズ",
+          "identifier": "femme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/accessories/_/N-toxp7l2",
+          "alternateName": "accessories",
+          "name": "アクセサリー",
+          "identifier": "w-category-cat10155"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/accessories/hats-and-gloves/_/N-tmixwg8",
+          "alternateName": "hats-and-gloves",
+          "name": "帽子、手袋 & ソックス",
+          "identifier": "nvcat1710020v"
+        }
+      ],
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-RTW-Blue.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>ブルー</li><li>デニム 100%</li><li>モノグラム･パターン</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "Denim Bucket Hat"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isPerso",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories;Sunglasses"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "eligibleToAgec",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "newArrivalsDate",
+          "value": 1773360000000
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "hasLanguagePanel",
+          "value": false
+        }
+      ],
+      "careLink": {
+        "sections": []
+      },
+      "collectibles": false,
+      "identifier": "M5368M",
+      "defaultFamilySapDisplayName": "HAT",
+      "productVisible": true,
+      "collection": "Z350",
+      "name": "バケットハット･デニム",
+      "packagingVariation": "",
+      "mainMaterial2": "DENIM",
+      "highEndTemplate": false,
+      "material": "EPI DENIM",
+      "productId": "nvprod7140004v",
+      "hasLanguagePanel": false,
+      "disclaimers": {
+        "customDisclaimer": false,
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "color": "ブルー",
+      "@context": "http://schema.org"
+    },
+    {
+      "kitFlag": false,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/M5410S/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod7140004v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/M5410S"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/M5410S/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod7140004v/M5410S/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ピンク",
+      "@type": "ProductModel",
+      "identifierKey": "1c04f743a20b854c312a79fa03875f7e",
+      "commercialTag": "新作",
+      "height": {
+        "@type": "QuantitativeValue",
+        "value": 15,
+        "unitText": "cm"
+      },
+      "productDetailTabs": [],
+      "macroFamilySap": "Scarves, Hats & More",
+      "kitExclusivity": false,
+      "width": {
+        "@type": "QuantitativeValue",
+        "value": 27,
+        "unitText": "cm"
+      },
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 100100
+        },
+        "@type": "Offer",
+        "price": "¥100,100"
+      },
+      "disambiguatingDescription": "<p>洗練とカジュアルをエフォートレスに融合させた、｢バケットハット･デニム｣。定番のアクセサリーをフレッシュかつスポーティなスタイルに仕上げるアイテムです。デニム素材を使用し、モノグラム･パターンを全面にあしらうことで、メゾンならではの個性を演出。幅広いシーンで活躍する身に着けやすいこの帽子は、あらゆるコーディネートに洗練されたアクセントを添えます。</p>",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-バケットハット･デニム-s00-帽子、手袋-ソックス--M5410S_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-バケットハット･デニム-s00-帽子、手袋-ソックス--M5410S_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-バケットハット･デニム-s00-帽子、手袋-ソックス--M5410S_PM1_Back view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Back view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/denim-bob-s00-nvprod7140004v",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 27,
+        "unitText": "cm"
+      },
+      "sizeDisplayName": "S",
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/_/N-tveguxb",
+          "alternateName": "women",
+          "name": "ウィメンズ",
+          "identifier": "femme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/accessories/_/N-toxp7l2",
+          "alternateName": "accessories",
+          "name": "アクセサリー",
+          "identifier": "w-category-cat10155"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/accessories/hats-and-gloves/_/N-tmixwg8",
+          "alternateName": "hats-and-gloves",
+          "name": "帽子、手袋 & ソックス",
+          "identifier": "nvcat1710020v"
+        }
+      ],
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-RTW-501_rose.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>ピンク</li><li>デニム 100%</li><li>モノグラム･パターン</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "Denim Bucket Hat"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isPerso",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories;Sunglasses"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "eligibleToAgec",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "newArrivalsDate",
+          "value": 1773360000000
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "hasLanguagePanel",
+          "value": false
+        }
+      ],
+      "careLink": {
+        "sections": []
+      },
+      "collectibles": false,
+      "identifier": "M5410S",
+      "defaultFamilySapDisplayName": "HAT",
+      "productVisible": true,
+      "collection": "Z350",
+      "name": "バケットハット･デニム",
+      "packagingVariation": "",
+      "mainMaterial2": "DENIM",
+      "highEndTemplate": false,
+      "material": "EPI DENIM",
+      "productId": "nvprod7140004v",
+      "hasLanguagePanel": false,
+      "disclaimers": {
+        "customDisclaimer": false,
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "color": "ローズ",
+      "@context": "http://schema.org"
+    },
+    {
+      "kitFlag": false,
+      "_links": {
+        "look": {
+          "href": "/api/catalog/jpn-jp/skus/M5410M/look"
+        },
+        "parent": {
+          "href": "/api/catalog/jpn-jp/product/nvprod7140004v"
+        },
+        "self": {
+          "href": "/api/catalog/jpn-jp/product/M5410M"
+        },
+        "perso-details": {
+          "href": "/api/catalog/jpn-jp/skus/M5410M/perso-detail"
+        },
+        "/api/rels/jpn-jp/add-to-cart-base/nvprod7140004v/M5410M/1": {
+          "name": "add-to-cart",
+          "href": "/api/cart/jpn-jp"
+        }
+      },
+      "macroColor": "ピンク",
+      "@type": "ProductModel",
+      "identifierKey": "81b5aaaf0a48668ff13167d504ad3ce5",
+      "commercialTag": "新作",
+      "height": {
+        "@type": "QuantitativeValue",
+        "value": 15,
+        "unitText": "cm"
+      },
+      "productDetailTabs": [],
+      "macroFamilySap": "Scarves, Hats & More",
+      "kitExclusivity": false,
+      "width": {
+        "@type": "QuantitativeValue",
+        "value": 27,
+        "unitText": "cm"
+      },
+      "offers": {
+        "priceSpecification": {
+          "priceCurrency": "JPY",
+          "price": 100100
+        },
+        "@type": "Offer",
+        "price": "¥100,100"
+      },
+      "disambiguatingDescription": "<p>洗練とカジュアルをエフォートレスに融合させた、｢バケットハット･デニム｣。定番のアクセサリーをフレッシュかつスポーティなスタイルに仕上げるアイテムです。デニム素材を使用し、モノグラム･パターンを全面にあしらうことで、メゾンならではの個性を演出。幅広いシーンで活躍する身に着けやすいこの帽子は、あらゆるコーディネートに洗練されたアクセントを添えます。</p>",
+      "image": [
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-バケットハット･デニム-s00-帽子、手袋-ソックス--M5410M_PM2_Front view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Front view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-バケットハット･デニム-s00-帽子、手袋-ソックス--M5410M_PM1_Side view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Side view",
+          "@context": "http://schema.org"
+        },
+        {
+          "contentUrl": "https://jp.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-バケットハット･デニム-s00-帽子、手袋-ソックス--M5410M_PM1_Back view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}",
+          "@type": "ImageObject",
+          "name": "Back view",
+          "@context": "http://schema.org"
+        }
+      ],
+      "url": "/jpn-jp/products/denim-bob-s00-nvprod7140004v",
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": 27,
+        "unitText": "cm"
+      },
+      "sizeDisplayName": "M",
+      "category": [
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/_/N-tveguxb",
+          "alternateName": "women",
+          "name": "ウィメンズ",
+          "identifier": "femme"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/accessories/_/N-toxp7l2",
+          "alternateName": "accessories",
+          "name": "アクセサリー",
+          "identifier": "w-category-cat10155"
+        },
+        {
+          "@type": "Thing",
+          "url": "/jpn-jp/women/accessories/hats-and-gloves/_/N-tmixwg8",
+          "alternateName": "hats-and-gloves",
+          "name": "帽子、手袋 & ソックス",
+          "identifier": "nvcat1710020v"
+        }
+      ],
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "colorIconURL",
+          "value": "https://jp.louisvuitton.com/images/is/image/lv/1/LV/louis-vuitton--MKC-RTW-501_rose.jpg"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "detailedDescription",
+          "value": "<ul><li>ピンク</li><li>デニム 100%</li><li>モノグラム･パターン</li></ul>"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "englishProductName",
+          "value": "Denim Bucket Hat"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "activateEngraving",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "cscSellable",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "mom",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isPerso",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "locateInStore",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "materialGroupCode",
+          "value": "Z02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "filterCategories",
+          "value": "Leather_Goods_and_Accessories;Sunglasses"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderDisclaimer",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "backOrderFullDeposit",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "diamondEngravingEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "tryOnEnabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "video360Enabled",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "isBundle",
+          "value": false
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "eligibleToAgec",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "newArrivalsDate",
+          "value": 1773360000000
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "hasLanguagePanel",
+          "value": false
+        }
+      ],
+      "careLink": {
+        "sections": []
+      },
+      "collectibles": false,
+      "identifier": "M5410M",
+      "defaultFamilySapDisplayName": "HAT",
+      "productVisible": true,
+      "collection": "Z350",
+      "name": "バケットハット･デニム",
+      "packagingVariation": "",
+      "mainMaterial2": "DENIM",
+      "highEndTemplate": false,
+      "material": "EPI DENIM",
+      "productId": "nvprod7140004v",
+      "hasLanguagePanel": false,
+      "disclaimers": {
+        "customDisclaimer": false,
+        "value": "dynamic_shipping_warning_bo",
+        "popInContent": "dynamic_global_backorder_info_popin_content",
+        "popInTitle": "dynamic_global_backorder_info_popin_title"
+      },
+      "color": "ローズ",
+      "@context": "http://schema.org"
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "/api/catalog/jpn-jp/product/nvprod7140004v"
+    },
+    "push": {
+      "href": "/api/catalog/jpn-jp/product-push/nvprod7140004v"
+    },
+    "care-link": {
+      "href": "/api/catalog/jpn-jp/care-link/nvprod7140004v"
+    },
+    "availability": {
+      "href": "/api/catalog/jpn-jp/availability/nvprod7140004v"
+    }
+  },
+  "@type": "Product",
+  "sku": "M5368S",
+  "isSimilarTo": [],
+  "productTips": [],
+  "url": "/jpn-jp/products/denim-bob-s00-nvprod7140004v",
+  "material": "NOT APPLICABLE ACC",
+  "category": [
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/women/_/N-tveguxb",
+      "alternateName": "women",
+      "name": "ウィメンズ",
+      "identifier": "femme"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/women/accessories/_/N-toxp7l2",
+      "alternateName": "accessories",
+      "name": "アクセサリー",
+      "identifier": "w-category-cat10155"
+    },
+    {
+      "@type": "Thing",
+      "url": "/jpn-jp/women/accessories/hats-and-gloves/_/N-tmixwg8",
+      "alternateName": "hats-and-gloves",
+      "name": "帽子、手袋 & ソックス",
+      "identifier": "nvcat1710020v"
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "hidePrice",
+      "value": false
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "subType",
+      "value": "product"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "sizeGuide",
+      "value": false
+    }
+  ],
+  "name": "バケットハット･デニム",
+  "isRelatedTo": [],
+  "@context": "http://schema.org",
+  "identifier": "nvprod7140004v"
+}
